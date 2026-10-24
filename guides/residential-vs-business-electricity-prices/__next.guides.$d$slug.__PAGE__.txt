@@ -1,0 +1,217 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3qb2n4kbhuy4x.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/1l1ob0qitrnid.js"
+d:I[22016,["$3","$c"],""]
+19:"ViewportBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$3"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5","children":[false,["$","$Ld",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"no-underline hover:text-ink","children":"Blog"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/electricity-prices/","className":"no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/residential-vs-business-electricity-prices/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Why Homes Pay More for Electricity Than Businesses"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Why Homes Pay More for Electricity Than Businesses\",\"item\":\"https://roofpayback.com/guides/residential-vs-business-electricity-prices/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Why Homes Pay More for Electricity Than Businesses"}],["$","p",null,{"className":"lede mt-5","children":"Homes paid 18.31¢/kWh in July 2026 vs 9.77¢/kWh for industry, per EIA. See why delivery costs drive the gap and how it varies by state."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],false,["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Checked by ","automated fact and quality checks"]}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":["$Le","$Lf","$L10"]}],"$L11"]}]]}],"$L12","$L13","$L14","$L15"]}],["$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"residential-vs-business-electricity-prices","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Why Homes Pay More for Electricity Than Businesses | RoofPayback"}],["$","meta","1",{"name":"description","content":"Homes paid 18.31¢/kWh in July 2026 vs 9.77¢/kWh for industry, per EIA. See why delivery costs drive the gap and how it varies by state."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/residential-vs-business-electricity-prices/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Why Homes Pay More for Electricity Than Businesses"}],["$","meta","7",{"property":"og:description","content":"Homes paid 18.31¢/kWh in July 2026 vs 9.77¢/kWh for industry, per EIA. See why delivery costs drive the gap and how it varies by state."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/residential-vs-business-electricity-prices/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/utility-pole-transformers-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Transformer bank on a utility pole, a common way to supply power in North America"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-10-12"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Why Homes Pay More for Electricity Than Businesses"}],["$","meta","20",{"name":"twitter:description","content":"Homes paid 18.31¢/kWh in July 2026 vs 9.77¢/kWh for industry, per EIA. See why delivery costs drive the gap and how it varies by state."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/utility-pole-transformers-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1e","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$8"}},"a":"$@20","u":"$@21","b":"lZGoQW-EnQv3RWpqj3RBF"}
+22:"$Sreact.view_transition"
+23:I[26029,["$3","$c"],"TocNav"]
+34:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/utility-pole-transformers.webp","image",{"imageSrcSet":"/photos/utility-pole-transformers-card.webp 640w, /photos/utility-pole-transformers-sm.webp 768w, /photos/utility-pole-transformers-md.webp 1024w, /photos/utility-pole-transformers.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}]
+f:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+10:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+11:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+12:["$","figure",null,{"className":"mt-8","children":[["$","$22",null,{"name":"photo-residential-vs-business-electricity-prices","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/utility-pole-transformers.webp","srcSet":"/photos/utility-pole-transformers-card.webp 640w, /photos/utility-pole-transformers-sm.webp 768w, /photos/utility-pole-transformers-md.webp 1024w, /photos/utility-pole-transformers.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Transformer bank on a utility pole, a common way to supply power in North America","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Transformer bank on a utility pole, a common way to supply power in North America",". Photo: ","Versageek"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/3.0/","rel":"noopener license","target":"_blank","children":"CC BY-SA 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Utility_pole_transformers.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+24:Tffc,<div class="short-answer"><h2 id="short-answer">Short answer</h2>
+<p>Homes pay the most per unit of electricity in the U.S. In July 2026, the average residential price was 18.31¢ per kilowatt-hour (kWh), according to the U.S. Energy Information Administration (EIA). Commercial customers, such as stores and offices, paid 14.53¢/kWh. Industrial customers, such as factories, paid 9.77¢/kWh.</p>
+<p>The main reason is delivery. The EIA explains that retail prices are usually highest for residential and commercial customers &quot;because it costs more to distribute electricity to them.&quot; Big industrial users take power at higher voltages, which is cheaper to supply.</p>
+<p>A kilowatt-hour is the unit on your bill. It is the energy a device rated at one kilowatt uses in one hour. The price per kWh is often called your &quot;rate.&quot;</p>
+</div><h2 id="the-national-numbers-for-july-2026">The national numbers for July 2026</h2>
+<p>The EIA publishes average prices by customer type every month in its Electric Power Monthly. Recent months are preliminary, so the figures can be revised later. Here are the July 2026 U.S. averages, with July 2025 for comparison:</p>
+<table>
+<thead>
+<tr>
+<th>Customer type</th>
+<th>July 2026</th>
+<th>July 2025</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Residential (homes)</td>
+<td>18.31¢/kWh</td>
+<td>17.45¢/kWh</td>
+<td>4.9%</td>
+</tr>
+<tr>
+<td>Commercial (stores, offices)</td>
+<td>14.53¢/kWh</td>
+<td>14.05¢/kWh</td>
+<td>3.4%</td>
+</tr>
+<tr>
+<td>Industrial (factories, plants)</td>
+<td>9.77¢/kWh</td>
+<td>9.33¢/kWh</td>
+<td>4.7%</td>
+</tr>
+<tr>
+<td>All sectors</td>
+<td>14.99¢/kWh</td>
+<td>14.36¢/kWh</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Two things stand out. First, the order is the familiar one: homes highest, businesses in the middle, industry lowest. Second, all three went up over the year, and the residential price rose the fastest.</p>
+<p>These are averages across the whole country. Your own rate depends on your utility, your plan and your state. For the full state list, see our <a href="/electricity-prices/">electricity prices by state</a> page and the <a href="/guides/electricity-prices-2026-07/">July 2026 electricity price guide</a>.</p>
+<h2 id="why-homes-pay-more-delivery-costs-in-plain-terms">Why homes pay more: delivery costs in plain terms</h2>
+<p>Electricity travels a long way before it reaches your outlet. The EIA describes the grid as substations, transformers and power lines that connect power plants to customers.</p>
+<p>Here is the journey in simple steps:</p>
+<ul>
+<li><strong>Power plants make the electricity.</strong> The EIA says the cost of generating electricity is the largest part of the price.</li>
+<li><strong>High-voltage lines move it long distances.</strong> According to the EIA, &quot;Higher-voltage electricity makes long-distance electricity transmission more efficient and less expensive.&quot;</li>
+<li><strong>Transformers change the voltage.</strong> Substations lower the voltage for the last part of the trip.</li>
+<li><strong>Local lines deliver it to buildings.</strong> The EIA notes that distribution lines carry lower-voltage electricity, which is safer to use in homes and businesses.</li>
+</ul>
+<p>Homes sit at the very end of that chain and each one uses a fairly small amount of power. Large industrial users are different. The EIA puts it this way: industrial consumers &quot;use more electricity and can receive it at higher voltages, so supplying electricity to these customers is more efficient and less expensive.&quot;</p>
+<p>The EIA also says the retail price for industrial customers is generally close to the wholesale price of electricity. In other words, factories pay close to what the power itself costs on the wholesale market. Homes pay for the power plus more of the cost of the local network that brings it to the door.</p>
+<p>More broadly, the EIA says prices reflect the cost to build, finance, maintain and run power plants and the grid. Some for-profit utilities also include a financial return for their owners and shareholders.</p>
+13:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L23",null,{"items":[{"id":"short-answer","text":"Short answer"},{"id":"the-national-numbers-for-july-2026","text":"The national numbers for July 2026"},{"id":"why-homes-pay-more-delivery-costs-in-plain-terms","text":"Why homes pay more: delivery costs in plain terms"},{"id":"how-the-gap-looks-in-different-states","text":"How the gap looks in different states"},{"id":"what-this-means-for-your-household","text":"What this means for your household"},{"id":"how-this-affects-rooftop-solar","text":"How this affects rooftop solar"},{"id":"bottom-line","text":"Bottom line"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26","$L27","$L28",false,"$L29","$L2a","$L2b"]}],"$L2c"]}]
+14:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-2026-07",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/electricity-prices-2026-07/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$22",null,{"name":"photo-electricity-prices-2026-07","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/transmission-oregon-card.webp","srcSet":"/photos/transmission-oregon-card.webp 640w, /photos/transmission-oregon-sm.webp 768w, /photos/transmission-oregon-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"U.S. Electricity Prices in July 2026: What Changed"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"July 2026 EIA data: U.S. residential power averaged 18.31¢/kWh, up 4.9%. See which states rose or fell, and what it means for bills and solar payback."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","is-solar-worth-it-without-tax-credit",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/is-solar-worth-it-without-tax-credit/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$22",null,{"name":"photo-is-solar-worth-it-without-tax-credit","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-massachusetts-card.webp","srcSet":"/photos/house-roof-massachusetts-card.webp 640w, /photos/house-roof-massachusetts-sm.webp 768w, /photos/house-roof-massachusetts-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2d","$L2e","$L2f"]}],"$L30","$L31","$L32"]}]]}]}]}],"$L33"]}]]}]
+15:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Why Homes Pay More for Electricity Than Businesses\",\"description\":\"Homes paid 18.31¢/kWh in July 2026 vs 9.77¢/kWh for industry, per EIA. See why delivery costs drive the gap and how it varies by state.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1242,\"image\":[\"https://roofpayback.com/photos/utility-pole-transformers-og.jpg\",\"https://roofpayback.com/photos/utility-pole-transformers.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-10-12\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/residential-vs-business-electricity-prices/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+16:["$","script","script-0",{"src":"/_next/static/chunks/1l1ob0qitrnid.js","async":true}]
+17:["$","$L34",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@35"}]}]
+21:true
+36:I[9441,["$3","$c"],"AdSlot"]
+8:300
+25:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L36",null,{"slot":"article"}]}]
+37:T15db,<h2 id="how-the-gap-looks-in-different-states">How the gap looks in different states</h2>
+<p>The pattern is not the same everywhere. The table below shows July 2026 EIA averages for a mix of states.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Residential</th>
+<th>Commercial</th>
+<th>Industrial</th>
+<th>All sectors</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="/electricity-prices/california/">California</a></td>
+<td>33.61¢/kWh</td>
+<td>30.56¢/kWh</td>
+<td>25.11¢/kWh</td>
+<td>30.71¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/hawaii/">Hawaii</a></td>
+<td>48¢/kWh</td>
+<td>43.63¢/kWh</td>
+<td>39.33¢/kWh</td>
+<td>43.28¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-york/">New York</a></td>
+<td>29.9¢/kWh</td>
+<td>24.18¢/kWh</td>
+<td>10.81¢/kWh</td>
+<td>25.18¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/texas/">Texas</a></td>
+<td>15.88¢/kWh</td>
+<td>8.47¢/kWh</td>
+<td>7.07¢/kWh</td>
+<td>10.91¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/pennsylvania/">Pennsylvania</a></td>
+<td>21.72¢/kWh</td>
+<td>13.86¢/kWh</td>
+<td>11.04¢/kWh</td>
+<td>16.22¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/michigan/">Michigan</a></td>
+<td>23.05¢/kWh</td>
+<td>16.46¢/kWh</td>
+<td>9.81¢/kWh</td>
+<td>17.43¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/tennessee/">Tennessee</a></td>
+<td>13.71¢/kWh</td>
+<td>13.43¢/kWh</td>
+<td>7.13¢/kWh</td>
+<td>12.21¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nebraska/">Nebraska</a></td>
+<td>13.78¢/kWh</td>
+<td>9.39¢/kWh</td>
+<td>10¢/kWh</td>
+<td>10.83¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nevada/">Nevada</a></td>
+<td>12.77¢/kWh</td>
+<td>9.72¢/kWh</td>
+<td>10.04¢/kWh</td>
+<td>11.15¢/kWh</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/district-of-columbia/">District of Columbia</a></td>
+<td>25.21¢/kWh</td>
+<td>23.88¢/kWh</td>
+<td>32.15¢/kWh</td>
+<td>24.03¢/kWh</td>
+</tr>
+</tbody></table>
+<p>What this shows:</p>
+<ul>
+<li><strong>In most states, homes pay the most.</strong> California, New York, Texas, Pennsylvania and Michigan all follow the national order.</li>
+<li><strong>The size of the gap varies a lot.</strong> In Tennessee, the residential and commercial averages are close. In Texas and New York, homes pay far more than businesses.</li>
+<li><strong>There are exceptions.</strong> In Nebraska and Nevada, industrial customers paid more than commercial customers in July 2026. In the District of Columbia, the industrial average was the highest of the three.</li>
+<li><strong>High-price states are high for everyone.</strong> In Hawaii, even industrial customers paid more than homes in every other state in this table. The EIA says Hawaii&#39;s prices are high mainly because most of its electricity comes from petroleum fuels that must be imported.</li>
+</ul>
+<p>Monthly state averages can move around from one month to the next. Treat one month as a snapshot, not a trend.</p>
+<h2 id="what-this-means-for-your-household">What this means for your household</h2>
+<p>You cannot switch your home to an industrial rate. But knowing why your rate is higher helps you read your bill and compare options.</p>
+<ul>
+<li><strong>Check your actual rate.</strong> Divide your bill total by the kWh you used to see your all-in price per kWh. Compare it with your <a href="/electricity-prices/">state&#39;s average</a>.</li>
+<li><strong>Ask about rate plans.</strong> The EIA notes that some utilities offer time-of-day pricing to cut demand at peak times. Whether that helps you depends on when you use power and on your utility&#39;s terms.</li>
+<li><strong>Remember summer costs.</strong> The EIA says prices are usually highest in summer, when total demand is high. July is a summer month, so these figures reflect that season.</li>
+</ul>
+<h2 id="how-this-affects-rooftop-solar">How this affects rooftop solar</h2>
+<p>When you use power from your own solar panels, you buy less power from the grid at the residential rate. That is why the residential price, not the all-sector average, is the number to look at when you think about home solar.</p>
+<p>Credit for the extra power you send back to the grid works differently. Net metering and other solar programs vary by state and utility, and DSIRE keeps a database of current programs. Our guide on <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> explains how the credit rules change the math.</p>
+<p>Also note that the 30% federal Residential Clean Energy Credit is not available for property placed in service after December 31, 2025. See <a href="/guides/is-solar-worth-it-without-tax-credit/">is solar worth it without the tax credit</a> for more.</p>
+<p>To test numbers for your home, try our <a href="/solar-calculator/">solar calculator</a>. It uses EIA residential prices and PVWatts, a free production estimator from the U.S. Department of Energy&#39;s National Laboratory of the Rockies (formerly NREL). Our <a href="/methodology/">methodology</a> page lists every assumption. Your real result depends on your roof, your usage, your utility and your installer&#39;s quote.</p>
+<h2 id="bottom-line">Bottom line</h2>
+<p>Homes pay more per kWh than businesses and factories mainly because delivering power to many small customers costs more. In July 2026, the U.S. averages were 18.31¢/kWh for homes, 14.53¢/kWh for commercial customers and 9.77¢/kWh for industry. The gap differs a lot by state, and a few places break the usual order. Check your own bill and your <a href="/electricity-prices/">state page</a> to see where you stand.</p>
+26:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$37"}}]
+27:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Why%20Homes%20Pay%20More%20for%20Electricity%20Than%20Businesses&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F&title=Why%20Homes%20Pay%20More%20for%20Electricity%20Than%20Businesses","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Why%20Homes%20Pay%20More%20for%20Electricity%20Than%20Businesses&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+28:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Plug an appliance into it to see how many kWh it really uses."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Schedules heating and cooling around when you are actually home."}]]}]}],["$","li","Smart plugs with energy monitoring",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20plug%20energy%20monitoring&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart plugs with energy monitoring"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Turn devices off on a schedule and track their use from your phone."}]]}]}],["$","li","LED light bulbs",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=led%20light%20bulbs&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["LED light bulbs"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Give the same light as incandescent bulbs for much less electricity."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$Ld",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+29:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+2a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php","rel":"noopener","target":"_blank","children":"eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php"}]]}],["$","li","https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php","rel":"noopener","target":"_blank","children":"eia.gov/energyexplained/electricity/delivery-to-consumers.php"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[6,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}]]}]]}]
+2b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2c:["$","$L23",null,{"items":"$13:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2d:["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}]
+2e:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2f:["$","span",null,{"children":[4," min"]}]
+30:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is solar still worth it without the 30% federal tax credit?"}]
+31:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"The 30% federal solar credit is gone for new systems. We ran payback for every state without it, and compared it with what the credit used to do."}]
+32:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+33:["$","li","net-metering-vs-net-billing-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/net-metering-vs-net-billing-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$22",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electric-meter-card.webp","srcSet":"/photos/electric-meter-card.webp 640w, /photos/electric-meter-sm.webp 768w, /photos/electric-meter-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Net metering vs. net billing: how export credits change payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+35:null
+8:C
+20:0
+a:"$undefined"
+6:"$undefined"
+1f:"$undefined"
+18:"$undefined"

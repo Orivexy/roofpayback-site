@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/21vcztwbvw4qn.css","style"]
+:HL["/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/68d403cf9f2c68c5-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/photos/house-roof-los-angeles.webp","image",{"imageSrcSet":"/photos/house-roof-los-angeles-card.webp 640w, /photos/house-roof-los-angeles-sm.webp 768w, /photos/house-roof-los-angeles-md.webp 1024w, /photos/house-roof-los-angeles.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"electricity-prices-and-solar-payback","s":["topic"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"guides","h":131136,"c":"$Q2"}]]
+0:{"b":"lZGoQW-EnQv3RWpqj3RBF","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

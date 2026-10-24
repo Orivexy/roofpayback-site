@@ -1,0 +1,192 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3qb2n4kbhuy4x.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/1l1ob0qitrnid.js"
+d:I[22016,["$3","$c"],""]
+18:"ViewportBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3"],"$1a"]
+1c:"$Sreact.suspense"
+1d:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5","children":[false,["$","$Ld",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"no-underline hover:text-ink","children":"Blog"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-panel-cost-by-state/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Solar Panel Cost by State: Installed Price and Payback"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Solar Panel Cost by State: Installed Price and Payback\",\"item\":\"https://roofpayback.com/guides/solar-panel-cost-by-state/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Solar Panel Cost by State: Installed Price and Payback"}],["$","p",null,{"className":"lede mt-5","children":"What do solar panels cost? See Berkeley Lab installed prices per watt and how the same cost pays back faster or slower depending on your state."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-22","children":"October 22, 2026"}]]}],false,["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Checked by ","automated fact and quality checks"]}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$Le","$Lf"]}],"$L10"]}]]}],"$L11","$L12","$L13","$L14"]}],["$L15"],"$L16"]}],"p":"$@17","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-panel-cost-by-state","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Solar Panel Cost by State: Installed Price and Payback"}],["$","meta","1",{"name":"description","content":"What do solar panels cost? See Berkeley Lab installed prices per watt and how the same cost pays back faster or slower depending on your state."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-panel-cost-by-state/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Solar Panel Cost by State: Installed Price and Payback"}],["$","meta","7",{"property":"og:description","content":"What do solar panels cost? See Berkeley Lab installed prices per watt and how the same cost pays back faster or slower depending on your state."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-panel-cost-by-state/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/installer-harness-georgia-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Installer in a safety harness working on a rooftop solar installation in Hiram, Georgia"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-22"}],["$","meta","17",{"property":"article:modified_time","content":"2026-10-22"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Solar Panel Cost by State: Installed Price and Payback"}],["$","meta","20",{"name":"twitter:description","content":"What do solar panels cost? See Berkeley Lab installed prices per watt and how the same cost pays back faster or slower depending on your state."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/installer-harness-georgia-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1d","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$8"}},"a":"$@1f","u":"$@20","b":"lZGoQW-EnQv3RWpqj3RBF"}
+21:"$Sreact.view_transition"
+22:I[26029,["$3","$c"],"TocNav"]
+24:I[9441,["$3","$c"],"AdSlot"]
+34:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/installer-harness-georgia.webp","image",{"imageSrcSet":"/photos/installer-harness-georgia-card.webp 640w, /photos/installer-harness-georgia-sm.webp 768w, /photos/installer-harness-georgia-md.webp 1024w, /photos/installer-harness-georgia.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+f:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+10:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+11:["$","figure",null,{"className":"mt-8","children":[["$","$21",null,{"name":"photo-solar-panel-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/installer-harness-georgia.webp","srcSet":"/photos/installer-harness-georgia-card.webp 640w, /photos/installer-harness-georgia-sm.webp 768w, /photos/installer-harness-georgia-md.webp 1024w, /photos/installer-harness-georgia.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Installer in a safety harness working on a rooftop solar installation in Hiram, Georgia","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Installer in a safety harness working on a rooftop solar installation in Hiram, Georgia",". Photo: ","Photo by Deidra Hodges. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Hodges_000367_171505_516316_4578_(36567567420).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Hodges_000367_171505_516316_4578_(36567567420).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+23:T853,<div class="short-answer"><h2 id="short-answer">Short answer</h2>
+<p>Berkeley Lab reports a median installed price of $4.0 per watt for host-owned home solar systems installed in 2024. The 20th to 80th percentile range was $3.0 to $5.2 per watt, in 2024 dollars, before incentives. Cash-purchased systems had a median of $3.5 per watt. Loan-financed systems had a median of $4.7 per watt.</p>
+<p>A watt is a small unit, so installers quote systems by the kilowatt (kW). A price of $3.0 per watt is the same as $3000 per kW.</p>
+<p>The cost of a system is only half the story. How fast it pays back depends on what your utility charges for electricity. In our example, the same $3500/kW system pays back in 6.6 years in California and 14.3 years in Texas.</p>
+</div><h2 id="how-installed-price-is-measured">How installed price is measured</h2>
+<p>Installed price is the total you pay for the finished system, divided by its size in watts. It usually includes panels, inverter, mounting, wiring, labor, permits and the installer&#39;s margin. The Berkeley Lab figures above are before incentives, so they are not what every buyer ends up paying.</p>
+<p>The 2024 numbers come from the Berkeley Lab Tracking the Sun report. You can read the source at <a href="https://emp.lbl.gov/tracking-the-sun/">Berkeley Lab Tracking the Sun</a>. Prices in your area can be higher or lower. A real quote depends on your roof, your utility, local labor costs and the equipment you choose.</p>
+<h2 id="turning-per-watt-prices-into-system-costs">Turning per-watt prices into system costs</h2>
+<p>To estimate a total, multiply the price per watt by the system size in watts. Our example uses a 7 kW system. We show three price points per kW so you can see how the price changes the result:</p>
+<ul>
+<li>$2500/kW is $17500 total.</li>
+<li>$3000/kW is $21000 total.</li>
+<li>$3500/kW is $24500 total.</li>
+</ul>
+<p>Your own quote may land above or below these. Treat them as round examples, not as predictions. Cash and loan prices also differ, which is why the Berkeley Lab data shows a median of $3.5 per watt for cash and $4.7 per watt for loans.</p>
+25:T1a47,<h2 id="example-home-assumptions">Example home assumptions</h2>
+<p>The payback numbers on this page use one example home. We state the key assumptions here so you can compare them with your own:</p>
+<ul>
+<li>A 7 kW system and 10500 kWh of use per year.</li>
+<li>40% of use happens while the sun is up.</li>
+<li>Installed cost of $3500/kW ($24500 total) unless noted. No incentives.</li>
+<li>$100 per year for maintenance.</li>
+<li>Electricity prices rise 2.5% per year, and panels lose 0.5% of output per year.</li>
+<li>A 25-year horizon.</li>
+<li>Export credits are capped at a year of grid purchases, with an annual true-up.</li>
+</ul>
+<p>A kWh, or kilowatt-hour, is the unit your utility bills you for. Our guide on <a href="/guides/what-is-a-kilowatt-hour/">what a kilowatt-hour is</a> explains it in more detail. Production comes from PVWatts, a free estimator from the U.S. Department of Energy&#39;s National Laboratory of the Rockies (formerly NREL). Prices are EIA July 2026 residential averages. See <a href="/methodology/">our methodology</a> for the full approach.</p>
+<h2 id="same-cost-different-payback-by-state">Same cost, different payback by state</h2>
+<p>Payback is the time it takes for bill savings to equal what you paid. The table shows five states at three price points, using one reference city per state.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>$2500/kW ($17500)</th>
+<th>$3000/kW ($21000)</th>
+<th>$3500/kW ($24500)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>California</td>
+<td>4.9 years</td>
+<td>5.8 years</td>
+<td>6.6 years</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>6.4 years</td>
+<td>7.5 years</td>
+<td>8.7 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>10.2 years</td>
+<td>12 years</td>
+<td>13.6 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>10.5 years</td>
+<td>12.3 years</td>
+<td>14.1 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>10.7 years</td>
+<td>12.5 years</td>
+<td>14.3 years</td>
+</tr>
+</tbody></table>
+<p>Arizona gets a lot of sun, with 1755 kWh of yearly output per kW in Phoenix. But its price is 15.38¢/kWh, so each kWh the panels make saves less. California&#39;s Los Angeles reference city produces 1677 kWh per kW, and its price is 33.61¢/kWh. That higher price is the main reason for the faster payback.</p>
+<p>Sun matters, but the electricity price matters more here. The U.S. average residential price was 18.31¢/kWh in July 2026, up from 17.45¢ a year earlier. Read more in our <a href="/electricity-prices/">electricity prices by state</a> pages and in <a href="/guides/electricity-prices-and-solar-payback/">how electricity prices affect solar payback</a>.</p>
+<h2 id="a-wider-look-at-the-3500-kw-example">A wider look at the $3500/kW example</h2>
+<p>Here are more states from our fact pack, at $3500/kW with full export credit. These are example results, not quotes.</p>
+<table>
+<thead>
+<tr>
+<th>State (reference city)</th>
+<th>Price</th>
+<th>Example payback</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hawaii (Honolulu)</td>
+<td>48¢/kWh</td>
+<td>4.7 years</td>
+</tr>
+<tr>
+<td>California (Los Angeles)</td>
+<td>33.61¢/kWh</td>
+<td>6.6 years</td>
+</tr>
+<tr>
+<td>Maine (Portland)</td>
+<td>32.41¢/kWh</td>
+<td>7.9 years</td>
+</tr>
+<tr>
+<td>Massachusetts (Boston)</td>
+<td>30.49¢/kWh</td>
+<td>8.5 years</td>
+</tr>
+<tr>
+<td>New York (New York City)</td>
+<td>29.9¢/kWh</td>
+<td>8.7 years</td>
+</tr>
+<tr>
+<td>Nevada (Las Vegas)</td>
+<td>12.77¢/kWh</td>
+<td>16.1 years</td>
+</tr>
+<tr>
+<td>Washington (Seattle)</td>
+<td>14.71¢/kWh</td>
+<td>19.6 years</td>
+</tr>
+</tbody></table>
+<p>The pattern is clear. High prices shorten payback. Low prices or less sunshine lengthen it. Sun still counts. Las Vegas produces 1753 kWh per kW in our model, but its low price keeps payback long. Seattle produces 1088 kWh per kW, which adds to its long payback. Check your own state page. For a ranked view, see <a href="/guides/best-states-for-solar-payback/">best states for solar payback</a>.</p>
+<p>You can open a state page for details: <a href="/solar-panels/texas/">Texas</a>, <a href="/solar-panels/california/">California</a>, <a href="/solar-panels/florida/">Florida</a>, <a href="/solar-panels/arizona/">Arizona</a> and <a href="/solar-panels/new-york/">New York</a>. Browse all of them from <a href="/solar-panels/">solar panels by state</a>.</p>
+<h2 id="why-net-metering-changes-the-answer">Why net metering changes the answer</h2>
+<p>Net metering and similar programs decide how your utility credits the power you send to the grid. Programs vary by state and utility. DSIRE keeps a database of current programs at <a href="https://programs.dsireusa.org/">DSIRE</a>.</p>
+<p>Our model also shows payback at half and quarter credit. For example, Alabama (Birmingham) shows 14.4 years at full credit, 19.2 years at half credit and 22.8 years at quarter credit. If your utility pays less for exports, payback gets longer. Our guide on <a href="/guides/net-metering-vs-net-billing-payback/">net metering versus net billing</a> walks through this.</p>
+<h2 id="incentives-and-the-federal-tax-credit">Incentives and the federal tax credit</h2>
+<p>The 30% federal Residential Clean Energy Credit (Section 25D) is not available for property placed in service after December 31, 2025. You can check the current rule on the <a href="https://www.irs.gov/credits-deductions/residential-clean-energy-credit">IRS page</a>. Our example assumes no incentives, so it already reflects that change.</p>
+<p>State, local or utility programs may still exist. We do not give tax advice, so check with a tax professional and DSIRE. Read <a href="/guides/is-solar-worth-it-without-tax-credit/">is solar worth it without the tax credit</a> for more.</p>
+<h2 id="how-to-use-these-numbers">How to use these numbers</h2>
+<ol>
+<li>Get your own bill and find your yearly kWh use.</li>
+<li>Collect at least a few quotes and compare price per watt.</li>
+<li>Ask each installer how your utility credits exports.</li>
+<li>Put your numbers into the <a href="/solar-calculator/">solar calculator</a>.</li>
+<li>Compare cash and loan costs, since the Berkeley Lab data shows they differ.</li>
+</ol>
+<p>If you are unsure how large a system you need, see <a href="/guides/how-many-solar-panels-do-i-need/">how many solar panels you need</a>.</p>
+<h2 id="bottom-line">Bottom line</h2>
+<p>Solar panel prices vary, and the Berkeley Lab data shows a wide range from $3.0 to $5.2 per watt for the 20th to 80th percentile. Payback depends even more on your electricity price, your sunshine and how your utility credits exports. In our example, a $3500/kW system pays back in 6.6 years in California and 14.3 years in Texas. Your results will differ, so use a real quote and the <a href="/solar-calculator/">solar calculator</a> before you decide.</p>
+12:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L22",null,{"items":[{"id":"short-answer","text":"Short answer"},{"id":"how-installed-price-is-measured","text":"How installed price is measured"},{"id":"turning-per-watt-prices-into-system-costs","text":"Turning per-watt prices into system costs"},{"id":"example-home-assumptions","text":"Example home assumptions"},{"id":"same-cost-different-payback-by-state","text":"Same cost, different payback by state"},{"id":"a-wider-look-at-the-3500-kw-example","text":"A wider look at the $3500/kW example"},{"id":"why-net-metering-changes-the-answer","text":"Why net metering changes the answer"},{"id":"incentives-and-the-federal-tax-credit","text":"Incentives and the federal tax credit"},{"id":"how-to-use-these-numbers","text":"How to use these numbers"},{"id":"bottom-line","text":"Bottom line"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$23"}}],["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L24",null,{"slot":"article"}]}],["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$25"}}],"$L26","$L27","$L28","$L29","$L2a","$L2b"]}],"$L2c"]}]
+13:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-and-solar-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/electricity-prices-and-solar-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-electricity-prices-and-solar-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-los-angeles-card.webp","srcSet":"/photos/house-roof-los-angeles-card.webp 640w, /photos/house-roof-los-angeles-sm.webp 768w, /photos/house-roof-los-angeles-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-15","children":"Oct 15, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Rising electricity prices: where solar pays back fastest"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Compare electricity prices and solar payback by state: see where a rooftop system pays back fastest, where it is slowest, and why credit rules matter."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","best-states-for-solar-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/best-states-for-solar-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-best-states-for-solar-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-louisiana-card.webp","srcSet":"/photos/house-roof-louisiana-card.webp 640w, /photos/house-roof-louisiana-sm.webp 768w, /photos/house-roof-louisiana-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2d","$L2e","$L2f"]}],"$L30","$L31","$L32"]}]]}]}]}],"$L33"]}]]}]
+14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Solar Panel Cost by State: Installed Price and Payback\",\"description\":\"What do solar panels cost? See Berkeley Lab installed prices per watt and how the same cost pays back faster or slower depending on your state.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1224,\"image\":[\"https://roofpayback.com/photos/installer-harness-georgia-og.jpg\",\"https://roofpayback.com/photos/installer-harness-georgia.webp\"],\"datePublished\":\"2026-10-22\",\"dateModified\":\"2026-10-22\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-panel-cost-by-state/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/1l1ob0qitrnid.js","async":true}]
+16:["$","$L34",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@35"}]}]
+20:true
+8:300
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Solar%20Panel%20Cost%20by%20State%3A%20Installed%20Price%20and%20Payback&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-cost-by-state%2F&title=Solar%20Panel%20Cost%20by%20State%3A%20Installed%20Price%20and%20Payback","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Solar%20Panel%20Cost%20by%20State%3A%20Installed%20Price%20and%20Payback&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Whole-home energy monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=whole%20home%20energy%20monitor&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Whole-home energy monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shows your household use in real time — useful for sizing solar. Install by an electrician."}]]}]}],["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Find out which appliances use the most before you size a system."}]]}]}],["$","li","Portable power station",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=portable%20power%20station&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Portable power station"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Backup for small devices during outages. It is not a home battery system."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shifts heating and cooling to the hours you choose."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$Ld",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+28:null
+29:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+2a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://emp.lbl.gov/tracking-the-sun/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://emp.lbl.gov/tracking-the-sun/","rel":"noopener","target":"_blank","children":"Berkeley Lab: U.S. Distributed Solar and Storage 2025 Data Update"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}]]}]]}]
+2b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2c:["$","$L22",null,{"items":"$12:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2d:["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}]
+2e:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2f:["$","span",null,{"children":[6," min"]}]
+30:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Best States for Solar Payback: Fastest and Slowest"}]
+31:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Where does home solar pay back fastest? We rank states with one example home and explain why electricity prices matter more than sunshine."}]
+32:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+33:["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[3," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How many solar panels do I need? Sizing from your electric bill"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"A step-by-step way to size a home solar system from your annual kWh, daytime use and local sunshine, with real size-vs-payback tables for four states."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+35:null
+8:C
+1f:0
+a:"$undefined"
+6:"$undefined"
+1e:"$undefined"
+17:"$undefined"
