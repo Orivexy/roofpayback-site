@@ -1,0 +1,437 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0296hdw2w9b-6.js"
+3:I[2971,["$2"],"Header"]
+4:I[98551,["$2"],"TickerLoop"]
+5:"/_next/static/chunks/1l1ob0qitrnid.js"
+6:I[22016,["$2","$5"],""]
+48:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/38no1k-kv4jy4.css","style"]
+:HL["/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/68d403cf9f2c68c5-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+42:X
+45:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L46","p":false,"v":null}}]]
+43:[["children",{"s":{"n":"slug","t":"d","k":"home-ev-charging-cost-by-state","s":["topic"]},"h":66048,"d":{"r":"$L44","p":false,"v":"$42"},"c":"$Q45"}]]
+40:[["children",{"s":"guides","h":131584,"d":{"r":"$L41","p":false,"v":"$42"},"c":"$Q43"}]]
+0:{"P":null,"c":["","guides","home-ev-charging-cost-by-state",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/38no1k-kv4jy4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0296hdw2w9b-6.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Duw88a_variable HDK9OW_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"base-uri 'self'; object-src 'none'; upgrade-insecure-requests"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;gtag('consent','default',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'});gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',region:[\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"IS\",\"LI\",\"NO\",\"GB\",\"CH\"],wait_for_update:500});"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__afterPaint=function(f,d){var done=0;function go(){if(done++)return;setTimeout(function(){'requestIdleCallback'in window?requestIdleCallback(f,{timeout:2500}):f()},d)}function painted(){try{if(performance.getEntriesByName('first-contentful-paint').length)return go();new PerformanceObserver(function(l,o){o.disconnect();go()}).observe({type:'paint',buffered:true})}catch(e){go()}}function start(){painted();setTimeout(go,4000)}document.readyState==='complete'?start():addEventListener('load',start)};"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"gtag('js',new Date());gtag('config','G-00QRGTQ5SQ');__afterPaint(function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-00QRGTQ5SQ';document.head.appendChild(s)},300);"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"__afterPaint(function(){var s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1368227516860314';document.head.appendChild(s)},300);"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-50 focus:rounded-full focus:bg-surface focus:px-4 focus:py-2","children":"Skip to content"}],["$","$L3",null,{}],["$","div",null,{"data-nosnippet":true,"data-print":"hide","className":"border-b border-ink bg-surface","aria-label":"Residential electricity prices by state, EIA August 2026, checked Oct 31, 2026","children":["$","div",null,{"className":"container-x flex items-center gap-3 py-1.5 font-mono text-[0.72rem]","children":[["$","span",null,{"className":"shrink-0 bg-brand px-1.5 py-0.5 uppercase tracking-wider text-on-brand","title":"EIA publishes official state prices once a month (about two months after the month ends). We check for a new release every day.","children":["Checked ","Oct 31"]}],["$","div",null,{"className":"ticker-mask min-w-0 flex-1 overflow-hidden whitespace-nowrap","children":["$","$L4",null,{"children":["$","span",null,{"className":"flex shrink-0 items-center gap-5 pr-5","aria-hidden":"$undefined","children":[["$","$L6",null,{"tabIndex":"$undefined","href":"/electricity-prices/","className":"shrink-0 no-underline hover:text-brand","children":[["$","b",null,{"children":"U.S."}]," ","18.16¢"," ",["$","span",null,{"className":"text-brand","children":["▲","3.4%"]}]]}],["$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39"]]}]}]}]]}]}],"$L3a","$L3b","$L3c","$L3d","$L3e","$L3f"]}]]}]]}],"p":false,"v":null},"c":"$Q40"},"h":{"r":"$L47","p":false,"v":null}},"m":"$undefined","G":["$48",["$L49"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WB5Tuw5fk0Ga9L2Ft0QM5"}
+4a:I[39756,["$2"],"default"]
+4b:"$Sreact.view_transition"
+4c:I[37457,["$2"],"default"]
+53:I[52425,["$2"],"ConsentBanner"]
+54:I[19861,["$2"],"VersionCheck"]
+56:I[97367,["$2"],"OutletBoundary"]
+57:"$Sreact.suspense"
+59:"ViewportBoundary"
+5a:I[97367,["$2"],"$59"]
+5c:"MetadataBoundary"
+5d:I[97367,["$2"],"$5c"]
+7:["$","$L6","hawaii",{"tabIndex":"$undefined","href":"/electricity-prices/hawaii/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"HI"}]," ","47.18¢"," ",["$","span",null,{"className":"text-brand","children":["▲","22.5%"]}]]}]
+8:["$","$L6","maine",{"tabIndex":"$undefined","href":"/electricity-prices/maine/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"ME"}]," ","32.11¢"," ",["$","span",null,{"className":"text-brand","children":["▲","14.1%"]}]]}]
+9:["$","$L6","massachusetts",{"tabIndex":"$undefined","href":"/electricity-prices/massachusetts/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MA"}]," ","30.48¢"," ",["$","span",null,{"className":"text-cool","children":["▼","0.2%"]}]]}]
+a:["$","$L6","california",{"tabIndex":"$undefined","href":"/electricity-prices/california/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"CA"}]," ","29.75¢"," ",["$","span",null,{"className":"text-cool","children":["▼","3.8%"]}]]}]
+b:["$","$L6","alaska",{"tabIndex":"$undefined","href":"/electricity-prices/alaska/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"AK"}]," ","29.41¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.8%"]}]]}]
+c:["$","$L6","new-york",{"tabIndex":"$undefined","href":"/electricity-prices/new-york/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NY"}]," ","28.65¢"," ",["$","span",null,{"className":"text-brand","children":["▲","7.5%"]}]]}]
+d:["$","$L6","rhode-island",{"tabIndex":"$undefined","href":"/electricity-prices/rhode-island/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"RI"}]," ","28.18¢"," ",["$","span",null,{"className":"text-brand","children":["▲","6.2%"]}]]}]
+e:["$","$L6","new-hampshire",{"tabIndex":"$undefined","href":"/electricity-prices/new-hampshire/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NH"}]," ","27.64¢"," ",["$","span",null,{"className":"text-brand","children":["▲","13.1%"]}]]}]
+f:["$","$L6","district-of-columbia",{"tabIndex":"$undefined","href":"/electricity-prices/district-of-columbia/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"DC"}]," ","25.98¢"," ",["$","span",null,{"className":"text-brand","children":["▲","12.1%"]}]]}]
+10:["$","$L6","new-jersey",{"tabIndex":"$undefined","href":"/electricity-prices/new-jersey/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NJ"}]," ","24.61¢"," ",["$","span",null,{"className":"text-cool","children":["▼","0.4%"]}]]}]
+11:["$","$L6","connecticut",{"tabIndex":"$undefined","href":"/electricity-prices/connecticut/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"CT"}]," ","24.51¢"," ",["$","span",null,{"className":"text-cool","children":["▼","18.8%"]}]]}]
+12:["$","$L6","vermont",{"tabIndex":"$undefined","href":"/electricity-prices/vermont/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"VT"}]," ","23.84¢"," ",["$","span",null,{"className":"text-brand","children":["▲","7.9%"]}]]}]
+13:["$","$L6","michigan",{"tabIndex":"$undefined","href":"/electricity-prices/michigan/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MI"}]," ","22.99¢"," ",["$","span",null,{"className":"text-brand","children":["▲","10.9%"]}]]}]
+14:["$","$L6","pennsylvania",{"tabIndex":"$undefined","href":"/electricity-prices/pennsylvania/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"PA"}]," ","21.77¢"," ",["$","span",null,{"className":"text-brand","children":["▲","9.2%"]}]]}]
+15:["$","$L6","maryland",{"tabIndex":"$undefined","href":"/electricity-prices/maryland/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MD"}]," ","21.40¢"," ",["$","span",null,{"className":"text-brand","children":["▲","7.6%"]}]]}]
+16:["$","$L6","wisconsin",{"tabIndex":"$undefined","href":"/electricity-prices/wisconsin/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"WI"}]," ","19.41¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.3%"]}]]}]
+17:["$","$L6","ohio",{"tabIndex":"$undefined","href":"/electricity-prices/ohio/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"OH"}]," ","19.38¢"," ",["$","span",null,{"className":"text-brand","children":["▲","10.4%"]}]]}]
+18:["$","$L6","illinois",{"tabIndex":"$undefined","href":"/electricity-prices/illinois/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"IL"}]," ","19.32¢"," ",["$","span",null,{"className":"text-brand","children":["▲","7.2%"]}]]}]
+19:["$","$L6","delaware",{"tabIndex":"$undefined","href":"/electricity-prices/delaware/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"DE"}]," ","18.70¢"," ",["$","span",null,{"className":"text-brand","children":["▲","11.0%"]}]]}]
+1a:["$","$L6","virginia",{"tabIndex":"$undefined","href":"/electricity-prices/virginia/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"VA"}]," ","17.64¢"," ",["$","span",null,{"className":"text-brand","children":["▲","11.3%"]}]]}]
+1b:["$","$L6","minnesota",{"tabIndex":"$undefined","href":"/electricity-prices/minnesota/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MN"}]," ","17.20¢"," ",["$","span",null,{"className":"text-brand","children":["▲","1.8%"]}]]}]
+1c:["$","$L6","colorado",{"tabIndex":"$undefined","href":"/electricity-prices/colorado/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"CO"}]," ","17.17¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.9%"]}]]}]
+1d:["$","$L6","iowa",{"tabIndex":"$undefined","href":"/electricity-prices/iowa/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"IA"}]," ","17.06¢"," ",["$","span",null,{"className":"text-brand","children":["▲","10.2%"]}]]}]
+1e:["$","$L6","indiana",{"tabIndex":"$undefined","href":"/electricity-prices/indiana/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"IN"}]," ","17.02¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.0%"]}]]}]
+1f:["$","$L6","new-mexico",{"tabIndex":"$undefined","href":"/electricity-prices/new-mexico/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NM"}]," ","16.51¢"," ",["$","span",null,{"className":"text-brand","children":["▲","3.3%"]}]]}]
+20:["$","$L6","alabama",{"tabIndex":"$undefined","href":"/electricity-prices/alabama/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"AL"}]," ","16.33¢"," ",["$","span",null,{"className":"text-brand","children":["▲","0.4%"]}]]}]
+21:["$","$L6","west-virginia",{"tabIndex":"$undefined","href":"/electricity-prices/west-virginia/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"WV"}]," ","16.31¢"," ",["$","span",null,{"className":"text-brand","children":["▲","4.4%"]}]]}]
+22:["$","$L6","missouri",{"tabIndex":"$undefined","href":"/electricity-prices/missouri/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MO"}]," ","16.02¢"," ",["$","span",null,{"className":"text-brand","children":["▲","4.6%"]}]]}]
+23:["$","$L6","oregon",{"tabIndex":"$undefined","href":"/electricity-prices/oregon/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"OR"}]," ","15.92¢"," ",["$","span",null,{"className":"text-brand","children":["▲","0.4%"]}]]}]
+24:["$","$L6","texas",{"tabIndex":"$undefined","href":"/electricity-prices/texas/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"TX"}]," ","15.91¢"," ",["$","span",null,{"className":"text-brand","children":["▲","3.3%"]}]]}]
+25:["$","$L6","georgia",{"tabIndex":"$undefined","href":"/electricity-prices/georgia/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"GA"}]," ","15.90¢"," ",["$","span",null,{"className":"text-brand","children":["▲","2.3%"]}]]}]
+26:["$","$L6","south-carolina",{"tabIndex":"$undefined","href":"/electricity-prices/south-carolina/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"SC"}]," ","15.76¢"," ",["$","span",null,{"className":"text-brand","children":["▲","4.0%"]}]]}]
+27:["$","$L6","montana",{"tabIndex":"$undefined","href":"/electricity-prices/montana/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MT"}]," ","15.57¢"," ",["$","span",null,{"className":"text-brand","children":["▲","9.0%"]}]]}]
+28:["$","$L6","kansas",{"tabIndex":"$undefined","href":"/electricity-prices/kansas/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"KS"}]," ","15.47¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.6%"]}]]}]
+29:["$","$L6","south-dakota",{"tabIndex":"$undefined","href":"/electricity-prices/south-dakota/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"SD"}]," ","15.15¢"," ",["$","span",null,{"className":"text-brand","children":["▲","9.0%"]}]]}]
+2a:["$","$L6","arizona",{"tabIndex":"$undefined","href":"/electricity-prices/arizona/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"AZ"}]," ","15.05¢"," ",["$","span",null,{"className":"text-cool","children":["▼","0.3%"]}]]}]
+2b:["$","$L6","florida",{"tabIndex":"$undefined","href":"/electricity-prices/florida/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"FL"}]," ","14.99¢"," ",["$","span",null,{"className":"text-cool","children":["▼","2.2%"]}]]}]
+2c:["$","$L6","north-carolina",{"tabIndex":"$undefined","href":"/electricity-prices/north-carolina/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NC"}]," ","14.95¢"," ",["$","span",null,{"className":"text-brand","children":["▲","2.5%"]}]]}]
+2d:["$","$L6","oklahoma",{"tabIndex":"$undefined","href":"/electricity-prices/oklahoma/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"OK"}]," ","14.82¢"," ",["$","span",null,{"className":"text-brand","children":["▲","2.8%"]}]]}]
+2e:["$","$L6","washington",{"tabIndex":"$undefined","href":"/electricity-prices/washington/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"WA"}]," ","14.63¢"," ",["$","span",null,{"className":"text-brand","children":["▲","7.2%"]}]]}]
+2f:["$","$L6","mississippi",{"tabIndex":"$undefined","href":"/electricity-prices/mississippi/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"MS"}]," ","14.43¢"," ",["$","span",null,{"className":"text-brand","children":["▲","6.0%"]}]]}]
+30:["$","$L6","wyoming",{"tabIndex":"$undefined","href":"/electricity-prices/wyoming/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"WY"}]," ","14.43¢"," ",["$","span",null,{"className":"text-brand","children":["▲","0.7%"]}]]}]
+31:["$","$L6","arkansas",{"tabIndex":"$undefined","href":"/electricity-prices/arkansas/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"AR"}]," ","14.37¢"," ",["$","span",null,{"className":"text-brand","children":["▲","7.8%"]}]]}]
+32:["$","$L6","kentucky",{"tabIndex":"$undefined","href":"/electricity-prices/kentucky/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"KY"}]," ","13.80¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.3%"]}]]}]
+33:["$","$L6","nebraska",{"tabIndex":"$undefined","href":"/electricity-prices/nebraska/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NE"}]," ","13.54¢"," ",["$","span",null,{"className":"text-brand","children":["▲","5.8%"]}]]}]
+34:["$","$L6","tennessee",{"tabIndex":"$undefined","href":"/electricity-prices/tennessee/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"TN"}]," ","13.42¢"," ",["$","span",null,{"className":"text-brand","children":["▲","2.5%"]}]]}]
+35:["$","$L6","idaho",{"tabIndex":"$undefined","href":"/electricity-prices/idaho/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"ID"}]," ","13.37¢"," ",["$","span",null,{"className":"text-brand","children":["▲","10.7%"]}]]}]
+36:["$","$L6","north-dakota",{"tabIndex":"$undefined","href":"/electricity-prices/north-dakota/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"ND"}]," ","13.31¢"," ",["$","span",null,{"className":"text-brand","children":["▲","2.6%"]}]]}]
+37:["$","$L6","utah",{"tabIndex":"$undefined","href":"/electricity-prices/utah/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"UT"}]," ","13.31¢"," ",["$","span",null,{"className":"text-cool","children":["▼","2.3%"]}]]}]
+38:["$","$L6","louisiana",{"tabIndex":"$undefined","href":"/electricity-prices/louisiana/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"LA"}]," ","12.87¢"," ",["$","span",null,{"className":"text-brand","children":["▲","2.5%"]}]]}]
+39:["$","$L6","nevada",{"tabIndex":"$undefined","href":"/electricity-prices/nevada/","className":"shrink-0 text-ink-2 no-underline hover:text-brand","children":[["$","b",null,{"className":"text-ink","children":"NV"}]," ","12.72¢"," ",["$","span",null,{"className":"text-brand","children":["▲","1.4%"]}]]}]
+3a:["$","main",null,{"id":"content","className":"container-x w-full flex-1 pt-6 pb-16 sm:pt-10","children":["$","$L4a",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$4b",null,{"enter":"page-in","exit":"page-out","default":"none","children":["$","$L4c",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"max-w-2xl","children":[["$","h1",null,{"className":"h-page","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-3 text-muted","children":"The link may be old or mistyped. Here is what people use most:"}],["$","ul",null,{"className":"mt-6 space-y-2","children":[["$","li",null,{"children":["$","$L6",null,{"className":"link","href":"/solar-calculator/","children":"Solar payback calculator"}]}],["$","li",null,{"children":["$","$L6",null,{"className":"link","href":"/solar-panels/","children":"Solar production and payback by state"}]}],["$","li",null,{"children":["$","$L6",null,{"className":"link","href":"/electricity-prices/","children":"Electricity prices by state"}]}]]}],["$","p",null,{"className":"mt-6 text-sm text-muted","children":["Sunniest states: ",[["$","span","new-mexico",{"children":[false,["$","$L6",null,{"className":"link","href":"/solar-panels/new-mexico/","children":"New Mexico"}]]}],["$","span","arizona",{"children":[", ",["$","$L6",null,{"className":"link","href":"/solar-panels/arizona/","children":"Arizona"}]]}],["$","span","nevada",{"children":[", ",["$","$L6",null,{"className":"link","href":"/solar-panels/nevada/","children":"Nevada"}]]}],["$","span","california",{"children":[", ",["$","$L6",null,{"className":"link","href":"/solar-panels/california/","children":"California"}]]}],["$","span","hawaii",{"children":[", ",["$","$L6",null,{"className":"link","href":"/solar-panels/hawaii/","children":"Hawaii"}]]}],["$","span","colorado",{"children":[", ",["$","$L6",null,{"className":"link","href":"/solar-panels/colorado/","children":"Colorado"}]]}]],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]
+3b:["$","footer",null,{"className":"mt-auto bg-band text-band-ink","children":["$","div",null,{"className":"container-x pb-8 pt-14","children":[["$","div",null,{"className":"grid gap-10 border-b border-band-ink/20 pb-10 md:grid-cols-[1.5fr_repeat(3,1fr)]","children":[["$","div",null,{"className":"max-w-sm","children":[["$","$L6",null,{"href":"/","className":"flex items-center gap-3 no-underline","children":[["$","span",null,{"className":"outline outline-1 outline-band-ink/40","children":["$","svg",null,{"width":34,"height":34,"viewBox":"0 0 32 32","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"32","height":"32","fill":"var(--ink)"}],["$","circle",null,{"cx":"25.2","cy":"6.8","r":"2","fill":"var(--brand)"}],["$","path",null,{"d":"M4.5 15.5L16 6l11.5 9.5","fill":"none","stroke":"var(--paper)","strokeWidth":"2.6","strokeLinecap":"square"}],["$","path",null,{"d":"M8.5 25.5a7.5 7.5 0 0 1 15 0","fill":"none","stroke":"var(--paper)","strokeWidth":"2"}],["$","path",null,{"d":"M10.7 20.2l1.2.9M16 18v1.5M21.3 20.2l-1.2.9","stroke":"var(--paper)","strokeWidth":"1.4"}],["$","path",null,{"d":"M16 25.5l4.6-4.9","stroke":"var(--brand)","strokeWidth":"2.4","strokeLinecap":"square"}],["$","circle",null,{"cx":"16","cy":"25.5","r":"2.1","fill":"var(--brand)"}],["$","path",null,{"d":"M6 28.2h20","stroke":"var(--paper)","strokeWidth":"1.4"}]]}]}],["$","span",null,{"className":"on-band","children":["$","span",null,{"className":"font-display text-[2rem] font-extrabold leading-none !text-band-ink [font-stretch:68%]","children":["Roof",["$","span",null,{"className":"text-brand","children":"Payback"}]]}]}]]}],["$","p",null,{"className":"mt-4 font-serif text-band-ink/80","children":"Independent numbers on what U.S. homes pay for power and when rooftop solar pays back. No sign-up, no lead capture, no installer calling you."}],["$","div",null,{"className":"mt-6 [&_.text-muted]:text-band-ink/60 [&_.eyebrow]:text-band-ink/60 [&_.input-wrap]:border-band-ink/40 [&_.input-wrap]:bg-transparent [&_input]:text-band-ink [&_.link]:text-band-ink","children":["$","section",null,{"aria-label":"Newsletter","className":" ","children":[["$","p",null,{"className":"eyebrow mb-3","children":"Newsletter"}],false,["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 flex-col","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email-f","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email-f","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 btn-signal","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L6",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]}]]}],[["$","nav","Tools",{"aria-label":"Tools","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Tools"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/solar-calculator/",{"children":["$","$L6",null,{"href":"/solar-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Payback calculator"}]}],["$","li","/electricity-cost-calculator/",{"children":["$","$L6",null,{"href":"/electricity-cost-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity cost calculator"}]}],["$","li","/solar-panels/",{"children":["$","$L6",null,{"href":"/solar-panels/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Solar by state"}]}],["$","li","/electricity-prices/",{"children":["$","$L6",null,{"href":"/electricity-prices/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity prices"}]}]],false]}]]}],["$","nav","Read",{"aria-label":"Read","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Read"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/guides/",{"children":["$","$L6",null,{"href":"/guides/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All articles"}]}],["$","li","/feed.xml",{"children":"$L4d"}],"$L4e","$L4f","$L50"],false]}]]}],"$L51"]]}],"$L52"]}]}]
+3c:["$","$L53",null,{}]
+3d:["$","$L54",null,{}]
+3e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://roofpayback.com/#org\",\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/apple-icon.png\",\"width\":180,\"height\":180},\"description\":\"Solar panel payback calculator with real data for your state\",\"email\":\"ericmunizgeneb@gmail.com\",\"knowsAbout\":[\"Residential electricity prices\",\"Rooftop solar payback\",\"Net metering\"]}"}}]
+3f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"publisher\":{\"@id\":\"https://roofpayback.com/#org\"},\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://roofpayback.com/guides/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+41:["$","$1","c",{"children":[null,["$","$L4a",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4c",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+44:["$","$1","c",{"children":[null,["$","$L4a",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4c",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+46:["$","$1","c",{"children":["$L55",[["$","script","script-0",{"src":"/_next/static/chunks/1l1ob0qitrnid.js","async":true,"nonce":"$undefined"}]],["$","$L56",null,{"children":["$","$57",null,{"name":"Next.MetadataOutlet","children":"$@58"}]}]]}]
+47:["$","$1","h",{"children":[null,["$","$L5a",null,{"children":"$L5b"}],["$","$L5d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$57",null,{"name":"Next.Metadata","children":"$L5e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+49:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/38no1k-kv4jy4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+5f:"CookieSettingsButton"
+60:I[52425,["$2"],"$5f"]
+42:C
+4d:["$","a",null,{"href":"/feed.xml","className":"text-band-ink/85 no-underline hover:text-brand","children":"RSS feed"}]
+4e:["$","li","/statistics/",{"children":["$","$L6",null,{"href":"/statistics/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Statistics (free data)"}]}]
+4f:["$","li","/methodology/",{"children":["$","$L6",null,{"href":"/methodology/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Methodology & sources"}]}]
+50:["$","li","/about/",{"children":["$","$L6",null,{"href":"/about/","className":"text-band-ink/85 no-underline hover:text-brand","children":"About RoofPayback"}]}]
+51:["$","nav","Legal",{"aria-label":"Legal","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/privacy/",{"children":["$","$L6",null,{"href":"/privacy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L6",null,{"href":"/cookies/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L6",null,{"href":"/terms/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Terms of use"}]}],["$","li","/legal-notice/",{"children":["$","$L6",null,{"href":"/legal-notice/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Legal notice"}]}],["$","li","/advertising-disclosure/",{"children":["$","$L6",null,{"href":"/advertising-disclosure/","className":"text-band-ink/85 no-underline hover:text-brand","children":"How we make money"}]}],["$","li","/contact/",{"children":["$","$L6",null,{"href":"/contact/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Contact"}]}]],["$","li",null,{"className":"text-band-ink/85","children":["$","$L60",null,{}]}]]}]]}]
+52:["$","div",null,{"className":"flex flex-col gap-2 pt-6 font-mono text-[0.7rem] uppercase tracking-wider text-band-ink/60 md:flex-row md:justify-between","children":[["$","span",null,{"children":["© ",2026," ","RoofPayback"," · Ads are labeled and never change the math"]}],["$","span",null,{"children":["Data: ","NLR PVWatts v8"," · U.S. EIA ","August 2026"," · Estimates, not advice"]}]]}]
+55:["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5","children":[false,["$","$L6",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L6",null,{"href":"/guides/","className":"no-underline hover:text-ink","children":"Blog"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L6",null,{"href":"/guides/topic/electricity-prices/","className":"no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/home-ev-charging-cost-by-state/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Home EV Charging Cost by State: What It Costs in 2026"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Home EV Charging Cost by State: What It Costs in 2026\",\"item\":\"https://roofpayback.com/guides/home-ev-charging-cost-by-state/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$L6",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","p",null,{"className":"lede mt-5","children":"What it costs to charge an electric car at home in every state, using July 2026 EIA electricity prices and a 3500 kWh per year example."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],false,["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Checked by ","automated fact and quality checks"]}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ","$L61"]}]]}]]}],"$L62","$L63","$L64","$L65"]}]
+66:I[26029,["$2","$5"],"TocNav"]
+:HL["/photos/ev-home-charging.webp","image",{"imageSrcSet":"/photos/ev-home-charging-card.webp 640w, /photos/ev-home-charging-sm.webp 768w, /photos/ev-home-charging-md.webp 1024w, /photos/ev-home-charging.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+61:["$","$L6",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]
+62:["$","figure",null,{"className":"mt-8","children":[["$","$4b",null,{"name":"photo-home-ev-charging-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-charging.webp","srcSet":"/photos/ev-home-charging-card.webp 640w, /photos/ev-home-charging-sm.webp 768w, /photos/ev-home-charging-md.webp 1024w, /photos/ev-home-charging.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Electric car charging at a residential Level 2 wall charger","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Electric car charging at a residential Level 2 wall charger",". Photo: ","Mariordo (Mario Roberto Durán Ortiz)"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/4.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 4.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:BMW_i3_home_charging_L2_CRI_07_2021_9745.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+67:T1e28,<div class="short-answer"><h2 id="short-answer">Short answer</h2>
+<p>Charging an electric car at home costs whatever your home electricity costs. So the state you live in matters a lot. In our example of 3500 kWh of home charging per year, the yearly cost runs from about $445 in Louisiana to about $1680 in Hawaii.</p>
+<p>These are estimates, not quotes. They use each state&#39;s average home electricity price from the U.S. Energy Information Administration (EIA) for July 2026. Your own cost depends on your utility, your rate plan, and how much you drive.</p>
+</div><h2 id="how-we-estimated-the-cost">How we estimated the cost</h2>
+<p>A kilowatt-hour (kWh) is the unit your utility uses to bill you for electricity. EV efficiency is often measured in kWh per 100 miles. The Department of Energy&#39;s Alternative Fuels Data Center (AFDC) explains the basic math with an example: &quot;If electricity costs ¢10.7 per kWh and the vehicle consumes 27 kWh to travel 100 miles, the cost per mile is about $0.03.&quot;</p>
+<p>We used the same idea for every state, with these assumptions:</p>
+<ul>
+<li><strong>3500 kWh per year</strong> of home charging. This is an example amount, not a national average. Drive more and you will use more.</li>
+<li><strong>All of it is charged at home</strong>, billed at the state&#39;s <strong>average residential price</strong> for July 2026 from the EIA.</li>
+<li><strong>No special EV rates.</strong> EIA&#39;s average is utility revenue (including taxes and fees) divided by kWh sold. The per-kWh rate on your bill, or an EV time-of-use rate, may be higher or lower.</li>
+</ul>
+<p>The EIA publishes these prices every month in its Electric Power Monthly. Recent months are preliminary, so they can be revised. See our <a href="/electricity-prices/">electricity prices by state</a> page for the latest numbers and our <a href="/methodology/">methodology</a> for how we use them.</p>
+<h2 id="home-ev-charging-cost-in-every-state">Home EV charging cost in every state</h2>
+<p>Here is the example yearly cost of 3500 kWh of home charging in each state, plus the average price per kWh it is based on. Click a state to see its electricity price page.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Avg. home price per kWh (July 2026)</th>
+<th>3500 kWh of EV charging per year</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="/electricity-prices/alabama/">Alabama</a></td>
+<td>16.4¢</td>
+<td>$574</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/alaska/">Alaska</a></td>
+<td>28.83¢</td>
+<td>$1009</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/arizona/">Arizona</a></td>
+<td>15.38¢</td>
+<td>$538</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/arkansas/">Arkansas</a></td>
+<td>14.33¢</td>
+<td>$502</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/california/">California</a></td>
+<td>33.61¢</td>
+<td>$1176</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/colorado/">Colorado</a></td>
+<td>17¢</td>
+<td>$595</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/connecticut/">Connecticut</a></td>
+<td>24.16¢</td>
+<td>$846</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/delaware/">Delaware</a></td>
+<td>18.48¢</td>
+<td>$647</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/district-of-columbia/">District of Columbia</a></td>
+<td>25.21¢</td>
+<td>$882</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/florida/">Florida</a></td>
+<td>15.03¢</td>
+<td>$526</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/georgia/">Georgia</a></td>
+<td>16.27¢</td>
+<td>$569</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/hawaii/">Hawaii</a></td>
+<td>48¢</td>
+<td>$1680</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/idaho/">Idaho</a></td>
+<td>13.73¢</td>
+<td>$481</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/illinois/">Illinois</a></td>
+<td>19.22¢</td>
+<td>$673</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/indiana/">Indiana</a></td>
+<td>16.73¢</td>
+<td>$586</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/iowa/">Iowa</a></td>
+<td>15.99¢</td>
+<td>$560</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/kansas/">Kansas</a></td>
+<td>15.27¢</td>
+<td>$534</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/kentucky/">Kentucky</a></td>
+<td>13.81¢</td>
+<td>$483</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/louisiana/">Louisiana</a></td>
+<td>12.72¢</td>
+<td>$445</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/maine/">Maine</a></td>
+<td>32.41¢</td>
+<td>$1134</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/maryland/">Maryland</a></td>
+<td>21.41¢</td>
+<td>$749</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/massachusetts/">Massachusetts</a></td>
+<td>30.49¢</td>
+<td>$1067</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/michigan/">Michigan</a></td>
+<td>23.05¢</td>
+<td>$807</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/minnesota/">Minnesota</a></td>
+<td>17.45¢</td>
+<td>$611</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/mississippi/">Mississippi</a></td>
+<td>14.54¢</td>
+<td>$509</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/missouri/">Missouri</a></td>
+<td>16.09¢</td>
+<td>$563</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/montana/">Montana</a></td>
+<td>14.99¢</td>
+<td>$525</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nebraska/">Nebraska</a></td>
+<td>13.78¢</td>
+<td>$482</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nevada/">Nevada</a></td>
+<td>12.77¢</td>
+<td>$447</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-hampshire/">New Hampshire</a></td>
+<td>26.6¢</td>
+<td>$931</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-jersey/">New Jersey</a></td>
+<td>25.19¢</td>
+<td>$882</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-mexico/">New Mexico</a></td>
+<td>16.09¢</td>
+<td>$563</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-york/">New York</a></td>
+<td>29.9¢</td>
+<td>$1047</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/north-carolina/">North Carolina</a></td>
+<td>15.16¢</td>
+<td>$531</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/north-dakota/">North Dakota</a></td>
+<td>13.41¢</td>
+<td>$469</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/ohio/">Ohio</a></td>
+<td>19.45¢</td>
+<td>$681</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/oklahoma/">Oklahoma</a></td>
+<td>14.35¢</td>
+<td>$502</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/oregon/">Oregon</a></td>
+<td>15.97¢</td>
+<td>$559</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/pennsylvania/">Pennsylvania</a></td>
+<td>21.72¢</td>
+<td>$760</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/rhode-island/">Rhode Island</a></td>
+<td>28.29¢</td>
+<td>$990</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/south-carolina/">South Carolina</a></td>
+<td>15.47¢</td>
+<td>$541</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/south-dakota/">South Dakota</a></td>
+<td>15.37¢</td>
+<td>$538</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/tennessee/">Tennessee</a></td>
+<td>13.71¢</td>
+<td>$480</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/texas/">Texas</a></td>
+<td>15.88¢</td>
+<td>$556</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/utah/">Utah</a></td>
+<td>13.12¢</td>
+<td>$459</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/vermont/">Vermont</a></td>
+<td>23.75¢</td>
+<td>$831</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/virginia/">Virginia</a></td>
+<td>17.55¢</td>
+<td>$614</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/washington/">Washington</a></td>
+<td>14.71¢</td>
+<td>$515</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/west-virginia/">West Virginia</a></td>
+<td>15.78¢</td>
+<td>$552</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/wisconsin/">Wisconsin</a></td>
+<td>19.06¢</td>
+<td>$667</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/wyoming/">Wyoming</a></td>
+<td>14.36¢</td>
+<td>$503</td>
+</tr>
+</tbody></table>
+63:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L66",null,{"items":[{"id":"short-answer","text":"Short answer"},{"id":"how-we-estimated-the-cost","text":"How we estimated the cost"},{"id":"home-ev-charging-cost-in-every-state","text":"Home EV charging cost in every state"},{"id":"cheapest-and-most-expensive-states","text":"Cheapest and most expensive states"},{"id":"what-can-change-your-real-cost","text":"What can change your real cost"},{"id":"can-rooftop-solar-lower-ev-charging-costs","text":"Can rooftop solar lower EV charging costs?"},{"id":"bottom-line","text":"Bottom line"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$67"}}],"$L68","$L69","$L6a","$L6b",false,"$L6c","$L6d","$L6e"]}],"$L6f"]}]
+64:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$L6",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-2026-07",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L6",null,{"href":"/guides/electricity-prices-2026-07/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$4b",null,{"name":"photo-electricity-prices-2026-07","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/transmission-oregon-card.webp","srcSet":"/photos/transmission-oregon-card.webp 640w, /photos/transmission-oregon-sm.webp 768w, /photos/transmission-oregon-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"U.S. Electricity Prices in July 2026: What Changed"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"July 2026 EIA data: U.S. residential power averaged 18.31¢/kWh, up 4.9%. See which states rose or fell, and what it means for bills and solar payback."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L6",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$4b",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L70","$L71","$L72"]}],"$L73","$L74","$L75"]}]]}]}]}],"$L76"]}]]}]
+65:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Home EV Charging Cost by State: What It Costs in 2026\",\"description\":\"What it costs to charge an electric car at home in every state, using July 2026 EIA electricity prices and a 3500 kWh per year example.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1391,\"image\":[\"https://roofpayback.com/photos/ev-home-charging-og.jpg\",\"https://roofpayback.com/photos/ev-home-charging.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-10-12\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/home-ev-charging-cost-by-state/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+77:I[9441,["$2","$5"],"AdSlot"]
+68:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L77",null,{"slot":"article"}]}]
+78:T118c,<h2 id="cheapest-and-most-expensive-states">Cheapest and most expensive states</h2>
+<p>The gap between states is large. It comes almost entirely from the price per kWh.</p>
+<p><strong>Lowest example costs:</strong></p>
+<ul>
+<li>Louisiana: 12.72¢ per kWh, about $445 per year</li>
+<li>Nevada: 12.77¢ per kWh, about $447 per year</li>
+<li>Utah: 13.12¢ per kWh, about $459 per year</li>
+<li>North Dakota: 13.41¢ per kWh, about $469 per year</li>
+</ul>
+<p><strong>Highest example costs:</strong></p>
+<ul>
+<li>Hawaii: 48¢ per kWh, about $1680 per year</li>
+<li>California: 33.61¢ per kWh, about $1176 per year</li>
+<li>Maine: 32.41¢ per kWh, about $1134 per year</li>
+<li>Massachusetts: 30.49¢ per kWh, about $1067 per year</li>
+</ul>
+<p>The Northeast, California, Alaska and Hawaii sit near the top. Many states in the South, the Mountain West and the Plains sit near the bottom.</p>
+<p>Prices also move. Hawaii&#39;s average was 39.36¢ a year earlier, a change of 22%. Maine went from 27.98¢ to 32.41¢. A few states fell, such as Connecticut, which went from 27.6¢ to 24.16¢. So the same driving can cost more or less from one year to the next.</p>
+<h2 id="what-can-change-your-real-cost">What can change your real cost</h2>
+<p>The table is a starting point. Several things can push your cost up or down:</p>
+<ul>
+<li><strong>Your rate plan.</strong> The AFDC notes that &quot;Some utilities offer residential time-of-use rates or other rate incentives for charging infrastructure owners.&quot; A time-of-use rate charges different prices at different hours. If your utility has one, charging at off-peak hours may cost less than the state average. Check with your utility.</li>
+<li><strong>How much you drive.</strong> If you charge less than 3500 kWh a year, your cost will be lower. If you charge more, it will be higher.</li>
+<li><strong>Public charging.</strong> The AFDC says &quot;Most EV owners do the majority of their charging at home&quot;. Charging away from home is priced differently and is not included here.</li>
+<li><strong>Your equipment.</strong> Many drivers use the basic Level 1 cord that comes with the car. The AFDC says many owners can meet daily needs this way, &quot;requiring no additional cost or installation, provided that a power outlet on a dedicated branch circuit is available near their parking location.&quot; A faster Level 2 charger may need an electrician, and local permits may be required.</li>
+<li><strong>Fixed fees.</strong> Monthly customer charges are on your bill no matter how much you charge, so charging an EV does not raise them. Because the EIA average spreads those charges over every kWh, the per-kWh rate on your own bill is the better guide to the extra cost.</li>
+</ul>
+<p>To get a better number, look at your own bill. Find your price per kWh (or your time-of-use prices) and multiply it by the kWh you expect to charge.</p>
+<h2 id="can-rooftop-solar-lower-ev-charging-costs">Can rooftop solar lower EV charging costs?</h2>
+<p>It can, but it depends on your home and your utility. Solar panels make power while the sun is up, while many people charge their cars overnight. How much a solar system helps then depends on how your utility credits the power you send to the grid. Our guide on <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> explains the difference.</p>
+<p>Also note that the 30% federal Residential Clean Energy Credit is not available for property placed in service after December 31, 2025. Net metering and solar incentive programs vary by state and utility. The DSIRE database lists current programs.</p>
+<p>If you add an EV, your yearly use goes up, which can change how big a system makes sense. You can test your own numbers in our <a href="/solar-calculator/">solar calculator</a> or read <a href="/guides/how-many-solar-panels-do-i-need/">how many solar panels you need</a>. For state details, see our <a href="/solar-panels/">solar panels by state</a> pages.</p>
+<h2 id="bottom-line">Bottom line</h2>
+<p>Charging an EV at home is cheapest where electricity is cheapest. In our example of 3500 kWh a year at July 2026 average prices, that is about $445 in Louisiana and about $1680 in Hawaii, with most states in between. Your real cost depends on your utility, your rate plan and your driving. Check your bill&#39;s price per kWh, ask your utility about time-of-use rates, and use our <a href="/electricity-prices/">electricity prices</a> pages to compare.</p>
+69:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$78"}}]
+6a:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Home%20EV%20Charging%20Cost%20by%20State%3A%20What%20It%20Costs%20in%202026&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F&title=Home%20EV%20Charging%20Cost%20by%20State%3A%20What%20It%20Costs%20in%202026","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Home%20EV%20Charging%20Cost%20by%20State%3A%20What%20It%20Costs%20in%202026&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+6b:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Plug an appliance into it to see how many kWh it really uses."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Schedules heating and cooling around when you are actually home."}]]}]}],["$","li","Smart plugs with energy monitoring",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20plug%20energy%20monitoring&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart plugs with energy monitoring"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Turn devices off on a schedule and track their use from your phone."}]]}]}],["$","li","LED light bulbs",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=led%20light%20bulbs&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["LED light bulbs"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Give the same light as incandescent bulbs for much less electricity."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$L6",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+6c:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$L6",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+6d:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/tools/faqs/faq.php?id=507&t=3",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/tools/faqs/faq.php?id=507&t=3","rel":"noopener","target":"_blank","children":"EIA FAQ: electricity sales and price data"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator (NLR)"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://afdc.energy.gov/fuels/electricity-charging-home",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://afdc.energy.gov/fuels/electricity-charging-home","rel":"noopener","target":"_blank","children":"afdc.energy.gov/fuels/electricity-charging-home"}]]}],["$","li","https://afdc.energy.gov/fuels/electricity-stations",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://afdc.energy.gov/fuels/electricity-stations","rel":"noopener","target":"_blank","children":"afdc.energy.gov/fuels/electricity-stations"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[6,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[7,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}]]}]]}]
+6e:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L6",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+6f:["$","$L66",null,{"items":"$63:props:children:0:props:children:0:props:items","variant":"desktop"}]
+70:["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}]
+71:["$","span",null,{"aria-hidden":"true","children":"·"}]
+72:["$","span",null,{"children":[3," min"]}]
+73:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How many solar panels do I need? Sizing from your electric bill"}]
+74:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"A step-by-step way to size a home solar system from your annual kWh, daytime use and local sunshine, with real size-vs-payback tables for four states."}]
+75:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+76:["$","li","net-metering-vs-net-billing-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L6",null,{"href":"/guides/net-metering-vs-net-billing-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$4b",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electric-meter-card.webp","srcSet":"/photos/electric-meter-card.webp 640w, /photos/electric-meter-sm.webp 768w, /photos/electric-meter-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Net metering vs. net billing: how export credits change payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+5b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]
+79:I[27201,["$2"],"IconMark"]
+58:null
+5e:[["$","title","0",{"children":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","meta","1",{"name":"description","content":"What it costs to charge an electric car at home in every state, using July 2026 EIA electricity prices and a 3500 kWh per year example."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/home-ev-charging-cost-by-state/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","meta","7",{"property":"og:description","content":"What it costs to charge an electric car at home in every state, using July 2026 EIA electricity prices and a 3500 kWh per year example."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/home-ev-charging-cost-by-state/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/ev-home-charging-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Electric car charging at a residential Level 2 wall charger"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-10-12"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","meta","20",{"name":"twitter:description","content":"What it costs to charge an electric car at home in every state, using July 2026 EIA electricity prices and a 3500 kWh per year example."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/ev-home-charging-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L79","25",{}]]

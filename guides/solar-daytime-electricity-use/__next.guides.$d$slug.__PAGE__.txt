@@ -1,0 +1,185 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0296hdw2w9b-6.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/1l1ob0qitrnid.js"
+d:I[22016,["$3","$c"],""]
+18:"ViewportBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3"],"$1a"]
+1c:"$Sreact.suspense"
+1d:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5","children":[false,["$","$Ld",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"no-underline hover:text-ink","children":"Blog"}]]}],["$","li","/guides/topic/planning/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/planning/","className":"no-underline hover:text-ink","children":"Planning a system"}]]}],["$","li","/guides/solar-daytime-electricity-use/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Daytime Power Use and Solar Payback: 30%, 40%, 60%"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Planning a system\",\"item\":\"https://roofpayback.com/guides/topic/planning/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Daytime Power Use and Solar Payback: 30%, 40%, 60%\",\"item\":\"https://roofpayback.com/guides/solar-daytime-electricity-use/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/planning/","children":"Planning a system"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Daytime Power Use and Solar Payback: 30%, 40%, 60%"}],["$","p",null,{"className":"lede mt-5","children":"See how using more solar power during the day changes payback under full and reduced export credits, with model results for California, Texas, Florida and Arizona."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-25","children":"October 25, 2026"}]]}],false,["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Checked by ","automated fact and quality checks"]}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$Le","$Lf"]}],"$L10"]}]]}],"$L11","$L12","$L13","$L14"]}],["$L15"],"$L16"]}],"p":"$@17","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-daytime-electricity-use","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Daytime Power Use and Solar Payback: 30%, 40%, 60% | RoofPayback"}],["$","meta","1",{"name":"description","content":"See how using more solar power during the day changes payback under full and reduced export credits, with model results for California, Texas, Florida and Arizona."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-daytime-electricity-use/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Daytime Power Use and Solar Payback: 30%, 40%, 60%"}],["$","meta","7",{"property":"og:description","content":"See how using more solar power during the day changes payback under full and reduced export credits, with model results for California, Texas, Florida and Arizona."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-daytime-electricity-use/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/house-roof-massachusetts-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Solar panels on the roof of a house near Boston, Massachusetts"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-25"}],["$","meta","17",{"property":"article:modified_time","content":"2026-10-25"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Daytime Power Use and Solar Payback: 30%, 40%, 60%"}],["$","meta","20",{"name":"twitter:description","content":"See how using more solar power during the day changes payback under full and reduced export credits, with model results for California, Texas, Florida and Arizona."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/house-roof-massachusetts-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1d","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$8"}},"a":"$@1f","u":"$@20","b":"WB5Tuw5fk0Ga9L2Ft0QM5"}
+21:"$Sreact.view_transition"
+22:I[26029,["$3","$c"],"TocNav"]
+34:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/house-roof-massachusetts.webp","image",{"imageSrcSet":"/photos/house-roof-massachusetts-card.webp 640w, /photos/house-roof-massachusetts-sm.webp 768w, /photos/house-roof-massachusetts-md.webp 1024w, /photos/house-roof-massachusetts.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+f:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+10:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+11:["$","figure",null,{"className":"mt-8","children":[["$","$21",null,{"name":"photo-solar-daytime-electricity-use","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-massachusetts.webp","srcSet":"/photos/house-roof-massachusetts-card.webp 640w, /photos/house-roof-massachusetts-sm.webp 768w, /photos/house-roof-massachusetts-md.webp 1024w, /photos/house-roof-massachusetts.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Solar panels on the roof of a house near Boston, Massachusetts","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Solar panels on the roof of a house near Boston, Massachusetts",". Photo: ","Gray Watson User:E090"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/3.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Solar_panels_on_house_roof.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+23:T9f4,<div class="short-answer"><h2 id="short-answer">Short answer</h2>
+<p>Using more of your solar power while the sun is up can shorten payback a lot, but only when your utility pays you less for exported power. Where exports earn the full retail rate, daytime use barely changes the payback in our model. Where exports earn a reduced credit, moving from 30% to 60% daytime use can cut payback by many years.</p>
+<p>Self-consumption means using the solar power your panels make at the moment they make it, instead of sending it to the grid. This guide compares 30%, 40% and 60% daytime use under two export rules, using the same example home in four states.</p>
+</div><h2 id="the-example-home-and-the-two-credit-cases">The example home and the two credit cases</h2>
+<p>Our example home has these assumptions:</p>
+<ul>
+<li>A 7 kW system and 10500 kWh/yr of household use (a kWh, or kilowatt-hour, is the unit your bill charges for; see <a href="/guides/what-is-a-kilowatt-hour/">what is a kilowatt-hour</a>).</li>
+<li>40% of use happens while the sun is up in the base case.</li>
+<li>Installed cost of $3500/kW ($24500 total), no incentives, and $100/yr maintenance.</li>
+<li>Electricity prices rise 2.5%/yr and panels lose 0.5%/yr of output.</li>
+<li>A 25-year horizon, with export credits capped at a year of grid purchases (an annual true-up).</li>
+<li>Production comes from PVWatts v8, south-facing at a 20° pitch with 14% losses, using one reference city per state. Prices are the EIA August 2026 residential averages.</li>
+</ul>
+<p>We test two export rules. &quot;Credit full&quot; means every exported kWh is credited at the retail price, like classic net metering. &quot;Credit quarter&quot; means exports are credited at a quarter of the retail price, which is closer to net billing. Your own utility may differ, so check your rate plan. See <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs net billing payback</a> for more on how these rules work.</p>
+<h2 id="why-daytime-use-matters">Why daytime use matters</h2>
+<p>Every kWh you use directly from your panels is a kWh you do not buy at the retail price. A kWh you export earns whatever your utility credits for it. When the credit equals the retail price, both paths are worth the same, so it does not matter when you use power. When the credit is lower, each directly used kWh is worth more than each exported kWh.</p>
+<p>That is why the &quot;credit full&quot; results below do not change as daytime use goes up, while the &quot;credit quarter&quot; results do.</p>
+12:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L22",null,{"items":[{"id":"short-answer","text":"Short answer"},{"id":"the-example-home-and-the-two-credit-cases","text":"The example home and the two credit cases"},{"id":"why-daytime-use-matters","text":"Why daytime use matters"},{"id":"payback-by-state-and-daytime-use","text":"Payback by state and daytime use"},{"id":"what-the-table-shows","text":"What the table shows"},{"id":"how-to-raise-your-daytime-use","text":"How to raise your daytime use"},{"id":"what-this-model-leaves-out","text":"What this model leaves out"},{"id":"how-to-check-your-own-numbers","text":"How to check your own numbers"},{"id":"bottom-line","text":"Bottom line"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$23"}}],"$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}],"$L2c"]}]
+13:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","oversized-solar-system-annual-true-up",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/oversized-solar-system-annual-true-up/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-oversized-solar-system-annual-true-up","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-portland-card.webp","srcSet":"/photos/house-roof-portland-card.webp 640w, /photos/house-roof-portland-sm.webp 768w, /photos/house-roof-portland-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-20","children":"Oct 20, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Can a Solar System Be Too Big? Annual True-Up Explained"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"An oversized solar system can produce kWh your utility never credits. See where the waste shows up in sizing tables and how to pick a smarter size."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","time-of-use-electricity-rates-explained",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/time-of-use-electricity-rates-explained/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-time-of-use-electricity-rates-explained","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/substation-middleton-card.webp","srcSet":"/photos/substation-middleton-card.webp 640w, /photos/substation-middleton-sm.webp 768w, /photos/substation-middleton-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2d","$L2e","$L2f"]}],"$L30","$L31","$L32"]}]]}]}]}],"$L33"]}]]}]
+14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Daytime Power Use and Solar Payback: 30%, 40%, 60%\",\"description\":\"See how using more solar power during the day changes payback under full and reduced export credits, with model results for California, Texas, Florida and Arizona.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Planning a system\",\"wordCount\":1095,\"image\":[\"https://roofpayback.com/photos/house-roof-massachusetts-og.jpg\",\"https://roofpayback.com/photos/house-roof-massachusetts.webp\"],\"datePublished\":\"2026-10-25\",\"dateModified\":\"2026-10-25\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-daytime-electricity-use/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/1l1ob0qitrnid.js","async":true}]
+16:["$","$L34",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@35"}]}]
+20:true
+36:I[9441,["$3","$c"],"AdSlot"]
+8:300
+24:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L36",null,{"slot":"article"}]}]
+37:T1356,<h2 id="payback-by-state-and-daytime-use">Payback by state and daytime use</h2>
+<p>Payback is the number of years until savings repay the installed cost. These are model results for the example home, not quotes.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Daytime use</th>
+<th>Credit full</th>
+<th>Credit quarter</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>California</td>
+<td>30%</td>
+<td>7.4 years</td>
+<td>14.2 years</td>
+</tr>
+<tr>
+<td>California</td>
+<td>40%</td>
+<td>7.4 years</td>
+<td>12.5 years</td>
+</tr>
+<tr>
+<td>California</td>
+<td>60%</td>
+<td>7.4 years</td>
+<td>10.1 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>30%</td>
+<td>14.3 years</td>
+<td>Not within 25 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>40%</td>
+<td>14.3 years</td>
+<td>23.1 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>60%</td>
+<td>14.3 years</td>
+<td>18.6 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>30%</td>
+<td>14.1 years</td>
+<td>Not within 25 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>40%</td>
+<td>14.1 years</td>
+<td>23.5 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>60%</td>
+<td>14.1 years</td>
+<td>19.1 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>30%</td>
+<td>13.9 years</td>
+<td>Not within 25 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>40%</td>
+<td>13.9 years</td>
+<td>22.3 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>60%</td>
+<td>13.9 years</td>
+<td>18.3 years</td>
+</tr>
+</tbody></table>
+<h2 id="what-the-table-shows">What the table shows</h2>
+<p><strong>With full credit, timing does not matter.</strong> In Texas the payback stays at 14.3 years at every daytime share. The same is true in the other three states. Your savings come from total production, not from when you use it.</p>
+<p><strong>With reduced credit, timing matters a lot.</strong> In Texas, 30% daytime use does not pay back within 25 years in our model. At 40% it takes 23.1 years, and at 60% it takes 18.6 years. Arizona and Florida follow the same pattern.</p>
+<p><strong>California shows the effect in a high-price state.</strong> Its full-credit payback is 7.4 years. With reduced credit it moves from 14.2 years at 30% to 10.1 years at 60%. High retail prices make each self-used kWh more valuable.</p>
+<p><strong>Reduced credit never beats full credit.</strong> In every row, the reduced-credit payback is longer than the full-credit payback, even at 60% daytime use.</p>
+<h2 id="how-to-raise-your-daytime-use">How to raise your daytime use</h2>
+<p>Your daytime share depends on your household, so these are ideas, not promises:</p>
+<ul>
+<li>Run the dishwasher, laundry and other flexible loads at midday.</li>
+<li>Pre-cool or pre-heat the house while the sun is out, if your comfort allows.</li>
+<li>Charge an electric vehicle during the day when you can. See <a href="/guides/home-ev-charging-cost-by-state/">home EV charging cost by state</a>.</li>
+<li>If you work from home, you may already use more power in daytime hours.</li>
+<li>Check whether your rates change by time of day. Our guide to <a href="/guides/time-of-use-electricity-rates-explained/">time-of-use electricity rates</a> explains how that can change the value of midday power.</li>
+</ul>
+<p>If nobody is home on weekdays, your daytime share may be lower than you think. Your utility bill or smart meter data can show your real pattern.</p>
+<h2 id="what-this-model-leaves-out">What this model leaves out</h2>
+<p>These results use one set of assumptions. Your roof direction, shading, local rates and installer price will change them. The 30% federal Residential Clean Energy Credit (Section 25D) is not available for property placed in service after December 31, 2025, so we assume no incentives. Berkeley Lab reports a median installed price of $4.0 per watt for host-owned systems installed in 2024, so your quote may be higher or lower than our $3500/kW. Our <a href="/methodology/">methodology page</a> lists every input.</p>
+<h2 id="how-to-check-your-own-numbers">How to check your own numbers</h2>
+<ol>
+<li>Find out how your utility credits exports. Net metering and incentive programs vary by state and utility, and DSIRE keeps a database of current programs.</li>
+<li>Look at your hourly or monthly usage if your utility provides it.</li>
+<li>Run your numbers in the <a href="/solar-calculator/">solar calculator</a> and compare with your state&#39;s <a href="/electricity-prices/">electricity prices</a>.</li>
+<li>Ask installers how they model exports and daytime use, and compare the answer with your rate plan.</li>
+</ol>
+<h2 id="bottom-line">Bottom line</h2>
+<p>If your utility credits exports at the full retail price, daytime use will not change your solar payback much. If it credits exports at less, daytime use becomes one of the biggest levers you control. In our example home, raising daytime use from 30% to 60% moved Texas from no payback within 25 years to 18.6 years under reduced credit. Check your credit rules first, then use the <a href="/solar-calculator/">solar calculator</a> to test your own situation.</p>
+25:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$37"}}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Daytime%20Power%20Use%20and%20Solar%20Payback%3A%2030%25%2C%2040%25%2C%2060%25&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-daytime-electricity-use%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-daytime-electricity-use%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-daytime-electricity-use%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-daytime-electricity-use%2F&title=Daytime%20Power%20Use%20and%20Solar%20Payback%3A%2030%25%2C%2040%25%2C%2060%25","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Daytime%20Power%20Use%20and%20Solar%20Payback%3A%2030%25%2C%2040%25%2C%2060%25&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-daytime-electricity-use%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Whole-home energy monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=whole%20home%20energy%20monitor&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Whole-home energy monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shows your household use in real time — useful for sizing solar. Install by an electrician."}]]}]}],["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Find out which appliances use the most before you size a system."}]]}]}],["$","li","Portable power station",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=portable%20power%20station&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Portable power station"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Backup for small devices during outages. It is not a home battery system."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shifts heating and cooling to the hours you choose."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$Ld",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+28:null
+29:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+2a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://emp.lbl.gov/tracking-the-sun/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://emp.lbl.gov/tracking-the-sun/","rel":"noopener","target":"_blank","children":"Berkeley Lab: U.S. Distributed Solar and Storage 2025 Data Update"}]]}]]}]]}]
+2b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2c:["$","$L22",null,{"items":"$12:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2d:["$","time",null,{"dateTime":"2026-10-19","children":"Oct 19, 2026"}]
+2e:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2f:["$","span",null,{"children":[5," min"]}]
+30:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Time-of-Use Electricity Rates Explained for Homeowners"}]
+31:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How time-of-use electricity rates work, who they help, who they may cost more, and what to check with your utility, including how solar fits in."}]
+32:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+33:["$","li","solar-payback-period-explained",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-payback-period-explained/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-solar-payback-period-explained","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-hancock-park-card.webp","srcSet":"/photos/house-roof-hancock-park-card.webp 640w, /photos/house-roof-hancock-park-sm.webp 768w, /photos/house-roof-hancock-park-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-16","children":"Oct 16, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Payback Period Explained: What Sets the Number"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Solar payback depends on cost, output, price, export credit and self-use. See real examples by state and why a bigger system is not always better."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+35:null
+8:C
+1f:0
+a:"$undefined"
+6:"$undefined"
+1e:"$undefined"
+17:"$undefined"

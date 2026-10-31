@@ -1,0 +1,185 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0296hdw2w9b-6.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/1l1ob0qitrnid.js"
+d:I[22016,["$3","$c"],""]
+18:"ViewportBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3"],"$1a"]
+1c:"$Sreact.suspense"
+1d:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5","children":[false,["$","$Ld",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"no-underline hover:text-ink","children":"Blog"}]]}],["$","li","/guides/topic/planning/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/planning/","className":"no-underline hover:text-ink","children":"Planning a system"}]]}],["$","li","/guides/cloudy-states-solar-worth-it/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Is Solar Worth It in Cloudy States? What the Numbers Show"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Planning a system\",\"item\":\"https://roofpayback.com/guides/topic/planning/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Is Solar Worth It in Cloudy States? What the Numbers Show\",\"item\":\"https://roofpayback.com/guides/cloudy-states-solar-worth-it/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/planning/","children":"Planning a system"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Is Solar Worth It in Cloudy States? What the Numbers Show"}],["$","p",null,{"className":"lede mt-5","children":"Cloudy states can still see solar pay off when electricity prices are high. See output, prices and payback for the lowest-sunshine states."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-31","children":"October 31, 2026"}]]}],false,["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Checked by ","automated fact and quality checks"]}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$Le","$Lf"]}],"$L10"]}]]}],"$L11","$L12","$L13","$L14"]}],["$L15"],"$L16"]}],"p":"$@17","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"cloudy-states-solar-worth-it","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Is Solar Worth It in Cloudy States? What the Numbers Show"}],["$","meta","1",{"name":"description","content":"Cloudy states can still see solar pay off when electricity prices are high. See output, prices and payback for the lowest-sunshine states."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/cloudy-states-solar-worth-it/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Is Solar Worth It in Cloudy States? What the Numbers Show"}],["$","meta","7",{"property":"og:description","content":"Cloudy states can still see solar pay off when electricity prices are high. See output, prices and payback for the lowest-sunshine states."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/cloudy-states-solar-worth-it/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/roof-snow-georgia-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Rooftop solar panels in Hiram, Georgia, after a rare snow event"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-31"}],["$","meta","17",{"property":"article:modified_time","content":"2026-10-31"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Is Solar Worth It in Cloudy States? What the Numbers Show"}],["$","meta","20",{"name":"twitter:description","content":"Cloudy states can still see solar pay off when electricity prices are high. See output, prices and payback for the lowest-sunshine states."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/roof-snow-georgia-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1d","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$8"}},"a":"$@1f","u":"$@20","b":"WB5Tuw5fk0Ga9L2Ft0QM5"}
+21:"$Sreact.view_transition"
+22:I[26029,["$3","$c"],"TocNav"]
+34:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/roof-snow-georgia.webp","image",{"imageSrcSet":"/photos/roof-snow-georgia-card.webp 640w, /photos/roof-snow-georgia-sm.webp 768w, /photos/roof-snow-georgia-md.webp 1024w, /photos/roof-snow-georgia.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+f:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+10:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+11:["$","figure",null,{"className":"mt-8","children":[["$","$21",null,{"name":"photo-cloudy-states-solar-worth-it","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-snow-georgia.webp","srcSet":"/photos/roof-snow-georgia-card.webp 640w, /photos/roof-snow-georgia-sm.webp 768w, /photos/roof-snow-georgia-md.webp 1024w, /photos/roof-snow-georgia.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Rooftop solar panels in Hiram, Georgia, after a rare snow event","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Rooftop solar panels in Hiram, Georgia, after a rare snow event",". Photo: ","Photo by Deidra Hodges. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Hodges_000369_171508_516320_4578_(36567567020).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Hodges_000369_171508_516320_4578_(36567567020).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+23:Tbb7,<div class="short-answer"><h2 id="short-answer">Short answer</h2>
+<p>Yes, solar can still pay off in cloudy states. Sunshine matters, but the price you pay for electricity often matters more. In our example math, Vermont has far less yearly output per kW than Arizona. Yet its payback is shorter: 11.3 years in Vermont versus 13.9 years in Arizona, with full export credit.</p>
+<p>That does not mean every cloudy home is a good fit. It means you should compare your own utility rate and your own quote, not just a sunshine map. Use the <a href="/solar-calculator/">solar calculator</a> to test your numbers.</p>
+</div><h2 id="how-we-measured-it">How we measured it</h2>
+<p>All figures below come from one example home. Please keep its assumptions in mind:</p>
+<ul>
+<li>A 7 kW system and 10500 kWh a year of household use.</li>
+<li>40% of use happens while the sun is up.</li>
+<li>Installed cost of $3500 per kW ($24500 total), with no incentives.</li>
+<li>$100 a year in maintenance.</li>
+<li>Electricity price rising 2.5% a year and panel output falling 0.5% a year.</li>
+<li>A 25-year horizon.</li>
+<li>Export credits capped at a year of grid purchases (an annual true-up).</li>
+</ul>
+<p>Production comes from PVWatts v8, a free solar estimator from the U.S. Department of Energy&#39;s National Laboratory of the Rockies. We used south-facing panels, a 20° pitch, 14% losses and one reference city per state. Prices are EIA August 2026 averages for residential customers. The U.S. average was 18.16¢ per kWh. A kWh, or kilowatt-hour, is the unit your utility bills you for. Our <a href="/methodology/">methodology page</a> has more detail.</p>
+<h2 id="the-lowest-output-states">The lowest-output states</h2>
+<p>Output is measured in kWh per year for each kW of panels. These are the lowest figures in our data:</p>
+<table>
+<thead>
+<tr>
+<th>State (reference city)</th>
+<th>Yearly output per kW</th>
+<th>Price</th>
+<th>Payback, full credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Alaska (Anchorage)</td>
+<td>922 kWh</td>
+<td>29.41¢/kWh</td>
+<td>12.1 years</td>
+</tr>
+<tr>
+<td>Washington (Seattle)</td>
+<td>1088 kWh</td>
+<td>14.63¢/kWh</td>
+<td>19.6 years</td>
+</tr>
+<tr>
+<td>Oregon (Portland)</td>
+<td>1128 kWh</td>
+<td>15.92¢/kWh</td>
+<td>17.6 years</td>
+</tr>
+<tr>
+<td>Vermont (Burlington)</td>
+<td>1222 kWh</td>
+<td>23.84¢/kWh</td>
+<td>11.3 years</td>
+</tr>
+<tr>
+<td>West Virginia (Charleston)</td>
+<td>1232 kWh</td>
+<td>16.31¢/kWh</td>
+<td>16 years</td>
+</tr>
+<tr>
+<td>Connecticut (Hartford)</td>
+<td>1252 kWh</td>
+<td>24.51¢/kWh</td>
+<td>10.8 years</td>
+</tr>
+</tbody></table>
+<p>Notice the pattern. Washington and Oregon have both low output and middling prices, so their paybacks are among the longer ones. Alaska, Vermont and Connecticut have low output but high prices, so their paybacks are much shorter. You can read more on the <a href="/solar-panels/washington/">Washington</a>, <a href="/solar-panels/oregon/">Oregon</a> and <a href="/solar-panels/vermont/">Vermont</a> pages.</p>
+12:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L22",null,{"items":[{"id":"short-answer","text":"Short answer"},{"id":"how-we-measured-it","text":"How we measured it"},{"id":"the-lowest-output-states","text":"The lowest-output states"},{"id":"why-price-can-outweigh-sunshine","text":"Why price can outweigh sunshine"},{"id":"winter-is-the-weak-spot","text":"Winter is the weak spot"},{"id":"what-if-export-credit-is-lower","text":"What if export credit is lower?"},{"id":"costs-and-incentives-to-check","text":"Costs and incentives to check"},{"id":"next-steps","text":"Next steps"},{"id":"bottom-line","text":"Bottom line"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$23"}}],"$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}],"$L2c"]}]
+13:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","best-states-for-solar-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/best-states-for-solar-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-best-states-for-solar-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-louisiana-card.webp","srcSet":"/photos/house-roof-louisiana-card.webp 640w, /photos/house-roof-louisiana-sm.webp 768w, /photos/house-roof-louisiana-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Best States for Solar Payback: Fastest and Slowest"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Where does home solar pay back fastest? We rank states with one example home and explain why electricity prices matter more than sunshine."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-panels-in-winter-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-winter-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-solar-panels-in-winter-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-snow-georgia-card.webp","srcSet":"/photos/roof-snow-georgia-card.webp 640w, /photos/roof-snow-georgia-sm.webp 768w, /photos/roof-snow-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2d","$L2e","$L2f"]}],"$L30","$L31","$L32"]}]]}]}]}],"$L33"]}]]}]
+14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Is Solar Worth It in Cloudy States? What the Numbers Show\",\"description\":\"Cloudy states can still see solar pay off when electricity prices are high. See output, prices and payback for the lowest-sunshine states.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Planning a system\",\"wordCount\":1131,\"image\":[\"https://roofpayback.com/photos/roof-snow-georgia-og.jpg\",\"https://roofpayback.com/photos/roof-snow-georgia.webp\"],\"datePublished\":\"2026-10-31\",\"dateModified\":\"2026-10-31\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/cloudy-states-solar-worth-it/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/1l1ob0qitrnid.js","async":true}]
+16:["$","$L34",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@35"}]}]
+20:true
+36:I[9441,["$3","$c"],"AdSlot"]
+8:300
+24:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L36",null,{"slot":"article"}]}]
+37:T1327,<h2 id="why-price-can-outweigh-sunshine">Why price can outweigh sunshine</h2>
+<p>Solar saves you the price of each kWh your panels cover. A panel that makes fewer kWh but replaces expensive ones can still save more money.</p>
+<p>Compare two states. Arizona (Phoenix) makes 1755 kWh per kW, but power costs 15.05¢ per kWh. Year-1 savings with full credit are $1580. Maine (Portland) makes only 1319 kWh per kW, but power costs 32.11¢ per kWh. Year-1 savings are $2964. Maine&#39;s payback is 8 years. Arizona&#39;s is 13.9 years.</p>
+<p>Massachusetts shows the same thing. It makes 1302 kWh per kW and pays 30.48¢ per kWh, for a payback of 8.5 years. Nevada makes 1753 kWh per kW but pays 12.72¢ per kWh. Its payback is 16.1 years.</p>
+<p>So a sunny place with cheap power can be a slower deal than a cloudy place with costly power. To see how rates differ where you live, check <a href="/electricity-prices/">electricity prices by state</a> and our guide on <a href="/guides/why-electricity-prices-differ-by-state/">why prices differ by state</a>.</p>
+<h2 id="winter-is-the-weak-spot">Winter is the weak spot</h2>
+<p>Cloudy states also have big seasonal swings. The summer-to-winter ratio compares June to August output with December to February output. A higher ratio means weaker winters.</p>
+<ul>
+<li>Washington: winter 128 kWh and summer 417 kWh per kW, a ratio of 3.3.</li>
+<li>Oregon: winter 134 kWh and summer 423 kWh, a ratio of 3.2.</li>
+<li>Alaska: winter 57 kWh and summer 372 kWh, a ratio of 6.6.</li>
+<li>Florida, by comparison: winter 332 kWh and summer 395 kWh, a ratio of 1.2.</li>
+</ul>
+<p>In winter, a cloudy-state system may cover little of your bill. In summer it may produce a lot. Over a year, these can balance out when your utility gives you credit for extra summer power. That credit is the key question. Net metering and similar programs vary by state and utility, and DSIRE keeps a database of current programs. Our guides on <a href="/guides/solar-panels-in-winter-by-state/">winter solar by state</a> and <a href="/guides/net-metering-vs-net-billing-payback/">net metering versus net billing</a> explain the details.</p>
+<h2 id="what-if-export-credit-is-lower">What if export credit is lower?</h2>
+<p>Our main numbers assume full credit for exported power. Many utilities pay less. Here is how the payback changes for a few cloudy places:</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Full credit</th>
+<th>Half credit</th>
+<th>Quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Alaska</td>
+<td>12.1 years</td>
+<td>15.6 years</td>
+<td>18.1 years</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>11.3 years</td>
+<td>14.7 years</td>
+<td>17.2 years</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>17.6 years</td>
+<td>22.4 years</td>
+<td>Not within 25 years</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>19.6 years</td>
+<td>24.6 years</td>
+<td>Not within 25 years</td>
+</tr>
+</tbody></table>
+<p>High prices cushion the blow. Vermont still pays back in 17.2 years at quarter credit. Oregon and Washington do not pay back within 25 years at that level. Your utility&#39;s actual rules could land anywhere on this range, so ask for them in writing. See also our guide on <a href="/guides/is-solar-worth-it-without-tax-credit/">solar payback without the tax credit</a>.</p>
+<h2 id="costs-and-incentives-to-check">Costs and incentives to check</h2>
+<p>The 30% federal Residential Clean Energy Credit (Section 25D) is not available for property placed in service after December 31, 2025. Our example math assumes no incentives, so it does not rely on it. State or local programs may still exist, so check DSIRE.</p>
+<p>Berkeley Lab reports a median installed price of $4.0 per watt for host-owned residential systems installed in 2024, before incentives. Cash-purchased systems had a median of $3.5 per watt and loan-financed systems $4.7 per watt. Our example uses $3500 per kW, which matches the cash-purchase median. If your quote is higher, your payback will be longer. The <a href="/guides/solar-cost-per-watt-payback/">cost per watt guide</a> shows why.</p>
+<h2 id="next-steps">Next steps</h2>
+<ol>
+<li>Find your current rate on your bill and compare it with the state figures above.</li>
+<li>Ask your utility how it credits exported power and whether credits reset each year.</li>
+<li>Get quotes and compare the price per watt.</li>
+<li>Run your own numbers in the <a href="/solar-calculator/">solar calculator</a>.</li>
+</ol>
+<h2 id="bottom-line">Bottom line</h2>
+<p>Low sunshine does not rule out solar. In our example, high-price states like Alaska, Vermont and Connecticut pay back faster than much sunnier states with cheap power. But low output plus an average price, as in Washington and Oregon, makes for long paybacks, especially if export credit is reduced. These are modeled estimates for one example home, not guarantees. Your roof, your use and your utility rules decide your real result.</p>
+25:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$37"}}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Is%20Solar%20Worth%20It%20in%20Cloudy%20States%3F%20What%20the%20Numbers%20Show&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fcloudy-states-solar-worth-it%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fcloudy-states-solar-worth-it%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fcloudy-states-solar-worth-it%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fcloudy-states-solar-worth-it%2F&title=Is%20Solar%20Worth%20It%20in%20Cloudy%20States%3F%20What%20the%20Numbers%20Show","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Is%20Solar%20Worth%20It%20in%20Cloudy%20States%3F%20What%20the%20Numbers%20Show&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fcloudy-states-solar-worth-it%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Whole-home energy monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=whole%20home%20energy%20monitor&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Whole-home energy monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shows your household use in real time — useful for sizing solar. Install by an electrician."}]]}]}],["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Find out which appliances use the most before you size a system."}]]}]}],["$","li","Portable power station",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=portable%20power%20station&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Portable power station"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Backup for small devices during outages. It is not a home battery system."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shifts heating and cooling to the hours you choose."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$Ld",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+28:null
+29:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+2a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://emp.lbl.gov/tracking-the-sun/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://emp.lbl.gov/tracking-the-sun/","rel":"noopener","target":"_blank","children":"Berkeley Lab: U.S. Distributed Solar and Storage 2025 Data Update"}]]}]]}]]}]
+2b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2c:["$","$L22",null,{"items":"$12:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2d:["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}]
+2e:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2f:["$","span",null,{"children":[6," min"]}]
+30:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in Winter: Output by State vs. Summer"}]
+31:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How much do solar panels make in winter? Winter vs. summer output per kW for U.S. states, why the gap grows up north, and what it means for net metering."}]
+32:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+33:["$","li","net-metering-vs-net-billing-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/net-metering-vs-net-billing-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electric-meter-card.webp","srcSet":"/photos/electric-meter-card.webp 640w, /photos/electric-meter-sm.webp 768w, /photos/electric-meter-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Net metering vs. net billing: how export credits change payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+35:null
+8:C
+1f:0
+a:"$undefined"
+6:"$undefined"
+1e:"$undefined"
+17:"$undefined"
