@@ -1,0 +1,6 @@
+# Redirecciones 301 (Cloudflare Pages / Netlify). Añade aquí cualquier URL que cambie.
+/calculadora  /calculadora-placas-solares/  301
+/provincias   /placas-solares/              301
+
+# Netlify: la subdirección del proyecto redirige al dominio principal (evita contenido duplicado).
+https://funny-torte-e9f2a7.netlify.app/* https://roofpayback.com/:splat 301!
