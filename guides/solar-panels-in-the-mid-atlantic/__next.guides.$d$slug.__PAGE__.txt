@@ -1,0 +1,197 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/10ky6vrygz9qb.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/1l1ob0qitrnid.js"
+d:I[22016,["$3","$c"],""]
+18:"ViewportBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3"],"$1a"]
+1c:"$Sreact.suspense"
+1d:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5","children":[false,["$","$Ld",null,{"href":"/","className":"no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"no-underline hover:text-ink","children":"Blog"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-panels-in-the-mid-atlantic/",{"className":"flex items-center gap-1.5","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Solar Panels in the Mid-Atlantic: Payback by State"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Solar Panels in the Mid-Atlantic: Payback by State\",\"item\":\"https://roofpayback.com/guides/solar-panels-in-the-mid-atlantic/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Solar Panels in the Mid-Atlantic: Payback by State"}],["$","p",null,{"className":"lede mt-5","children":"How fast rooftop solar pays back in New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C., based on EIA prices and PVWatts output."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-10","children":"November 10, 2026"}]]}],false,["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Checked by ","automated fact and quality checks"]}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$Le","$Lf"]}],"$L10"]}]]}],"$L11","$L12","$L13","$L14"]}],["$L15"],"$L16"]}],"p":"$@17","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-panels-in-the-mid-atlantic","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Solar Panels in the Mid-Atlantic: Payback by State | RoofPayback"}],["$","meta","1",{"name":"description","content":"How fast rooftop solar pays back in New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C., based on EIA prices and PVWatts output."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-panels-in-the-mid-atlantic/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Solar Panels in the Mid-Atlantic: Payback by State"}],["$","meta","7",{"property":"og:description","content":"How fast rooftop solar pays back in New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C., based on EIA prices and PVWatts output."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-panels-in-the-mid-atlantic/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/house-roof-portland-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Residential solar PV installation in Portland, Oregon"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-10"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-10"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Solar Panels in the Mid-Atlantic: Payback by State"}],["$","meta","20",{"name":"twitter:description","content":"How fast rooftop solar pays back in New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C., based on EIA prices and PVWatts output."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/house-roof-portland-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1d","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$8"}},"a":"$@1f","u":"$@20","b":"razvbhe7ODpDzajgCU-Y0"}
+21:"$Sreact.view_transition"
+22:I[26029,["$3","$c"],"TocNav"]
+34:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/house-roof-portland.webp","image",{"imageSrcSet":"/photos/house-roof-portland-card.webp 640w, /photos/house-roof-portland-sm.webp 768w, /photos/house-roof-portland-md.webp 1024w, /photos/house-roof-portland.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+f:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+10:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+11:["$","figure",null,{"className":"mt-8","children":[["$","$21",null,{"name":"photo-solar-panels-in-the-mid-atlantic","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-portland.webp","srcSet":"/photos/house-roof-portland-card.webp 640w, /photos/house-roof-portland-sm.webp 768w, /photos/house-roof-portland-md.webp 1024w, /photos/house-roof-portland.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Residential solar PV installation in Portland, Oregon","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Residential solar PV installation in Portland, Oregon",". Photo: ","Cboyce89"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/4.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 4.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Elemental_Energy_Solar_PV_Installation.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+23:T9d9,<div class="short-answer"><h2 id="short-answer">Short answer</h2>
+<p>Solar in the Mid-Atlantic pays back faster than its modest sunshine would suggest, because electricity there is expensive. In our example home model, the full-credit payback runs from 9 years in New York City to 12.8 years in Wilmington, Delaware. The gap comes almost entirely from the price per kilowatt-hour (kWh), not from the sun.</p>
+<p>The catch: those numbers assume you get full credit for the power you send back to the grid. If your utility pays less for exports, the timeline stretches, sometimes by years.</p>
+</div><h2 id="what-we-mean-by-mid-atlantic">What we mean by Mid-Atlantic</h2>
+<p>This guide covers six places: New York, New Jersey, Pennsylvania, Delaware, Maryland and Washington, D.C. Virginia sits in a different federal region, so it is left out here. For a wider look at the East Coast, see our guides to <a href="/guides/solar-panels-in-new-england/">New England</a> and <a href="/guides/solar-panels-in-the-southeast/">the Southeast</a>.</p>
+<h2 id="the-bill-pressure-is-real">The bill pressure is real</h2>
+<p>The U.S. Energy Information Administration (EIA) tracks average residential prices. In August 2026 the U.S. average was 18.16¢ per kWh. The Middle Atlantic census division (New York, New Jersey and Pennsylvania) averaged 25.17¢, up 6.1% from 23.73¢ a year earlier.</p>
+<p>Here is what 900 kWh a month costs at each place&#39;s average price. EIA averages are utility revenue divided by kWh sold, so they include taxes and fees. Your own bill will differ.</p>
+<table>
+<thead>
+<tr>
+<th>Place</th>
+<th>Residential price</th>
+<th>900 kWh per month</th>
+<th>Change from a year earlier</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>New York</td>
+<td>28.65¢</td>
+<td>about $258</td>
+<td>7.5%</td>
+</tr>
+<tr>
+<td>District of Columbia</td>
+<td>25.98¢</td>
+<td>about $234</td>
+<td>12.1%</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>24.61¢</td>
+<td>about $221</td>
+<td>-0.4%</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>21.77¢</td>
+<td>about $196</td>
+<td>9.2%</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>21.4¢</td>
+<td>about $193</td>
+<td>7.6%</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>18.7¢</td>
+<td>about $168</td>
+<td>11%</td>
+</tr>
+</tbody></table>
+<p>Notice that five of the six rose by more than 7% in a year. New Jersey was the exception. A rising rate makes every solar-generated kWh worth more over time, which is the core of the <a href="/guides/solar-payback-if-electricity-prices-rise/">payback-if-prices-rise</a> argument.</p>
+12:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L22",null,{"items":[{"id":"short-answer","text":"Short answer"},{"id":"what-we-mean-by-mid-atlantic","text":"What we mean by Mid-Atlantic"},{"id":"the-bill-pressure-is-real","text":"The bill pressure is real"},{"id":"the-sun-is-average-the-prices-are-not","text":"The sun is average, the prices are not"},{"id":"payback-by-place","text":"Payback by place"},{"id":"credit-rules-are-the-biggest-unknown","text":"Credit rules are the biggest unknown"},{"id":"no-federal-credit-to-lean-on","text":"No federal credit to lean on"},{"id":"how-to-check-your-own-roof","text":"How to check your own roof"},{"id":"bottom-line","text":"Bottom line"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$23"}}],["$","div",null,{"className":"max-w-[var(--measure)]","children":"$L24"}],"$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}],"$L2c"]}]
+13:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-incentives-after-federal-tax-credit",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-incentives-after-federal-tax-credit/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-solar-incentives-after-federal-tax-credit","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-pv-nevada-card.webp","srcSet":"/photos/roof-pv-nevada-card.webp 640w, /photos/roof-pv-nevada-sm.webp 768w, /photos/roof-pv-nevada-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-05","children":"Nov 5, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Incentives After the Federal Tax Credit Ended"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"The 30% federal solar credit ended for 2026 installs. See what state, local and utility help may remain, how to check DSIRE, and how payback changes."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-panels-in-new-england",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-new-england/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-solar-panels-in-new-england","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-massachusetts-card.webp","srcSet":"/photos/house-roof-massachusetts-card.webp 640w, /photos/house-roof-massachusetts-sm.webp 768w, /photos/house-roof-massachusetts-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2d","$L2e","$L2f"]}],"$L30","$L31","$L32"]}]]}]}]}],"$L33"]}]]}]
+14:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Solar Panels in the Mid-Atlantic: Payback by State\",\"description\":\"How fast rooftop solar pays back in New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C., based on EIA prices and PVWatts output.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1046,\"image\":[\"https://roofpayback.com/photos/house-roof-portland-og.jpg\",\"https://roofpayback.com/photos/house-roof-portland.webp\"],\"datePublished\":\"2026-11-10\",\"dateModified\":\"2026-11-10\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-panels-in-the-mid-atlantic/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+15:["$","script","script-0",{"src":"/_next/static/chunks/1l1ob0qitrnid.js","async":true}]
+16:["$","$L34",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@35"}]}]
+20:true
+36:I[9441,["$3","$c"],"AdSlot"]
+8:300
+24:["$","$L36",null,{"slot":"article"}]
+37:T145d,<h2 id="the-sun-is-average-the-prices-are-not">The sun is average, the prices are not</h2>
+<p>Yearly output per kilowatt of panels, from PVWatts v8 for one reference city each, is similar across the region: 1291 kWh/kW in New York City and Newark&#39;s 1306 at the low end, and 1411 in Washington at the high end. By comparison, Phoenix gets 1755.</p>
+<p>So a Mid-Atlantic roof makes less power than a desert roof. Yet the payback can still be competitive, because each kWh it makes replaces an expensive one.</p>
+<h2 id="payback-by-place">Payback by place</h2>
+<p>These figures use our example home: a 7 kW system costing $24,500, 10,500 kWh of yearly use, no incentives. The <a href="/methodology/">methodology</a> page has the rest of the assumptions. &quot;Full credit&quot; means every exported kWh earns the retail rate. &quot;Half&quot; and &quot;quarter&quot; credit show what happens if exports are worth less.</p>
+<table>
+<thead>
+<tr>
+<th>Place (reference city)</th>
+<th>Output per kW</th>
+<th>Full credit</th>
+<th>Half credit</th>
+<th>Quarter credit</th>
+<th>Year-1 savings, full credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>New York (New York City)</td>
+<td>1291 kWh</td>
+<td>9 years</td>
+<td>12 years</td>
+<td>14.3 years</td>
+<td>$2590</td>
+</tr>
+<tr>
+<td>District of Columbia (Washington)</td>
+<td>1411 kWh</td>
+<td>9.1 years</td>
+<td>12.4 years</td>
+<td>15.1 years</td>
+<td>$2566</td>
+</tr>
+<tr>
+<td>New Jersey (Newark)</td>
+<td>1306 kWh</td>
+<td>10.3 years</td>
+<td>13.7 years</td>
+<td>16.3 years</td>
+<td>$2249</td>
+</tr>
+<tr>
+<td>Maryland (Baltimore)</td>
+<td>1392 kWh</td>
+<td>11.1 years</td>
+<td>15 years</td>
+<td>18 years</td>
+<td>$2085</td>
+</tr>
+<tr>
+<td>Pennsylvania (Philadelphia)</td>
+<td>1359 kWh</td>
+<td>11.2 years</td>
+<td>15 years</td>
+<td>17.9 years</td>
+<td>$2072</td>
+</tr>
+<tr>
+<td>Delaware (Wilmington)</td>
+<td>1363 kWh</td>
+<td>12.8 years</td>
+<td>17.1 years</td>
+<td>20.4 years</td>
+<td>$1785</td>
+</tr>
+</tbody></table>
+<p>Two things stand out. First, even the slowest case here, Delaware at quarter credit, pays back within the 25-year horizon. In several cheaper-power states it does not. Second, the spread between full and quarter credit is 5.3 years in New York but 7.6 years in Delaware. Lower prices make the credit rules matter more.</p>
+<p>Washington and New York look almost identical at full credit, even though Washington&#39;s panels produce more. The higher New York price offsets it.</p>
+<h2 id="credit-rules-are-the-biggest-unknown">Credit rules are the biggest unknown</h2>
+<p>Your payback depends on how your utility values exported power. Net metering gives you retail-rate credit; net billing usually pays less. Rules differ by state and sometimes by utility, so check the <a href="https://programs.dsireusa.org/">DSIRE database</a> before relying on any estimate. Our explainer on <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> shows how much the choice moves the numbers.</p>
+<p>Also remember that about 40% of use in our model happens while the sun is up. The rest of your solar power is exported, so sizing matters. The <a href="/guides/oversized-solar-system-annual-true-up/">oversized system guide</a> explains why a bigger array does not always help.</p>
+<h2 id="no-federal-credit-to-lean-on">No federal credit to lean on</h2>
+<p>The IRS says the 30% federal Residential Clean Energy Credit (Section 25D) is not available for property placed in service after December 31, 2025. Every payback figure above assumes no incentives, so any state or local program you qualify for would shorten them. Our guide to <a href="/guides/solar-incentives-after-federal-tax-credit/">incentives after the federal credit</a> lists where to look.</p>
+<p>Price also matters. Berkeley Lab reports a median installed price of $4.0 per watt for host-owned systems installed in 2024, higher than our $3.50 per watt example. A higher quote lengthens every number in the table.</p>
+<h2 id="how-to-check-your-own-roof">How to check your own roof</h2>
+<ol>
+<li>Pull a year of bills and add up your kWh. Use that, not our 10,500, if yours differs.</li>
+<li>Find your utility&#39;s export credit rule.</li>
+<li>Run your numbers through the <a href="/solar-calculator/">solar calculator</a>.</li>
+<li>Compare at least a few quotes, and ask each to show assumed degradation and price increases.</li>
+<li>Use <a href="https://pvwatts.nlr.gov/">PVWatts</a> to sanity-check any production claim.</li>
+</ol>
+<p>For state specifics, see <a href="/solar-panels/new-york/">New York</a>, <a href="/solar-panels/new-jersey/">New Jersey</a> or <a href="/solar-panels/pennsylvania/">Pennsylvania</a>, and compare local rates on our <a href="/electricity-prices/">electricity prices</a> page.</p>
+<h2 id="bottom-line">Bottom line</h2>
+<p>In the Mid-Atlantic, the price of power does the heavy lifting. New York, Washington and New Jersey show the quickest paybacks in our model, while Delaware is slowest at full credit. Export rules are the swing factor, and the missing federal credit means your quote and local incentives matter more than ever. These are model results, not guarantees. Your utility, roof and contract decide the real outcome.</p>
+25:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$37"}}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Solar%20Panels%20in%20the%20Mid-Atlantic%3A%20Payback%20by%20State&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-mid-atlantic%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-mid-atlantic%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-mid-atlantic%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-mid-atlantic%2F&title=Solar%20Panels%20in%20the%20Mid-Atlantic%3A%20Payback%20by%20State","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Solar%20Panels%20in%20the%20Mid-Atlantic%3A%20Payback%20by%20State&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-mid-atlantic%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Whole-home energy monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=whole%20home%20energy%20monitor&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Whole-home energy monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shows your household use in real time — useful for sizing solar. Install by an electrician."}]]}]}],["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Find out which appliances use the most before you size a system."}]]}]}],["$","li","Portable power station",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=portable%20power%20station&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Portable power station"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Backup for small devices during outages. It is not a home battery system."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Shifts heating and cooling to the hours you choose."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$Ld",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+28:null
+29:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+2a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://emp.lbl.gov/tracking-the-sun/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://emp.lbl.gov/tracking-the-sun/","rel":"noopener","target":"_blank","children":"Berkeley Lab: U.S. Distributed Solar and Storage 2025 Data Update"}]]}]]}]]}]
+2b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2c:["$","$L22",null,{"items":"$12:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2d:["$","time",null,{"dateTime":"2026-11-03","children":"Nov 3, 2026"}]
+2e:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2f:["$","span",null,{"children":[5," min"]}]
+30:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in New England: Prices, Sun and Payback"}]
+31:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Maine, New Hampshire, Massachusetts and more: how high New England electricity prices and lower winter sun shape solar payback for an example home."}]
+32:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+33:["$","li","solar-payback-if-electricity-prices-rise",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-payback-if-electricity-prices-rise/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$21",null,{"name":"photo-solar-payback-if-electricity-prices-rise","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-los-angeles-card.webp","srcSet":"/photos/house-roof-los-angeles-card.webp 640w, /photos/house-roof-los-angeles-sm.webp 768w, /photos/house-roof-los-angeles-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],false,["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-27","children":"Oct 27, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Payback If Electricity Prices Keep Rising"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"See how 0%, 2.5% and 4% yearly electricity price growth change solar payback and 25-year gain for an example home in five states."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+35:null
+8:C
+1f:0
+a:"$undefined"
+6:"$undefined"
+1e:"$undefined"
+17:"$undefined"
