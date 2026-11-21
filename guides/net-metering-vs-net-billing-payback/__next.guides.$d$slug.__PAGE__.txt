@@ -1,0 +1,248 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1vcx5jnhctx4g.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/net-metering-vs-net-billing-payback/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Net Metering vs. Net Billing: How Export Credits Change Payback"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Net Metering vs. Net Billing: How Export Credits Change Payback\",\"item\":\"https://roofpayback.com/guides/net-metering-vs-net-billing-payback/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","p",null,{"className":"lede mt-5","children":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-11","children":"October 11, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-18","children":"November 18, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],"$Le"]}],"$Lf","$L10","$L11","$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"net-metering-vs-net-billing-payback","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","meta","1",{"name":"description","content":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/net-metering-vs-net-billing-payback/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","meta","7",{"property":"og:description","content":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/net-metering-vs-net-billing-payback/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/net-metering-vs-net-billing-payback-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"A solar inverter next to electricity meters and disconnect switches"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-11"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-18"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","meta","20",{"name":"twitter:description","content":"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/net-metering-vs-net-billing-payback-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1b","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"ODsc3PfjVDdKT1QZ0qH5z"}
+1f:"$Sreact.view_transition"
+20:I[26029,["$3","$c"],"TocNav"]
+2f:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/net-metering-vs-net-billing-payback.webp","image",{"imageSrcSet":"/photos/net-metering-vs-net-billing-payback-card.webp 640w, /photos/net-metering-vs-net-billing-payback-sm.webp 768w, /photos/net-metering-vs-net-billing-payback-md.webp 1024w, /photos/net-metering-vs-net-billing-payback.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]]}]
+f:["$","figure",null,{"className":"mt-8","children":[["$","$1f",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/net-metering-vs-net-billing-payback.webp","srcSet":"/photos/net-metering-vs-net-billing-payback-card.webp 640w, /photos/net-metering-vs-net-billing-payback-sm.webp 768w, /photos/net-metering-vs-net-billing-payback-md.webp 1024w, /photos/net-metering-vs-net-billing-payback.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"A solar inverter next to electricity meters and disconnect switches","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["A solar inverter next to electricity meters and disconnect switches",". ","Photo: SayCheeeeeese"," · ",["$","a",null,{"className":"link","href":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","rel":"noopener license","target":"_blank","children":"CC0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Vermont_Law_School_Solar_Panel_Array-4.JPG","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+21:Ta8f,<div class="short-answer"><h2 id="quick-verdict">Quick verdict</h2>
+<p>Net metering gives the shorter payback in every state in the table below. Net billing does the least damage where power is expensive.</p>
+<p>The credit for power you send to the grid can move payback as much as sunshine does. In our example home, Texas pays back in 14.3 years with full net metering, 19.2 years when exports earn half the retail rate, and 23.1 years at a quarter of retail. California moves from 7.4 to 9.8 to 12.5 years.</p>
+<p>Your electricity price sets the baseline for payback. The export rule comes right after it, and where exports earn only a fraction of retail it can cancel much of what a good price would deliver. Pin down both before you compare a single quote.</p>
+</div><h2 id="the-two-systems-side-by-side">The two systems side by side</h2>
+<p>Panels make the most power around midday, when many homes use the least. The surplus flows to the grid. Your utility then credits it under one of two broad approaches.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Net metering (1:1)</th>
+<th>Net billing</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Value of an exported kWh</td>
+<td>Full retail price</td>
+<td>A lower rate, often a fraction of retail</td>
+</tr>
+<tr>
+<td>How the rate is set</td>
+<td>Matches what you pay</td>
+<td>Sometimes tied to the utility&#39;s avoided cost</td>
+</tr>
+<tr>
+<td>Power you buy from the grid</td>
+<td>Full price</td>
+<td>Full price</td>
+</tr>
+<tr>
+<td>Settlement</td>
+<td>Credits usually roll over month to month, settled once a year at a &quot;true-up&quot;</td>
+<td>Set by the utility&#39;s tariff</td>
+</tr>
+<tr>
+<td>Best strategy</td>
+<td>Produce close to what you use over the year</td>
+<td>Use as much of your own power as you can</td>
+</tr>
+</tbody></table>
+<p><strong>Avoided cost</strong> means roughly what the utility would have spent to produce or buy that power itself. A <strong>true-up</strong> is the yearly reckoning where leftover credits are settled.</p>
+<p>Rules differ by state and by utility. Several have moved new customers from net metering to net billing. The <a href="https://programs.dsireusa.org/">DSIRE database</a> lists current programs by state, and your utility&#39;s tariff page has the final word.</p>
+<h2 id="how-we-kept-the-comparison-fair">How we kept the comparison fair</h2>
+<p>Only one input changes in this comparison: the value of an exported kWh, set to full retail, half or a quarter. Everything else stays fixed for our <a href="/methodology/">example home</a>, with production from PVWatts and prices from EIA August 2026 averages. The <a href="/solar-calculator/">solar calculator</a> offers the same three options for your own case.</p>
+10:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L20",null,{"items":[{"id":"quick-verdict","text":"Quick verdict"},{"id":"the-two-systems-side-by-side","text":"The two systems side by side"},{"id":"how-we-kept-the-comparison-fair","text":"How we kept the comparison fair"},{"id":"payback-under-each-credit-state-by-state","text":"Payback under each credit, state by state"},{"id":"when-net-metering-wins","text":"When net metering wins"},{"id":"when-net-billing-hurts-less","text":"When net billing hurts less"},{"id":"where-they-tie","text":"Where they tie"},{"id":"getting-the-most-out-of-net-billing","text":"Getting the most out of net billing"},{"id":"which-one-fits-you","text":"Which one fits you"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23","$L24",false,"$L25","$L26","$L27","$L28"]}],"$L29"]}]
+11:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Size a home solar system from your yearly kWh and local sunshine, turn the size into a panel count, and compare size-vs-payback results in four states."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","is-solar-worth-it-without-tax-credit",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/is-solar-worth-it-without-tax-credit/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-is-solar-worth-it-without-tax-credit","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-without-tax-credit-card.webp","srcSet":"/photos/is-solar-worth-it-without-tax-credit-card.webp 640w, /photos/is-solar-worth-it-without-tax-credit-sm.webp 768w, /photos/is-solar-worth-it-without-tax-credit-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2a","$L2b","$L2c","$L2d"]}]]}]}]}],"$L2e"]}]]}]
+12:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Net Metering vs. Net Billing: How Export Credits Change Payback\",\"description\":\"How much your utility pays for exported solar power can add years to payback. We compare full, half and quarter-retail credits in every state.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1316,\"image\":[\"https://roofpayback.com/photos/net-metering-vs-net-billing-payback-og.jpg\",\"https://roofpayback.com/photos/net-metering-vs-net-billing-payback.webp\"],\"datePublished\":\"2026-10-11\",\"dateModified\":\"2026-11-18\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/net-metering-vs-net-billing-payback/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+14:["$","$L2f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+1e:true
+31:I[9441,["$3","$c"],"AdSlot"]
+8:300
+22:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L31",null,{"slot":"article"}]}]
+32:T19ab,<h2 id="payback-under-each-credit-state-by-state">Payback under each credit, state by state</h2>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Price</th>
+<th>Full credit</th>
+<th>Half credit</th>
+<th>Quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hawaii</td>
+<td>47.18¢/kWh</td>
+<td>4.8 years</td>
+<td>6.5 years</td>
+<td>8.3 years</td>
+</tr>
+<tr>
+<td>California</td>
+<td>29.75¢/kWh</td>
+<td>7.4 years</td>
+<td>9.8 years</td>
+<td>12.5 years</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>30.48¢/kWh</td>
+<td>8.5 years</td>
+<td>11.3 years</td>
+<td>13.5 years</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>28.65¢/kWh</td>
+<td>9 years</td>
+<td>12 years</td>
+<td>14.3 years</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>24.61¢/kWh</td>
+<td>10.3 years</td>
+<td>13.7 years</td>
+<td>16.3 years</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>17.17¢/kWh</td>
+<td>12.4 years</td>
+<td>16.7 years</td>
+<td>20.7 years</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>19.32¢/kWh</td>
+<td>12.9 years</td>
+<td>17 years</td>
+<td>20.1 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>15.05¢/kWh</td>
+<td>13.9 years</td>
+<td>17.7 years</td>
+<td>22.3 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>14.99¢/kWh</td>
+<td>14.1 years</td>
+<td>19.2 years</td>
+<td>23.5 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>15.91¢/kWh</td>
+<td>14.3 years</td>
+<td>19.2 years</td>
+<td>23.1 years</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>12.72¢/kWh</td>
+<td>16.1 years</td>
+<td>20.5 years</td>
+<td>Not within 25 years</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>12.87¢/kWh</td>
+<td>16.7 years</td>
+<td>22.5 years</td>
+<td>Not within 25 years</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>14.63¢/kWh</td>
+<td>19.6 years</td>
+<td>24.6 years</td>
+<td>Not within 25 years</td>
+</tr>
+</tbody></table>
+<p>Every state appears on the <a href="/solar-panels/">state rankings page</a>, and each <a href="/solar-panels/texas/">state page</a> shows the same three scenarios.</p>
+<h2 id="when-net-metering-wins">When net metering wins</h2>
+<p>Full 1:1 credit beats net billing in every row of the table. The margin is what changes.</p>
+<ul>
+<li><strong>Low-price states feel it most.</strong> In Louisiana, dropping from full to quarter credit pushes payback from 16.7 years to beyond our 25-year horizon. At 12.87¢ per kWh, losing three quarters of the export value strips out most of what those kWh were worth, and the remaining savings arrive slowly. The guide to <a href="/guides/is-solar-worth-it-where-electricity-is-cheap/">solar where electricity is cheap</a> looks at that group in detail.</li>
+<li><strong>Homes that export a lot gain the most.</strong> If much of your output goes to the grid during the day, a full credit treats that power as if you had used it yourself.</li>
+<li><strong>Sizing close to a full year of use fits best here.</strong> That approach relies on exported credits holding their full value. The model caps credits at a year of grid purchases, so production beyond that earns nothing extra.</li>
+</ul>
+<h2 id="when-net-billing-hurts-less">When net billing hurts less</h2>
+<p>Net billing never comes out ahead in this comparison, but there are cases where it does far less damage.</p>
+<ul>
+<li><strong>High-price states keep self-used power valuable.</strong> In Hawaii, every kWh you use directly still saves 47.18¢. That is why moving to quarter credit only takes payback from 4.8 years to 8.3 years there.</li>
+<li><strong>Homes with heavy daytime use export less.</strong> The more of your own power you consume as it&#39;s made, the less the export rate matters.</li>
+<li><strong>Right-sized systems limit exposure.</strong> A system sized for daytime use sends less to the grid at the low rate.</li>
+</ul>
+<p>In our data, only Hawaii stays under ten years with a quarter-retail credit. In most states the payback reaches 20 years or more at that rate, or does not arrive within 25 years.</p>
+<h2 id="where-they-tie">Where they tie</h2>
+<p>Some things don&#39;t change between the two systems:</p>
+<ul>
+<li><strong>The price of power you buy.</strong> Both charge full retail for kWh drawn from the grid.</li>
+<li><strong>The value of power you use as it&#39;s produced.</strong> A kWh your house uses at midday saves the full retail price either way. Export rules only touch the surplus.</li>
+<li><strong>The need to read the tariff.</strong> Neither label tells you the exact terms. Your utility&#39;s tariff page and DSIRE do.</li>
+</ul>
+<h2 id="getting-the-most-out-of-net-billing">Getting the most out of net billing</h2>
+<p>If your utility pays less than retail for exports, the goal shifts. Instead of making as much power as possible, aim to use as much of it as possible yourself.</p>
+<ul>
+<li><strong>Size for daytime use</strong>, not for 100% of your annual bill. <a href="/guides/how-many-solar-panels-do-i-need/">How many solar panels you need</a> walks through sizing.</li>
+<li><strong>Shift flexible loads to midday:</strong> laundry, dishwasher, water heating, EV charging.</li>
+<li><strong>Ask installers to model your actual tariff.</strong> A quote that assumes full net metering in a net-billing area overstates savings.</li>
+<li><strong>Check how long current rules are locked in.</strong> Some programs keep existing customers on their original terms for a set period. Your utility can confirm.</li>
+</ul>
+<p>Batteries can also raise self-use. They add cost, though, and whether they pay off is a separate calculation based on your rates.</p>
+<h2 id="which-one-fits-you">Which one fits you</h2>
+<p>You rarely get to choose. Your utility decides. What you can choose is how to plan around it.</p>
+<p><strong>If your utility offers full net metering:</strong></p>
+<ul>
+<li>Expect the shortest payback for your state&#39;s price level.</li>
+<li>Sizing close to your annual use is reasonable.</li>
+<li>Confirm how long the terms last for new customers.</li>
+</ul>
+<p><strong>If your utility uses net billing:</strong></p>
+<ul>
+<li>Find the export rate and run the half or quarter scenario that comes closest.</li>
+<li>Size for daytime use and shift loads to midday.</li>
+<li>In a high-price state, solar can still pay back in a reasonable time.</li>
+<li>In a low-price state, the export rule may decide whether the system pays back at all.</li>
+</ul>
+<p>Full net metering is the best case, and not every home gets it. Ask what your utility pays for exported power, then run the matching scenario in the <a href="/solar-calculator/">calculator</a>. For the wider picture since the federal credit ended, read <a href="/guides/is-solar-worth-it-without-tax-credit/">is solar still worth it without the tax credit</a>.</p>
+23:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$32"}}]
+24:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Net%20Metering%20vs.%20Net%20Billing%3A%20How%20Export%20Credits%20Change%20Payback&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fnet-metering-vs-net-billing-payback%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fnet-metering-vs-net-billing-payback%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fnet-metering-vs-net-billing-payback%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fnet-metering-vs-net-billing-payback%2F&title=Net%20Metering%20vs.%20Net%20Billing%3A%20How%20Export%20Credits%20Change%20Payback","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Net%20Metering%20vs.%20Net%20Billing%3A%20How%20Export%20Credits%20Change%20Payback&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fnet-metering-vs-net-billing-payback%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+25:null
+26:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+27:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator (NLR)"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}]]}]]}]
+28:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+29:["$","$L20",null,{"items":"$10:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2a:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min"]}]]}]
+2b:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is Solar Worth It Without the Tax Credit, and What's Left?"}]
+2c:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"The 30% federal solar credit is gone for new systems. See payback by state without it, what state and utility help may remain, and how to find it."}]
+2d:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+2e:["$","li","should-you-wait-for-cheaper-solar-panels",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/should-you-wait-for-cheaper-solar-panels/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-should-you-wait-for-cheaper-solar-panels","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-solar-canopy-california-card.webp","srcSet":"/photos/reserve-solar-canopy-california-card.webp 640w, /photos/reserve-solar-canopy-california-sm.webp 768w, /photos/reserve-solar-canopy-california-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-21","children":"Nov 21, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Should You Wait for Cheaper Solar Panels?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Waiting for cheaper panels costs a year of savings each time. See payback at $2,500, $3,000 and $3,500 per kW in five states, with first-year savings."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+30:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"

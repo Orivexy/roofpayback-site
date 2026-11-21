@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/21cbrh6yun0ac.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/photos/house-roof-louisiana.webp","image",{"imageSrcSet":"/photos/house-roof-louisiana-card.webp 640w, /photos/house-roof-louisiana-sm.webp 768w, /photos/house-roof-louisiana-md.webp 1024w, /photos/house-roof-louisiana.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"solar-panels-in-the-south-central-states","s":["topic"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"guides","h":131136,"c":"$Q2"}]]
+0:{"b":"ODsc3PfjVDdKT1QZ0qH5z","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

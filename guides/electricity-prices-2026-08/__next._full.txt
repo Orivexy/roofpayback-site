@@ -1,0 +1,281 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1vcx5jnhctx4g.js"
+3:"/_next/static/chunks/19hkmvmniklmp.js"
+4:I[22016,["$2","$3"],""]
+5:I[2971,["$2"],"Header"]
+6:I[39756,["$2"],"default"]
+7:"$Sreact.view_transition"
+17:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/21cbrh6yun0ac.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+11:X
+14:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L15","p":false,"v":null}}]]
+12:[["children",{"s":{"n":"slug","t":"d","k":"electricity-prices-2026-08","s":["topic"]},"h":66048,"d":{"r":"$L13","p":false,"v":"$11"},"c":"$Q14"}]]
+f:[["children",{"s":"guides","h":131584,"d":{"r":"$L10","p":false,"v":"$11"},"c":"$Q12"}]]
+0:{"P":null,"c":["","guides","electricity-prices-2026-08",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/21cbrh6yun0ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1vcx5jnhctx4g.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Duw88a_variable HDK9OW_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"base-uri 'self'; object-src 'none'; upgrade-insecure-requests"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;gtag('consent','default',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'});gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',region:[\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"IS\",\"LI\",\"NO\",\"GB\",\"CH\"],wait_for_update:500});"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__afterPaint=function(f,d){var done=0;function go(){if(done++)return;setTimeout(function(){'requestIdleCallback'in window?requestIdleCallback(f,{timeout:2500}):f()},d)}function painted(){try{if(performance.getEntriesByName('first-contentful-paint').length)return go();new PerformanceObserver(function(l,o){o.disconnect();go()}).observe({type:'paint',buffered:true})}catch(e){go()}}function start(){painted();setTimeout(go,4000)}document.readyState==='complete'?start():addEventListener('load',start)};"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"gtag('js',new Date());gtag('config','G-00QRGTQ5SQ');__afterPaint(function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-00QRGTQ5SQ';document.head.appendChild(s)},300);"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"__afterPaint(function(){if(document.querySelector('[data-no-ads]'))return;var s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1368227516860314';document.head.appendChild(s)},300);"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-50 focus:rounded-full focus:bg-surface focus:px-4 focus:py-2","children":"Skip to content"}],["$","div",null,{"className":"bg-ink text-paper","children":["$","div",null,{"className":"container-x flex min-h-9 items-center gap-3 py-1.5 text-sm","children":[["$","span",null,{"className":"shrink-0 bg-brand px-1.5 py-0.5 font-mono text-[0.72rem] font-semibold uppercase tracking-wider text-on-brand","children":"Latest guide"}],["$","$L4",null,{"href":"/guides/should-you-wait-for-cheaper-solar-panels/","className":"group flex min-w-0 items-baseline gap-2 py-1 font-semibold text-paper no-underline hover:text-brand","children":[["$","span",null,{"className":"truncate","children":"Should You Wait for Cheaper Solar Panels?"}],["$","span",null,{"aria-hidden":"true","className":"shrink-0 transition-transform group-hover:translate-x-0.5","children":"→"}]]}]]}]}],["$","$L5",null,{}],["$","main",null,{"id":"content","className":"container-x w-full flex-1 pt-6 pb-16 sm:pt-10","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$7",null,{"enter":"page-in","exit":"page-out","default":"none","children":"$L8"}],"templateStyles":[],"templateScripts":null,"notFound":"$L9","forbidden":"$undefined","unauthorized":"$undefined"}]}],"$La","$Lb","$Lc","$Ld","$Le"]}]]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":"$L16","p":false,"v":null}},"m":"$undefined","G":["$17",["$L18"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ODsc3PfjVDdKT1QZ0qH5z"}
+19:I[37457,["$2"],"default"]
+22:I[52425,["$2"],"ConsentBanner"]
+23:I[19861,["$2"],"VersionCheck"]
+25:I[97367,["$2"],"OutletBoundary"]
+26:"$Sreact.suspense"
+28:"ViewportBoundary"
+29:I[97367,["$2"],"$28"]
+2b:"MetadataBoundary"
+2c:I[97367,["$2"],"$2b"]
+8:["$","$L19",null,{}]
+9:[["$","div",null,{"className":"max-w-2xl","data-no-ads":"","children":[["$","h1",null,{"className":"h-page","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-3 text-muted","children":"The link may be old or mistyped. Here is what people use most:"}],["$","ul",null,{"className":"mt-6 space-y-2","children":[["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-calculator/","children":"Solar payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-panels/","children":"Solar production and payback by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-prices/","children":"Electricity prices by state"}]}]]}],["$","p",null,{"className":"mt-6 text-sm text-muted","children":["Sunniest states: ",[["$","span","new-mexico",{"children":[false,["$","$L4",null,{"className":"link","href":"/solar-panels/new-mexico/","children":"New Mexico"}]]}],["$","span","arizona",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/arizona/","children":"Arizona"}]]}],["$","span","nevada",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/nevada/","children":"Nevada"}]]}],["$","span","california",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/california/","children":"California"}]]}],["$","span","hawaii",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/hawaii/","children":"Hawaii"}]]}],["$","span","colorado",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/colorado/","children":"Colorado"}]]}]],"."]}]]}],[]]
+a:["$","footer",null,{"className":"mt-auto bg-band text-band-ink","children":["$","div",null,{"className":"container-x pb-8 pt-14","children":[["$","div",null,{"className":"grid gap-10 border-b border-band-ink/20 pb-10 md:grid-cols-[1.5fr_repeat(3,1fr)]","children":[["$","div",null,{"className":"max-w-sm","children":[["$","$L4",null,{"href":"/","className":"flex items-center gap-3 no-underline","children":[["$","span",null,{"className":"outline outline-1 outline-band-ink/40","children":["$","svg",null,{"width":34,"height":34,"viewBox":"0 0 32 32","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"32","height":"32","fill":"var(--ink)"}],["$","circle",null,{"cx":"25.2","cy":"6.8","r":"2","fill":"var(--brand)"}],["$","path",null,{"d":"M4.5 15.5L16 6l11.5 9.5","fill":"none","stroke":"var(--paper)","strokeWidth":"2.6","strokeLinecap":"square"}],["$","path",null,{"d":"M8.5 25.5a7.5 7.5 0 0 1 15 0","fill":"none","stroke":"var(--paper)","strokeWidth":"2"}],["$","path",null,{"d":"M10.7 20.2l1.2.9M16 18v1.5M21.3 20.2l-1.2.9","stroke":"var(--paper)","strokeWidth":"1.4"}],["$","path",null,{"d":"M16 25.5l4.6-4.9","stroke":"var(--brand)","strokeWidth":"2.4","strokeLinecap":"square"}],["$","circle",null,{"cx":"16","cy":"25.5","r":"2.1","fill":"var(--brand)"}],["$","path",null,{"d":"M6 28.2h20","stroke":"var(--paper)","strokeWidth":"1.4"}]]}]}],["$","span",null,{"className":"on-band","children":["$","span",null,{"className":"font-display text-[2rem] font-extrabold leading-none !text-band-ink [font-stretch:68%]","children":["Roof",["$","span",null,{"className":"text-brand","children":"Payback"}]]}]}]]}],["$","p",null,{"className":"mt-4 font-serif text-band-ink/80","children":"Independent numbers on what U.S. homes pay for power and when rooftop solar pays back. No sign-up, no lead capture, no installer calling you."}],["$","div",null,{"className":"mt-6 [&_.text-muted]:text-band-ink/60 [&_.eyebrow]:text-band-ink/60 [&_.input-wrap]:border-band-ink/40 [&_.input-wrap]:bg-transparent [&_input]:text-band-ink [&_.link]:text-band-ink","children":["$","section",null,{"aria-label":"Newsletter","className":" ","children":[["$","p",null,{"className":"eyebrow mb-3","children":"Newsletter"}],false,["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 flex-col","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email-f","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email-f","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 btn-signal","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]}]]}],[["$","nav","Tools",{"aria-label":"Tools","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Tools"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/solar-calculator/",{"children":["$","$L4",null,{"href":"/solar-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Payback calculator"}]}],["$","li","/electricity-cost-calculator/",{"children":["$","$L4",null,{"href":"/electricity-cost-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity cost calculator"}]}],["$","li","/solar-panels/",{"children":["$","$L4",null,{"href":"/solar-panels/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Solar by state"}]}],["$","li","/electricity-prices/",{"children":["$","$L4",null,{"href":"/electricity-prices/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity prices"}]}]],false]}]]}],["$","nav","Read",{"aria-label":"Read","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Read"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/guides/",{"children":["$","$L4",null,{"href":"/guides/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All articles"}]}],["$","li","/feed.xml",{"children":"$L1a"}],"$L1b","$L1c","$L1d","$L1e","$L1f"],false]}]]}],"$L20"]]}],"$L21"]}]}]
+b:["$","$L22",null,{}]
+c:["$","$L23",null,{}]
+d:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://roofpayback.com/#org\",\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/apple-icon.png\",\"width\":180,\"height\":180},\"description\":\"Solar panel payback calculator with real data for your state\",\"email\":\"ericmunizgeneb@gmail.com\",\"knowsAbout\":[\"Residential electricity prices\",\"Rooftop solar payback\",\"Net metering\"]}"}}]
+e:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"publisher\":{\"@id\":\"https://roofpayback.com/#org\"},\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://roofpayback.com/guides/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+10:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L19",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+13:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L19",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+15:["$","$1","c",{"children":["$L24",[["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true,"nonce":"$undefined"}]],["$","$L25",null,{"children":["$","$26",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]]}]
+16:["$","$1","h",{"children":[null,["$","$L29",null,{"children":"$L2a"}],["$","$L2c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$26",null,{"name":"Next.Metadata","children":"$L2d"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/21cbrh6yun0ac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+2e:"CookieSettingsButton"
+2f:I[52425,["$2"],"$2e"]
+11:C
+1a:["$","a",null,{"href":"/feed.xml","className":"text-band-ink/85 no-underline hover:text-brand","children":"RSS feed"}]
+1b:["$","li","/statistics/",{"children":["$","$L4",null,{"href":"/statistics/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Statistics (free data)"}]}]
+1c:["$","li","/methodology/",{"children":["$","$L4",null,{"href":"/methodology/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Methodology & sources"}]}]
+1d:["$","li","/editorial-policy/",{"children":["$","$L4",null,{"href":"/editorial-policy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Editorial policy"}]}]
+1e:["$","li","/changelog/",{"children":["$","$L4",null,{"href":"/changelog/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Changelog"}]}]
+1f:["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","className":"text-band-ink/85 no-underline hover:text-brand","children":"About RoofPayback"}]}]
+20:["$","nav","Legal",{"aria-label":"Legal","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Terms of use"}]}],["$","li","/legal-notice/",{"children":["$","$L4",null,{"href":"/legal-notice/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Legal notice"}]}],["$","li","/advertising-disclosure/",{"children":["$","$L4",null,{"href":"/advertising-disclosure/","className":"text-band-ink/85 no-underline hover:text-brand","children":"How we make money"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Contact"}]}]],["$","li",null,{"className":"text-band-ink/85","children":["$","$L2f",null,{}]}]]}]]}]
+21:["$","div",null,{"className":"flex flex-col gap-2 pt-6 font-mono text-[0.7rem] uppercase tracking-wider text-band-ink/60 md:flex-row md:justify-between","children":[["$","span",null,{"children":["© ",2026," ","RoofPayback"," · Ads are labeled and never change the math"]}],["$","span",null,{"children":["Data: ","NLR PVWatts v8"," · U.S. EIA ","August 2026"," · Estimates, not advice"]}]]}]
+24:["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$L4",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/electricity-prices-2026-08/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Electricity Prices in August 2026: Where They Rose and Fell"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Electricity Prices in August 2026: Where They Rose and Fell\",\"item\":\"https://roofpayback.com/guides/electricity-prices-2026-08/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$L4",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Electricity Prices in August 2026: Where They Rose and Fell"}],["$","p",null,{"className":"lede mt-5","children":"U.S. home electricity averaged 18.16¢/kWh in August 2026, up 3.4%. See which states rose or fell most, how July compared, and what it means for bills."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-24","children":"October 24, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-18","children":"November 18, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$L4",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$L30","$L31"]}],"$L32"]}]]}],"$L33","$L34","$L35","$L36"]}]
+37:I[26029,["$2","$3"],"TocNav"]
+:HL["/photos/transmission-atc.webp","image",{"imageSrcSet":"/photos/transmission-atc-card.webp 640w, /photos/transmission-atc-sm.webp 768w, /photos/transmission-atc-md.webp 1024w, /photos/transmission-atc.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+30:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+31:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+32:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$L4",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+33:["$","figure",null,{"className":"mt-8","children":[["$","$7",null,{"name":"photo-electricity-prices-2026-08","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/transmission-atc.webp","srcSet":"/photos/transmission-atc-card.webp 640w, /photos/transmission-atc-sm.webp 768w, /photos/transmission-atc-md.webp 1024w, /photos/transmission-atc.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"ATC high-voltage transmission line","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["ATC high-voltage transmission line",". ","Photo: Corey Coyle"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by/3.0","rel":"noopener license","target":"_blank","children":"CC BY 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:ATC_High-Voltage_Transmission_Line_-_panoramio.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+38:T10fe,<div class="short-answer"><h2 id="what-we-found">What we found</h2>
+<p>Connecticut&#39;s average home electricity price fell from 30.17¢ to 24.51¢ per <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hour</a> (kWh) between August of last year and August 2026. That 18.8% drop was the steepest in the country, in a month when most states moved the other way. Hawaii went furthest in that direction, up 22.5%.</p>
+<p>The U.S. residential average landed at 18.16¢/kWh, compared with 17.57¢ a year earlier, a rise of 3.4%. All figures come from the U.S. Energy Information Administration (EIA), and the newest month is preliminary. This report is our latest monthly reading; it also notes how the picture shifted since the July data.</p>
+</div><h2 id="1-hawaii-39-s-22-5-jump-led-a-long-list-of-increases">1. Hawaii&#39;s 22.5% jump led a long list of increases</h2>
+<p>Hawaii&#39;s rise stands apart twice over. It is the largest percentage gain in the August data, and it landed on the state that already charged the most. Moving from 38.53¢ to 47.18¢ adds several cents to every unit a household buys.</p>
+<p>Most of the next tier sits in the Northeast and the mid-Atlantic. These are the biggest year-over-year increases, down to 9%:</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>August 2026</th>
+<th>A year earlier</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hawaii</td>
+<td>47.18¢</td>
+<td>38.53¢</td>
+<td>22.5%</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>32.11¢</td>
+<td>28.14¢</td>
+<td>14.1%</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>27.64¢</td>
+<td>24.44¢</td>
+<td>13.1%</td>
+</tr>
+<tr>
+<td>District of Columbia</td>
+<td>25.98¢</td>
+<td>23.18¢</td>
+<td>12.1%</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>17.64¢</td>
+<td>15.85¢</td>
+<td>11.3%</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>18.7¢</td>
+<td>16.85¢</td>
+<td>11%</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>22.99¢</td>
+<td>20.73¢</td>
+<td>10.9%</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>13.37¢</td>
+<td>12.08¢</td>
+<td>10.7%</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>19.38¢</td>
+<td>17.55¢</td>
+<td>10.4%</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>17.06¢</td>
+<td>15.48¢</td>
+<td>10.2%</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>21.77¢</td>
+<td>19.93¢</td>
+<td>9.2%</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>15.15¢</td>
+<td>13.9¢</td>
+<td>9%</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>15.57¢</td>
+<td>14.29¢</td>
+<td>9%</td>
+</tr>
+</tbody></table>
+<p>Percentages can mislead in cheap states. Idaho climbed 10.7% and South Dakota 9%, yet both remain well below the national average of 18.16¢. A small starting price makes any increase look large. Maine&#39;s 14.1% rise, on top of a much higher base, adds far more cents to each kWh than Idaho&#39;s. Reading the cents columns next to the change column gives the truer picture.</p>
+<h2 id="2-connecticut-california-and-a-few-others-got-cheaper">2. Connecticut, California and a few others got cheaper</h2>
+<p>Price cuts were rare. Only seven states had lower residential prices than a year before:</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>August 2026</th>
+<th>A year earlier</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Connecticut</td>
+<td>24.51¢</td>
+<td>30.17¢</td>
+<td>-18.8%</td>
+</tr>
+<tr>
+<td>California</td>
+<td>29.75¢</td>
+<td>30.92¢</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>13.31¢</td>
+<td>13.62¢</td>
+<td>-2.3%</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>14.99¢</td>
+<td>15.33¢</td>
+<td>-2.2%</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>24.61¢</td>
+<td>24.7¢</td>
+<td>-0.4%</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>15.05¢</td>
+<td>15.09¢</td>
+<td>-0.3%</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>30.48¢</td>
+<td>30.55¢</td>
+<td>-0.2%</td>
+</tr>
+</tbody></table>
+<p>Alabama (0.4%), Oregon (0.4%) and Wyoming (0.7%) barely moved.</p>
+<p>A falling price can still be a high one. Connecticut, California and Massachusetts all remain among the pricier states after their declines. At the top of the August ranking sit Hawaii (47.18¢), Maine (32.11¢), Massachusetts (30.48¢), California (29.75¢), Alaska (29.41¢) and New York (28.65¢). The low end includes Nevada (12.72¢), Louisiana (12.87¢), North Dakota (13.31¢), Utah (13.31¢) and Idaho (13.37¢). The full ranking is in our guide to the <a href="/guides/cheapest-and-most-expensive-states-for-electricity/">cheapest and most expensive states for electricity</a>.</p>
+34:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L37",null,{"items":[{"id":"what-we-found","text":"What we found"},{"id":"1-hawaii-39-s-22-5-jump-led-a-long-list-of-increases","text":"1. Hawaii's 22.5% jump led a long list of increases"},{"id":"2-connecticut-california-and-a-few-others-got-cheaper","text":"2. Connecticut, California and a few others got cheaper"},{"id":"3-year-over-year-increases-cooled-between-july-and-august","text":"3. Year-over-year increases cooled between July and August"},{"id":"4-factories-saw-the-sharpest-increase-not-households","text":"4. Factories saw the sharpest increase, not households"},{"id":"5-new-england-was-the-only-region-to-fall-the-great-lakes-rose-most","text":"5. New England was the only region to fall; the Great Lakes rose most"},{"id":"how-we-measured-it","text":"How we measured it"},{"id":"what-this-means-for-your-bill","text":"What this means for your bill"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$38"}}],"$L39","$L3a","$L3b",false,false,"$L3c","$L3d","$L3e"]}],"$L3f"]}]
+35:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$L4",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-by-region",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/electricity-prices-by-region/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$7",null,{"name":"photo-electricity-prices-by-region","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-by-region-card.webp","srcSet":"/photos/electricity-prices-by-region-card.webp 640w, /photos/electricity-prices-by-region-sm.webp 768w, /photos/electricity-prices-by-region-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-14","children":"Oct 14, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices by U.S. Region: August 2026 Compared"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Compare residential, commercial and industrial electricity prices across EIA regions, from New England to the Pacific, with year-over-year changes."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","cheapest-and-most-expensive-states-for-electricity",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/cheapest-and-most-expensive-states-for-electricity/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$7",null,{"name":"photo-cheapest-and-most-expensive-states-for-electricity","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp","srcSet":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp 640w, /photos/cheapest-and-most-expensive-states-for-electricity-sm.webp 768w, /photos/cheapest-and-most-expensive-states-for-electricity-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],"$L40"]}]}]}],"$L41"]}]]}]
+36:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Electricity Prices in August 2026: Where They Rose and Fell\",\"description\":\"U.S. home electricity averaged 18.16¢/kWh in August 2026, up 3.4%. See which states rose or fell most, how July compared, and what it means for bills.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1472,\"image\":[\"https://roofpayback.com/photos/transmission-atc-og.jpg\",\"https://roofpayback.com/photos/transmission-atc.webp\"],\"datePublished\":\"2026-10-24\",\"dateModified\":\"2026-11-18\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/electricity-prices-2026-08/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+42:I[9441,["$2","$3"],"AdSlot"]
+39:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L42",null,{"slot":"article"}]}]
+43:T1b3b,<h2 id="3-year-over-year-increases-cooled-between-july-and-august">3. Year-over-year increases cooled between July and August</h2>
+<p>The July data told a hotter story. In July 2026, the national residential average was 18.31¢/kWh, up 4.9% on a year earlier. By August the yearly gain had narrowed to 3.4%.</p>
+<p>Several states followed the same direction:</p>
+<ul>
+<li><strong>New York:</strong> up 14% year over year in July, 7.5% in August.</li>
+<li><strong>New Hampshire:</strong> 16.7% in July, 13.1% in August.</li>
+<li><strong>Maine:</strong> 15.8% in July, 14.1% in August.</li>
+<li><strong>Maryland:</strong> 13.7% in July, 7.6% in August.</li>
+<li><strong>North Carolina:</strong> 13.4% in July, just 2.5% in August.</li>
+</ul>
+<p>Hawaii held its pace, at 22% in July and 22.5% in August. Connecticut&#39;s decline deepened, from -12.5% in July to -18.8% in August.</p>
+<p>These swings show why one month is a snapshot. Utilities change rates on their own schedules, so a single month can reflect the timing of a rate case, a shift in fuel costs or a one-time adjustment. Comparing each month with the same month a year earlier is the fair test; setting July&#39;s cents directly against August&#39;s mixes in seasonal change.</p>
+<h2 id="4-factories-saw-the-sharpest-increase-not-households">4. Factories saw the sharpest increase, not households</h2>
+<p>The national split by customer type tells a different story from the state headlines:</p>
+<ul>
+<li><strong>Industrial:</strong> 9.64¢/kWh, from 8.98¢ (up 7.3%)</li>
+<li><strong>Commercial:</strong> 14.47¢/kWh, from 13.87¢ (up 4.3%)</li>
+<li><strong>Residential:</strong> 18.16¢/kWh, from 17.57¢ (up 3.4%)</li>
+</ul>
+<p>All sectors together averaged 14.87¢/kWh, up from 14.15¢. The order of the increases flipped from July, when the residential price was rising faster (4.9%) than the industrial one (4.7%).</p>
+<p>Homes still pay the most per kWh by a wide margin. Serving many small customers costs more per unit than serving one large plant, so the residential rate stays on top even when it rises more slowly. Our page on <a href="/guides/residential-vs-business-electricity-prices/">residential vs. business electricity prices</a> digs into why.</p>
+<h2 id="5-new-england-was-the-only-region-to-fall-the-great-lakes-rose-most">5. New England was the only region to fall; the Great Lakes rose most</h2>
+<p>EIA also groups states into census divisions. August 2026 residential prices:</p>
+<ul>
+<li><strong>Pacific Noncontiguous:</strong> 40.79¢, from 34.72¢ (17.5%)</li>
+<li><strong>New England:</strong> 28.31¢, from 29.01¢ (-2.4%)</li>
+<li><strong>Pacific Contiguous:</strong> 25.59¢, from 25.42¢ (0.7%)</li>
+<li><strong>Middle Atlantic:</strong> 25.17¢, from 23.73¢ (6.1%)</li>
+<li><strong>East North Central:</strong> 19.6¢, from 18.11¢ (8.2%)</li>
+<li><strong>South Atlantic:</strong> 16.04¢, from 15.64¢ (2.6%)</li>
+<li><strong>West North Central:</strong> 15.92¢, from 15.17¢ (4.9%)</li>
+<li><strong>West South Central:</strong> 15.3¢, from 14.79¢ (3.4%)</li>
+<li><strong>Mountain:</strong> 14.86¢, from 14.57¢ (2%)</li>
+<li><strong>East South Central:</strong> 14.47¢, from 13.99¢ (3.4%)</li>
+</ul>
+<p>East North Central, the Great Lakes area, had the biggest rise among mainland divisions. New England, which was up 0.4% in the July data, slipped into decline in August, though it is still the priciest mainland division. Fuel mix, power-line costs and local rules shape this map, as covered in <a href="/guides/why-electricity-prices-differ-by-state/">why electricity prices differ by state</a> and <a href="/guides/electricity-prices-by-region/">electricity prices by region</a>.</p>
+<h2 id="how-we-measured-it">How we measured it</h2>
+<p>Every price here comes from EIA&#39;s Electric Power Monthly, Table 5.6.A, which lists average prices by state, region and customer type each month. Each change compares August 2026 with August of the prior year, keeping summer against summer. The July comparisons use the same table&#39;s July release.</p>
+<p>Three limits apply:</p>
+<ul>
+<li><strong>Preliminary data.</strong> EIA revises recent months as more utility reports arrive. Small moves are the most likely to shift; big ones, like Hawaii&#39;s or Connecticut&#39;s, are more likely to hold.</li>
+<li><strong>One month only.</strong> An outlier month can exaggerate or hide a trend.</li>
+<li><strong>State averages, not your rate.</strong> Fixed monthly charges and tiered rates, where the price per kWh changes as use goes up, can push a household&#39;s effective price away from the state figure.</li>
+</ul>
+<p>Single-state pages, such as <a href="/electricity-prices/texas/">Texas electricity prices</a> and <a href="/electricity-prices/new-york/">New York electricity prices</a>, show the local detail.</p>
+<h2 id="what-this-means-for-your-bill">What this means for your bill</h2>
+<p>A higher rate hits a heavy user harder than a light one, because the bill is the rate multiplied by the kWh you use, plus fixed fees. A home running air conditioning hard or heating with electricity can face a large bill even in a cheap state; <a href="/guides/average-electric-bill-by-state/">average electric bill by state</a> shows how usage changes the picture. The <a href="/electricity-cost-calculator/">electricity cost calculator</a> lets you enter your own usage and rate.</p>
+<p>A one-year rise is not a forecast either. North Carolina&#39;s swing from July to August is a reminder that a state&#39;s pace can change sharply from one month&#39;s data to the next.</p>
+<p>Rising prices do raise the value of every kWh you avoid buying. For rooftop solar, the local price level is the first thing that decides payback, which is why a higher-price state can repay a system faster. The second is how your utility credits power sent back to the grid, and where those credits are low it can outweigh price; <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> explains the difference. Our <a href="/guides/best-states-for-solar-payback/">best states for solar payback</a> ranking applies both to every state.</p>
+<p>Practical next moves:</p>
+<ol>
+<li>Find the rate on your latest bill, in cents per kWh, and note any fixed charges.</li>
+<li>Compare it with your state in <a href="/electricity-prices/">our price tables</a>.</li>
+<li>Ask your utility whether a time-of-use plan, where power costs less at certain hours, would suit your habits.</li>
+<li>Read <a href="/guides/how-to-lower-your-electric-bill/">how to lower your electric bill</a> for steps that target heating, cooling and water heating first.</li>
+<li>If solar interests you, test it in the <a href="/solar-calculator/">solar calculator</a>.</li>
+</ol>
+<p>August&#39;s clearest message: in most states power cost more than a year ago, but the pace of increase slowed from July, and the places paying the most are still the Northeast, California, Alaska and Hawaii.</p>
+3a:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$43"}}]
+3b:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Electricity%20Prices%20in%20August%202026%3A%20Where%20They%20Rose%20and%20Fell&url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-08%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-08%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-08%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-08%2F&title=Electricity%20Prices%20in%20August%202026%3A%20Where%20They%20Rose%20and%20Fell","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Electricity%20Prices%20in%20August%202026%3A%20Where%20They%20Rose%20and%20Fell&body=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-08%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+3c:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$L4",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+3d:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}]]}]]}]
+3e:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+3f:["$","$L37",null,{"items":"$34:props:children:0:props:children:0:props:items","variant":"desktop"}]
+40:["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-13","children":"Oct 13, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Cheapest and Most Expensive States for Electricity"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"The cheapest and most expensive states for home electricity in August 2026, ranked with EIA prices, plus which ones rose or fell fastest over the year."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]
+41:["$","li","best-states-for-solar-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/best-states-for-solar-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$7",null,{"name":"photo-best-states-for-solar-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/best-states-for-solar-payback-card.webp","srcSet":"/photos/best-states-for-solar-payback-card.webp 640w, /photos/best-states-for-solar-payback-sm.webp 768w, /photos/best-states-for-solar-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Best States for Solar Payback: Price, Sun and Export Credits"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Solar pays back in 4.8 years in Hawaii and 19.6 in Washington. See the fastest and slowest states, and why price beats sunshine with export credits next."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+2a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]
+44:I[27201,["$2"],"IconMark"]
+27:null
+2d:[["$","title","0",{"children":"Electricity Prices in August 2026: Where They Rose and Fell"}],["$","meta","1",{"name":"description","content":"U.S. home electricity averaged 18.16¢/kWh in August 2026, up 3.4%. See which states rose or fell most, how July compared, and what it means for bills."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/electricity-prices-2026-08/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Electricity Prices in August 2026: Where They Rose and Fell"}],["$","meta","7",{"property":"og:description","content":"U.S. home electricity averaged 18.16¢/kWh in August 2026, up 3.4%. See which states rose or fell most, how July compared, and what it means for bills."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/electricity-prices-2026-08/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/transmission-atc-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"ATC high-voltage transmission line"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-24"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-18"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Electricity Prices in August 2026: Where They Rose and Fell"}],["$","meta","20",{"name":"twitter:description","content":"U.S. home electricity averaged 18.16¢/kWh in August 2026, up 3.4%. See which states rose or fell most, how July compared, and what it means for bills."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/transmission-atc-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L44","25",{}]]

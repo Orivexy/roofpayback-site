@@ -1,0 +1,196 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1vcx5jnhctx4g.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-panels-in-the-midwest/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Is Solar Worth It in the Midwest? State-by-State Payback"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Is Solar Worth It in the Midwest? State-by-State Payback\",\"item\":\"https://roofpayback.com/guides/solar-panels-in-the-midwest/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Is Solar Worth It in the Midwest? State-by-State Payback"}],["$","p",null,{"className":"lede mt-5","children":"Midwest solar payback depends more on your electric rate than on sunshine. Compare twelve states using August 2026 EIA prices and PVWatts output."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-09","children":"November 9, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-18","children":"November 18, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-panels-in-the-midwest","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Is Solar Worth It in the Midwest? State-by-State Payback"}],["$","meta","1",{"name":"description","content":"Midwest solar payback depends more on your electric rate than on sunshine. Compare twelve states using August 2026 EIA prices and PVWatts output."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-panels-in-the-midwest/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Is Solar Worth It in the Midwest? State-by-State Payback"}],["$","meta","7",{"property":"og:description","content":"Midwest solar payback depends more on your electric rate than on sunshine. Compare twelve states using August 2026 EIA prices and PVWatts output."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-panels-in-the-midwest/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/solar-panels-in-the-midwest-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Rooftop solar on a rural home in Dubuque, Iowa"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-09"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-18"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Is Solar Worth It in the Midwest? State-by-State Payback"}],["$","meta","20",{"name":"twitter:description","content":"Midwest solar payback depends more on your electric rate than on sunshine. Compare twelve states using August 2026 EIA prices and PVWatts output."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/solar-panels-in-the-midwest-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"ODsc3PfjVDdKT1QZ0qH5z"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+30:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/solar-panels-in-the-midwest.webp","image",{"imageSrcSet":"/photos/solar-panels-in-the-midwest-card.webp 640w, /photos/solar-panels-in-the-midwest-sm.webp 768w, /photos/solar-panels-in-the-midwest-md.webp 1024w, /photos/solar-panels-in-the-midwest.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-solar-panels-in-the-midwest","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-panels-in-the-midwest.webp","srcSet":"/photos/solar-panels-in-the-midwest-card.webp 640w, /photos/solar-panels-in-the-midwest-sm.webp 768w, /photos/solar-panels-in-the-midwest-md.webp 1024w, /photos/solar-panels-in-the-midwest.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Rooftop solar on a rural home in Dubuque, Iowa","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Rooftop solar on a rural home in Dubuque, Iowa",". ","Photo by Mike Brummer. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Brummer_000057_152445_491265_4578_(36337884005).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Brummer_000057_152445_491265_4578_(36337884005).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:Tb55,<div class="short-answer"><h2 id="at-a-glance">At a glance</h2>
+<p>Solar in the Midwest splits along price lines. In the higher-price states, Michigan, Ohio, Illinois and Wisconsin, our example system pays itself back in about 11 to 13 years with full export credit. In low-price North Dakota and Nebraska, the same system takes much longer. Winter sun is weaker across the region, but here the power price matters more than the sunshine.</p>
+<p>Every figure below uses our example home, a 7 kW system at $24,500 with no incentives (<a href="/methodology/">methodology</a>). Each <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hour</a> (kWh) your panels make saves you what the grid would have charged for it.</p>
+<p>Federal data (EIA, August 2026) splits the region in two:</p>
+<ul>
+<li><strong>East North Central</strong> (Illinois, Indiana, Michigan, Ohio, Wisconsin): 19.6¢/kWh, up from 18.11¢ a year earlier, a change of 8.2%.</li>
+<li><strong>West North Central</strong> (Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota): 15.92¢/kWh, up from 15.17¢, a change of 4.9%.</li>
+</ul>
+<p>With the U.S. residential average at 18.16¢/kWh, the eastern half sits above the national figure and the western half below it. The wider picture is in <a href="/guides/electricity-prices-by-region/">electricity prices by region</a>.</p>
+</div><h2 id="michigan-the-region-39-s-priciest-power-and-its-quickest-payback">Michigan: the region&#39;s priciest power and its quickest payback</h2>
+<p>Michigan tops the Midwest on price at 22.99¢ per kWh. That single fact explains its lead. Its panels are not especially productive, at 1,291 kWh per installed kW each year, which is among the lowest output in the region.</p>
+<p>Even so, the example system pays back in 11.1 years with full export credit, the shortest in the Midwest. At half credit, where exported power earns half the retail rate, it stretches to 14.7 years.</p>
+<p>Michigan&#39;s price also rose 10.9% over the past year in the data we use. Local detail is on the <a href="/solar-panels/michigan/">Michigan solar page</a>.</p>
+<h2 id="illinois-ohio-and-wisconsin-three-states-nearly-one-answer">Illinois, Ohio and Wisconsin: three states, nearly one answer</h2>
+<p>These three neighbors look almost like copies of each other. Prices sit within a fraction of a cent: Wisconsin at 19.41¢, Ohio at 19.38¢ and Illinois at 19.32¢. Output is close too, from 1,308 kWh per kW in Illinois to 1,334 kWh in Wisconsin.</p>
+<p>The paybacks follow suit. Illinois and Ohio both reach 12.9 years with full credit and 17 years with half. Wisconsin edges ahead at 12.6 and 16.8 years, helped by slightly better output and a marginally higher price.</p>
+<p>Ohio&#39;s price climbed 10.4% over the year. For a closer look, see the <a href="/solar-panels/illinois/">Illinois</a> and <a href="/solar-panels/ohio/">Ohio</a> pages.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"at-a-glance","text":"At a glance"},{"id":"michigan-the-region-39-s-priciest-power-and-its-quickest-payback","text":"Michigan: the region's priciest power and its quickest payback"},{"id":"illinois-ohio-and-wisconsin-three-states-nearly-one-answer","text":"Illinois, Ohio and Wisconsin: three states, nearly one answer"},{"id":"kansas-and-missouri-the-sun-is-there-the-price-is-not","text":"Kansas and Missouri: the sun is there, the price is not"},{"id":"indiana-and-iowa-a-natural-experiment","text":"Indiana and Iowa: a natural experiment"},{"id":"minnesota-steadier-prices-in-the-north","text":"Minnesota: steadier prices in the north"},{"id":"the-dakotas-and-nebraska-cheap-power-long-waits","text":"The Dakotas and Nebraska: cheap power, long waits"},{"id":"the-whole-region-in-one-table","text":"The whole region in one table"},{"id":"the-pattern-across-the-region","text":"The pattern across the region"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25",false,"$L26","$L27","$L28","$L29"]}],"$L2a"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-panels-in-the-mountain-west",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-the-mountain-west/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panels-in-the-mountain-west","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-solar-visitor-center-arizona-card.webp","srcSet":"/photos/reserve-solar-visitor-center-arizona-card.webp 640w, /photos/reserve-solar-visitor-center-arizona-sm.webp 768w, /photos/reserve-solar-visitor-center-arizona-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-04","children":"Nov 4, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in the Mountain West: Payback by State"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Solar output, power prices and example payback in eight Mountain West states, from Wyoming and Idaho to Colorado and Arizona, and why cheap power slows it."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","electricity-prices-by-region",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/electricity-prices-by-region/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-electricity-prices-by-region","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-by-region-card.webp","srcSet":"/photos/electricity-prices-by-region-card.webp 640w, /photos/electricity-prices-by-region-sm.webp 768w, /photos/electricity-prices-by-region-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2b","$L2c","$L2d","$L2e"]}]]}]}]}],"$L2f"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Is Solar Worth It in the Midwest? State-by-State Payback\",\"description\":\"Midwest solar payback depends more on your electric rate than on sunshine. Compare twelve states using August 2026 EIA prices and PVWatts output.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1290,\"image\":[\"https://roofpayback.com/photos/solar-panels-in-the-midwest-og.jpg\",\"https://roofpayback.com/photos/solar-panels-in-the-midwest.webp\"],\"datePublished\":\"2026-11-09\",\"dateModified\":\"2026-11-18\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-panels-in-the-midwest/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L30",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+1f:true
+32:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L32",null,{"slot":"article"}]}]
+33:T18fc,<h2 id="kansas-and-missouri-the-sun-is-there-the-price-is-not">Kansas and Missouri: the sun is there, the price is not</h2>
+<p>Kansas has the strongest output in this group, 1,526 kWh per kW. If sunshine ruled, it would lead the Midwest. Instead it pays back in 13.8 years with full credit, slower than Michigan, because its price is 15.47¢ against Michigan&#39;s 22.99¢.</p>
+<p>Missouri tells a similar story with smaller numbers. Its output of 1,433 kWh is the second best here, but at 16.02¢ per kWh its payback is 14.1 years. Half credit pushes the two states to 18.9 and 19 years.</p>
+<h2 id="indiana-and-iowa-a-natural-experiment">Indiana and Iowa: a natural experiment</h2>
+<p>Indiana and Iowa pay almost the same for power, 17.02¢ and 17.06¢. That makes them a clean test of what output alone does.</p>
+<p>Iowa&#39;s panels make 1,370 kWh per kW, Indiana&#39;s 1,335 kWh. The result: Iowa pays back in 13.9 years and Indiana in 14.3 with full credit. A small edge in output, a small edge in payback. At half credit, they land at 18.5 and 18.8 years.</p>
+<p>Iowa&#39;s price rose 10.2% over the year.</p>
+<h2 id="minnesota-steadier-prices-in-the-north">Minnesota: steadier prices in the north</h2>
+<p>Minnesota sits mid-pack at 17.2¢ per kWh and 1,333 kWh of output, for a payback of 14.1 years at full credit and 18.7 at half. What sets it apart is the trend. Its price rose just 1.8% over the year, well below the jumps in Ohio, Michigan and Iowa. A slow-rising price is easier on household budgets, though it also gives solar less of a tailwind.</p>
+<h2 id="the-dakotas-and-nebraska-cheap-power-long-waits">The Dakotas and Nebraska: cheap power, long waits</h2>
+<p>The western edge of the region has the lowest prices and the longest paybacks.</p>
+<ul>
+<li><strong>South Dakota:</strong> 15.15¢ per kWh, 1,409 kWh of output, 15.1 years at full credit, 20.2 at half.</li>
+<li><strong>Nebraska:</strong> 13.54¢, 1,423 kWh, 16.6 years full, 22.1 half.</li>
+<li><strong>North Dakota:</strong> 13.31¢, 1,294 kWh, 18.3 years full, 23.7 half.</li>
+</ul>
+<p>North Dakota is the starkest case. Its output is close to Illinois, but its price is 13.31¢ against 19.32¢. That gap alone stretches payback from 12.9 to 18.3 years. When power is this cheap, trimming your use first may be worth more than panels; see <a href="/guides/how-to-lower-your-electric-bill/">how to lower your electric bill</a>.</p>
+<h2 id="the-whole-region-in-one-table">The whole region in one table</h2>
+<p>Output is yearly kWh per installed kW from PVWatts, using one reference city per state. &quot;Full credit&quot; means every exported kWh earns the retail rate; &quot;half credit&quot; means it earns half.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Price</th>
+<th>Output per kW</th>
+<th>Full credit</th>
+<th>Half credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Michigan</td>
+<td>22.99¢</td>
+<td>1,291 kWh</td>
+<td>11.1 years</td>
+<td>14.7 years</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>19.41¢</td>
+<td>1,334 kWh</td>
+<td>12.6 years</td>
+<td>16.8 years</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>19.32¢</td>
+<td>1,308 kWh</td>
+<td>12.9 years</td>
+<td>17 years</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>19.38¢</td>
+<td>1,310 kWh</td>
+<td>12.9 years</td>
+<td>17 years</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>15.47¢</td>
+<td>1,526 kWh</td>
+<td>13.8 years</td>
+<td>18.9 years</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>17.06¢</td>
+<td>1,370 kWh</td>
+<td>13.9 years</td>
+<td>18.5 years</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>17.2¢</td>
+<td>1,333 kWh</td>
+<td>14.1 years</td>
+<td>18.7 years</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>16.02¢</td>
+<td>1,433 kWh</td>
+<td>14.1 years</td>
+<td>19 years</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>17.02¢</td>
+<td>1,335 kWh</td>
+<td>14.3 years</td>
+<td>18.8 years</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>15.15¢</td>
+<td>1,409 kWh</td>
+<td>15.1 years</td>
+<td>20.2 years</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>13.54¢</td>
+<td>1,423 kWh</td>
+<td>16.6 years</td>
+<td>22.1 years</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>13.31¢</td>
+<td>1,294 kWh</td>
+<td>18.3 years</td>
+<td>23.7 years</td>
+</tr>
+</tbody></table>
+<h2 id="the-pattern-across-the-region">The pattern across the region</h2>
+<p>Price runs the Midwest map. Payback tracks the rate more closely than the sunshine, and the higher-price eastern states lead. The export rule is the second filter, and it can reorder a close pair of states on its own.</p>
+<p>A few forces shift every row:</p>
+<ul>
+<li><strong>Export credit.</strong> Moving from full to half credit adds roughly four to six years across the region. Your utility&#39;s rules decide which case applies. Read <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> before you sign anything.</li>
+<li><strong>Winter.</strong> Snow cover and short days cut winter output. The annual figures already average this in, but monthly bills will swing. Our <a href="/guides/solar-panels-in-winter-by-state/">winter solar guide</a> covers the pattern state by state.</li>
+<li><strong>Price trends.</strong> Prices rose in all twelve states over the past year in our data, by very different amounts. The example home assumes 2.5% yearly growth, a modeling choice, not a forecast.</li>
+<li><strong>Incentives.</strong> None of these paybacks count any incentive, and the 30% federal credit no longer covers systems placed in service after 2025, per the IRS. Check <a href="https://programs.dsireusa.org/">DSIRE</a> for state and utility programs that may still apply, and see <a href="/guides/is-solar-worth-it-without-tax-credit/">solar without the tax credit</a> for how to weigh them.</li>
+<li><strong>Install cost.</strong> The model uses $3.50 per watt. A higher quote lengthens every payback in the table and a lower one shortens it.</li>
+</ul>
+<p>To test your own home, find your rate on your bill and compare it with your state on the <a href="/electricity-prices/">electricity prices</a> page. Ask your utility, in writing, how it credits exported power. Then get several quotes, compare the price per watt, and run the numbers in the <a href="/solar-calculator/">solar calculator</a>. If your rate looks more like Michigan&#39;s than North Dakota&#39;s, solar deserves a quote; if it sits near the bottom of the table, expect a long payback and weigh it against <a href="/guides/how-to-lower-your-electric-bill/">cheaper ways to cut your bill</a>.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$33"}}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Is%20Solar%20Worth%20It%20in%20the%20Midwest%3F%20State-by-State%20Payback&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-midwest%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-midwest%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-midwest%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-midwest%2F&title=Is%20Solar%20Worth%20It%20in%20the%20Midwest%3F%20State-by-State%20Payback","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Is%20Solar%20Worth%20It%20in%20the%20Midwest%3F%20State-by-State%20Payback&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-midwest%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+26:null
+27:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+28:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}]]}]]}]
+29:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2a:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2b:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-14","children":"Oct 14, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}]
+2c:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices by U.S. Region: August 2026 Compared"}]
+2d:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Compare residential, commercial and industrial electricity prices across EIA regions, from New England to the Pacific, with year-over-year changes."}]
+2e:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+2f:["$","li","solar-panels-in-winter-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-winter-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panels-in-winter-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-snow-georgia-card.webp","srcSet":"/photos/roof-snow-georgia-card.webp 640w, /photos/roof-snow-georgia-sm.webp 768w, /photos/roof-snow-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in Winter: Output by State vs. Summer"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How much do solar panels make in winter? Winter vs. summer output per kW for U.S. states, why the gap grows up north, and what it means for net metering."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+31:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

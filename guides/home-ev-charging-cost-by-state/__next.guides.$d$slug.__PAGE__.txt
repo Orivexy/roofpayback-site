@@ -1,0 +1,365 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1vcx5jnhctx4g.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/home-ev-charging-cost-by-state/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Home EV Charging Cost by State: What It Costs in 2026"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Home EV Charging Cost by State: What It Costs in 2026\",\"item\":\"https://roofpayback.com/guides/home-ev-charging-cost-by-state/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","p",null,{"className":"lede mt-5","children":"What it costs to charge an electric car at home in every state, using August 2026 EIA electricity prices and a 3,500 kWh per year example."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-18","children":"November 18, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"home-ev-charging-cost-by-state","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","meta","1",{"name":"description","content":"What it costs to charge an electric car at home in every state, using August 2026 EIA electricity prices and a 3,500 kWh per year example."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/home-ev-charging-cost-by-state/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","meta","7",{"property":"og:description","content":"What it costs to charge an electric car at home in every state, using August 2026 EIA electricity prices and a 3,500 kWh per year example."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/home-ev-charging-cost-by-state/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/ev-home-charging-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Electric car charging at a residential Level 2 wall charger"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-18"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","meta","20",{"name":"twitter:description","content":"What it costs to charge an electric car at home in every state, using August 2026 EIA electricity prices and a 3,500 kWh per year example."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/ev-home-charging-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"ODsc3PfjVDdKT1QZ0qH5z"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+32:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/ev-home-charging.webp","image",{"imageSrcSet":"/photos/ev-home-charging-card.webp 640w, /photos/ev-home-charging-sm.webp 768w, /photos/ev-home-charging-md.webp 1024w, /photos/ev-home-charging.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-home-ev-charging-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-charging.webp","srcSet":"/photos/ev-home-charging-card.webp 640w, /photos/ev-home-charging-sm.webp 768w, /photos/ev-home-charging-md.webp 1024w, /photos/ev-home-charging.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Electric car charging at a residential Level 2 wall charger","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Electric car charging at a residential Level 2 wall charger",". ","Photo: Mariordo (Mario Roberto Durán Ortiz)"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/4.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 4.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:BMW_i3_home_charging_L2_CRI_07_2021_9745.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T1dae,<div class="short-answer"><h2 id="in-one-minute">In one minute</h2>
+<p>Charging an electric car at home costs whatever your home electricity costs. That makes your state a big part of the answer. For an example of 3,500 kWh of home charging per year, the yearly cost runs from about $445 in Nevada to about $1,651 in Hawaii.</p>
+<p>Those are estimates, not quotes. They use each state&#39;s average home electricity price for August 2026 from the U.S. Energy Information Administration (EIA). The steps below show you how to swap in your own bill and your own driving.</p>
+</div><h2 id="step-1-learn-the-formula">Step 1: Learn the formula</h2>
+<p><strong>Price per kWh × kWh you charge = your charging cost.</strong></p>
+<p>Both inputs are counted in <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hours</a> (kWh), and EV efficiency is often given in kWh per 100 miles. The Department of Energy&#39;s Alternative Fuels Data Center (AFDC) walks through the math with this example: &quot;If electricity costs ¢10.7 per kWh and the vehicle consumes 27 kWh to travel 100 miles, the cost per mile is about $0.03.&quot;</p>
+<p>That one line is the whole method. Everything else in this guide is about getting the two inputs right.</p>
+<h2 id="step-2-start-from-your-state-39-s-average-price">Step 2: Start from your state&#39;s average price</h2>
+<p>No bill handy? Use the table. It shows each state&#39;s average residential price for August 2026 and what 3,500 kWh of home charging would cost at that price. Tap a state for its electricity price page.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Avg. home price per kWh (August 2026)</th>
+<th>3,500 kWh of EV charging per year</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="/electricity-prices/alabama/">Alabama</a></td>
+<td>16.33¢</td>
+<td>$572</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/alaska/">Alaska</a></td>
+<td>29.41¢</td>
+<td>$1,029</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/arizona/">Arizona</a></td>
+<td>15.05¢</td>
+<td>$527</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/arkansas/">Arkansas</a></td>
+<td>14.37¢</td>
+<td>$503</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/california/">California</a></td>
+<td>29.75¢</td>
+<td>$1,041</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/colorado/">Colorado</a></td>
+<td>17.17¢</td>
+<td>$601</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/connecticut/">Connecticut</a></td>
+<td>24.51¢</td>
+<td>$858</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/delaware/">Delaware</a></td>
+<td>18.7¢</td>
+<td>$655</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/district-of-columbia/">District of Columbia</a></td>
+<td>25.98¢</td>
+<td>$909</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/florida/">Florida</a></td>
+<td>14.99¢</td>
+<td>$525</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/georgia/">Georgia</a></td>
+<td>15.9¢</td>
+<td>$557</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/hawaii/">Hawaii</a></td>
+<td>47.18¢</td>
+<td>$1,651</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/idaho/">Idaho</a></td>
+<td>13.37¢</td>
+<td>$468</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/illinois/">Illinois</a></td>
+<td>19.32¢</td>
+<td>$676</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/indiana/">Indiana</a></td>
+<td>17.02¢</td>
+<td>$596</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/iowa/">Iowa</a></td>
+<td>17.06¢</td>
+<td>$597</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/kansas/">Kansas</a></td>
+<td>15.47¢</td>
+<td>$541</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/kentucky/">Kentucky</a></td>
+<td>13.8¢</td>
+<td>$483</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/louisiana/">Louisiana</a></td>
+<td>12.87¢</td>
+<td>$450</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/maine/">Maine</a></td>
+<td>32.11¢</td>
+<td>$1,124</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/maryland/">Maryland</a></td>
+<td>21.4¢</td>
+<td>$749</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/massachusetts/">Massachusetts</a></td>
+<td>30.48¢</td>
+<td>$1,067</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/michigan/">Michigan</a></td>
+<td>22.99¢</td>
+<td>$805</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/minnesota/">Minnesota</a></td>
+<td>17.2¢</td>
+<td>$602</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/mississippi/">Mississippi</a></td>
+<td>14.43¢</td>
+<td>$505</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/missouri/">Missouri</a></td>
+<td>16.02¢</td>
+<td>$561</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/montana/">Montana</a></td>
+<td>15.57¢</td>
+<td>$545</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nebraska/">Nebraska</a></td>
+<td>13.54¢</td>
+<td>$474</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nevada/">Nevada</a></td>
+<td>12.72¢</td>
+<td>$445</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-hampshire/">New Hampshire</a></td>
+<td>27.64¢</td>
+<td>$967</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-jersey/">New Jersey</a></td>
+<td>24.61¢</td>
+<td>$861</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-mexico/">New Mexico</a></td>
+<td>16.51¢</td>
+<td>$578</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-york/">New York</a></td>
+<td>28.65¢</td>
+<td>$1,003</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/north-carolina/">North Carolina</a></td>
+<td>14.95¢</td>
+<td>$523</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/north-dakota/">North Dakota</a></td>
+<td>13.31¢</td>
+<td>$466</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/ohio/">Ohio</a></td>
+<td>19.38¢</td>
+<td>$678</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/oklahoma/">Oklahoma</a></td>
+<td>14.82¢</td>
+<td>$519</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/oregon/">Oregon</a></td>
+<td>15.92¢</td>
+<td>$557</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/pennsylvania/">Pennsylvania</a></td>
+<td>21.77¢</td>
+<td>$762</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/rhode-island/">Rhode Island</a></td>
+<td>28.18¢</td>
+<td>$986</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/south-carolina/">South Carolina</a></td>
+<td>15.76¢</td>
+<td>$552</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/south-dakota/">South Dakota</a></td>
+<td>15.15¢</td>
+<td>$530</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/tennessee/">Tennessee</a></td>
+<td>13.42¢</td>
+<td>$470</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/texas/">Texas</a></td>
+<td>15.91¢</td>
+<td>$557</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/utah/">Utah</a></td>
+<td>13.31¢</td>
+<td>$466</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/vermont/">Vermont</a></td>
+<td>23.84¢</td>
+<td>$834</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/virginia/">Virginia</a></td>
+<td>17.64¢</td>
+<td>$617</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/washington/">Washington</a></td>
+<td>14.63¢</td>
+<td>$512</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/west-virginia/">West Virginia</a></td>
+<td>16.31¢</td>
+<td>$571</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/wisconsin/">Wisconsin</a></td>
+<td>19.41¢</td>
+<td>$679</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/wyoming/">Wyoming</a></td>
+<td>14.43¢</td>
+<td>$505</td>
+</tr>
+</tbody></table>
+<p>The spread comes almost entirely from the price per kWh. The cheapest four are Nevada (12.72¢, about $445), Louisiana (12.87¢, about $450), North Dakota and Utah (both 13.31¢, about $466). At the top sit Hawaii (47.18¢, about $1,651), Maine (32.11¢, about $1,124), Massachusetts (30.48¢, about $1,067) and California (29.75¢, about $1,041). The Northeast, California, Alaska and Hawaii cluster near the top; much of the South, the Mountain West and the Plains sit near the bottom.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"in-one-minute","text":"In one minute"},{"id":"step-1-learn-the-formula","text":"Step 1: Learn the formula"},{"id":"step-2-start-from-your-state-39-s-average-price","text":"Step 2: Start from your state's average price"},{"id":"step-3-know-what-the-average-hides","text":"Step 3: Know what the average hides"},{"id":"step-4-swap-in-the-rate-from-your-own-bill","text":"Step 4: Swap in the rate from your own bill"},{"id":"step-5-ask-your-utility-about-time-of-use-rates","text":"Step 5: Ask your utility about time-of-use rates"},{"id":"step-6-pick-equipment-before-you-pay-for-any","text":"Step 6: Pick equipment before you pay for any"},{"id":"step-7-decide-whether-solar-belongs-in-the-plan","text":"Step 7: Decide whether solar belongs in the plan"},{"id":"mistakes-that-cost-money","text":"Mistakes that cost money"},{"id":"your-checklist","text":"Your checklist"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,"$L27","$L28","$L29"]}],"$L2a"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-and-electric-car-charging",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-and-electric-car-charging/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-and-electric-car-charging","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-wallbox-card.webp","srcSet":"/photos/ev-home-wallbox-card.webp 640w, /photos/ev-home-wallbox-sm.webp 768w, /photos/ev-home-wallbox-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-30","children":"Oct 30, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels for an Electric Car: How Much Bigger?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Adding an EV means more kWh per year. See how right-sized solar systems and payback change in four example states, with assumptions stated."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","electricity-prices-2026-08",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/electricity-prices-2026-08/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-electricity-prices-2026-08","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/transmission-atc-card.webp","srcSet":"/photos/transmission-atc-card.webp 640w, /photos/transmission-atc-sm.webp 768w, /photos/transmission-atc-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2b","$L2c","$L2d"]}],"$L2e","$L2f","$L30"]}]]}]}]}],"$L31"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Home EV Charging Cost by State: What It Costs in 2026\",\"description\":\"What it costs to charge an electric car at home in every state, using August 2026 EIA electricity prices and a 3,500 kWh per year example.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1544,\"image\":[\"https://roofpayback.com/photos/ev-home-charging-og.jpg\",\"https://roofpayback.com/photos/ev-home-charging.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-11-18\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/home-ev-charging-cost-by-state/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L32",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+1f:true
+34:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L34",null,{"slot":"article"}]}]
+35:T166f,<h2 id="step-3-know-what-the-average-hides">Step 3: Know what the average hides</h2>
+<p>Treat the state figure as a rough guide. EIA&#39;s average is utility revenue, including taxes and fees, divided by kWh sold. The rate printed on your bill, or an EV time-of-use rate, may be higher or lower.</p>
+<p>The 3,500 kWh figure is just an example, not a national average. It also assumes all charging happens at home, with no special EV rate.</p>
+<p>Prices move, too. EIA publishes them monthly in its Electric Power Monthly, and recent months are preliminary, so they can be revised. Hawaii&#39;s average was 38.53¢ a year earlier, a change of 22.5%. Maine went from 28.14¢ to 32.11¢. Connecticut fell, from 30.17¢ to 24.51¢. Identical driving can cost more or less next year. Our <a href="/electricity-prices/">electricity prices by state</a> page carries the latest numbers, and the <a href="/methodology/">methodology</a> explains how we use them.</p>
+<h2 id="step-4-swap-in-the-rate-from-your-own-bill">Step 4: Swap in the rate from your own bill</h2>
+<p>Pull out a recent bill and find the price per kWh. That is the better guide to what charging adds, for one reason: fixed monthly customer charges stay the same no matter how much you charge. The EIA average spreads those fees over every kWh, so it is a rougher guide to the extra cost of an EV.</p>
+<p>Next, estimate your own kWh. Drive less than the example and you&#39;ll charge less than 3,500 kWh a year; drive more and the number climbs. Multiply the two, and you have a personal estimate.</p>
+<h2 id="step-5-ask-your-utility-about-time-of-use-rates">Step 5: Ask your utility about time-of-use rates</h2>
+<p>Call or check your utility&#39;s website. The AFDC notes that &quot;Some utilities offer residential time-of-use rates or other rate incentives for charging infrastructure owners.&quot; A time-of-use rate charges different prices at different hours. If one is offered, charging off-peak may cost less than the state average.</p>
+<h2 id="step-6-pick-equipment-before-you-pay-for-any">Step 6: Pick equipment before you pay for any</h2>
+<p>Try the cord that came with the car first. That is the basic Level 1 charger, and the AFDC says many owners can meet daily needs with it, &quot;requiring no additional cost or installation, provided that a power outlet on a dedicated branch circuit is available near their parking location.&quot; A faster Level 2 charger may need an electrician, and local permits may be required.</p>
+<p>Keep public charging separate in your budget. The AFDC says &quot;Most EV owners do the majority of their charging at home&quot;, but charging away from home is priced differently and isn&#39;t in this table.</p>
+<h2 id="step-7-decide-whether-solar-belongs-in-the-plan">Step 7: Decide whether solar belongs in the plan</h2>
+<p>Rooftop solar can lower charging costs, but how much varies by home and utility. The state price in the table above sets the value of every kWh the panels replace, so solar does the most for EV owners in the high-price states. Panels make power while the sun is up, though, and many people charge overnight. What the daytime output is worth then comes down to how your utility credits power you send to the grid; <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> explains the difference. Net metering and solar incentives vary by state and utility, and the DSIRE database lists current programs.</p>
+<p>An EV raises your yearly use, which can change what size system makes sense. <a href="/guides/solar-and-electric-car-charging/">Solar and electric car charging</a> works through that case, and <a href="/guides/solar-for-high-electricity-use/">solar for high electricity use</a> covers homes with big loads in general. Test your own numbers in the <a href="/solar-calculator/">solar calculator</a>, read <a href="/guides/how-many-solar-panels-do-i-need/">how many solar panels you need</a>, or browse <a href="/solar-panels/">solar panels by state</a>.</p>
+<h2 id="mistakes-that-cost-money">Mistakes that cost money</h2>
+<ul>
+<li><strong>Budgeting from the state average alone.</strong> Your bill&#39;s rate per kWh is the better guide.</li>
+<li><strong>Assuming last year&#39;s price still holds.</strong> Some states rose sharply in a year; a few fell.</li>
+<li><strong>Buying a Level 2 charger by reflex.</strong> The included cord may cover daily needs if a dedicated circuit is near where you park.</li>
+<li><strong>Ignoring time-of-use plans.</strong> Off-peak charging may be cheaper, but only if your utility offers it and you use it.</li>
+<li><strong>Sizing solar before counting the EV.</strong> A system quoted on last year&#39;s bills can come up short once home charging is added.</li>
+</ul>
+<h2 id="your-checklist">Your checklist</h2>
+<ul>
+<li>Find the price per kWh on your latest bill, adding supply and delivery charges if they are listed separately.</li>
+<li>Estimate how many kWh a year you will charge at home, based on your miles and your car&#39;s kWh per 100 miles.</li>
+<li>Multiply the two to get your yearly home charging cost.</li>
+<li>Check your result against your state&#39;s row in the table above to see whether your rate runs high or low.</li>
+<li>Ask your utility whether it offers a time-of-use or EV rate, and which hours are off-peak.</li>
+<li>Try the Level 1 cord that came with the car for a few weeks before buying a Level 2 charger.</li>
+<li>Confirm with an electrician whether a Level 2 charger needs a new circuit or a permit where you live.</li>
+<li>Set aside a separate budget line for public charging on trips.</li>
+<li>If solar is on the table, ask your utility how it credits exported power before you size a system.</li>
+</ul>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$35"}}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Home%20EV%20Charging%20Cost%20by%20State%3A%20What%20It%20Costs%20in%202026&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F&title=Home%20EV%20Charging%20Cost%20by%20State%3A%20What%20It%20Costs%20in%202026","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Home%20EV%20Charging%20Cost%20by%20State%3A%20What%20It%20Costs%20in%202026&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fhome-ev-charging-cost-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+26:["$","aside",null,{"aria-label":"Products","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Tools that help"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Plug an appliance into it to see how many kWh it really uses."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Schedules heating and cooling around when you are actually home."}]]}]}],["$","li","Smart plugs with energy monitoring",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20plug%20energy%20monitoring&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart plugs with energy monitoring"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Turn devices off on a schedule and track their use from your phone."}]]}]}],["$","li","LED light bulbs",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=led%20light%20bulbs&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["LED light bulbs"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Give the same light as incandescent bulbs for much less electricity."}]]}]}]]}],["$","p",null,{"className":"mt-3 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases. ",["$","$Ld",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}]]}]
+27:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+28:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/tools/faqs/faq.php?id=507&t=3",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/tools/faqs/faq.php?id=507&t=3","rel":"noopener","target":"_blank","children":"EIA FAQ: electricity sales and price data"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://afdc.energy.gov/fuels/electricity-charging-home",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://afdc.energy.gov/fuels/electricity-charging-home","rel":"noopener","target":"_blank","children":"afdc.energy.gov/fuels/electricity-charging-home"}]]}],["$","li","https://afdc.energy.gov/fuels/electricity-stations",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://afdc.energy.gov/fuels/electricity-stations","rel":"noopener","target":"_blank","children":"afdc.energy.gov/fuels/electricity-stations"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}]]}]]}]
+29:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2a:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2b:["$","time",null,{"dateTime":"2026-10-24","children":"Oct 24, 2026"}]
+2c:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2d:["$","span",null,{"children":[6," min"]}]
+2e:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices in August 2026: Where They Rose and Fell"}]
+2f:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. home electricity averaged 18.16¢/kWh in August 2026, up 3.4%. See which states rose or fell most, how July compared, and what it means for bills."}]
+30:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+31:["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Size a home solar system from your yearly kWh and local sunshine, turn the size into a panel count, and compare size-vs-payback results in four states."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+33:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

@@ -1,0 +1,216 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1vcx5jnhctx4g.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/is-solar-worth-it-without-tax-credit/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Is Solar Worth It Without the Tax Credit, and What's Left?"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Is Solar Worth It Without the Tax Credit, and What's Left?\",\"item\":\"https://roofpayback.com/guides/is-solar-worth-it-without-tax-credit/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Is Solar Worth It Without the Tax Credit, and What's Left?"}],["$","p",null,{"className":"lede mt-5","children":"The 30% federal solar credit is gone for new systems. See payback by state without it, what state and utility help may remain, and how to find it."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-11","children":"October 11, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-18","children":"November 18, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"is-solar-worth-it-without-tax-credit","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Is Solar Worth It Without the Tax Credit, and What's Left?"}],["$","meta","1",{"name":"description","content":"The 30% federal solar credit is gone for new systems. See payback by state without it, what state and utility help may remain, and how to find it."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/is-solar-worth-it-without-tax-credit/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Is Solar Worth It Without the Tax Credit, and What's Left?"}],["$","meta","7",{"property":"og:description","content":"The 30% federal solar credit is gone for new systems. See payback by state without it, what state and utility help may remain, and how to find it."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/is-solar-worth-it-without-tax-credit/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/is-solar-worth-it-without-tax-credit-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Installers in hard hats working on a residential roof"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-11"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-18"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Is Solar Worth It Without the Tax Credit, and What's Left?"}],["$","meta","20",{"name":"twitter:description","content":"The 30% federal solar credit is gone for new systems. See payback by state without it, what state and utility help may remain, and how to find it."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/is-solar-worth-it-without-tax-credit-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"ODsc3PfjVDdKT1QZ0qH5z"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+32:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/is-solar-worth-it-without-tax-credit.webp","image",{"imageSrcSet":"/photos/is-solar-worth-it-without-tax-credit-card.webp 640w, /photos/is-solar-worth-it-without-tax-credit-sm.webp 768w, /photos/is-solar-worth-it-without-tax-credit-md.webp 1024w, /photos/is-solar-worth-it-without-tax-credit.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-is-solar-worth-it-without-tax-credit","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-without-tax-credit.webp","srcSet":"/photos/is-solar-worth-it-without-tax-credit-card.webp 640w, /photos/is-solar-worth-it-without-tax-credit-sm.webp 768w, /photos/is-solar-worth-it-without-tax-credit-md.webp 1024w, /photos/is-solar-worth-it-without-tax-credit.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Installers in hard hats working on a residential roof","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Installers in hard hats working on a residential roof",". ","Photo: Cocreatr"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/2.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 2.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Roof_top_installation_4.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T10a7,<div class="short-answer"><h2 id="quick-verdict">Quick verdict</h2>
+<p>In many states, yes, but the gap between states is now much wider. The IRS says the Residential Clean Energy Credit, the 30% federal credit for home solar, is not available for systems placed in service after December 31, 2025. Without it, our example home pays for its panels in 4.8 years in Hawaii and 7.4 years in California, yet needs 14.3 years in Texas and 19.6 years in Washington.</p>
+<p>Two things now decide most of the answer. Your electricity price comes first. How your utility credits the power you send back to the grid comes second, and where those credits are low, it can outweigh a high price. Whatever state, local or utility help still exists sits on top of both. <a href="https://programs.dsireusa.org/">DSIRE</a> and your state energy office are where to look for it.</p>
+</div><h2 id="side-by-side-buying-today-versus-the-old-credit">Side by side: buying today versus the old credit</h2>
+<p>This guide compares two situations: buying solar today with no federal help, and the same purchase if the 30% credit still applied. The right-hand column is a what-if, not an option for new systems. It shows how much ground buyers lost.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Payback today (no credit)</th>
+<th>If a 30% credit still applied</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hawaii</td>
+<td>4.8 years</td>
+<td>3.4 years</td>
+</tr>
+<tr>
+<td>California</td>
+<td>7.4 years</td>
+<td>5.4 years</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>8 years</td>
+<td>5.7 years</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>8.5 years</td>
+<td>6.1 years</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>9 years</td>
+<td>6.5 years</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>10.3 years</td>
+<td>7.5 years</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>12.4 years</td>
+<td>9 years</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>12.9 years</td>
+<td>9.4 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>13.9 years</td>
+<td>10.2 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>14.1 years</td>
+<td>10.3 years</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>14.1 years</td>
+<td>10.3 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>14.3 years</td>
+<td>10.5 years</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>16.1 years</td>
+<td>12 years</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>16.7 years</td>
+<td>12.3 years</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>17.6 years</td>
+<td>13 years</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>18.3 years</td>
+<td>13.5 years</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>19.6 years</td>
+<td>14.6 years</td>
+</tr>
+</tbody></table>
+<p>Payback means the years your bill savings take to cover what the system cost. Every row uses the same example home, a 7 kW system at $3,500 per kW ($24,500) with no incentives, PVWatts output for a reference city and August 2026 EIA residential prices; the <a href="/methodology/">methodology</a> lists every input, and the <a href="/solar-calculator/">solar calculator</a> lets you change them.</p>
+<p>One assumption deserves a flag. The table uses full net metering, meaning exported power earns the retail rate, with credits capped at a year of grid purchases. Some states, including California, now credit exports below retail for new systems, so real payback there runs longer than shown.</p>
+<h2 id="what-ended-and-what-did-not">What ended, and what did not</h2>
+<p>For years, homeowners could take 30% of the installed cost off their federal taxes. The cutoff turns on when a system is &quot;placed in service,&quot; a term the IRS defines, so read its wording on the <a href="https://www.irs.gov/credits-deductions/residential-clean-energy-credit">IRS page</a> and ask a tax professional if your dates are close. Anyone installing now should plan as if no federal credit exists.</p>
+<p>Other kinds of help were never tied to that federal credit, and some may still exist where you live:</p>
+<ul>
+<li><strong>State programs.</strong> Rebates, state tax credits or sales-tax breaks.</li>
+<li><strong>Local programs.</strong> A city or county may run its own.</li>
+<li><strong>Utility programs.</strong> Your power company may pay rebates or offer special rates for solar owners.</li>
+</ul>
+<p>These programs open, close and run out of funding often, so this guide does not name any. A live database beats any printed list.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"quick-verdict","text":"Quick verdict"},{"id":"side-by-side-buying-today-versus-the-old-credit","text":"Side by side: buying today versus the old credit"},{"id":"what-ended-and-what-did-not","text":"What ended, and what did not"},{"id":"when-buying-without-the-credit-still-wins","text":"When buying without the credit still wins"},{"id":"when-the-missing-credit-tips-the-balance","text":"When the missing credit tips the balance"},{"id":"how-a-rebate-or-a-lower-quote-shortens-payback","text":"How a rebate or a lower quote shortens payback"},{"id":"finding-the-incentives-that-are-left","text":"Finding the incentives that are left"},{"id":"where-they-tie","text":"Where they tie"},{"id":"which-one-fits-you","text":"Which one fits you"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25",false,"$L26","$L27","$L28","$L29"]}],"$L2a"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-loan-vs-cash",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-loan-vs-cash/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-loan-vs-cash","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/installers-plug-play-pv-card.webp","srcSet":"/photos/installers-plug-play-pv-card.webp 640w, /photos/installers-plug-play-pv-sm.webp 768w, /photos/installers-plug-play-pv-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-23","children":"Oct 23, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Loan vs. Cash: How Financing Changes Payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Loan-financed solar had a higher median installed price than cash in Berkeley Lab data. See how interest changes payback and when savings cover payments."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-payback-period-explained",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-payback-period-explained/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-payback-period-explained","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-hancock-park-card.webp","srcSet":"/photos/house-roof-hancock-park-card.webp 640w, /photos/house-roof-hancock-park-sm.webp 768w, /photos/house-roof-hancock-park-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2b","$L2c","$L2d"]}],"$L2e","$L2f","$L30"]}]]}]}]}],"$L31"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Is Solar Worth It Without the Tax Credit, and What's Left?\",\"description\":\"The 30% federal solar credit is gone for new systems. See payback by state without it, what state and utility help may remain, and how to find it.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1644,\"image\":[\"https://roofpayback.com/photos/is-solar-worth-it-without-tax-credit-og.jpg\",\"https://roofpayback.com/photos/is-solar-worth-it-without-tax-credit.webp\"],\"datePublished\":\"2026-10-11\",\"dateModified\":\"2026-11-18\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/is-solar-worth-it-without-tax-credit/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L32",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+1f:true
+34:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L34",null,{"slot":"article"}]}]
+35:T1bea,<h2 id="when-buying-without-the-credit-still-wins">When buying without the credit still wins</h2>
+<p>Solar holds up best where power is expensive.</p>
+<ul>
+<li><strong>Fast payback with no help at all.</strong> Hawaii, California, Maine, Massachusetts and New York all pay back in 9 years or less in the example. New York gets its own look in <a href="/guides/is-solar-worth-it-in-new-york/">is solar worth it in New York</a>.</li>
+<li><strong>A short list under ten years.</strong> Only a handful of places stay below that mark with no credit: Hawaii, California, Maine, Massachusetts, New York, Rhode Island, New Hampshire and D.C.</li>
+<li><strong>Price beats sunshine.</strong> Arizona and Nevada are among the sunniest states, at 1,755 and 1,753 kWh per kW per year. Massachusetts makes only 1,302 kWh per kW, yet pays back in 8.5 years, faster than Arizona (13.9 years) or Nevada (16.1 years).</li>
+</ul>
+<p>Each kilowatt-hour your panels make is worth what you would otherwise have paid for it. Massachusetts homes paid 30.48¢/kWh in August 2026, against 12.72¢ in Nevada and 15.05¢ in Arizona. A cloudy, expensive state can beat a sunny, cheap one.</p>
+<p>Your own rate matters as much as the state average. If it is rising faster than average, payback comes sooner than these examples suggest. The <a href="/electricity-prices/">latest electricity prices by state</a> show where yours stands.</p>
+<h2 id="when-the-missing-credit-tips-the-balance">When the missing credit tips the balance</h2>
+<p>Cheap power is where the loss hurts. Without the credit, the example payback is 12 years or more in a majority of states, including much of the South, the Midwest, the Mountain West and the Pacific Northwest. Illinois and Ohio, both at 12.9 years, sit just past that line; the <a href="/guides/solar-panels-in-the-midwest/">Midwest guide</a> walks through the region state by state.</p>
+<ul>
+<li><strong>Less room for surprises.</strong> Twelve or more years is not automatically a bad deal for panels that typically last decades. It does leave a thinner margin if you need a new roof, move house, or see your utility cut its export credit.</li>
+<li><strong>Cheap-power states lost the most time.</strong> In Texas, the credit would have brought payback from 14.3 years down to 10.5. In Washington, from 19.6 to 14.6.</li>
+</ul>
+<p>In these states, three details carry more weight than ever:</p>
+<ol>
+<li><strong>Your real price per kWh.</strong> Use the all-in rate from your bill, not the state average.</li>
+<li><strong>System size.</strong> A smaller system whose output you use directly often pays back faster. See <a href="/guides/how-many-solar-panels-do-i-need/">how many solar panels you need</a>.</li>
+<li><strong>The export credit.</strong> If your utility pays less than retail for exported power, payback stretches. Read <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a>.</li>
+</ol>
+<h2 id="how-a-rebate-or-a-lower-quote-shortens-payback">How a rebate or a lower quote shortens payback</h2>
+<p>A rebate cuts what you pay up front, so payback gets shorter. How much shorter depends on two things: the size of the rebate and the size of your yearly savings. A flat rebate helps most where savings are small, because each dollar removed stands for more years of waiting.</p>
+<p>A lower installed price works the same way, and in the cheap-power states it is now the main lever a buyer still controls. Two or three competing quotes can move payback by years; <a href="/guides/solar-panel-cost-by-state/">solar panel cost by state</a> shows how payback shifts with the price per watt, and <a href="/guides/solar-loan-vs-cash/">solar loan vs. cash</a> covers how financing changes what you actually pay.</p>
+<p>If you find a program that applies, enter it in the &quot;Rebates and incentives&quot; field of the <a href="/solar-calculator/">calculator</a>. The <a href="/guides/solar-payback-period-explained/">payback explainer</a> shows the math step by step. Treat any rebate figure as an estimate until it appears in a written quote.</p>
+<h2 id="finding-the-incentives-that-are-left">Finding the incentives that are left</h2>
+<p>Search your state and utility on <a href="https://programs.dsireusa.org/">DSIRE</a>, which tracks current programs, including net metering rules. Your state energy office is the second stop; it can confirm whether a program listed there is still open. Rules often differ by utility even inside one state, so a neighbor&#39;s program may not apply to you.</p>
+<ol>
+<li>Enter your state and review both state and utility programs.</li>
+<li>Write down the end date and any funding limit.</li>
+<li>Check whether the program covers a system you buy, or only one you lease.</li>
+<li>Ask your installer, in writing, whether your quote includes it.</li>
+<li>Confirm the details with the program administrator before you sign.</li>
+</ol>
+<p>Before signing, get written answers to four questions. Is every incentive in the quote still open today? Who applies for it, and when is it paid? Is it a rebate at purchase or a tax benefit that arrives later? What happens to the payback if it turns out smaller than quoted? If an installer treats an incentive as certain, ask for a link to the program&#39;s own page, and take tax questions to a qualified tax professional.</p>
+<h2 id="where-they-tie">Where they tie</h2>
+<p>Some things did not change when the credit ended.</p>
+<ul>
+<li><strong>The ranking order.</strong> States sort in the same order in both columns. Expensive-power states lead either way.</li>
+<li><strong>Panel lifespan.</strong> Panels still typically last decades, so a payback well inside that window works with or without help.</li>
+<li><strong>Local incentives.</strong> State rebates, utility programs and tax exemptions were left out of both columns. Whatever you find helps the same way it always did.</li>
+</ul>
+<h2 id="which-one-fits-you">Which one fits you</h2>
+<p>For a buyer today, the choice is between paying today&#39;s price and holding off until something specific improves.</p>
+<ul>
+<li><strong>Buy now: you pay a high rate (Northeast, Mid-Atlantic, California, Hawaii).</strong> Payback stays strong with no help. Get quotes, and confirm your utility&#39;s export rule before you count on the table.</li>
+<li><strong>Shop harder first: you pay a middling rate (Colorado, Illinois).</strong> At 12.4 to 12.9 years, a lower quote or a local rebate can bring you under 12 years.</li>
+<li><strong>Hold off or go small: you pay a low rate (much of the South, Mountain West, Pacific Northwest), plan to move soon, or need a new roof.</strong> Size to the power you use during the day, check DSIRE for local help, and replace the roof before panels go on.</li>
+</ul>
+<p>Start with your state on the <a href="/solar-panels/">state pages</a>, then run your own bill and best quote through the <a href="/solar-calculator/">calculator</a>. The credit once narrowed the gap between expensive and cheap power states. Without it, your rate and your utility&#39;s export rule show through plainly, and they are the two numbers to pin down first.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$35"}}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Is%20Solar%20Worth%20It%20Without%20the%20Tax%20Credit%2C%20and%20What's%20Left%3F&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-without-tax-credit%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-without-tax-credit%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-without-tax-credit%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-without-tax-credit%2F&title=Is%20Solar%20Worth%20It%20Without%20the%20Tax%20Credit%2C%20and%20What's%20Left%3F","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Is%20Solar%20Worth%20It%20Without%20the%20Tax%20Credit%2C%20and%20What's%20Left%3F&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-without-tax-credit%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+26:null
+27:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+28:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator (NLR)"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}]]}]]}]
+29:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2a:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2b:["$","time",null,{"dateTime":"2026-10-16","children":"Oct 16, 2026"}]
+2c:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2d:["$","span",null,{"children":[6," min"]}]
+2e:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Payback Period Explained: What Sets the Number"}]
+2f:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Solar payback depends on cost, output, price, export credit and self-use. See real examples by state and why a bigger system is not always better."}]
+30:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+31:["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Size a home solar system from your yearly kWh and local sunshine, turn the size into a panel count, and compare size-vs-payback results in four states."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+33:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"
