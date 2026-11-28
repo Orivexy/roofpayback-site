@@ -1,0 +1,520 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0y5jznj6htagl.js"
+3:"/_next/static/chunks/19hkmvmniklmp.js"
+4:I[22016,["$2","$3"],""]
+5:I[2971,["$2"],"Header"]
+14:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1-_q_dj7xq96g.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+e:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L12","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"residential-vs-business-electricity-prices","s":["topic"]},"h":66048,"d":{"r":"$L10","p":false,"v":"$e"},"c":"$Q11"}]]
+c:[["children",{"s":"guides","h":131584,"d":{"r":"$Ld","p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","guides","residential-vs-business-electricity-prices",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0y5jznj6htagl.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Duw88a_variable HDK9OW_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"base-uri 'self'; object-src 'none'; upgrade-insecure-requests"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;var gpc=navigator.globalPrivacyControl===true?'denied':'granted';gtag('consent','default',{ad_storage:'granted',ad_user_data:gpc,ad_personalization:gpc,analytics_storage:'granted'});gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',region:[\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"IS\",\"LI\",\"NO\",\"GB\",\"CH\"],wait_for_update:500});"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__afterPaint=function(f,d){var done=0;function go(){if(done++)return;setTimeout(function(){'requestIdleCallback'in window?requestIdleCallback(f,{timeout:2500}):f()},d)}function painted(){try{if(performance.getEntriesByName('first-contentful-paint').length)return go();new PerformanceObserver(function(l,o){o.disconnect();go()}).observe({type:'paint',buffered:true})}catch(e){go()}}function start(){painted();setTimeout(go,4000)}document.readyState==='complete'?start():addEventListener('load',start)};"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"gtag('js',new Date());gtag('config','G-00QRGTQ5SQ');__afterPaint(function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-00QRGTQ5SQ';document.head.appendChild(s)},300);"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"__afterPaint(function(){if(document.querySelector('[data-no-ads]'))return;var s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1368227516860314';document.head.appendChild(s)},300);"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-50 focus:rounded-full focus:bg-surface focus:px-4 focus:py-2","children":"Skip to content"}],["$","div",null,{"className":"bg-ink text-paper","children":["$","div",null,{"className":"container-x flex min-h-9 items-center gap-3 py-1.5 text-sm","children":[["$","span",null,{"className":"shrink-0 bg-brand px-1.5 py-0.5 font-mono text-[0.72rem] font-semibold uppercase tracking-wider text-on-brand","children":"Latest guide"}],["$","$L4",null,{"href":"/guides/fixed-charges-on-your-electric-bill/","className":"group flex min-w-0 items-baseline gap-2 py-1 font-semibold text-paper no-underline hover:text-brand","children":[["$","span",null,{"className":"truncate","children":"Fixed Charges on Your Electric Bill: Why Using Less Saves Less"}],["$","span",null,{"aria-hidden":"true","className":"shrink-0 transition-transform group-hover:translate-x-0.5","children":"→"}]]}]]}]}],["$","$L5",null,{}],["$","main",null,{"id":"content","className":"container-x w-full flex-1 pt-6 pb-16 sm:pt-10","children":"$L6"}],"$L7","$L8","$L9","$La","$Lb"]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":"$L13","p":false,"v":null}},"m":"$undefined","G":["$14",["$L15"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9ejB_AtLjd4bll68LEc-a"}
+16:I[39756,["$2"],"default"]
+17:"$Sreact.view_transition"
+18:I[37457,["$2"],"default"]
+1d:I[52425,["$2"],"ConsentBanner"]
+1e:I[19861,["$2"],"VersionCheck"]
+20:I[97367,["$2"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:"ViewportBoundary"
+24:I[97367,["$2"],"$23"]
+26:"MetadataBoundary"
+27:I[97367,["$2"],"$26"]
+6:["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$17",null,{"enter":"page-in","exit":"page-out","default":"none","children":["$","$L18",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"max-w-2xl","data-no-ads":"","children":[["$","h1",null,{"className":"h-page","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-3 text-muted","children":"The link may be old or mistyped. Here is what people use most:"}],["$","ul",null,{"className":"mt-6 space-y-2","children":[["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-calculator/","children":"Solar payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-panels/","children":"Solar production and payback by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-prices/","children":"Electricity prices by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-cost-calculator/","children":"Electricity cost calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/battery-payback-calculator/","children":"Home battery payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/guides/","children":"All guides"}]}]]}],["$","p",null,{"className":"mt-6 text-sm text-muted","children":["Sunniest states: ",[["$","span","new-mexico",{"children":[false,["$","$L4",null,{"className":"link","href":"/solar-panels/new-mexico/","children":"New Mexico"}]]}],["$","span","arizona",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/arizona/","children":"Arizona"}]]}],["$","span","nevada",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/nevada/","children":"Nevada"}]]}],["$","span","california",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/california/","children":"California"}]]}],["$","span","hawaii",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/hawaii/","children":"Hawaii"}]]}],["$","span","colorado",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/colorado/","children":"Colorado"}]]}]],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+7:["$","footer",null,{"className":"mt-auto bg-band text-band-ink","children":["$","div",null,{"className":"container-x pb-8 pt-14","children":[["$","div",null,{"className":"grid gap-10 border-b border-band-ink/20 pb-10 md:grid-cols-[1.5fr_repeat(3,1fr)]","children":[["$","div",null,{"className":"max-w-sm","children":[["$","$L4",null,{"href":"/","className":"flex items-center gap-3 no-underline","children":[["$","span",null,{"className":"outline outline-1 outline-band-ink/40","children":["$","svg",null,{"width":34,"height":34,"viewBox":"0 0 32 32","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"32","height":"32","fill":"var(--ink)"}],["$","circle",null,{"cx":"25.2","cy":"6.8","r":"2","fill":"var(--brand)"}],["$","path",null,{"d":"M4.5 15.5L16 6l11.5 9.5","fill":"none","stroke":"var(--paper)","strokeWidth":"2.6","strokeLinecap":"square"}],["$","path",null,{"d":"M8.5 25.5a7.5 7.5 0 0 1 15 0","fill":"none","stroke":"var(--paper)","strokeWidth":"2"}],["$","path",null,{"d":"M10.7 20.2l1.2.9M16 18v1.5M21.3 20.2l-1.2.9","stroke":"var(--paper)","strokeWidth":"1.4"}],["$","path",null,{"d":"M16 25.5l4.6-4.9","stroke":"var(--brand)","strokeWidth":"2.4","strokeLinecap":"square"}],["$","circle",null,{"cx":"16","cy":"25.5","r":"2.1","fill":"var(--brand)"}],["$","path",null,{"d":"M6 28.2h20","stroke":"var(--paper)","strokeWidth":"1.4"}]]}]}],["$","span",null,{"className":"on-band","children":["$","span",null,{"className":"font-display text-[2rem] font-extrabold leading-none !text-band-ink [font-stretch:68%]","children":["Roof",["$","span",null,{"className":"text-brand","children":"Payback"}]]}]}]]}],["$","p",null,{"className":"mt-4 font-serif text-band-ink/80","children":"Independent numbers on what U.S. homes pay for power and when rooftop solar pays back. No sign-up, no lead capture, no installer calling you."}],["$","div",null,{"className":"mt-6 [&_.text-muted]:text-band-ink/60 [&_.eyebrow]:text-band-ink/60 [&_.input-wrap]:border-band-ink/40 [&_.input-wrap]:bg-transparent [&_input]:text-band-ink [&_.link]:text-band-ink","children":["$","section",null,{"aria-label":"Newsletter","className":" ","children":[["$","p",null,{"className":"eyebrow mb-3","children":"Newsletter"}],false,["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 flex-col","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email-f","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email-f","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 btn-signal","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]}]]}],[["$","nav","Tools",{"aria-label":"Tools","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Tools"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/calculators/",{"children":["$","$L4",null,{"href":"/calculators/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All calculators"}]}],["$","li","/solar-calculator/",{"children":["$","$L4",null,{"href":"/solar-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Payback calculator"}]}],["$","li","/electricity-cost-calculator/",{"children":["$","$L4",null,{"href":"/electricity-cost-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity cost calculator"}]}],["$","li","/battery-payback-calculator/",{"children":["$","$L4",null,{"href":"/battery-payback-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Battery payback calculator"}]}],["$","li","/solar-panels/",{"children":["$","$L4",null,{"href":"/solar-panels/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Solar by state"}]}],["$","li","/electricity-prices/",{"children":["$","$L4",null,{"href":"/electricity-prices/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity prices"}]}]],false]}]]}],["$","nav","Read",{"aria-label":"Read","children":["$L19","$L1a"]}],"$L1b"]]}],"$L1c"]}]}]
+8:["$","$L1d",null,{}]
+9:["$","$L1e",null,{}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://roofpayback.com/#org\",\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/apple-icon.png\",\"width\":180,\"height\":180},\"founder\":{\"@type\":\"Person\",\"name\":\"Eric Muñiz Genebriera\",\"url\":\"https://roofpayback.com/about/\"},\"description\":\"Solar panel payback calculator with real data for your state\",\"email\":\"ericmunizgeneb@gmail.com\",\"knowsAbout\":[\"Residential electricity prices\",\"Rooftop solar payback\",\"Net metering\"]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"publisher\":{\"@id\":\"https://roofpayback.com/#org\"},\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://roofpayback.com/guides/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+d:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L1f",[["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true,"nonce":"$undefined"}]],["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}]
+13:["$","$1","h",{"children":[null,["$","$L24",null,{"children":"$L25"}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":"$L28"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+29:"CookieSettingsButton"
+2a:I[52425,["$2"],"$29"]
+e:C
+19:["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Read"}]
+1a:["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/guides/",{"children":["$","$L4",null,{"href":"/guides/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All articles"}]}],["$","li","/feed.xml",{"children":["$","a",null,{"href":"/feed.xml","className":"text-band-ink/85 no-underline hover:text-brand","children":"RSS feed"}]}],["$","li","/statistics/",{"children":["$","$L4",null,{"href":"/statistics/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Statistics (free data)"}]}],["$","li","/methodology/",{"children":["$","$L4",null,{"href":"/methodology/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Methodology & sources"}]}],["$","li","/editorial-policy/",{"children":["$","$L4",null,{"href":"/editorial-policy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Editorial policy"}]}],["$","li","/changelog/",{"children":["$","$L4",null,{"href":"/changelog/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Changelog"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","className":"text-band-ink/85 no-underline hover:text-brand","children":"About RoofPayback"}]}]],false]}]
+1b:["$","nav","Legal",{"aria-label":"Legal","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Terms of use"}]}],["$","li","/legal-notice/",{"children":["$","$L4",null,{"href":"/legal-notice/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Legal notice"}]}],["$","li","/advertising-disclosure/",{"children":["$","$L4",null,{"href":"/advertising-disclosure/","className":"text-band-ink/85 no-underline hover:text-brand","children":"How we make money"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Contact"}]}]],["$","li",null,{"className":"text-band-ink/85","children":["$","$L2a",null,{}]}]]}]]}]
+1c:["$","div",null,{"className":"flex flex-col gap-2 pt-6 font-mono text-[0.7rem] uppercase tracking-wider text-band-ink/60 md:flex-row md:justify-between","children":[["$","span",null,{"children":["© ",2026," ","RoofPayback"," · Ads are labeled and never change the math"]}],["$","span",null,{"children":["Data: ","NLR PVWatts v8"," · U.S. EIA ","September 2026"," · Estimates, not advice"]}]]}]
+1f:["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$L4",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/residential-vs-business-electricity-prices/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Why Homes Pay More for Electricity Than Businesses"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Why Homes Pay More for Electricity Than Businesses\",\"item\":\"https://roofpayback.com/guides/residential-vs-business-electricity-prices/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$L4",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Why Homes Pay More for Electricity Than Businesses"}],["$","p",null,{"className":"lede mt-5","children":"Homes paid 18.17¢/kWh in September 2026, against 14.27¢ for businesses and 9.52¢ for industry. All 51 states ranked by how much more homes pay."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$L4",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$L2b","$L2c"]}],"$L2d"]}]]}],"$L2e","$L2f","$L30","$L31"]}]
+32:I[26029,["$2","$3"],"TocNav"]
+:HL["/photos/utility-pole-transformers.webp","image",{"imageSrcSet":"/photos/utility-pole-transformers-card.webp 640w, /photos/utility-pole-transformers-sm.webp 768w, /photos/utility-pole-transformers-md.webp 1024w, /photos/utility-pole-transformers.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+2b:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+2c:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+2d:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$L4",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+2e:["$","figure",null,{"className":"mt-8","children":[["$","$17",null,{"name":"photo-residential-vs-business-electricity-prices","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/utility-pole-transformers.webp","srcSet":"/photos/utility-pole-transformers-card.webp 640w, /photos/utility-pole-transformers-sm.webp 768w, /photos/utility-pole-transformers-md.webp 1024w, /photos/utility-pole-transformers.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Transformer bank on a utility pole, a common way to supply power in North America","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Transformer bank on a utility pole, a common way to supply power in North America",". ","Photo: Versageek"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/3.0/","rel":"noopener license","target":"_blank","children":"CC BY-SA 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Utility_pole_transformers.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+33:T1fc3,<div class="short-answer"><p class="short-answer-label">Quick verdict</p>
+<p>Homes pay the most per unit of electricity. In September 2026, the average U.S. residential price was 18.17¢ per <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hour</a> (kWh), according to the U.S. Energy Information Administration (EIA). Commercial customers such as stores and offices paid 14.27¢, and industrial customers such as factories paid 9.52¢. Nationally, a household paid 1.27 times the commercial price and 1.91 times the industrial price.</p>
+<p>That ratio is far from uniform. In North Dakota homes paid 1.83 times what businesses paid, and in Texas 1.78 times. In Tennessee and California the two prices were almost equal. The ranking below covers every state.</p>
+</div><h2 id="why-delivery-decides-who-pays-more">Why delivery decides who pays more</h2>
+<p>The EIA says retail prices are usually highest for residential and commercial customers &quot;because it costs more to distribute electricity to them.&quot; Industrial consumers &quot;use more electricity and can receive it at higher voltages, so supplying electricity to these customers is more efficient and less expensive.&quot;</p>
+<p>Power passes through a chain: generation, high-voltage transmission (&quot;higher-voltage electricity makes long-distance electricity transmission more efficient and less expensive,&quot; per the EIA), substations and transformers, and finally local distribution lines. A factory can take power at a higher voltage, before it is stepped down for local lines. A house sits at the very end of it and buys a small amount, so its rate carries a larger share of poles, wires, meters and billing per kWh.</p>
+<p>Generation itself is still the biggest piece: &quot;The cost of generating electricity is the largest component of the price of electricity,&quot; the EIA says. Delivery explains the gap between customer types; generation explains much of the gap between states.</p>
+<h2 id="the-ranking-how-much-more-homes-pay-than-businesses-by-state">The ranking: how much more homes pay than businesses, by state</h2>
+<p>The table ranks all 50 states and the District of Columbia by the residential price divided by the commercial price, using EIA figures for September 2026. A ratio of 1.5 means homes pay 50% more per kWh than shops and offices.</p>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>State</th>
+<th>Residential</th>
+<th>Commercial</th>
+<th>Industrial</th>
+<th>Homes ÷ business</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>North Dakota</td>
+<td>14.29¢</td>
+<td>7.79¢</td>
+<td>8.35¢</td>
+<td>1.83</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Texas</td>
+<td>15.91¢</td>
+<td>8.96¢</td>
+<td>6.99¢</td>
+<td>1.78</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Oregon</td>
+<td>15.73¢</td>
+<td>9.71¢</td>
+<td>8.51¢</td>
+<td>1.62</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Pennsylvania</td>
+<td>22.2¢</td>
+<td>13.74¢</td>
+<td>10.31¢</td>
+<td>1.62</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nebraska</td>
+<td>13.87¢</td>
+<td>8.94¢</td>
+<td>8.72¢</td>
+<td>1.55</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Virginia</td>
+<td>17.74¢</td>
+<td>11.5¢</td>
+<td>9.86¢</td>
+<td>1.54</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Maine</td>
+<td>31.29¢</td>
+<td>20.32¢</td>
+<td>13.51¢</td>
+<td>1.54</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Wyoming</td>
+<td>14.96¢</td>
+<td>9.84¢</td>
+<td>8.22¢</td>
+<td>1.52</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ohio</td>
+<td>19.09¢</td>
+<td>12.82¢</td>
+<td>10.19¢</td>
+<td>1.49</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Michigan</td>
+<td>23.17¢</td>
+<td>15.69¢</td>
+<td>9.43¢</td>
+<td>1.48</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Wisconsin</td>
+<td>19.42¢</td>
+<td>13.79¢</td>
+<td>10.35¢</td>
+<td>1.41</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Idaho</td>
+<td>14.39¢</td>
+<td>10.22¢</td>
+<td>8.69¢</td>
+<td>1.41</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Delaware</td>
+<td>18.89¢</td>
+<td>13.46¢</td>
+<td>10.43¢</td>
+<td>1.4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>North Carolina</td>
+<td>15.41¢</td>
+<td>11¢</td>
+<td>8.45¢</td>
+<td>1.4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>West Virginia</td>
+<td>16.23¢</td>
+<td>11.64¢</td>
+<td>8.18¢</td>
+<td>1.39</td>
+</tr>
+<tr>
+<td>16</td>
+<td>New Hampshire</td>
+<td>29.17¢</td>
+<td>20.96¢</td>
+<td>16.59¢</td>
+<td>1.39</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Oklahoma</td>
+<td>15.22¢</td>
+<td>11¢</td>
+<td>8.39¢</td>
+<td>1.38</td>
+</tr>
+<tr>
+<td>18</td>
+<td>New Jersey</td>
+<td>24.64¢</td>
+<td>17.87¢</td>
+<td>14.31¢</td>
+<td>1.38</td>
+</tr>
+<tr>
+<td>19</td>
+<td>South Carolina</td>
+<td>16.5¢</td>
+<td>11.99¢</td>
+<td>8.09¢</td>
+<td>1.38</td>
+</tr>
+<tr>
+<td>20</td>
+<td>South Dakota</td>
+<td>16.31¢</td>
+<td>12.14¢</td>
+<td>9.86¢</td>
+<td>1.34</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Nevada</td>
+<td>13.25¢</td>
+<td>9.87¢</td>
+<td>10.07¢</td>
+<td>1.34</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Georgia</td>
+<td>16.27¢</td>
+<td>12.19¢</td>
+<td>8.81¢</td>
+<td>1.33</td>
+</tr>
+<tr>
+<td>23</td>
+<td>New Mexico</td>
+<td>16.96¢</td>
+<td>12.71¢</td>
+<td>6.18¢</td>
+<td>1.33</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Connecticut</td>
+<td>27.09¢</td>
+<td>20.34¢</td>
+<td>15.72¢</td>
+<td>1.33</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Minnesota</td>
+<td>17.37¢</td>
+<td>13.17¢</td>
+<td>9.89¢</td>
+<td>1.32</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Kansas</td>
+<td>15.83¢</td>
+<td>12.02¢</td>
+<td>8.46¢</td>
+<td>1.32</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Rhode Island</td>
+<td>29.93¢</td>
+<td>22.85¢</td>
+<td>20.55¢</td>
+<td>1.31</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Illinois</td>
+<td>19.14¢</td>
+<td>14.64¢</td>
+<td>12.01¢</td>
+<td>1.31</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Florida</td>
+<td>14.74¢</td>
+<td>11.28¢</td>
+<td>9.18¢</td>
+<td>1.31</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Massachusetts</td>
+<td>30.97¢</td>
+<td>23.75¢</td>
+<td>19.05¢</td>
+<td>1.3</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Iowa</td>
+<td>14.99¢</td>
+<td>11.57¢</td>
+<td>8.8¢</td>
+<td>1.3</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Washington</td>
+<td>15¢</td>
+<td>11.6¢</td>
+<td>7.59¢</td>
+<td>1.29</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Missouri</td>
+<td>16.01¢</td>
+<td>12.42¢</td>
+<td>10.21¢</td>
+<td>1.29</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Maryland</td>
+<td>21.54¢</td>
+<td>16.74¢</td>
+<td>14.21¢</td>
+<td>1.29</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Arkansas</td>
+<td>14.54¢</td>
+<td>11.33¢</td>
+<td>7.82¢</td>
+<td>1.28</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Utah</td>
+<td>13.41¢</td>
+<td>10.57¢</td>
+<td>8.55¢</td>
+<td>1.27</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Colorado</td>
+<td>17.88¢</td>
+<td>14.32¢</td>
+<td>10.04¢</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Arizona</td>
+<td>14.92¢</td>
+<td>12.02¢</td>
+<td>7.95¢</td>
+<td>1.24</td>
+</tr>
+<tr>
+<td>39</td>
+<td>New York</td>
+<td>28.42¢</td>
+<td>23.09¢</td>
+<td>10.2¢</td>
+<td>1.23</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Alaska</td>
+<td>28¢</td>
+<td>23.3¢</td>
+<td>19.43¢</td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Indiana</td>
+<td>17.05¢</td>
+<td>14.37¢</td>
+<td>9.41¢</td>
+<td>1.19</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Louisiana</td>
+<td>13.33¢</td>
+<td>11.39¢</td>
+<td>6.55¢</td>
+<td>1.17</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Vermont</td>
+<td>24.83¢</td>
+<td>21.36¢</td>
+<td>13.01¢</td>
+<td>1.16</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Montana</td>
+<td>15.69¢</td>
+<td>13.8¢</td>
+<td>7.3¢</td>
+<td>1.14</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Alabama</td>
+<td>16.64¢</td>
+<td>14.67¢</td>
+<td>8.15¢</td>
+<td>1.13</td>
+</tr>
+<tr>
+<td>46</td>
+<td>District of Columbia</td>
+<td>25.82¢</td>
+<td>23.09¢</td>
+<td>10.01¢</td>
+<td>1.12</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Kentucky</td>
+<td>13.54¢</td>
+<td>12.12¢</td>
+<td>7.21¢</td>
+<td>1.12</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Mississippi</td>
+<td>14.47¢</td>
+<td>13.43¢</td>
+<td>7.22¢</td>
+<td>1.08</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Hawaii</td>
+<td>48.31¢</td>
+<td>45.06¢</td>
+<td>40.89¢</td>
+<td>1.07</td>
+</tr>
+<tr>
+<td>50</td>
+<td>California</td>
+<td>30.86¢</td>
+<td>30.38¢</td>
+<td>24.17¢</td>
+<td>1.02</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Tennessee</td>
+<td>13.29¢</td>
+<td>13.12¢</td>
+<td>6.81¢</td>
+<td>1.01</td>
+</tr>
+</tbody></table>
+<p>The median state sits at 1.32. Eight states are at 1.5 or above; seven states and the District of Columbia are below 1.15. State pages under <a href="/electricity-prices/">electricity prices by state</a> show each state&#39;s history.</p>
+2f:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L32",null,{"items":[{"id":"why-delivery-decides-who-pays-more","text":"Why delivery decides who pays more"},{"id":"the-ranking-how-much-more-homes-pay-than-businesses-by-state","text":"The ranking: how much more homes pay than businesses, by state"},{"id":"four-things-the-ranking-shows","text":"Four things the ranking shows"},{"id":"the-industrial-end-of-the-market","text":"The industrial end of the market"},{"id":"which-rate-to-use-for-your-decision","text":"Which rate to use for your decision"},{"id":"how-we-measured-it","text":"How we measured it"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$33"}}],"$L34","$L35","$L36","$L37",false,false,"$L38","$L39","$L3a"]}],"$L3b"]}]
+30:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$L4",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-2026-09",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/electricity-prices-2026-09/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-electricity-prices-2026-09","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-utility-pole-california-card.webp","srcSet":"/photos/reserve-utility-pole-california-card.webp 640w, /photos/reserve-utility-pole-california-sm.webp 768w, /photos/reserve-utility-pole-california-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-25","children":"Nov 25, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices in September 2026: Winners and Losers"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","electricity-choice-states-explained",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/electricity-choice-states-explained/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-electricity-choice-states-explained","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/substation-middleton-card.webp","srcSet":"/photos/substation-middleton-card.webp 640w, /photos/substation-middleton-sm.webp 768w, /photos/substation-middleton-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L3c","$L3d","$L3e","$L3f"]}]]}]}]}],"$L40"]}]]}]
+31:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Why Homes Pay More for Electricity Than Businesses\",\"description\":\"Homes paid 18.17¢/kWh in September 2026, against 14.27¢ for businesses and 9.52¢ for industry. All 51 states ranked by how much more homes pay.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1604,\"image\":[\"https://roofpayback.com/photos/utility-pole-transformers-og.jpg\",\"https://roofpayback.com/photos/utility-pole-transformers.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/residential-vs-business-electricity-prices/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+41:I[9441,["$2","$3"],"AdSlot"]
+34:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L41",null,{"slot":"article"}]}]
+42:T10c0,<h2 id="four-things-the-ranking-shows">Four things the ranking shows</h2>
+<p><strong>A high ratio does not mean an expensive state.</strong> The top two, North Dakota and Texas, have below-average home prices (14.29¢ and 15.91¢). What sets them apart is unusually cheap business power: North Dakota&#39;s commercial price, 7.79¢, is the lowest in the country, with Nebraska (8.94¢) and Texas (8.96¢) next.</p>
+<p><strong>A low ratio does not mean cheap homes.</strong> Hawaii and California are near the bottom of the ranking because everyone there pays a lot: businesses in California paid 30.38¢, more than homes paid anywhere except Hawaii, Maine, Massachusetts and California itself. In Tennessee, homes and businesses pay nearly the same modest price.</p>
+<p><strong>New York is a middle case.</strong> Its homes paid 28.42¢ against 23.09¢ for businesses, a ratio of 1.23, below the national 1.27. Where New York stands out is industry: at 10.2¢, its industrial price is barely over a third of its home price.</p>
+<p><strong>The &quot;all sectors&quot; average understates a household&#39;s rate most in Maine.</strong> Maine homes paid 8.45¢ more than its all-sector average (31.29¢ against 22.84¢). Michigan (6.98¢) and Pennsylvania (6.55¢) follow. If you see a single &quot;electricity price&quot; quoted for your state, check whether it is the residential figure.</p>
+<h2 id="the-industrial-end-of-the-market">The industrial end of the market</h2>
+<p>Industrial prices ranged from <strong>6.18¢ in New Mexico</strong> to <strong>40.89¢ in Hawaii</strong>. The other states under 7¢ were Louisiana (6.55¢), Tennessee (6.81¢) and Texas (6.99¢). After Hawaii, the highest were California (24.17¢), Rhode Island (20.55¢), Alaska (19.43¢) and Massachusetts (19.05¢). Hawaii&#39;s industrial price is above the residential price of every mainland state.</p>
+<p>Industry usually pays the least, but not everywhere. In September 2026, industrial customers paid more than commercial customers in two states: North Dakota (8.35¢ against 7.79¢) and Nevada (10.07¢ against 9.87¢).</p>
+<p>Single-month sector figures can swing, especially while they are preliminary. Georgia&#39;s August 2026 figures showed industry at 13.05¢ against 13.81¢ for commercial customers; in September, Georgia industry paid 8.81¢ and commercial customers 12.19¢. Before drawing a conclusion from one state&#39;s industrial price, check a second month.</p>
+<h2 id="which-rate-to-use-for-your-decision">Which rate to use for your decision</h2>
+<ul>
+<li><strong>Budgeting or checking a bill:</strong> use the residential rate, ideally your own all-in rate (bill total divided by kWh). The all-sector average blends in cheaper business power.</li>
+<li><strong>Comparing states before a move:</strong> compare residential columns only. In Maine, mixing in the all-sector figure would understate a household&#39;s price by more than a quarter.</li>
+<li><strong>Weighing rooftop solar:</strong> use the residential rate, because panel output replaces power you would buy at that rate. How your utility credits exports is the second factor; see <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a>. The <a href="/solar-calculator/">solar calculator</a> uses EIA residential prices, and the <a href="/methodology/">methodology</a> page lists its assumptions.</li>
+<li><strong>Running a business from a separate commercial account:</strong> compare it with your state&#39;s commercial column instead.</li>
+</ul>
+<p>Rate plans can change what a household pays per kWh, too. Some utilities price by time of day (<a href="/guides/time-of-use-electricity-rates-explained/">time-of-use rates explained</a>), and in some states households can buy supply from a competing supplier (<a href="/guides/electricity-choice-states-explained/">electricity choice states explained</a>).</p>
+<h2 id="how-we-measured-it">How we measured it</h2>
+<p>All prices are EIA&#39;s average price to ultimate customers for September 2026, from the Electric Power Monthly, Table 5.6.A. Each figure is a sector&#39;s revenue divided by its kWh sold, so it averages many utilities and rate plans. Recent months are preliminary. The ratio is our calculation from those two columns.</p>
+35:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$42"}}]
+36:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L41",null,{"slot":"articleEnd"}]}]
+37:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Why%20Homes%20Pay%20More%20for%20Electricity%20Than%20Businesses&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F&title=Why%20Homes%20Pay%20More%20for%20Electricity%20Than%20Businesses","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Why%20Homes%20Pay%20More%20for%20Electricity%20Than%20Businesses&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fresidential-vs-business-electricity-prices%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+38:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$L4",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+39:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php","rel":"noopener","target":"_blank","children":"EIA Energy Explained: Electricity prices and factors affecting prices"}]]}],["$","li","https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php","rel":"noopener","target":"_blank","children":"EIA Energy Explained: Delivery to consumers"}]]}]]}]]}]
+3a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+3b:["$","$L32",null,{"items":"$2f:props:children:0:props:children:0:props:items","variant":"desktop"}]
+3c:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-06","children":"Nov 6, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min"]}]]}]
+3d:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Can You Choose Your Electricity Supplier? States With Retail Choice"}]
+3e:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Some states let you pick your electricity supplier. Learn how retail choice works and how to compare a supplier's price per kWh with the EIA state average."}]
+3f:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+40:["$","li","net-metering-vs-net-billing-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/net-metering-vs-net-billing-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/net-metering-vs-net-billing-payback-card.webp","srcSet":"/photos/net-metering-vs-net-billing-payback-card.webp 640w, /photos/net-metering-vs-net-billing-payback-sm.webp 768w, /photos/net-metering-vs-net-billing-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Payback at full, half, quarter and zero export credit in 13 states, the export rate each needs for a 15-year payback, and the rules new customers get."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+25:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]
+43:I[27201,["$2"],"IconMark"]
+22:null
+28:[["$","title","0",{"children":"Why Homes Pay More for Electricity Than Businesses | RoofPayback"}],["$","meta","1",{"name":"description","content":"Homes paid 18.17¢/kWh in September 2026, against 14.27¢ for businesses and 9.52¢ for industry. All 51 states ranked by how much more homes pay."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/residential-vs-business-electricity-prices/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Why Homes Pay More for Electricity Than Businesses"}],["$","meta","7",{"property":"og:description","content":"Homes paid 18.17¢/kWh in September 2026, against 14.27¢ for businesses and 9.52¢ for industry. All 51 states ranked by how much more homes pay."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/residential-vs-business-electricity-prices/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/utility-pole-transformers-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Transformer bank on a utility pole, a common way to supply power in North America"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Why Homes Pay More for Electricity Than Businesses"}],["$","meta","20",{"name":"twitter:description","content":"Homes paid 18.17¢/kWh in September 2026, against 14.27¢ for businesses and 9.52¢ for industry. All 51 states ranked by how much more homes pay."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/utility-pole-transformers-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L43","25",{}]]

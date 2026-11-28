@@ -1,0 +1,180 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/is-solar-worth-it-in-new-york/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Is Solar Worth It in New York? The Payback Math"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Is Solar Worth It in New York? The Payback Math\",\"item\":\"https://roofpayback.com/guides/is-solar-worth-it-in-new-york/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Is Solar Worth It in New York? The Payback Math"}],["$","p",null,{"className":"lede mt-5","children":"New York's 25% state solar credit (up to $5,000) cuts our example payback from 9.1 to 7.4 years with full export credit. The math for typical and upstate homes."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-15","children":"November 15, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"is-solar-worth-it-in-new-york","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Is Solar Worth It in New York? The Payback Math | RoofPayback"}],["$","meta","1",{"name":"description","content":"New York's 25% state solar credit (up to $5,000) cuts our example payback from 9.1 to 7.4 years with full export credit. The math for typical and upstate homes."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/is-solar-worth-it-in-new-york/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Is Solar Worth It in New York? The Payback Math"}],["$","meta","7",{"property":"og:description","content":"New York's 25% state solar credit (up to $5,000) cuts our example payback from 9.1 to 7.4 years with full export credit. The math for typical and upstate homes."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/is-solar-worth-it-in-new-york/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/is-solar-worth-it-in-new-york-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Workers installing solar panels on a flat rooftop"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-15"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Is Solar Worth It in New York? The Payback Math"}],["$","meta","20",{"name":"twitter:description","content":"New York's 25% state solar credit (up to $5,000) cuts our example payback from 9.1 to 7.4 years with full export credit. The math for typical and upstate homes."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/is-solar-worth-it-in-new-york-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+31:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/is-solar-worth-it-in-new-york.webp","image",{"imageSrcSet":"/photos/is-solar-worth-it-in-new-york-card.webp 640w, /photos/is-solar-worth-it-in-new-york-sm.webp 768w, /photos/is-solar-worth-it-in-new-york-md.webp 1024w, /photos/is-solar-worth-it-in-new-york.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-is-solar-worth-it-in-new-york","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-in-new-york.webp","srcSet":"/photos/is-solar-worth-it-in-new-york-card.webp 640w, /photos/is-solar-worth-it-in-new-york-sm.webp 768w, /photos/is-solar-worth-it-in-new-york-md.webp 1024w, /photos/is-solar-worth-it-in-new-york.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Workers installing solar panels on a flat rooftop","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Workers installing solar panels on a flat rooftop",". ","Photo: Lucas Braun"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/3.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Rooftop_Photovoltaic_Array.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:Tedc,<div class="short-answer"><p class="short-answer-label">The answer</p>
+<p>Usually yes. In New York City, our 7 kW example home pays back in 9.1 years with no incentives and full credit for exported power. New York&#39;s own solar tax credit, 25% of the equipment cost up to $5,000, brings that to <strong>7.4 years</strong>. Both figures assume full credit for exports, which we have not verified for New York, so they are an upper bound: with exports worth a quarter of retail, the same home takes 14.4 years, or 11.9 with the state credit. The federal credit is gone, but the state one is not. Of the two adjustments to a national estimate, the export credit moves the result more, but the state credit is the one whose terms are published.</p>
+<p>The reason solar works here is price, not sunshine. New York homes paid an average of 28.42¢ per <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hour</a> in September 2026, up 4.2% from 27.28¢ a year earlier, against a U.S. average of 18.17¢. New York City panels make a modest 1,291 kWh per kW a year in PVWatts.</p>
+</div><h2 id="what-is-new-york-39-s-solar-tax-credit">What is New York&#39;s solar tax credit?</h2>
+<p>The New York State Department of Taxation and Finance describes the Solar Energy System Equipment Credit this way (page read November 28, 2026):</p>
+<ul>
+<li><strong>Amount:</strong> &quot;equal to 25% of your qualified solar energy system equipment expenditures,&quot; limited to $5,000.</li>
+<li><strong>Where:</strong> the system must be installed and used at your principal residence in New York State.</li>
+<li><strong>If your tax is smaller than the credit:</strong> it is not refundable, but the unused part &quot;can be carried over for up to five years.&quot;</li>
+<li><strong>Leases and power purchase agreements:</strong> you can also claim it under a written lease of solar equipment, or under a written agreement of at least ten years to buy the power from equipment you don&#39;t own.</li>
+<li><strong>Form:</strong> IT-255.</li>
+</ul>
+<p>The department&#39;s page was last updated in December 2019, so confirm the terms for your tax year with the department or a tax professional before you count on them.</p>
+<p>There is a second, smaller break. The sale and installation of residential solar equipment is exempt from the 4% state sales and use tax and the 3/8% tax in the Metropolitan Commuter Transportation District, and may be exempt from local sales tax depending on the jurisdiction. Your contractor or seller needs the right exemption certificate (Form ST-120.1 for contractors, ST-121 for homeowners).</p>
+<h2 id="how-much-does-the-credit-change-payback">How much does the credit change payback?</h2>
+<p>On the $24,500 example system, 25% would be $6,125, so the $5,000 limit applies. We entered it as an incentive in the model, treating the whole installed price as qualified equipment expenditure; ask your installer which lines of the quote qualify.</p>
+<table>
+<thead>
+<tr>
+<th>Credit for exported power</th>
+<th>No state credit</th>
+<th>With $5,000 state credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Full retail</td>
+<td>9.1 years</td>
+<td>7.4 years</td>
+</tr>
+<tr>
+<td>Half retail</td>
+<td>12.1 years</td>
+<td>9.9 years</td>
+</tr>
+<tr>
+<td>Quarter retail</td>
+<td>14.4 years</td>
+<td>11.9 years</td>
+</tr>
+</tbody></table>
+<p>The credit is worth more as the export credit gets weaker, because it removes the same $5,000 from a slower stream of savings.</p>
+<p>Does it matter that the credit can arrive over several tax years? Not for the payback year. We spread the $5,000 over five years in the model and the result stayed at 7.4 years, because payback counts dollars without discounting and the credit is used up before break-even. It matters for your cash flow, not for the break-even date.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"what-is-new-york-39-s-solar-tax-credit","text":"What is New York's solar tax credit?"},{"id":"how-much-does-the-credit-change-payback","text":"How much does the credit change payback?"},{"id":"what-size-suits-a-new-york-home","text":"What size suits a New York home?"},{"id":"does-this-apply-upstate","text":"Does this apply upstate?"},{"id":"what-should-i-ask-about-exports","text":"What should I ask about exports?"},{"id":"how-do-i-check-the-numbers-for-my-own-home","text":"How do I check the numbers for my own home?"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","are-solar-panels-worth-it-2026",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/are-solar-panels-worth-it-2026/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-are-solar-panels-worth-it-2026","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-and-solar-payback-card.webp","srcSet":"/photos/electricity-prices-and-solar-payback-card.webp 640w, /photos/electricity-prices-and-solar-payback-sm.webp 768w, /photos/electricity-prices-and-solar-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-26","children":"Nov 26, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Are Solar Panels Worth It in 2026? A State-by-State Answer"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"No federal credit, lower export credits in some states: where solar still pays back in under 10 years, where it takes 16 or more, and what help is left."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-quote-checklist",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-quote-checklist/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-quote-checklist","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-solar-flat-roof-ny-card.webp","srcSet":"/photos/reserve-solar-flat-roof-ny-card.webp 640w, /photos/reserve-solar-flat-roof-ny-sm.webp 768w, /photos/reserve-solar-flat-roof-ny-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2c","$L2d","$L2e","$L2f"]}]]}]}]}],"$L30"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Is Solar Worth It in New York? The Payback Math\",\"description\":\"New York's 25% state solar credit (up to $5,000) cuts our example payback from 9.1 to 7.4 years with full export credit. The math for typical and upstate homes.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1126,\"image\":[\"https://roofpayback.com/photos/is-solar-worth-it-in-new-york-og.jpg\",\"https://roofpayback.com/photos/is-solar-worth-it-in-new-york.webp\"],\"datePublished\":\"2026-11-15\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/is-solar-worth-it-in-new-york/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L31",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+1f:true
+33:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L33",null,{"slot":"article"}]}]
+34:Tede,<h2 id="what-size-suits-a-new-york-home">What size suits a New York home?</h2>
+<p>The example home uses 10,500 kWh a year. EIA-861M data for October 2025 to September 2026 put the average New York household at 591 kWh a month, or 7,088 kWh a year, with an average bill of $169. Covering that in New York City takes about 5.5 kW.</p>
+<p>Smaller systems, with the state credit at 25% of each system&#39;s cost:</p>
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Cost</th>
+<th>State credit</th>
+<th>Payback, full credit</th>
+<th>Payback, quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>4 kW</td>
+<td>$14,000</td>
+<td>$3,500</td>
+<td>7.2 years</td>
+<td>10.6 years</td>
+</tr>
+<tr>
+<td>5 kW</td>
+<td>$17,500</td>
+<td>$4,375</td>
+<td>7.1 years</td>
+<td>11.9 years</td>
+</tr>
+<tr>
+<td>6 kW</td>
+<td>$21,000</td>
+<td>$5,000</td>
+<td>7.7 years</td>
+<td>13.1 years</td>
+</tr>
+</tbody></table>
+<p>With full credit for exports, 4 to 5 kW gives the shortest payback for an average home, and 6 kW starts to make more power than the house can get credit for. If exports earn much less than retail, the smallest system wins by more than a year. The credit cap matters too: above $20,000 of equipment, each extra dollar gets no state credit.</p>
+<h2 id="does-this-apply-upstate">Does this apply upstate?</h2>
+<p>Partly. The sunshine is a little weaker upstate, and the rates may differ from the state average. With the state average price, no state credit and the same 7 kW system:</p>
+<table>
+<thead>
+<tr>
+<th>City</th>
+<th>Output per kW</th>
+<th>Payback, full credit</th>
+<th>Payback, quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>New York City</td>
+<td>1,291 kWh</td>
+<td>9.1 years</td>
+<td>14.4 years</td>
+</tr>
+<tr>
+<td>Albany</td>
+<td>1,225 kWh</td>
+<td>9.6 years</td>
+<td>14.7 years</td>
+</tr>
+<tr>
+<td>Buffalo</td>
+<td>1,202 kWh</td>
+<td>9.8 years</td>
+<td>14.9 years</td>
+</tr>
+<tr>
+<td>Rochester</td>
+<td>1,199 kWh</td>
+<td>9.8 years</td>
+<td>15 years</td>
+</tr>
+</tbody></table>
+<p>The gap between New York City and Rochester is under a year. A difference between your utility&#39;s rate and the 28.42¢ state average would move the result more than the weather does, so use the price per kWh on your own bill.</p>
+<h2 id="what-should-i-ask-about-exports">What should I ask about exports?</h2>
+<p>We did not verify New York&#39;s current crediting rules for this update, so the full and quarter columns above bracket the result rather than predict it. Ask your utility how it credits power you send to the grid, whether any monthly charge applies to solar customers, and how long the terms last for a new system. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing</a> shows what each level of credit does across states.</p>
+<h2 id="how-do-i-check-the-numbers-for-my-own-home">How do I check the numbers for my own home?</h2>
+<ol>
+<li><strong>Add up a year of use</strong> from your bills and size the system to it, not to the roof.</li>
+<li><strong>Get a quote with equipment cost itemized,</strong> since the state credit is based on qualified equipment expenditures, and confirm no state sales tax is charged on it.</li>
+<li><strong>Ask your utility how it credits exports</strong> and whether solar customers pay any extra monthly charge.</li>
+<li><strong>Enter the quote, the credit and your rate</strong> in the <a href="/solar-calculator/">solar calculator</a>, which has a field for incentives.</li>
+</ol>
+<p>No federal credit applies: the IRS says the Residential Clean Energy Credit &quot;is not available for any property placed in service after December 31, 2025.&quot; The <a href="/guides/solar-quote-checklist/">solar quote checklist</a> covers the rest of the paperwork, and the <a href="/solar-panels/new-york/">New York solar page</a> has the state inputs.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$34"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L33",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Is%20Solar%20Worth%20It%20in%20New%20York%3F%20The%20Payback%20Math&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-in-new-york%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-in-new-york%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-in-new-york%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-in-new-york%2F&title=Is%20Solar%20Worth%20It%20in%20New%20York%3F%20The%20Payback%20Math","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Is%20Solar%20Worth%20It%20in%20New%20York%3F%20The%20Payback%20Math&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-in-new-york%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.tax.ny.gov/pit/credits/solar_energy_system_equipment_credit.htm",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.tax.ny.gov/pit/credits/solar_energy_system_equipment_credit.htm","rel":"noopener","target":"_blank","children":"NYS Department of Taxation and Finance: Solar Energy System Equipment Credit"}]]}],["$","li","https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/solar_energy_equipment.htm",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/solar_energy_equipment.htm","rel":"noopener","target":"_blank","children":"NYS Department of Taxation and Finance: Residential Solar Energy Systems Equipment (sales tax)"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M: Monthly electric power industry report (sales, revenue and customers)"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[6,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[7,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-17","children":"Nov 17, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}]
+2d:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Quote Checklist: What to Verify Before You Sign"}]
+2e:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Three numbers to check on any solar quote, a worked example that exposes an optimistic payback, and the contract terms to confirm before you sign."}]
+2f:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+30:["$","li","solar-panels-in-the-mid-atlantic",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-the-mid-atlantic/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panels-in-the-mid-atlantic","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-panels-in-the-mid-atlantic-card.webp","srcSet":"/photos/solar-panels-in-the-mid-atlantic-card.webp 640w, /photos/solar-panels-in-the-mid-atlantic-sm.webp 768w, /photos/solar-panels-in-the-mid-atlantic-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-10","children":"Nov 10, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in the Mid-Atlantic: Payback by State"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C. compared: solar payback, typical home use and nine-year price trends, with September 2026 data."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+32:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

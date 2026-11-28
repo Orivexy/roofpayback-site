@@ -1,0 +1,214 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/planning/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/planning/","className":"py-1 no-underline hover:text-ink","children":"Planning a system"}]]}],["$","li","/guides/east-west-facing-solar-panels/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"East- or West-Facing Roof: Is Solar Still Worth It?"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Planning a system\",\"item\":\"https://roofpayback.com/guides/topic/planning/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"East- or West-Facing Roof: Is Solar Still Worth It?\",\"item\":\"https://roofpayback.com/guides/east-west-facing-solar-panels/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/planning/","children":"Planning a system"}]}],["$","h1",null,{"className":"h-page mt-4","children":"East- or West-Facing Roof: Is Solar Still Worth It?"}],["$","p",null,{"className":"lede mt-5","children":"East- or west-facing panels make about 14.5% to 14.8% less than south-facing ones. See the payback cost in five states and why weak export credit softens it."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"east-west-facing-solar-panels","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"East- or West-Facing Roof: Is Solar Still Worth It? | RoofPayback"}],["$","meta","1",{"name":"description","content":"East- or west-facing panels make about 14.5% to 14.8% less than south-facing ones. See the payback cost in five states and why weak export credit softens it."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/east-west-facing-solar-panels/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"East- or West-Facing Roof: Is Solar Still Worth It?"}],["$","meta","7",{"property":"og:description","content":"East- or west-facing panels make about 14.5% to 14.8% less than south-facing ones. See the payback cost in five states and why weak export credit softens it."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/east-west-facing-solar-panels/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/roof-pv-nevada-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Rooftop photovoltaic panels installed by the U.S. Fish and Wildlife Service in Nevada"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"East- or West-Facing Roof: Is Solar Still Worth It?"}],["$","meta","20",{"name":"twitter:description","content":"East- or west-facing panels make about 14.5% to 14.8% less than south-facing ones. See the payback cost in five states and why weak export credit softens it."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/roof-pv-nevada-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+33:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/roof-pv-nevada.webp","image",{"imageSrcSet":"/photos/roof-pv-nevada-card.webp 640w, /photos/roof-pv-nevada-sm.webp 768w, /photos/roof-pv-nevada-md.webp 1024w, /photos/roof-pv-nevada.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-east-west-facing-solar-panels","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-pv-nevada.webp","srcSet":"/photos/roof-pv-nevada-card.webp 640w, /photos/roof-pv-nevada-sm.webp 768w, /photos/roof-pv-nevada-md.webp 1024w, /photos/roof-pv-nevada.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Rooftop photovoltaic panels installed by the U.S. Fish and Wildlife Service in Nevada","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Rooftop photovoltaic panels installed by the U.S. Fish and Wildlife Service in Nevada",". ","Photo: Pacific Southwest Region USFWS from Sacramento, US"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Roof_top_photovoltaic_in_Nevada_(5476868977).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Roof_top_photovoltaic_in_Nevada_(5476868977).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T1130,<div class="short-answer"><p class="short-answer-label">Quick verdict</p>
+<p>Usually yes, if power is reasonably expensive where you live. Panels facing due east or due west at a 20° pitch made about 14.5% to 14.8% less electricity per year than south-facing panels at 20°, averaged across our 51 reference cities. In the five states we priced, that stretched payback by roughly 1.5 to 2.6 years.</p>
+<p>The loss is smaller in dollars than it looks in kWh when your utility pays little for exported power. Most of the output an east or west roof gives up is midday surplus that would have gone to the grid, so a weak export credit makes the orientation gap cheaper.</p>
+<p>The U.S. Department of Energy puts the starting point plainly: &quot;Typically, solar panels perform best on south-facing roofs with a slope between 15 and 40 degrees, though other roofs may be suitable too.&quot;</p>
+</div><h2 id="side-by-side-output">Side by side: output</h2>
+<p><strong>Orientation</strong>, or azimuth, is the compass direction the panels face. <strong>Pitch</strong>, or tilt, is the angle from flat. Each row compares a setup with south-facing panels at 20°; negative numbers mean less electricity per year.</p>
+<table>
+<thead>
+<tr>
+<th>Roof setup</th>
+<th>Average across states</th>
+<th>Smallest change</th>
+<th>Largest loss</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>South, 30° pitch</td>
+<td>+2.4%</td>
+<td>+4.7% (Alaska)</td>
+<td>-1.7% (Hawaii)</td>
+</tr>
+<tr>
+<td>Southeast, 20°</td>
+<td>-4.1%</td>
+<td>-1.8% (Florida)</td>
+<td>-7.2% (Alaska)</td>
+</tr>
+<tr>
+<td>Southwest, 20°</td>
+<td>-4.3%</td>
+<td>-2.2% (Hawaii)</td>
+<td>-5.9% (Montana)</td>
+</tr>
+<tr>
+<td>East, 20°</td>
+<td>-14.5%</td>
+<td>-7.2% (Hawaii)</td>
+<td>-20.7% (Alaska)</td>
+</tr>
+<tr>
+<td>West, 20°</td>
+<td>-14.8%</td>
+<td>-7.6% (Hawaii)</td>
+<td>-18.7% (Montana)</td>
+</tr>
+<tr>
+<td>Half east, half west, 20°</td>
+<td>-14.7%</td>
+<td>-7.4% (Hawaii)</td>
+<td>-18% (Alaska)</td>
+</tr>
+<tr>
+<td>East, 30°</td>
+<td>-17.2%</td>
+<td>-11.1% (Hawaii)</td>
+<td>-23.3% (Alaska)</td>
+</tr>
+<tr>
+<td>West, 30°</td>
+<td>-17.7%</td>
+<td>-11.6% (Hawaii)</td>
+<td>-21.4% (Montana)</td>
+</tr>
+</tbody></table>
+<p>PVWatts v8, one reference city per state, 14% system losses; only the direction or pitch changes (<a href="/methodology/">methodology</a>). Southeast and southwest roofs lose so little that most installers treat them as near-south. Pitch is covered state by state in <a href="/guides/solar-panel-roof-pitch/">does roof pitch matter for solar</a>.</p>
+<h2 id="side-by-side-payback">Side by side: payback</h2>
+<p>Output is only half the story. The table runs our example home (7 kW, 10,500 kWh a year, $3,500 per kW, no incentives) with September 2026 EIA prices, once with south-facing panels and once with east-facing ones. West-facing results land within 0.5 years of east in every row.</p>
+<table>
+<thead>
+<tr>
+<th>State (price)</th>
+<th>South, full credit</th>
+<th>East, full credit</th>
+<th>South, half credit</th>
+<th>East, half credit</th>
+<th>South, quarter credit</th>
+<th>East, quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Maine (31.29¢)</td>
+<td>8.2 years</td>
+<td>9.7 years</td>
+<td>10.9 years</td>
+<td>12.4 years</td>
+<td>13.1 years</td>
+<td>14.4 years</td>
+</tr>
+<tr>
+<td>New Jersey (24.64¢)</td>
+<td>10.3 years</td>
+<td>12 years</td>
+<td>13.7 years</td>
+<td>15.2 years</td>
+<td>16.3 years</td>
+<td>17.5 years</td>
+</tr>
+<tr>
+<td>Colorado (17.88¢)</td>
+<td>11.9 years</td>
+<td>13.4 years</td>
+<td>16.1 years</td>
+<td>17.8 years</td>
+<td>20 years</td>
+<td>21.2 years</td>
+</tr>
+<tr>
+<td>Minnesota (17.37¢)</td>
+<td>14 years</td>
+<td>16.6 years</td>
+<td>18.5 years</td>
+<td>20.9 years</td>
+<td>21.9 years</td>
+<td>24 years</td>
+</tr>
+<tr>
+<td>Louisiana (13.33¢)</td>
+<td>16.2 years</td>
+<td>18 years</td>
+<td>21.9 years</td>
+<td>23.4 years</td>
+<td>not within 25 years</td>
+<td>not within 25 years</td>
+</tr>
+</tbody></table>
+<p>Price sets the pace here as it does for south roofs: an east roof in Maine still pays back faster than a south roof in Colorado. The extra years in each row are what the orientation costs.</p>
+<p>Louisiana is the case where the full-credit columns do not apply to new systems. Its Public Service Commission credits exports from systems installed after 2019 at avoided cost, a utility-specific rate far below retail, so the quarter-credit columns are the closer guide there.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"side-by-side-output","text":"Side by side: output"},{"id":"side-by-side-payback","text":"Side by side: payback"},{"id":"why-a-weak-export-credit-narrows-the-gap","text":"Why a weak export credit narrows the gap"},{"id":"how-many-more-panels-you-need","text":"How many more panels you need"},{"id":"where-the-gap-is-largest-and-smallest","text":"Where the gap is largest and smallest"},{"id":"judging-the-roof-you-have","text":"Judging the roof you have"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-panel-roof-pitch",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panel-roof-pitch/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panel-roof-pitch","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-panel-roof-pitch-card.webp","srcSet":"/photos/solar-panel-roof-pitch-card.webp 640w, /photos/solar-panel-roof-pitch-sm.webp 768w, /photos/solar-panel-roof-pitch-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-18","children":"Oct 18, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"A 30° south roof makes 0.5% to 4.7% more than a 20° one in 50 states, and Hawaii loses. State-by-state table, x/12 pitch conversion and payback effect."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2c","$L2d","$L2e"]}],"$L2f","$L30","$L31"]}]]}]}]}],"$L32"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"East- or West-Facing Roof: Is Solar Still Worth It?\",\"description\":\"East- or west-facing panels make about 14.5% to 14.8% less than south-facing ones. See the payback cost in five states and why weak export credit softens it.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Planning a system\",\"wordCount\":1218,\"image\":[\"https://roofpayback.com/photos/roof-pv-nevada-og.jpg\",\"https://roofpayback.com/photos/roof-pv-nevada.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/east-west-facing-solar-panels/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L33",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@34"}]}]
+1f:true
+35:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L35",null,{"slot":"article"}]}]
+36:Te93,<h2 id="why-a-weak-export-credit-narrows-the-gap">Why a weak export credit narrows the gap</h2>
+<p>The example home uses about 40% of its power while the sun is up. On most days the panels make more than that, and the extra goes to the grid. When an east or west roof makes less, the kWh it loses come mostly out of that surplus, not out of the power the house uses directly.</p>
+<p>So the dollar cost of a worse roof depends on what a surplus kWh is worth. In Minnesota, turning the array from south to east cuts first-year savings by $271 (17%) if exports earn full retail credit, by $153 (13%) at half credit and by $94 (10%) at quarter credit. The east roof still pays back later in every case, but the penalty shrinks as exports lose value.</p>
+<p>That is also why an east or west roof is a weaker case for a big system. Where exports are worth little, size it close to your daytime use; <a href="/guides/solar-daytime-electricity-use/">solar and daytime electricity use</a> shows how much that use matters.</p>
+<h2 id="how-many-more-panels-you-need">How many more panels you need</h2>
+<p>To make the same 10,500 kWh a year, an east- or west-facing array needs more kW:</p>
+<ul>
+<li>Minnesota: 7.9 kW facing south, 9.5 kW facing east or west.</li>
+<li>Maine and New Jersey: 8 kW south, 9.5 to 9.6 kW east or west.</li>
+<li>Colorado: 6.6 kW south, 7.7 kW east, 8 kW west.</li>
+<li>Louisiana: 7.1 kW south, 8 to 8.1 kW east or west.</li>
+</ul>
+<p>Whether that fits is a roof-space question. Splitting panels across both faces lost about the same as using one face alone (-14.7% on average), so a split layout is a fair option when neither side is big enough by itself. <a href="/guides/how-many-solar-panels-do-i-need/">How many solar panels do I need</a> walks through the count.</p>
+<h2 id="where-the-gap-is-largest-and-smallest">Where the gap is largest and smallest</h2>
+<p>The far north loses most. An east roof in Alaska made 20.7% less than south at 20° and 23.3% less at 30°; a west roof in Montana lost 18.7% and 21.4%. Honolulu loses least, about 7.2% to 7.6%, because the sun is high overhead for much of the year. DOE&#39;s design guidance explains the benchmark: &quot;To obtain the highest annual energy output, modules in the northern hemisphere are pointed due south and inclined at an angle equal to the local latitude.&quot;</p>
+<p>East and west average out almost the same, -14.5% and -14.8%, so pick the face with less shade and more usable space. Pitch matters more than the choice between them: at 30°, east and west lose 17.2% and 17.7%.</p>
+<h2 id="judging-the-roof-you-have">Judging the roof you have</h2>
+<p>Lean toward going ahead on an east or west roof if:</p>
+<ul>
+<li>Your electricity price is high (check your state on the <a href="/electricity-prices/">electricity prices page</a>).</li>
+<li>The roof has little shade and a gentle pitch.</li>
+<li>Your system is sized near your daytime use rather than for a large surplus.</li>
+</ul>
+<p>Be more cautious if:</p>
+<ul>
+<li>Power is cheap and the south-facing payback in your state is already long.</li>
+<li>You live in the northern states where the loss is widest.</li>
+<li>You cannot find out how exports are credited. DOE notes: &quot;Whether or not your solar system qualifies for net metering payments depends on policies and practices in your state and electric utility.&quot;</li>
+</ul>
+<p>Either way, ask each installer for a production estimate for your actual direction, pitch and shade, compare quotes on expected yearly kWh rather than total price, and run the result through the <a href="/solar-calculator/">solar calculator</a>. Our state pages model a south-facing roof, so an east or west roof will make less than they show.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$36"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L35",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=East-%20or%20West-Facing%20Roof%3A%20Is%20Solar%20Still%20Worth%20It%3F&url=https%3A%2F%2Froofpayback.com%2Fguides%2Feast-west-facing-solar-panels%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Feast-west-facing-solar-panels%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Feast-west-facing-solar-panels%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Feast-west-facing-solar-panels%2F&title=East-%20or%20West-Facing%20Roof%3A%20Is%20Solar%20Still%20Worth%20It%3F","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=East-%20or%20West-Facing%20Roof%3A%20Is%20Solar%20Still%20Worth%20It%3F&body=https%3A%2F%2Froofpayback.com%2Fguides%2Feast-west-facing-solar-panels%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.energy.gov/cmei/systems/homeowners-guide-solar",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.energy.gov/cmei/systems/homeowners-guide-solar","rel":"noopener","target":"_blank","children":"DOE: Homeowner's guide to going solar"}]]}],["$","li","https://www.energy.gov/cmei/systems/solar-photovoltaic-system-design-basics",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.energy.gov/cmei/systems/solar-photovoltaic-system-design-basics","rel":"noopener","target":"_blank","children":"DOE: Solar photovoltaic system design basics"}]]}],["$","li","https://lpsc.louisiana.gov/Utilities_NetMetering",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://lpsc.louisiana.gov/Utilities_NetMetering","rel":"noopener","target":"_blank","children":"Louisiana Public Service Commission: Net metering rules (General Order dated September 19, 2019)"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}]
+2d:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2e:["$","span",null,{"children":[7," min"]}]
+2f:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}]
+30:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}]
+31:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+32:["$","li","net-metering-vs-net-billing-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/net-metering-vs-net-billing-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/net-metering-vs-net-billing-payback-card.webp","srcSet":"/photos/net-metering-vs-net-billing-payback-card.webp 640w, /photos/net-metering-vs-net-billing-payback-sm.webp 768w, /photos/net-metering-vs-net-billing-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Payback at full, half, quarter and zero export credit in 13 states, the export rate each needs for a 15-year payback, and the rules new customers get."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+34:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

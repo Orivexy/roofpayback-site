@@ -1,0 +1,443 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/planning/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/planning/","className":"py-1 no-underline hover:text-ink","children":"Planning a system"}]]}],["$","li","/guides/solar-panel-roof-pitch/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Planning a system\",\"item\":\"https://roofpayback.com/guides/topic/planning/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared\",\"item\":\"https://roofpayback.com/guides/solar-panel-roof-pitch/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/planning/","children":"Planning a system"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared"}],["$","p",null,{"className":"lede mt-5","children":"A 30° south roof makes 0.5% to 4.7% more than a 20° one in 50 states, and Hawaii loses. State-by-state table, x/12 pitch conversion and payback effect."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-18","children":"October 18, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-panel-roof-pitch","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared"}],["$","meta","1",{"name":"description","content":"A 30° south roof makes 0.5% to 4.7% more than a 20° one in 50 states, and Hawaii loses. State-by-state table, x/12 pitch conversion and payback effect."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-panel-roof-pitch/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared"}],["$","meta","7",{"property":"og:description","content":"A 30° south roof makes 0.5% to 4.7% more than a 20° one in 50 states, and Hawaii loses. State-by-state table, x/12 pitch conversion and payback effect."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-panel-roof-pitch/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/solar-panel-roof-pitch-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Solar panels mounted on a steep pitched house roof"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-18"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared"}],["$","meta","20",{"name":"twitter:description","content":"A 30° south roof makes 0.5% to 4.7% more than a 20° one in 50 states, and Hawaii loses. State-by-state table, x/12 pitch conversion and payback effect."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/solar-panel-roof-pitch-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+30:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/solar-panel-roof-pitch.webp","image",{"imageSrcSet":"/photos/solar-panel-roof-pitch-card.webp 640w, /photos/solar-panel-roof-pitch-sm.webp 768w, /photos/solar-panel-roof-pitch-md.webp 1024w, /photos/solar-panel-roof-pitch.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-solar-panel-roof-pitch","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-panel-roof-pitch.webp","srcSet":"/photos/solar-panel-roof-pitch-card.webp 640w, /photos/solar-panel-roof-pitch-sm.webp 768w, /photos/solar-panel-roof-pitch-md.webp 1024w, /photos/solar-panel-roof-pitch.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Solar panels mounted on a steep pitched house roof","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Solar panels mounted on a steep pitched house roof",". ","Photo: KVDP"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:ThermodynamicVSPhotovoltaicpanels.jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:ThermodynamicVSPhotovoltaicpanels.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T1aaa,<div class="short-answer"><p class="short-answer-label">The verdict</p>
+<p>Pitch matters, but only by a few percent within the range most homes have. In PVWatts, tilting a south-facing array from 20° to 30° raised yearly output in 50 of our 51 reference cities, by 0.5% in Houston up to 4.7% in Anchorage, and cut it by 1.7% in Honolulu. The average gain was 2.4%.</p>
+<p>On east- and west-facing roofs the same extra pitch works against you, costing 1% to 5% more output depending on the state. Direction is the larger effect: turning a roof from south to east or west costs about 14.5% to 14.8% at 20°, as <a href="/guides/east-west-facing-solar-panels/">east- or west-facing solar panels</a> shows.</p>
+<p>The U.S. Department of Energy says panels &quot;perform best on south-facing roofs with a slope between 15 and 40 degrees,&quot; and that other roofs may be suitable too.</p>
+</div><h2 id="convert-your-roof-pitch-to-degrees">Convert your roof pitch to degrees</h2>
+<p>Roofers in the U.S. describe pitch as rise over a 12-inch run, while solar tools use degrees. The conversion is the angle whose tangent is rise ÷ 12:</p>
+<table>
+<thead>
+<tr>
+<th>Roof pitch</th>
+<th>Angle</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>3/12</td>
+<td>14°</td>
+</tr>
+<tr>
+<td>4/12</td>
+<td>18.4°</td>
+</tr>
+<tr>
+<td>5/12</td>
+<td>22.6°</td>
+</tr>
+<tr>
+<td>6/12</td>
+<td>26.6°</td>
+</tr>
+<tr>
+<td>7/12</td>
+<td>30.3°</td>
+</tr>
+<tr>
+<td>8/12</td>
+<td>33.7°</td>
+</tr>
+<tr>
+<td>9/12</td>
+<td>36.9°</td>
+</tr>
+<tr>
+<td>10/12</td>
+<td>39.8°</td>
+</tr>
+<tr>
+<td>12/12</td>
+<td>45°</td>
+</tr>
+</tbody></table>
+<p>So our 20° baseline sits between a 4/12 and a 5/12 roof, and 30° is almost exactly a 7/12 roof.</p>
+<h2 id="what-a-steeper-roof-does-in-your-state">What a steeper roof does in your state</h2>
+<p>Each figure compares yearly output at 30° with output at 20° for the same direction, in the state&#39;s reference city (PVWatts v8, 14% losses). States run from the largest south-facing gain to the smallest.</p>
+<table>
+<thead>
+<tr>
+<th>State (city)</th>
+<th>South, 30° vs. 20°</th>
+<th>East, 30° vs. 20°</th>
+<th>West, 30° vs. 20°</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Alaska (Anchorage)</td>
+<td>+4.7%</td>
+<td>-3.3%</td>
+<td>-1%</td>
+</tr>
+<tr>
+<td>North Dakota (Fargo)</td>
+<td>+4%</td>
+<td>-2.4%</td>
+<td>-2.2%</td>
+</tr>
+<tr>
+<td>Montana (Billings)</td>
+<td>+4%</td>
+<td>-2.1%</td>
+<td>-3.3%</td>
+</tr>
+<tr>
+<td>Minnesota (Minneapolis)</td>
+<td>+3.9%</td>
+<td>-2.2%</td>
+<td>-2.5%</td>
+</tr>
+<tr>
+<td>South Dakota (Sioux Falls)</td>
+<td>+3.8%</td>
+<td>-2.6%</td>
+<td>-2.1%</td>
+</tr>
+<tr>
+<td>New Hampshire (Manchester)</td>
+<td>+3.7%</td>
+<td>-2.3%</td>
+<td>-2.7%</td>
+</tr>
+<tr>
+<td>Wyoming (Cheyenne)</td>
+<td>+3.6%</td>
+<td>-2.1%</td>
+<td>-3.3%</td>
+</tr>
+<tr>
+<td>Maine (Portland)</td>
+<td>+3.6%</td>
+<td>-2.8%</td>
+<td>-2.9%</td>
+</tr>
+<tr>
+<td>Nebraska (Omaha)</td>
+<td>+3.4%</td>
+<td>-2.8%</td>
+<td>-2.9%</td>
+</tr>
+<tr>
+<td>Vermont (Burlington)</td>
+<td>+3.3%</td>
+<td>-2.5%</td>
+<td>-2.8%</td>
+</tr>
+<tr>
+<td>Colorado (Denver)</td>
+<td>+3.2%</td>
+<td>-2.3%</td>
+<td>-3.9%</td>
+</tr>
+<tr>
+<td>Iowa (Des Moines)</td>
+<td>+3.1%</td>
+<td>-3.2%</td>
+<td>-2.8%</td>
+</tr>
+<tr>
+<td>Rhode Island (Providence)</td>
+<td>+3.1%</td>
+<td>-3%</td>
+<td>-3.1%</td>
+</tr>
+<tr>
+<td>Massachusetts (Boston)</td>
+<td>+3.1%</td>
+<td>-2.8%</td>
+<td>-3.2%</td>
+</tr>
+<tr>
+<td>Connecticut (Hartford)</td>
+<td>+3%</td>
+<td>-3%</td>
+<td>-3.3%</td>
+</tr>
+<tr>
+<td>Idaho (Boise)</td>
+<td>+2.9%</td>
+<td>-2.8%</td>
+<td>-3%</td>
+</tr>
+<tr>
+<td>Wisconsin (Milwaukee)</td>
+<td>+2.9%</td>
+<td>-3.1%</td>
+<td>-2.9%</td>
+</tr>
+<tr>
+<td>Pennsylvania (Philadelphia)</td>
+<td>+2.8%</td>
+<td>-3%</td>
+<td>-3.4%</td>
+</tr>
+<tr>
+<td>New Jersey (Newark)</td>
+<td>+2.7%</td>
+<td>-3.2%</td>
+<td>-3.6%</td>
+</tr>
+<tr>
+<td>Missouri (Kansas City)</td>
+<td>+2.7%</td>
+<td>-3.4%</td>
+<td>-3.1%</td>
+</tr>
+<tr>
+<td>Maryland (Baltimore)</td>
+<td>+2.7%</td>
+<td>-3.3%</td>
+<td>-3.7%</td>
+</tr>
+<tr>
+<td>Delaware (Wilmington)</td>
+<td>+2.7%</td>
+<td>-3.2%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Utah (Salt Lake City)</td>
+<td>+2.6%</td>
+<td>-2.8%</td>
+<td>-3.5%</td>
+</tr>
+<tr>
+<td>District of Columbia</td>
+<td>+2.6%</td>
+<td>-3.2%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Michigan (Detroit)</td>
+<td>+2.6%</td>
+<td>-2.7%</td>
+<td>-3.1%</td>
+</tr>
+<tr>
+<td>Kansas (Wichita)</td>
+<td>+2.5%</td>
+<td>-3.6%</td>
+<td>-3.1%</td>
+</tr>
+<tr>
+<td>Illinois (Chicago)</td>
+<td>+2.5%</td>
+<td>-3.6%</td>
+<td>-3.3%</td>
+</tr>
+<tr>
+<td>Nevada (Las Vegas)</td>
+<td>+2.5%</td>
+<td>-3%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Washington (Seattle)</td>
+<td>+2.5%</td>
+<td>-3.9%</td>
+<td>-2.7%</td>
+</tr>
+<tr>
+<td>New York (New York City)</td>
+<td>+2.4%</td>
+<td>-3.2%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Indiana (Indianapolis)</td>
+<td>+2.4%</td>
+<td>-3%</td>
+<td>-3.4%</td>
+</tr>
+<tr>
+<td>New Mexico (Albuquerque)</td>
+<td>+2.4%</td>
+<td>-2.8%</td>
+<td>-4.2%</td>
+</tr>
+<tr>
+<td>Ohio (Columbus)</td>
+<td>+2.3%</td>
+<td>-2.7%</td>
+<td>-3.6%</td>
+</tr>
+<tr>
+<td>Oregon (Portland)</td>
+<td>+2.2%</td>
+<td>-4%</td>
+<td>-2.4%</td>
+</tr>
+<tr>
+<td>Kentucky (Louisville)</td>
+<td>+2.1%</td>
+<td>-3.5%</td>
+<td>-3.4%</td>
+</tr>
+<tr>
+<td>Oklahoma (Oklahoma City)</td>
+<td>+2%</td>
+<td>-3.8%</td>
+<td>-3%</td>
+</tr>
+<tr>
+<td>Virginia (Virginia Beach)</td>
+<td>+1.9%</td>
+<td>-3.7%</td>
+<td>-4%</td>
+</tr>
+<tr>
+<td>North Carolina (Charlotte)</td>
+<td>+1.9%</td>
+<td>-3.5%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Arizona (Phoenix)</td>
+<td>+1.9%</td>
+<td>-3.7%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>West Virginia (Charleston)</td>
+<td>+1.7%</td>
+<td>-3.3%</td>
+<td>-3.4%</td>
+</tr>
+<tr>
+<td>California (Los Angeles)</td>
+<td>+1.7%</td>
+<td>-4.9%</td>
+<td>-2.8%</td>
+</tr>
+<tr>
+<td>Tennessee (Nashville)</td>
+<td>+1.7%</td>
+<td>-3.2%</td>
+<td>-3.9%</td>
+</tr>
+<tr>
+<td>Arkansas (Little Rock)</td>
+<td>+1.6%</td>
+<td>-3.9%</td>
+<td>-3.6%</td>
+</tr>
+<tr>
+<td>South Carolina (Columbia)</td>
+<td>+1.6%</td>
+<td>-3.3%</td>
+<td>-4.1%</td>
+</tr>
+<tr>
+<td>Georgia (Atlanta)</td>
+<td>+1.4%</td>
+<td>-3.5%</td>
+<td>-3.9%</td>
+</tr>
+<tr>
+<td>Alabama (Birmingham)</td>
+<td>+1.1%</td>
+<td>-3.6%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Mississippi (Jackson)</td>
+<td>+1%</td>
+<td>-3.7%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Louisiana (New Orleans)</td>
+<td>+0.8%</td>
+<td>-3.3%</td>
+<td>-4.3%</td>
+</tr>
+<tr>
+<td>Florida (Orlando)</td>
+<td>+0.6%</td>
+<td>-2.9%</td>
+<td>-5.1%</td>
+</tr>
+<tr>
+<td>Texas (Houston)</td>
+<td>+0.5%</td>
+<td>-3.7%</td>
+<td>-3.8%</td>
+</tr>
+<tr>
+<td>Hawaii (Honolulu)</td>
+<td>-1.7%</td>
+<td>-4.2%</td>
+<td>-4.3%</td>
+</tr>
+</tbody></table>
+<p>The order follows latitude closely. The farther north the city, the lower the sun sits for much of the year and the more a steeper south-facing panel gains. Near the Gulf Coast the gain is under 1%, and in Honolulu, at about 21° north, the flatter panel wins.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"convert-your-roof-pitch-to-degrees","text":"Convert your roof pitch to degrees"},{"id":"what-a-steeper-roof-does-in-your-state","text":"What a steeper roof does in your state"},{"id":"what-it-does-to-payback","text":"What it does to payback"},{"id":"what-we-did-not-test","text":"What we did not test"},{"id":"what-to-ask-an-installer","text":"What to ask an installer"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24",false,"$L25",false,"$L26","$L27","$L28","$L29"]}],"$L2a"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","how-much-electricity-does-a-solar-panel-produce",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-much-electricity-does-a-solar-panel-produce/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-much-electricity-does-a-solar-panel-produce","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/how-much-electricity-does-a-solar-panel-produce-card.webp","srcSet":"/photos/how-much-electricity-does-a-solar-panel-produce-card.webp 640w, /photos/how-much-electricity-does-a-solar-panel-produce-sm.webp 768w, /photos/how-much-electricity-does-a-solar-panel-produce-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-16","children":"Nov 16, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[11," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Much Electricity Does a Solar Panel Make Monthly?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Month-by-month output per kW of solar panels for all 50 states and D.C., from PVWatts, plus how to scale it to one panel or a whole system."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","east-west-facing-solar-panels",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/east-west-facing-solar-panels/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-east-west-facing-solar-panels","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-pv-nevada-card.webp","srcSet":"/photos/roof-pv-nevada-card.webp 640w, /photos/roof-pv-nevada-sm.webp 768w, /photos/roof-pv-nevada-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2b","$L2c","$L2d","$L2e"]}]]}]}]}],"$L2f"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Does Roof Pitch Matter for Solar? 20° vs. 30° Compared\",\"description\":\"A 30° south roof makes 0.5% to 4.7% more than a 20° one in 50 states, and Hawaii loses. State-by-state table, x/12 pitch conversion and payback effect.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Planning a system\",\"wordCount\":1262,\"image\":[\"https://roofpayback.com/photos/solar-panel-roof-pitch-og.jpg\",\"https://roofpayback.com/photos/solar-panel-roof-pitch.webp\"],\"datePublished\":\"2026-10-18\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-panel-roof-pitch/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L30",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+1f:true
+32:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L32",null,{"slot":"article"}]}]
+33:T9b8,<h2 id="what-it-does-to-payback">What it does to payback</h2>
+<p>Very little, because a few percent of output is a few percent of savings. Running our example home (7 kW, 10,500 kWh a year, $3,500 per kW, no incentives, September 2026 EIA prices, full export credit) at both pitches:</p>
+<ul>
+<li><strong>Alaska, south roof:</strong> 12.7 years at 20°, 12.2 years at 30°. This is the largest improvement in the table.</li>
+<li><strong>Minnesota, south roof:</strong> 14 years at 20°, 13.5 years at 30°.</li>
+<li><strong>Florida, south roof:</strong> 14.3 years at both pitches.</li>
+<li><strong>Alaska, east roof:</strong> 15.7 years at 20°, 16.2 years at 30°. A steep east or west face pushes the other way.</li>
+</ul>
+<p>In practical terms, a steep south roof in the north is a small bonus and a steep east or west roof a small extra cost. Neither turns a good project into a bad one. Your electricity price and how exports are credited move payback far more; see <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a>.</p>
+<h2 id="what-we-did-not-test">What we did not test</h2>
+<p>Our PVWatts data covers only 20° and 30°. We did not model low pitches under 20°, roofs steeper than 30°, or flat roofs where racks set the tilt, so the table says nothing about them. DOE&#39;s design guidance gives the general rule: &quot;To obtain the highest annual energy output, modules in the northern hemisphere are pointed due south and inclined at an angle equal to the local latitude.&quot; Real roofs rarely match that exactly, which is why the differences above stay small. PVWatts lets you enter your own tilt and direction for your address, and an installer&#39;s estimate should use your measured pitch.</p>
+<h2 id="what-to-ask-an-installer">What to ask an installer</h2>
+<ol>
+<li>What tilt and direction does your estimate use, and was it measured on my roof?</li>
+<li>Which roof faces did you consider, and why did you pick these?</li>
+<li>On a flat or low-slope roof, will the panels be tilted on racks, and does that change how many fit?</li>
+<li>What does shade from trees, chimneys or dormers cost on each face?</li>
+</ol>
+<p>Then compare quotes on expected yearly kWh and price per watt, and run the numbers in the <a href="/solar-calculator/">solar calculator</a>. For month-by-month output at the 20° baseline, see <a href="/guides/how-much-electricity-does-a-solar-panel-produce/">how much electricity a solar panel produces</a>.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$33"}}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Does%20Roof%20Pitch%20Matter%20for%20Solar%3F%2020%C2%B0%20vs.%2030%C2%B0%20Compared&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-roof-pitch%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-roof-pitch%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-roof-pitch%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-roof-pitch%2F&title=Does%20Roof%20Pitch%20Matter%20for%20Solar%3F%2020%C2%B0%20vs.%2030%C2%B0%20Compared","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Does%20Roof%20Pitch%20Matter%20for%20Solar%3F%2020%C2%B0%20vs.%2030%C2%B0%20Compared&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panel-roof-pitch%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+26:null
+27:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+28:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.energy.gov/cmei/systems/homeowners-guide-solar",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.energy.gov/cmei/systems/homeowners-guide-solar","rel":"noopener","target":"_blank","children":"DOE: Homeowner's guide to going solar"}]]}],["$","li","https://www.energy.gov/cmei/systems/solar-photovoltaic-system-design-basics",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.energy.gov/cmei/systems/solar-photovoltaic-system-design-basics","rel":"noopener","target":"_blank","children":"DOE: Solar photovoltaic system design basics"}]]}]]}]]}]
+29:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2a:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2b:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}]
+2c:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"East- or West-Facing Roof: Is Solar Still Worth It?"}]
+2d:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"East- or west-facing panels make about 14.5% to 14.8% less than south-facing ones. See the payback cost in five states and why weak export credit softens it."}]
+2e:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+2f:["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+31:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/1-_q_dj7xq96g.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"city","t":"d","k":"corpus-christi","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"state","t":"d","k":"texas","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"solar-panels","h":131136,"c":"$Q2"}]]
+0:{"b":"9ejB_AtLjd4bll68LEc-a","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

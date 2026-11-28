@@ -1,0 +1,188 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-and-electric-car-charging/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Solar Panels for an Electric Car: How Much Bigger?"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Solar Panels for an Electric Car: How Much Bigger?\",\"item\":\"https://roofpayback.com/guides/solar-and-electric-car-charging/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Solar Panels for an Electric Car: How Much Bigger?"}],["$","p",null,{"className":"lede mt-5","children":"How many kWh an EV adds, how much bigger the solar system gets, and why charging at night or at midday changes payback when exports earn less than retail."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-30","children":"October 30, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-and-electric-car-charging","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Solar Panels for an Electric Car: How Much Bigger? | RoofPayback"}],["$","meta","1",{"name":"description","content":"How many kWh an EV adds, how much bigger the solar system gets, and why charging at night or at midday changes payback when exports earn less than retail."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-and-electric-car-charging/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Solar Panels for an Electric Car: How Much Bigger?"}],["$","meta","7",{"property":"og:description","content":"How many kWh an EV adds, how much bigger the solar system gets, and why charging at night or at midday changes payback when exports earn less than retail."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-and-electric-car-charging/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/ev-home-wallbox-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Electric car plugged into a Level 2 wall charger in a home garage"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-30"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Solar Panels for an Electric Car: How Much Bigger?"}],["$","meta","20",{"name":"twitter:description","content":"How many kWh an EV adds, how much bigger the solar system gets, and why charging at night or at midday changes payback when exports earn less than retail."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/ev-home-wallbox-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+33:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/ev-home-wallbox.webp","image",{"imageSrcSet":"/photos/ev-home-wallbox-card.webp 640w, /photos/ev-home-wallbox-sm.webp 768w, /photos/ev-home-wallbox-md.webp 1024w, /photos/ev-home-wallbox.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-solar-and-electric-car-charging","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-wallbox.webp","srcSet":"/photos/ev-home-wallbox-card.webp 640w, /photos/ev-home-wallbox-sm.webp 768w, /photos/ev-home-wallbox-md.webp 1024w, /photos/ev-home-wallbox.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Electric car plugged into a Level 2 wall charger in a home garage","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Electric car plugged into a Level 2 wall charger in a home garage",". ","Photo: Mariordo (Mario Roberto Durán Ortiz)"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/4.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 4.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:BMW_i3_charging_CRI_11_2021_2068.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:Tc45,<div class="short-answer"><p class="short-answer-label">The answer up front</p>
+<p>A typical electric car adds roughly 3,400 kWh a year to a home&#39;s use, and a large electric pickup about 5,450. Covering that with solar takes 2 to 4 more kW of panels in the four states we modeled, which adds $7,000 to $14,000 at $3.50 per watt.</p>
+<p>Whether the bigger system pays back faster or slower depends on when the car charges and on how your utility credits exports. With full retail credit, adding the car shortened payback slightly or left it unchanged. With half credit, overnight charging made payback longer, while charging mostly at midday made it shorter.</p>
+</div><h2 id="how-much-electricity-does-the-car-add">How much electricity does the car add?</h2>
+<p>Two federal numbers give a starting estimate. The Alternative Fuels Data Center reports an average of 11,026 miles a year for cars and 11,360 for light trucks and vans, based on Federal Highway Administration data. Fueleconomy.gov lists the electricity use of each model; for model year 2025, for example, a front-wheel-drive Chevrolet Equinox EV and a rear-wheel-drive Ford Mustang Mach-E are rated at 31 kWh per 100 miles, and an F-150 Lightning 4WD ER1 at 48.</p>
+<ul>
+<li>Car: 11,026 miles × 31 kWh/100 mi ≈ 3,418 kWh a year</li>
+<li>Pickup: 11,360 miles × 48 kWh/100 mi ≈ 5,453 kWh a year</li>
+</ul>
+<p>We use 3,500 kWh for the car and 5,450 for the pickup. Your own figure depends on your miles, your model and how much charging happens away from home, so replace these with your numbers when you can.</p>
+<h2 id="the-household-and-the-four-states">The household and the four states</h2>
+<p>The house uses 10,500 kWh a year before the car. Each system is sized to cover the home&#39;s yearly use, rounded to whole kW, and priced at $3,500 per kW with no incentives. Output comes from PVWatts and prices from EIA&#39;s September 2026 residential averages (<a href="/methodology/">methodology</a>).</p>
+<p>We picked four states with different sun, prices and credit arrangements. In Minnesota, the Public Utilities Commission says rooftop systems under 40 kW AC can choose to be paid the &quot;average retail utility energy rate&quot; for surplus energy. In Louisiana, exports from systems installed after 2019 are credited at avoided cost, far below retail. Colorado and Florida show the same household under other prices and sun.</p>
+<table>
+<thead>
+<tr>
+<th>State (price)</th>
+<th>House only</th>
+<th>With car (14,000 kWh)</th>
+<th>With pickup (15,950 kWh)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Colorado (17.88¢)</td>
+<td>7 kW, $24,500</td>
+<td>9 kW, $31,500</td>
+<td>10 kW, $35,000</td>
+</tr>
+<tr>
+<td>Florida (14.74¢)</td>
+<td>7 kW, $24,500</td>
+<td>9 kW, $31,500</td>
+<td>10 kW, $35,000</td>
+</tr>
+<tr>
+<td>Louisiana (13.33¢)</td>
+<td>7 kW, $24,500</td>
+<td>9 kW, $31,500</td>
+<td>11 kW, $38,500</td>
+</tr>
+<tr>
+<td>Minnesota (17.37¢)</td>
+<td>8 kW, $28,000</td>
+<td>11 kW, $38,500</td>
+<td>12 kW, $42,000</td>
+</tr>
+</tbody></table>
+<p>Minnesota needs the most added panels because each kW makes less there (1,333 kWh a year, against 1,595 in Denver).</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"how-much-electricity-does-the-car-add","text":"How much electricity does the car add?"},{"id":"the-household-and-the-four-states","text":"The household and the four states"},{"id":"when-the-car-charges-changes-the-answer","text":"When the car charges changes the answer"},{"id":"what-the-charging-would-cost-without-solar","text":"What the charging would cost without solar"},{"id":"if-the-quote-comes-in-higher","text":"If the quote comes in higher"},{"id":"how-the-family-checks-its-own-numbers","text":"How the family checks its own numbers"},{"id":"what-would-change-the-result","text":"What would change the result"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-daytime-electricity-use",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-daytime-electricity-use/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-daytime-electricity-use","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-daytime-electricity-use-card.webp","srcSet":"/photos/solar-daytime-electricity-use-card.webp 640w, /photos/solar-daytime-electricity-use-sm.webp 768w, /photos/solar-daytime-electricity-use-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-25","children":"Oct 25, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Daytime Power Use and Solar Payback: 30%, 40%, 60%"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How using more power while the sun is up changes solar payback under full, half and quarter export credit, with results for Texas, Arizona, Maine and Louisiana."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","home-ev-charging-cost-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/home-ev-charging-cost-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-home-ev-charging-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-charging-card.webp","srcSet":"/photos/ev-home-charging-card.webp 640w, /photos/ev-home-charging-sm.webp 768w, /photos/ev-home-charging-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2c","$L2d","$L2e"]}],"$L2f","$L30","$L31"]}]]}]}]}],"$L32"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Solar Panels for an Electric Car: How Much Bigger?\",\"description\":\"How many kWh an EV adds, how much bigger the solar system gets, and why charging at night or at midday changes payback when exports earn less than retail.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1128,\"image\":[\"https://roofpayback.com/photos/ev-home-wallbox-og.jpg\",\"https://roofpayback.com/photos/ev-home-wallbox.webp\"],\"datePublished\":\"2026-10-30\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-and-electric-car-charging/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L33",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@34"}]}]
+1f:true
+35:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L35",null,{"slot":"article"}]}]
+36:T1197,<h2 id="when-the-car-charges-changes-the-answer">When the car charges changes the answer</h2>
+<p>Panels only produce while the sun is up. The house alone uses 40% of its power in daylight in our model. If the car charges overnight, all 3,500 kWh come at night and the daytime share falls to 30%. If the car is parked at home and charges mostly at midday (we assume three quarters of its charging), the share rises to about 49%.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>House only</th>
+<th>Car, charged overnight</th>
+<th>Car, charged mostly at midday</th>
+<th>Pickup, charged overnight</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Colorado, full credit</td>
+<td>11.9 years</td>
+<td>11.5 years</td>
+<td>11.5 years</td>
+<td>11.4 years</td>
+</tr>
+<tr>
+<td>Colorado, half credit</td>
+<td>16.1 years</td>
+<td>16.9 years</td>
+<td>15 years</td>
+<td>17.1 years</td>
+</tr>
+<tr>
+<td>Florida, full credit</td>
+<td>14.3 years</td>
+<td>14.1 years</td>
+<td>14.1 years</td>
+<td>14 years</td>
+</tr>
+<tr>
+<td>Florida, half credit</td>
+<td>19.5 years</td>
+<td>20.4 years</td>
+<td>18.1 years</td>
+<td>20.7 years</td>
+</tr>
+<tr>
+<td>Minnesota, full credit</td>
+<td>14 years</td>
+<td>14 years</td>
+<td>14 years</td>
+<td>13.7 years</td>
+</tr>
+<tr>
+<td>Minnesota, half credit</td>
+<td>19 years</td>
+<td>20.1 years</td>
+<td>17.9 years</td>
+<td>20.4 years</td>
+</tr>
+<tr>
+<td>Louisiana, quarter credit</td>
+<td>not within 25 years</td>
+<td>not within 25 years</td>
+<td>23.1 years</td>
+<td>not within 25 years</td>
+</tr>
+</tbody></table>
+<p>Louisiana is shown at quarter credit because full retail credit is not what new exporters there receive; even at half credit, the house-only system would take 21.9 years.</p>
+<p>Under full credit, timing does not matter and the car helps a little: the larger system spreads the fixed $100 a year of upkeep over more savings. Under reduced credit, overnight charging hurts. The bigger array exports more of its midday output at the lower rate, while the car draws its power from the grid at night at the full price. Charging at midday reverses that, and it is the only case where the Louisiana household reaches payback within 25 years.</p>
+<h2 id="what-the-charging-would-cost-without-solar">What the charging would cost without solar</h2>
+<p>At September 2026 average prices, 3,500 kWh of home charging costs about $626 a year in Colorado, $608 in Minnesota, $516 in Florida and $467 in Louisiana. <a href="/guides/home-ev-charging-cost-by-state/">Home EV charging cost by state</a> has every state. Some utilities offer EV rates with cheaper overnight power, which would change both that bill and the comparison above; ask yours before deciding when to charge.</p>
+<h2 id="if-the-quote-comes-in-higher">If the quote comes in higher</h2>
+<p>Every figure uses $3.50 per watt. A larger system multiplies any difference in price per watt: on the Minnesota pickup case, a quote 50 cents per watt higher adds $6,000. Compare quotes on price per watt and expected yearly kWh, and ask installers to quote with and without the car. <a href="/guides/solar-panel-cost-by-state/">Solar panel cost by state</a> shows how the price per watt feeds into payback.</p>
+<h2 id="how-the-family-checks-its-own-numbers">How the family checks its own numbers</h2>
+<ol>
+<li>Estimate the car&#39;s yearly kWh from your miles and its rating on fueleconomy.gov, minus charging done away from home.</li>
+<li>Look at your meter data to see when you would realistically charge.</li>
+<li>Find out how your utility credits exports and whether it has an EV rate.</li>
+<li>Run both totals in the <a href="/solar-calculator/">solar calculator</a>, once with your current daytime share and once with the car included.</li>
+</ol>
+<h2 id="what-would-change-the-result">What would change the result</h2>
+<ul>
+<li><strong>More or fewer miles.</strong> The 3,500 and 5,450 kWh figures are averages built from federal data, not your car.</li>
+<li><strong>Charging location and time.</strong> Workplace or public charging lowers the home load; midday charging at home raises the value of each solar kWh.</li>
+<li><strong>Export credit.</strong> At full credit the car barely matters to payback; at reduced credit it can add or remove more than a year.</li>
+<li><strong>The quote.</strong> A price above $3.50 per watt lengthens every row, and more so for the larger systems.</li>
+</ul>
+<p>For the general effect of daytime use on payback, see <a href="/guides/solar-daytime-electricity-use/">solar and daytime electricity use</a>.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$36"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L35",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Solar%20Panels%20for%20an%20Electric%20Car%3A%20How%20Much%20Bigger%3F&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-and-electric-car-charging%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-and-electric-car-charging%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-and-electric-car-charging%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-and-electric-car-charging%2F&title=Solar%20Panels%20for%20an%20Electric%20Car%3A%20How%20Much%20Bigger%3F","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Solar%20Panels%20for%20an%20Electric%20Car%3A%20How%20Much%20Bigger%3F&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-and-electric-car-charging%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://afdc.energy.gov/data/10309",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://afdc.energy.gov/data/10309","rel":"noopener","target":"_blank","children":"AFDC: Average Annual Vehicle Miles Traveled by Major Vehicle Category"}]]}],["$","li","https://www.fueleconomy.gov/feg/byfuel/EV2025.shtml",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.fueleconomy.gov/feg/byfuel/EV2025.shtml","rel":"noopener","target":"_blank","children":"fueleconomy.gov: Model year 2025 all-electric vehicles"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://mn.gov/puc/activities/economic-analysis/distributed-energy/net-metering",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://mn.gov/puc/activities/economic-analysis/distributed-energy/net-metering","rel":"noopener","target":"_blank","children":"Minnesota Public Utilities Commission: Net metering"}]]}],["$","li","https://lpsc.louisiana.gov/Utilities_NetMetering",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[6,"."]}],["$","a",null,{"className":"link","href":"https://lpsc.louisiana.gov/Utilities_NetMetering","rel":"noopener","target":"_blank","children":"Louisiana Public Service Commission: Net metering rules (General Order dated September 19, 2019)"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}]
+2d:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2e:["$","span",null,{"children":[6," min"]}]
+2f:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Home EV Charging Cost by State: What It Costs in 2026"}]
+30:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"What home EV charging costs in every state per year and per mile at September 2026 EIA prices, and how it compares with gasoline at $4.36 a gallon."}]
+31:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+32:["$","li","how-many-solar-panels-do-i-need",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-many-solar-panels-do-i-need/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia-card.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+34:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

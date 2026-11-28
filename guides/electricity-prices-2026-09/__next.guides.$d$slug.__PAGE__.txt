@@ -1,0 +1,228 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/electricity-prices-2026-09/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Electricity Prices in September 2026: Winners and Losers"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Electricity Prices in September 2026: Winners and Losers\",\"item\":\"https://roofpayback.com/guides/electricity-prices-2026-09/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Electricity Prices in September 2026: Winners and Losers"}],["$","p",null,{"className":"lede mt-5","children":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-25","children":"November 25, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"electricity-prices-2026-09","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Electricity Prices in September 2026: Winners and Losers"}],["$","meta","1",{"name":"description","content":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/electricity-prices-2026-09/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Electricity Prices in September 2026: Winners and Losers"}],["$","meta","7",{"property":"og:description","content":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/electricity-prices-2026-09/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/reserve-utility-pole-california-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Utility pole with a transformer and power lines against a blue sky in South San Francisco"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-25"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Electricity Prices in September 2026: Winners and Losers"}],["$","meta","20",{"name":"twitter:description","content":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/reserve-utility-pole-california-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+30:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/reserve-utility-pole-california.webp","image",{"imageSrcSet":"/photos/reserve-utility-pole-california-card.webp 640w, /photos/reserve-utility-pole-california-sm.webp 768w, /photos/reserve-utility-pole-california-md.webp 1024w, /photos/reserve-utility-pole-california.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-electricity-prices-2026-09","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-utility-pole-california.webp","srcSet":"/photos/reserve-utility-pole-california-card.webp 640w, /photos/reserve-utility-pole-california-sm.webp 768w, /photos/reserve-utility-pole-california-md.webp 1024w, /photos/reserve-utility-pole-california.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Utility pole with a transformer and power lines against a blue sky in South San Francisco","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Utility pole with a transformer and power lines against a blue sky in South San Francisco",". ","Photo: BrokenSphere"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/3.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:SSF_utility_pole_1_front.JPG","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T11a2,<div class="short-answer"><p class="short-answer-label">What we found</p>
+<p>The U.S. average residential electricity price in September 2026 was <strong>18.17¢ per kilowatt-hour (kWh)</strong>, up 0.7% from 18.05¢ a year earlier, according to the Energy Information Administration (EIA). That is the smallest year-over-year increase of the last twelve months. Over the full year to September, though, homes paid about 6% more per kWh than in the year before. The calm September number says more about September 2025 than about the trend.</p>
+<p>Hawaii (+22.2%) and Idaho (+15.1%) led the increases. Connecticut (−10.9%) and Florida (−6.5%) fell the most. The latest month is preliminary, so expect small revisions.</p>
+</div><h2 id="the-slowdown-is-mostly-a-high-starting-point">The slowdown is mostly a high starting point</h2>
+<p>The table lists each month&#39;s national residential price and its change from the same month a year earlier, from EIA&#39;s monthly survey of utilities (EIA-861M).</p>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>U.S. residential price</th>
+<th>Change vs. a year earlier</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>October 2025</td>
+<td>17.95¢</td>
+<td>5%</td>
+</tr>
+<tr>
+<td>November 2025</td>
+<td>17.77¢</td>
+<td>5.5%</td>
+</tr>
+<tr>
+<td>December 2025</td>
+<td>17.11¢</td>
+<td>5.2%</td>
+</tr>
+<tr>
+<td>January 2026</td>
+<td>17.45¢</td>
+<td>9.6%</td>
+</tr>
+<tr>
+<td>February 2026</td>
+<td>17.65¢</td>
+<td>7.6%</td>
+</tr>
+<tr>
+<td>March 2026</td>
+<td>18.6¢</td>
+<td>9.2%</td>
+</tr>
+<tr>
+<td>April 2026</td>
+<td>18.86¢</td>
+<td>9.7%</td>
+</tr>
+<tr>
+<td>May 2026</td>
+<td>18.44¢</td>
+<td>6.4%</td>
+</tr>
+<tr>
+<td>June 2026</td>
+<td>18.34¢</td>
+<td>5.2%</td>
+</tr>
+<tr>
+<td>July 2026</td>
+<td>18.31¢</td>
+<td>5.3%</td>
+</tr>
+<tr>
+<td>August 2026</td>
+<td>18.16¢</td>
+<td>3.4%</td>
+</tr>
+<tr>
+<td>September 2026</td>
+<td>18.17¢</td>
+<td>0.7%</td>
+</tr>
+</tbody></table>
+<p>The September 2026 price barely moved from August (18.16¢ to 18.17¢). A year earlier, September had jumped: from 17.57¢ in August 2025 to 18.05¢. Comparing a flat month with a month that had already spiked produces a small percentage, even though prices stayed near their 2026 level.</p>
+<p>Weighting each month by how much power homes used, the average price over October 2025 to September 2026 was <strong>18.05¢</strong>, against 17.04¢ over the previous twelve months, a 5.9% rise. The average household bill over the same twelve months was $160 a month, against $149 the year before.</p>
+<h2 id="hawaii-idaho-maine-and-south-dakota-led-the-increases">Hawaii, Idaho, Maine and South Dakota led the increases</h2>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Sept. 2026</th>
+<th>A year earlier</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hawaii</td>
+<td>48.31¢</td>
+<td>39.53¢</td>
+<td>22.2%</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>14.39¢</td>
+<td>12.5¢</td>
+<td>15.1%</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>31.29¢</td>
+<td>27.88¢</td>
+<td>12.2%</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>16.31¢</td>
+<td>14.68¢</td>
+<td>11.1%</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>23.17¢</td>
+<td>21.22¢</td>
+<td>9.2%</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>27.09¢</td>
+<td>30.41¢</td>
+<td>-10.9%</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>14.74¢</td>
+<td>15.77¢</td>
+<td>-6.5%</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>13.41¢</td>
+<td>14.03¢</td>
+<td>-4.4%</td>
+</tr>
+<tr>
+<td>California</td>
+<td>30.86¢</td>
+<td>31.89¢</td>
+<td>-3.2%</td>
+</tr>
+</tbody></table>
+<p>Hawaii&#39;s 48.31¢ is the highest price in the country, and it was not Hawaii&#39;s peak for the year: its monthly price reached 52.72¢ in June 2026. The reasons the islands pay so much more are covered in <a href="/guides/why-is-electricity-expensive-in-hawaii/">why electricity is expensive in Hawaii</a>.</p>
+<p>The list of risers mixes cheap and expensive states. Idaho (14.39¢) and South Dakota (16.31¢) still sit below the national average after their jumps. Maine is the opposite case: at 31.29¢ it is the second most expensive state, and it still rose 12.2%.</p>
+<p>Seven more places rose by more than 8%: Michigan and the District of Columbia (both 9.2%), Ohio (8.9%), Pennsylvania and Washington (both 8.7%), Colorado (8.4%) and Louisiana (8.1%).</p>
+<p>On the way down, Connecticut fell from 30.41¢ to <strong>27.09¢</strong>, the largest drop. Florida slid to 14.74¢, Utah to 13.41¢ and California to 30.86¢, with Arizona (−2.2%) and Oregon (−1.9%) also lower. Nevada, Tennessee and Wyoming changed by 0.2% or less.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"the-slowdown-is-mostly-a-high-starting-point","text":"The slowdown is mostly a high starting point"},{"id":"hawaii-idaho-maine-and-south-dakota-led-the-increases","text":"Hawaii, Idaho, Maine and South Dakota led the increases"},{"id":"one-month-against-twelve-most-september-moves-hold-up-some-do-not","text":"One month against twelve: most September moves hold up, some do not"},{"id":"business-and-industrial-prices-rose-faster-than-household-prices","text":"Business and industrial prices rose faster than household prices"},{"id":"regions-the-islands-rose-most-the-west-coast-fell","text":"Regions: the islands rose most, the West Coast fell"},{"id":"what-it-means-for-a-household","text":"What it means for a household"},{"id":"how-we-measured-it","text":"How we measured it"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,false,"$L27","$L28","$L29"]}],"$L2a"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","why-is-electricity-expensive-in-hawaii",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/why-is-electricity-expensive-in-hawaii/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-why-is-electricity-expensive-in-hawaii","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/why-is-electricity-expensive-in-hawaii-card.webp","srcSet":"/photos/why-is-electricity-expensive-in-hawaii-card.webp 640w, /photos/why-is-electricity-expensive-in-hawaii-sm.webp 768w, /photos/why-is-electricity-expensive-in-hawaii-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-07","children":"Nov 7, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Why Is Electricity So Expensive in Hawaii? EIA Data"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Hawaii homes paid 48.31¢ per kWh in September 2026, 2.7 times the U.S. average. Ten years of EIA data show when the gap widened and what it costs."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","electricity-prices-by-region",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/electricity-prices-by-region/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-electricity-prices-by-region","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-by-region-card.webp","srcSet":"/photos/electricity-prices-by-region-card.webp 640w, /photos/electricity-prices-by-region-sm.webp 768w, /photos/electricity-prices-by-region-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2b","$L2c","$L2d","$L2e"]}]]}]}]}],"$L2f"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Electricity Prices in September 2026: Winners and Losers\",\"description\":\"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1163,\"image\":[\"https://roofpayback.com/photos/reserve-utility-pole-california-og.jpg\",\"https://roofpayback.com/photos/reserve-utility-pole-california.webp\"],\"datePublished\":\"2026-11-25\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/electricity-prices-2026-09/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L30",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+1f:true
+32:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L32",null,{"slot":"article"}]}]
+33:T1199,<h2 id="one-month-against-twelve-most-september-moves-hold-up-some-do-not">One month against twelve: most September moves hold up, some do not</h2>
+<p>A single month can mislead in either direction. Comparing the last twelve months with the twelve before, using the same EIA-861M data:</p>
+<ul>
+<li><strong>Connecticut</strong> is the only state where the twelve-month average price fell clearly, down 9.1% to 27.2¢. Nevada was flat (−0.2%).</li>
+<li><strong>Florida</strong> fell 6.5% in September but rose 2.6% over twelve months.</li>
+<li><strong>New Hampshire</strong> rose only 5.2% in September but 13.3% over twelve months, to 27.06¢.</li>
+<li><strong>The District of Columbia</strong> had the biggest twelve-month rise, 18.2%, followed by New Hampshire, Pennsylvania (11.9%), Maryland and Washington (both 11.7%) and Ohio (11.5%).</li>
+<li><strong>Idaho</strong>&#39;s 15.1% September jump compares with a 10.8% rise over twelve months.</li>
+</ul>
+<p>If you are budgeting, the twelve-month change is the better guide to what happened to your bills. The September figure is the better guide to where prices stand now.</p>
+<h2 id="business-and-industrial-prices-rose-faster-than-household-prices">Business and industrial prices rose faster than household prices</h2>
+<p>Nationally, the commercial price was 14.27¢/kWh in September 2026, up 2.5% from 13.92¢. The industrial price was 9.52¢, up 7% from 8.9¢. The all-sector average was 14.62¢, against 14.13¢ a year earlier.</p>
+<p>Industrial prices ranged from 6.18¢ in New Mexico to 40.89¢ in Hawaii. In two states, North Dakota and Nevada, industry paid slightly more than commercial customers. The state-by-state ranking of how much more homes pay than businesses is in <a href="/guides/residential-vs-business-electricity-prices/">residential vs. business electricity prices</a>.</p>
+<h2 id="regions-the-islands-rose-most-the-west-coast-fell">Regions: the islands rose most, the West Coast fell</h2>
+<p>EIA&#39;s census divisions moved like this in September 2026:</p>
+<ul>
+<li><strong>Pacific Noncontiguous</strong> (Alaska and Hawaii): 40.85¢, up 16.6%.</li>
+<li><strong>Middle Atlantic</strong>: 25.23¢, up 5.9%.</li>
+<li><strong>East North Central</strong>: 19.41¢, up 4.5%.</li>
+<li><strong>New England</strong>: 29.56¢, up 0.4%, as Connecticut&#39;s drop offset increases in Maine and New Hampshire.</li>
+<li><strong>South Atlantic</strong>: 16.12¢, up 0.3%.</li>
+<li><strong>Pacific Contiguous</strong>: 26.34¢, down 1.5%.</li>
+</ul>
+<p>The cheapest division was East South Central at 14.42¢. Which states sit in each division, and how far apart they are, is in <a href="/guides/electricity-prices-by-region/">electricity prices by region</a>.</p>
+<h2 id="what-it-means-for-a-household">What it means for a household</h2>
+<p>A price change reaches you through the rate times the kWh you use. At the U.S. average use of 885 kWh a month, September&#39;s year-over-year change of 0.12¢ is about a dollar a month. The twelve-month rise is the one that shows on bills: from $149 to $160 a month for the average household. The <a href="/electricity-cost-calculator/">electricity cost calculator</a> lets you plug in your own state&#39;s rate and use, and <a href="/guides/average-electric-bill-by-state/">average electric bill by state</a> has the twelve-month bill for every state.</p>
+<p>Price trends also feed solar math. The example home on our <a href="/methodology/">methodology</a> page assumes prices rise 2.5% a year. The past twelve months ran well above that, the latest month well below. <a href="/guides/solar-payback-if-electricity-prices-rise/">Solar payback if electricity prices rise</a> shows how much the assumption changes the answer.</p>
+<h2 id="how-we-measured-it">How we measured it</h2>
+<p>State and sector prices are EIA&#39;s average prices to ultimate customers for September 2026 from the Electric Power Monthly (Table 5.6.A), compared with September 2025. The monthly series and twelve-month averages come from EIA-861M, where each state&#39;s price is revenue divided by kWh sold to residential customers; the twelve-month averages weight each month by its kWh. Months from January 2026 are preliminary. Prices are nominal, not adjusted for inflation. Every state&#39;s current price is on the <a href="/electricity-prices/">electricity prices</a> page, and <a href="/guides/how-electricity-prices-changed-in-ten-years/">how electricity prices changed in ten years</a> covers the long view.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$33"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L32",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Electricity%20Prices%20in%20September%202026%3A%20Winners%20and%20Losers&url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-09%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-09%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-09%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-09%2F&title=Electricity%20Prices%20in%20September%202026%3A%20Winners%20and%20Losers","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Electricity%20Prices%20in%20September%202026%3A%20Winners%20and%20Losers&body=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-2026-09%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+28:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M monthly sales, revenue and customers by state"}]]}]]}]]}]
+29:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2a:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2b:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-14","children":"Oct 14, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}]
+2c:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices by U.S. Region: September 2026 Compared"}]
+2d:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Home, business and industrial electricity prices for the ten EIA regions in September 2026, which states each region holds, and how they moved in 10 years."}]
+2e:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+2f:["$","li","residential-vs-business-electricity-prices",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/residential-vs-business-electricity-prices/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-residential-vs-business-electricity-prices","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/utility-pole-transformers-card.webp","srcSet":"/photos/utility-pole-transformers-card.webp 640w, /photos/utility-pole-transformers-sm.webp 768w, /photos/utility-pole-transformers-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Why Homes Pay More for Electricity Than Businesses"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Homes paid 18.17¢/kWh in September 2026, against 14.27¢ for businesses and 9.52¢ for industry. All 51 states ranked by how much more homes pay."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+31:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

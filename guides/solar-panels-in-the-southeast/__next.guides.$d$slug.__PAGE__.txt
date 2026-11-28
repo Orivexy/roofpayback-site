@@ -1,0 +1,249 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-panels-in-the-southeast/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Solar Payback in the Southeast: Sun Meets Cheap Power"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Solar Payback in the Southeast: Sun Meets Cheap Power\",\"item\":\"https://roofpayback.com/guides/solar-panels-in-the-southeast/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Solar Payback in the Southeast: Sun Meets Cheap Power"}],["$","p",null,{"className":"lede mt-5","children":"Ten Southeastern states compared with September 2026 prices: solar payback, large typical homes, the Carolinas price split and Kentucky's export credit rule."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-08","children":"November 8, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-panels-in-the-southeast","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Solar Payback in the Southeast: Sun Meets Cheap Power"}],["$","meta","1",{"name":"description","content":"Ten Southeastern states compared with September 2026 prices: solar payback, large typical homes, the Carolinas price split and Kentucky's export credit rule."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-panels-in-the-southeast/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Solar Payback in the Southeast: Sun Meets Cheap Power"}],["$","meta","7",{"property":"og:description","content":"Ten Southeastern states compared with September 2026 prices: solar payback, large typical homes, the Carolinas price split and Kentucky's export credit rule."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-panels-in-the-southeast/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/southeast-florida-panels-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Rows of solar panels among palm trees at the University of Central Florida"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-08"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Solar Payback in the Southeast: Sun Meets Cheap Power"}],["$","meta","20",{"name":"twitter:description","content":"Ten Southeastern states compared with September 2026 prices: solar payback, large typical homes, the Carolinas price split and Kentucky's export credit rule."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/southeast-florida-panels-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+2e:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/southeast-florida-panels.webp","image",{"imageSrcSet":"/photos/southeast-florida-panels-card.webp 640w, /photos/southeast-florida-panels-sm.webp 768w, /photos/southeast-florida-panels-md.webp 1024w, /photos/southeast-florida-panels.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-solar-panels-in-the-southeast","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/southeast-florida-panels.webp","srcSet":"/photos/southeast-florida-panels-card.webp 640w, /photos/southeast-florida-panels-sm.webp 768w, /photos/southeast-florida-panels-md.webp 1024w, /photos/southeast-florida-panels.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Rows of solar panels among palm trees at the University of Central Florida","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Rows of solar panels among palm trees at the University of Central Florida",". ","Photo by Inalvis Alvarez Fernandez. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Alvarez-Fernandez_000005_173135_518646_4578_(36365699590).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Alvarez-Fernandez_000005_173135_518646_4578_(36365699590).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:Tf02,<div class="short-answer"><p class="short-answer-label">At a glance</p>
+<p>This guide covers ten states: Florida, Georgia, North Carolina, South Carolina, Virginia and West Virginia, which the Census Bureau places in the South Atlantic division, and Alabama, Kentucky, Mississippi and Tennessee, its East South Central division. (Delaware, Maryland and D.C., also South Atlantic, are covered with the <a href="/guides/solar-panels-in-the-mid-atlantic/">Mid-Atlantic</a>; Louisiana with the <a href="/guides/solar-panels-in-the-south-central-states/">South Central states</a>.)</p>
+<p>Power is cheap here: 16.12¢ per kWh in the South Atlantic and 14.42¢ in the East South Central division in September 2026, against 18.17¢ nationally. With full export credit, our example system pays back in 12.9 years in Virginia and 17.8 in Tennessee. Homes are large users, so right-sized systems are big, and in several states the credit for exported power is set utility by utility.</p>
+</div><h2 id="the-ten-states-side-by-side">The ten states side by side</h2>
+<p>Our example home: a 7 kW system at $24,500 using 10,500 kWh a year, no incentives, PVWatts output for one reference city per state, EIA prices for September 2026 (<a href="/methodology/">methodology</a>).</p>
+<table>
+<thead>
+<tr>
+<th>State (city)</th>
+<th>Price (change from a year earlier)</th>
+<th>Output per kW</th>
+<th>Full credit</th>
+<th>Half credit</th>
+<th>Quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Virginia (Virginia Beach)</td>
+<td>17.74¢ (+6.8%)</td>
+<td>1,427 kWh</td>
+<td>12.9 years</td>
+<td>17.4 years</td>
+<td>21 years</td>
+</tr>
+<tr>
+<td>South Carolina (Columbia)</td>
+<td>16.5¢ (+6.4%)</td>
+<td>1,446 kWh</td>
+<td>13.6 years</td>
+<td>18.4 years</td>
+<td>22.2 years</td>
+</tr>
+<tr>
+<td>Alabama (Birmingham)</td>
+<td>16.64¢ (+1.5%)</td>
+<td>1,367 kWh</td>
+<td>14.2 years</td>
+<td>18.9 years</td>
+<td>22.5 years</td>
+</tr>
+<tr>
+<td>Georgia (Atlanta)</td>
+<td>16.27¢ (+6.5%)</td>
+<td>1,402 kWh</td>
+<td>14.2 years</td>
+<td>19 years</td>
+<td>22.7 years</td>
+</tr>
+<tr>
+<td>Florida (Orlando)</td>
+<td>14.74¢ (-6.5%)</td>
+<td>1,544 kWh</td>
+<td>14.3 years</td>
+<td>19.5 years</td>
+<td>23.8 years</td>
+</tr>
+<tr>
+<td>North Carolina (Charlotte)</td>
+<td>15.41¢ (+2.2%)</td>
+<td>1,446 kWh</td>
+<td>14.5 years</td>
+<td>19.5 years</td>
+<td>23.5 years</td>
+</tr>
+<tr>
+<td>Mississippi (Jackson)</td>
+<td>14.47¢ (+3.7%)</td>
+<td>1,414 kWh</td>
+<td>15.7 years</td>
+<td>20.9 years</td>
+<td>25 years</td>
+</tr>
+<tr>
+<td>West Virginia (Charleston)</td>
+<td>16.23¢ (+0.7%)</td>
+<td>1,232 kWh</td>
+<td>16 years</td>
+<td>20.5 years</td>
+<td>23.8 years</td>
+</tr>
+<tr>
+<td>Kentucky (Louisville)</td>
+<td>13.54¢ (+1%)</td>
+<td>1,355 kWh</td>
+<td>17.3 years</td>
+<td>22.7 years</td>
+<td>not within 25 years</td>
+</tr>
+<tr>
+<td>Tennessee (Nashville)</td>
+<td>13.29¢ (-0.1%)</td>
+<td>1,339 kWh</td>
+<td>17.8 years</td>
+<td>23.2 years</td>
+<td>not within 25 years</td>
+</tr>
+</tbody></table>
+<h2 id="three-comparisons-inside-the-region">Three comparisons inside the region</h2>
+<p><strong>The Carolinas.</strong> Columbia and Charlotte make exactly the same 1,446 kWh per kW. South Carolina&#39;s price is 16.5¢ and North Carolina&#39;s 15.41¢, and that alone puts South Carolina 0.9 years ahead.</p>
+<p><strong>Florida.</strong> Orlando has the most sun in the region, but Florida&#39;s price fell 6.5% over the year to 14.74¢, and it now pays back later than Alabama and Georgia. Its output is also the most even through the year, with a summer-to-winter ratio of 1.2, and its best month is May rather than July.</p>
+<p><strong>West Virginia.</strong> Charleston&#39;s output, 1,232 kWh per kW, is among the lowest in the country and lower than Boston&#39;s, yet its price is mid-range for the region. The result, 16 years, is slower than any South Atlantic neighbor.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"the-ten-states-side-by-side","text":"The ten states side by side"},{"id":"three-comparisons-inside-the-region","text":"Three comparisons inside the region"},{"id":"large-homes-large-systems","text":"Large homes, large systems"},{"id":"how-exports-are-credited","text":"How exports are credited"},{"id":"price-trends","text":"Price trends"},{"id":"before-you-get-quotes","text":"Before you get quotes"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","is-solar-worth-it-where-electricity-is-cheap",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/is-solar-worth-it-where-electricity-is-cheap/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-is-solar-worth-it-where-electricity-is-cheap","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp","srcSet":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp 640w, /photos/is-solar-worth-it-where-electricity-is-cheap-sm.webp 768w, /photos/is-solar-worth-it-where-electricity-is-cheap-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-14","children":"Nov 14, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is Solar Worth It Where Electricity Is Cheap?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-panels-in-the-south-central-states",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-the-south-central-states/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panels-in-the-south-central-states","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/house-roof-louisiana-card.webp","srcSet":"/photos/house-roof-louisiana-card.webp 640w, /photos/house-roof-louisiana-sm.webp 768w, /photos/house-roof-louisiana-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],"$L2c"]}]}]}],"$L2d"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Solar Payback in the Southeast: Sun Meets Cheap Power\",\"description\":\"Ten Southeastern states compared with September 2026 prices: solar payback, large typical homes, the Carolinas price split and Kentucky's export credit rule.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1102,\"image\":[\"https://roofpayback.com/photos/southeast-florida-panels-og.jpg\",\"https://roofpayback.com/photos/southeast-florida-panels.webp\"],\"datePublished\":\"2026-11-08\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-panels-in-the-southeast/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L2e",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
+1f:true
+30:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L30",null,{"slot":"article"}]}]
+31:T10ce,<h2 id="large-homes-large-systems">Large homes, large systems</h2>
+<p>Homes here use far more than the national average of 885 kWh a month. EIA-861M sales data for October 2025 to September 2026 per residential account, with a system sized to that use:</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Average use per month</th>
+<th>Average bill per month</th>
+<th>Right-sized system</th>
+<th>Payback, full credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Tennessee</td>
+<td>1,216 kWh</td>
+<td>$165</td>
+<td>11 kW</td>
+<td>17.4 years</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>1,192 kWh</td>
+<td>$178</td>
+<td>10 kW</td>
+<td>15.4 years</td>
+</tr>
+<tr>
+<td>Alabama</td>
+<td>1,157 kWh</td>
+<td>$191</td>
+<td>10 kW</td>
+<td>14 years</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>1,126 kWh</td>
+<td>$157</td>
+<td>10 kW</td>
+<td>17 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>1,104 kWh</td>
+<td>$169</td>
+<td>9 kW</td>
+<td>14.3 years</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>1,097 kWh</td>
+<td>$167</td>
+<td>9 kW</td>
+<td>14.1 years</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>1,088 kWh</td>
+<td>$172</td>
+<td>9 kW</td>
+<td>13.5 years</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>1,079 kWh</td>
+<td>$181</td>
+<td>9 kW</td>
+<td>12.8 years</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>1,070 kWh</td>
+<td>$166</td>
+<td>10 kW</td>
+<td>15.8 years</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>1,062 kWh</td>
+<td>$157</td>
+<td>9 kW</td>
+<td>14.4 years</td>
+</tr>
+</tbody></table>
+<p>A right-sized system here costs $31,500 to $38,500 at $3.50 per watt, but the payback stays within half a year of the example in every state. Alabama&#39;s $191 average bill is the fourth highest in the country in this data, driven by use rather than price. <a href="/guides/how-many-solar-panels-do-i-need/">How many solar panels do I need</a> explains sizing from your own bills.</p>
+<h2 id="how-exports-are-credited">How exports are credited</h2>
+<p>Kentucky is the state where we could confirm the rule from the regulator. Under the net metering law that took effect on January 1, 2020, the Kentucky Public Service Commission says &quot;net metered customers will receive dollar credits at a compensation rate set by the PSC in rate proceedings for each utility.&quot; The value depends on your utility&#39;s latest rate case, so ask for the current rate; the half- and quarter-credit columns show how much it matters (17.3 years at full credit, 22.7 at half).</p>
+<p>For the other nine states, we could not confirm the current residential rules from the regulators&#39; own pages for this update. Ask your utility what an exported kWh is credited at and when credits are settled, and check its tariff with your state regulator, such as the Florida or Georgia Public Service Commission, the North Carolina Utilities Commission or the Virginia State Corporation Commission. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing</a> explains how each answer changes payback. Where credits are low, a smaller system and more daytime use help; the <a href="/guides/solar-panels-in-the-south-central-states/">South Central guide</a> shows by how much.</p>
+<h2 id="price-trends">Price trends</h2>
+<p>Comparing 12-month averages ending September 2017 and September 2026 in EIA&#39;s utility data, prices rose about 4.3% a year in Virginia, 3.5% in Mississippi, 3.4% in North Carolina and West Virginia, 3.3% in Florida, 3.1% in Alabama, 2.9% in Georgia and Kentucky, 2.7% in Tennessee and 2.3% in South Carolina, before inflation. Our model assumes 2.5%; <a href="/guides/solar-payback-if-electricity-prices-rise/">solar payback if electricity prices rise</a> shows what other paths do.</p>
+<h2 id="before-you-get-quotes">Before you get quotes</h2>
+<ol>
+<li>Pull a year of bills; expect a larger system than our example.</li>
+<li>Ask how exports are credited before you choose a size.</li>
+<li>Compare quotes on price per watt, not monthly payments; the example uses $3.50.</li>
+<li>Run your numbers in the <a href="/solar-calculator/">solar calculator</a>, and check what you spend now with the <a href="/electricity-cost-calculator/">bill calculator</a>. Local detail is on the <a href="/solar-panels/florida/">Florida</a>, <a href="/solar-panels/georgia/">Georgia</a> and <a href="/solar-panels/virginia/">Virginia</a> pages.</li>
+</ol>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$31"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L30",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Solar%20Payback%20in%20the%20Southeast%3A%20Sun%20Meets%20Cheap%20Power&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-southeast%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-southeast%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-southeast%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-southeast%2F&title=Solar%20Payback%20in%20the%20Southeast%3A%20Sun%20Meets%20Cheap%20Power","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Solar%20Payback%20in%20the%20Southeast%3A%20Sun%20Meets%20Cheap%20Power&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-panels-in-the-southeast%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA Form EIA-861M: Monthly electric power industry report (sales, revenue and customers)"}]]}],["$","li","https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf","rel":"noopener","target":"_blank","children":"U.S. Census Bureau: Census Regions and Divisions of the United States"}]]}],["$","li","https://psc.ky.gov/agencies/psc/press/122019/1218_r01.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://psc.ky.gov/agencies/psc/press/122019/1218_r01.pdf","rel":"noopener","target":"_blank","children":"Kentucky Public Service Commission: PSC Completes Review of Input on Net Metering Changes (December 18, 2019)"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-12","children":"Nov 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in the South Central States: TX, OK, AR, LA"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Texas, Oklahoma, Arkansas and Louisiana compared with September 2026 prices, and how a smaller system recovers payback when exports earn avoided cost."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]
+2d:["$","li","solar-panels-in-the-mid-atlantic",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-the-mid-atlantic/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panels-in-the-mid-atlantic","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-panels-in-the-mid-atlantic-card.webp","srcSet":"/photos/solar-panels-in-the-mid-atlantic-card.webp 640w, /photos/solar-panels-in-the-mid-atlantic-sm.webp 768w, /photos/solar-panels-in-the-mid-atlantic-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-10","children":"Nov 10, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in the Mid-Atlantic: Payback by State"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"New York, New Jersey, Pennsylvania, Delaware, Maryland and D.C. compared: solar payback, typical home use and nine-year price trends, with September 2026 data."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+2f:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

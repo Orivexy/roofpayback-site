@@ -1,0 +1,251 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-loan-vs-cash/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Solar Loan vs. Cash: How Financing Changes Payback"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Solar Loan vs. Cash: How Financing Changes Payback\",\"item\":\"https://roofpayback.com/guides/solar-loan-vs-cash/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Solar Loan vs. Cash: How Financing Changes Payback"}],["$","p",null,{"className":"lede mt-5","children":"Loan-financed solar cost $4.50 a watt against $3.00 for cash in 2025. See monthly payments, total interest and 25-year results in three states."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-23","children":"October 23, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-loan-vs-cash","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Solar Loan vs. Cash: How Financing Changes Payback | RoofPayback"}],["$","meta","1",{"name":"description","content":"Loan-financed solar cost $4.50 a watt against $3.00 for cash in 2025. See monthly payments, total interest and 25-year results in three states."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-loan-vs-cash/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Solar Loan vs. Cash: How Financing Changes Payback"}],["$","meta","7",{"property":"og:description","content":"Loan-financed solar cost $4.50 a watt against $3.00 for cash in 2025. See monthly payments, total interest and 25-year results in three states."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-loan-vs-cash/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/installers-plug-play-pv-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Researchers demonstrating Fraunhofer CSE's Plug & Play PV system on a roof"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-23"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Solar Loan vs. Cash: How Financing Changes Payback"}],["$","meta","20",{"name":"twitter:description","content":"Loan-financed solar cost $4.50 a watt against $3.00 for cash in 2025. See monthly payments, total interest and 25-year results in three states."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/installers-plug-play-pv-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+31:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/installers-plug-play-pv.webp","image",{"imageSrcSet":"/photos/installers-plug-play-pv-card.webp 640w, /photos/installers-plug-play-pv-sm.webp 768w, /photos/installers-plug-play-pv-md.webp 1024w, /photos/installers-plug-play-pv.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-solar-loan-vs-cash","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/installers-plug-play-pv.webp","srcSet":"/photos/installers-plug-play-pv-card.webp 640w, /photos/installers-plug-play-pv-sm.webp 768w, /photos/installers-plug-play-pv-md.webp 1024w, /photos/installers-plug-play-pv.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Researchers demonstrating Fraunhofer CSE's Plug & Play PV system on a roof","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Researchers demonstrating Fraunhofer CSE's Plug & Play PV system on a roof",". ","Photo by Lindsey Dillon. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Dillon_000052_172638_517875_4578_(36592581552).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Dillon_000052_172638_517875_4578_(36592581552).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:Tbbd,<div class="short-answer"><p class="short-answer-label">Quick verdict</p>
+<p>Cash costs less, usually by a wide margin. Berkeley Lab found that host-owned home systems installed in 2025 had a median price of $3.00 per watt when bought with cash and $4.50 when financed with a loan, and those prices do not include interest. On a 7 kW system, that is $21,000 against $31,500 before the first loan payment.</p>
+<p>A loan can still work where power is expensive. In our Massachusetts example, a loan at the loan-median price still leaves the household between about $15,000 and $46,000 ahead after 25 years, depending on the rate and term. In a low-price state such as Tennessee, none of the loan cases we ran comes out ahead within 25 years.</p>
+</div><h2 id="side-by-side">Side by side</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Paying cash</th>
+<th>Taking a solar loan</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Median installed price, 2025 installs (Berkeley Lab)</td>
+<td>$3.00 per watt</td>
+<td>$4.50 per watt</td>
+</tr>
+<tr>
+<td>7 kW system at that median</td>
+<td>$21,000</td>
+<td>$31,500</td>
+</tr>
+<tr>
+<td>Interest</td>
+<td>None</td>
+<td>Set by the loan; not included in the price above</td>
+</tr>
+<tr>
+<td>Fees in the price</td>
+<td>No lender involved</td>
+<td>Berkeley Lab: possibly &quot;loan origination fees rolled into the up-front price&quot;</td>
+</tr>
+<tr>
+<td>Money needed up front</td>
+<td>All of it</td>
+<td>Depends on the loan</td>
+</tr>
+<tr>
+<td>The test that matters</td>
+<td>Payback and 25-year gain</td>
+<td>Monthly savings vs. payment, and 25-year gain after interest</td>
+</tr>
+</tbody></table>
+<p>Berkeley Lab&#39;s financing figures come from the roughly 45% of host-owned systems where it could identify the financing type with high confidence. The gap describes the market, not any single quote, so always ask your installer for both prices on the same system.</p>
+<h2 id="what-the-loan-costs">What the loan costs</h2>
+<p>We do not know your loan rate, so here are three illustrative annual rates (APR) at two terms on $31,500, the loan-median price for 7 kW. These are not market quotes; replace them with the terms you are offered.</p>
+<table>
+<thead>
+<tr>
+<th>APR</th>
+<th>Term</th>
+<th>Monthly payment</th>
+<th>Total repaid</th>
+<th>Interest</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>6%</td>
+<td>10 years</td>
+<td>$350</td>
+<td>$41,966</td>
+<td>$10,466</td>
+</tr>
+<tr>
+<td>6%</td>
+<td>20 years</td>
+<td>$226</td>
+<td>$54,162</td>
+<td>$22,662</td>
+</tr>
+<tr>
+<td>8%</td>
+<td>10 years</td>
+<td>$382</td>
+<td>$45,862</td>
+<td>$14,362</td>
+</tr>
+<tr>
+<td>8%</td>
+<td>20 years</td>
+<td>$263</td>
+<td>$63,235</td>
+<td>$31,735</td>
+</tr>
+<tr>
+<td>10%</td>
+<td>10 years</td>
+<td>$416</td>
+<td>$49,953</td>
+<td>$18,453</td>
+</tr>
+<tr>
+<td>10%</td>
+<td>20 years</td>
+<td>$304</td>
+<td>$72,956</td>
+<td>$41,456</td>
+</tr>
+</tbody></table>
+<p>A longer term lowers the payment but roughly doubles the interest. At 8% over 20 years, the household repays about three times the $21,000 cash price.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"side-by-side","text":"Side by side"},{"id":"what-the-loan-costs","text":"What the loan costs"},{"id":"three-states-cash-against-loan","text":"Three states, cash against loan"},{"id":"when-a-loan-makes-sense","text":"When a loan makes sense"},{"id":"when-cash-makes-sense","text":"When cash makes sense"},{"id":"where-they-tie","text":"Where they tie"},{"id":"questions-for-the-installer-and-lender","text":"Questions for the installer and lender"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","are-solar-panels-worth-it-2026",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/are-solar-panels-worth-it-2026/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-are-solar-panels-worth-it-2026","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-and-solar-payback-card.webp","srcSet":"/photos/electricity-prices-and-solar-payback-card.webp 640w, /photos/electricity-prices-and-solar-payback-sm.webp 768w, /photos/electricity-prices-and-solar-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-26","children":"Nov 26, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Are Solar Panels Worth It in 2026? A State-by-State Answer"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"No federal credit, lower export credits in some states: where solar still pays back in under 10 years, where it takes 16 or more, and what help is left."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-quote-checklist",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-quote-checklist/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-quote-checklist","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-solar-flat-roof-ny-card.webp","srcSet":"/photos/reserve-solar-flat-roof-ny-card.webp 640w, /photos/reserve-solar-flat-roof-ny-sm.webp 768w, /photos/reserve-solar-flat-roof-ny-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2c","$L2d","$L2e","$L2f"]}]]}]}]}],"$L30"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Solar Loan vs. Cash: How Financing Changes Payback\",\"description\":\"Loan-financed solar cost $4.50 a watt against $3.00 for cash in 2025. See monthly payments, total interest and 25-year results in three states.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1094,\"image\":[\"https://roofpayback.com/photos/installers-plug-play-pv-og.jpg\",\"https://roofpayback.com/photos/installers-plug-play-pv.webp\"],\"datePublished\":\"2026-10-23\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-loan-vs-cash/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L31",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+1f:true
+33:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L33",null,{"slot":"article"}]}]
+34:T1223,<h2 id="three-states-cash-against-loan">Three states, cash against loan</h2>
+<p>Same 7 kW <a href="/methodology/">example home</a> (10,500 kWh a year, full retail credit for exports, electricity prices rising 2.5% a year, September 2026 EIA prices), in a high-, middle- and low-price state. The cash case pays $21,000 up front. The loan case borrows $31,500 with nothing down, and &quot;25-year result&quot; is total savings minus total loan payments.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Massachusetts (30.97¢)</th>
+<th>Illinois (19.14¢)</th>
+<th>Tennessee (13.29¢)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cash: payback</td>
+<td>7.2 years</td>
+<td>11.4 years</td>
+<td>15.6 years</td>
+</tr>
+<tr>
+<td>Cash: 25-year gain</td>
+<td>$66,765</td>
+<td>$32,559</td>
+<td>$16,324</td>
+</tr>
+<tr>
+<td>Loan 6%, 10 years: first-year monthly shortfall</td>
+<td>$123</td>
+<td>$212</td>
+<td>$254</td>
+</tr>
+<tr>
+<td>Loan 6%, 10 years: 25-year result</td>
+<td>+$45,799</td>
+<td>+$11,594</td>
+<td>−$4,642</td>
+</tr>
+<tr>
+<td>Loan 6%, 20 years: first-year monthly shortfall</td>
+<td>none ($1 surplus)</td>
+<td>$88</td>
+<td>$130</td>
+</tr>
+<tr>
+<td>Loan 6%, 20 years: 25-year result</td>
+<td>+$33,603</td>
+<td>−$603</td>
+<td>−$16,838</td>
+</tr>
+<tr>
+<td>Loan 8%, 20 years: 25-year result</td>
+<td>+$24,530</td>
+<td>−$9,675</td>
+<td>−$25,911</td>
+</tr>
+<tr>
+<td>Loan 10%, 20 years: 25-year result</td>
+<td>+$14,809</td>
+<td>−$19,396</td>
+<td>−$35,632</td>
+</tr>
+</tbody></table>
+<p>&quot;Monthly shortfall&quot; is the loan payment minus the first year&#39;s bill savings after $100 of upkeep: what you pay out of pocket each month in year one.</p>
+<p>Three patterns:</p>
+<ul>
+<li><strong>The loan price premium is the bigger cost in short loans.</strong> Over 10 years at 6%, interest is $10,466, about the same as the $10,500 gap between the cash and loan medians.</li>
+<li><strong>Long terms only work where savings are large.</strong> In Massachusetts, a 20-year loan at 6% roughly matches the payment from the first year. In Illinois the same loan ends slightly behind after 25 years.</li>
+<li><strong>In low-price states, financing at the loan-median price does not pay in our model.</strong> Tennessee&#39;s cash case already takes 15.6 years.</li>
+</ul>
+<p>If your installer quotes the same price for cash and loan, the premium disappears and only interest remains, which changes these results a lot. That is the first question to ask.</p>
+<h2 id="when-a-loan-makes-sense">When a loan makes sense</h2>
+<ul>
+<li>You do not have the cash, or you would have to drain your emergency savings to pay it.</li>
+<li>You live where power is expensive, and the payment is close to or below your expected monthly savings.</li>
+<li>The loan price matches the cash price, or close to it.</li>
+<li>You have read the full terms: APR, fees, term, and whether you can repay early without a penalty.</li>
+</ul>
+<h2 id="when-cash-makes-sense">When cash makes sense</h2>
+<ul>
+<li>You have the money and no better use for it.</li>
+<li>The installer offers a lower price for cash.</li>
+<li>Your state&#39;s payback is already long. Every extra dollar of cost stretches it further; <a href="/guides/solar-panel-cost-by-state/">solar panel cost per watt</a> shows the most you can pay in your state for a 10- or 15-year payback.</li>
+</ul>
+<h2 id="where-they-tie">Where they tie</h2>
+<ul>
+<li><strong>Export credit.</strong> A lower credit for exported power cuts savings under both options; a loan just has less room to absorb it. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing</a> shows by how much.</li>
+<li><strong>Seasons.</strong> Savings are smaller in winter, but loan payments are not. Check the monthly picture, not just the yearly one.</li>
+<li><strong>No federal credit.</strong> The IRS says the Residential Clean Energy Credit &quot;is not available for any property placed in service after December 31, 2025,&quot; for cash and loan buyers alike.</li>
+</ul>
+<h2 id="questions-for-the-installer-and-lender">Questions for the installer and lender</h2>
+<ul>
+<li>What is the cash price, and what is the loan price, for the same system?</li>
+<li>What is the APR, the term and the total amount I will repay?</li>
+<li>Are any lender fees included in the system price?</li>
+<li>Can I repay early without a penalty?</li>
+<li>What monthly savings do you expect in my first year, and which electricity price and export credit sit behind that figure?</li>
+</ul>
+<p>Then compare both options with your own numbers in the <a href="/solar-calculator/">solar calculator</a>. This is general information, not financial advice.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$34"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L33",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Solar%20Loan%20vs.%20Cash%3A%20How%20Financing%20Changes%20Payback&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-loan-vs-cash%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-loan-vs-cash%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-loan-vs-cash%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-loan-vs-cash%2F&title=Solar%20Loan%20vs.%20Cash%3A%20How%20Financing%20Changes%20Payback","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Solar%20Loan%20vs.%20Cash%3A%20How%20Financing%20Changes%20Payback&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-loan-vs-cash%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://eta-publications.lbl.gov/sites/default/files/2026-08/distributed_solar_storage-2026_data_update_final.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://eta-publications.lbl.gov/sites/default/files/2026-08/distributed_solar_storage-2026_data_update_final.pdf","rel":"noopener","target":"_blank","children":"Berkeley Lab: U.S. Distributed Solar and Storage 2026 Data Update"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-17","children":"Nov 17, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}]
+2d:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Quote Checklist: What to Verify Before You Sign"}]
+2e:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Three numbers to check on any solar quote, a worked example that exposes an optimistic payback, and the contract terms to confirm before you sign."}]
+2f:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+30:["$","li","solar-panel-cost-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panel-cost-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panel-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/installer-harness-georgia-card.webp","srcSet":"/photos/installer-harness-georgia-card.webp 640w, /photos/installer-harness-georgia-sm.webp 768w, /photos/installer-harness-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-22","children":"Oct 22, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[8," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Price per Watt by State: What Pays Back in 10 or 15 Years"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"The most you can pay per watt for a 10- or 15-year solar payback in every state, Berkeley Lab's 2025 price benchmarks, and when waiting for cheaper panels pays."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+32:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

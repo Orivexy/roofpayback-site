@@ -1,0 +1,489 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0y5jznj6htagl.js"
+3:"/_next/static/chunks/19hkmvmniklmp.js"
+4:I[22016,["$2","$3"],""]
+5:I[2971,["$2"],"Header"]
+14:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1-_q_dj7xq96g.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+e:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L12","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"average-electric-bill-by-state","s":["topic"]},"h":66048,"d":{"r":"$L10","p":false,"v":"$e"},"c":"$Q11"}]]
+c:[["children",{"s":"guides","h":131584,"d":{"r":"$Ld","p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","guides","average-electric-bill-by-state",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0y5jznj6htagl.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Duw88a_variable HDK9OW_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"base-uri 'self'; object-src 'none'; upgrade-insecure-requests"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;var gpc=navigator.globalPrivacyControl===true?'denied':'granted';gtag('consent','default',{ad_storage:'granted',ad_user_data:gpc,ad_personalization:gpc,analytics_storage:'granted'});gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',region:[\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"IS\",\"LI\",\"NO\",\"GB\",\"CH\"],wait_for_update:500});"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__afterPaint=function(f,d){var done=0;function go(){if(done++)return;setTimeout(function(){'requestIdleCallback'in window?requestIdleCallback(f,{timeout:2500}):f()},d)}function painted(){try{if(performance.getEntriesByName('first-contentful-paint').length)return go();new PerformanceObserver(function(l,o){o.disconnect();go()}).observe({type:'paint',buffered:true})}catch(e){go()}}function start(){painted();setTimeout(go,4000)}document.readyState==='complete'?start():addEventListener('load',start)};"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"gtag('js',new Date());gtag('config','G-00QRGTQ5SQ');__afterPaint(function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-00QRGTQ5SQ';document.head.appendChild(s)},300);"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"__afterPaint(function(){if(document.querySelector('[data-no-ads]'))return;var s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1368227516860314';document.head.appendChild(s)},300);"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-50 focus:rounded-full focus:bg-surface focus:px-4 focus:py-2","children":"Skip to content"}],["$","div",null,{"className":"bg-ink text-paper","children":["$","div",null,{"className":"container-x flex min-h-9 items-center gap-3 py-1.5 text-sm","children":[["$","span",null,{"className":"shrink-0 bg-brand px-1.5 py-0.5 font-mono text-[0.72rem] font-semibold uppercase tracking-wider text-on-brand","children":"Latest guide"}],["$","$L4",null,{"href":"/guides/fixed-charges-on-your-electric-bill/","className":"group flex min-w-0 items-baseline gap-2 py-1 font-semibold text-paper no-underline hover:text-brand","children":[["$","span",null,{"className":"truncate","children":"Fixed Charges on Your Electric Bill: Why Using Less Saves Less"}],["$","span",null,{"aria-hidden":"true","className":"shrink-0 transition-transform group-hover:translate-x-0.5","children":"→"}]]}]]}]}],["$","$L5",null,{}],["$","main",null,{"id":"content","className":"container-x w-full flex-1 pt-6 pb-16 sm:pt-10","children":"$L6"}],"$L7","$L8","$L9","$La","$Lb"]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":"$L13","p":false,"v":null}},"m":"$undefined","G":["$14",["$L15"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9ejB_AtLjd4bll68LEc-a"}
+16:I[39756,["$2"],"default"]
+17:"$Sreact.view_transition"
+18:I[37457,["$2"],"default"]
+1d:I[52425,["$2"],"ConsentBanner"]
+1e:I[19861,["$2"],"VersionCheck"]
+20:I[97367,["$2"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:"ViewportBoundary"
+24:I[97367,["$2"],"$23"]
+26:"MetadataBoundary"
+27:I[97367,["$2"],"$26"]
+6:["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$17",null,{"enter":"page-in","exit":"page-out","default":"none","children":["$","$L18",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"max-w-2xl","data-no-ads":"","children":[["$","h1",null,{"className":"h-page","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-3 text-muted","children":"The link may be old or mistyped. Here is what people use most:"}],["$","ul",null,{"className":"mt-6 space-y-2","children":[["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-calculator/","children":"Solar payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-panels/","children":"Solar production and payback by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-prices/","children":"Electricity prices by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-cost-calculator/","children":"Electricity cost calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/battery-payback-calculator/","children":"Home battery payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/guides/","children":"All guides"}]}]]}],["$","p",null,{"className":"mt-6 text-sm text-muted","children":["Sunniest states: ",[["$","span","new-mexico",{"children":[false,["$","$L4",null,{"className":"link","href":"/solar-panels/new-mexico/","children":"New Mexico"}]]}],["$","span","arizona",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/arizona/","children":"Arizona"}]]}],["$","span","nevada",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/nevada/","children":"Nevada"}]]}],["$","span","california",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/california/","children":"California"}]]}],["$","span","hawaii",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/hawaii/","children":"Hawaii"}]]}],["$","span","colorado",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/colorado/","children":"Colorado"}]]}]],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+7:["$","footer",null,{"className":"mt-auto bg-band text-band-ink","children":["$","div",null,{"className":"container-x pb-8 pt-14","children":[["$","div",null,{"className":"grid gap-10 border-b border-band-ink/20 pb-10 md:grid-cols-[1.5fr_repeat(3,1fr)]","children":[["$","div",null,{"className":"max-w-sm","children":[["$","$L4",null,{"href":"/","className":"flex items-center gap-3 no-underline","children":[["$","span",null,{"className":"outline outline-1 outline-band-ink/40","children":["$","svg",null,{"width":34,"height":34,"viewBox":"0 0 32 32","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"32","height":"32","fill":"var(--ink)"}],["$","circle",null,{"cx":"25.2","cy":"6.8","r":"2","fill":"var(--brand)"}],["$","path",null,{"d":"M4.5 15.5L16 6l11.5 9.5","fill":"none","stroke":"var(--paper)","strokeWidth":"2.6","strokeLinecap":"square"}],["$","path",null,{"d":"M8.5 25.5a7.5 7.5 0 0 1 15 0","fill":"none","stroke":"var(--paper)","strokeWidth":"2"}],["$","path",null,{"d":"M10.7 20.2l1.2.9M16 18v1.5M21.3 20.2l-1.2.9","stroke":"var(--paper)","strokeWidth":"1.4"}],["$","path",null,{"d":"M16 25.5l4.6-4.9","stroke":"var(--brand)","strokeWidth":"2.4","strokeLinecap":"square"}],["$","circle",null,{"cx":"16","cy":"25.5","r":"2.1","fill":"var(--brand)"}],["$","path",null,{"d":"M6 28.2h20","stroke":"var(--paper)","strokeWidth":"1.4"}]]}]}],["$","span",null,{"className":"on-band","children":["$","span",null,{"className":"font-display text-[2rem] font-extrabold leading-none !text-band-ink [font-stretch:68%]","children":["Roof",["$","span",null,{"className":"text-brand","children":"Payback"}]]}]}]]}],["$","p",null,{"className":"mt-4 font-serif text-band-ink/80","children":"Independent numbers on what U.S. homes pay for power and when rooftop solar pays back. No sign-up, no lead capture, no installer calling you."}],["$","div",null,{"className":"mt-6 [&_.text-muted]:text-band-ink/60 [&_.eyebrow]:text-band-ink/60 [&_.input-wrap]:border-band-ink/40 [&_.input-wrap]:bg-transparent [&_input]:text-band-ink [&_.link]:text-band-ink","children":["$","section",null,{"aria-label":"Newsletter","className":" ","children":[["$","p",null,{"className":"eyebrow mb-3","children":"Newsletter"}],false,["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 flex-col","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email-f","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email-f","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 btn-signal","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]}]]}],[["$","nav","Tools",{"aria-label":"Tools","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Tools"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/calculators/",{"children":["$","$L4",null,{"href":"/calculators/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All calculators"}]}],["$","li","/solar-calculator/",{"children":["$","$L4",null,{"href":"/solar-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Payback calculator"}]}],["$","li","/electricity-cost-calculator/",{"children":["$","$L4",null,{"href":"/electricity-cost-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity cost calculator"}]}],["$","li","/battery-payback-calculator/",{"children":["$","$L4",null,{"href":"/battery-payback-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Battery payback calculator"}]}],["$","li","/solar-panels/",{"children":["$","$L4",null,{"href":"/solar-panels/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Solar by state"}]}],["$","li","/electricity-prices/",{"children":["$","$L4",null,{"href":"/electricity-prices/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity prices"}]}]],false]}]]}],["$","nav","Read",{"aria-label":"Read","children":["$L19","$L1a"]}],"$L1b"]]}],"$L1c"]}]}]
+8:["$","$L1d",null,{}]
+9:["$","$L1e",null,{}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://roofpayback.com/#org\",\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/apple-icon.png\",\"width\":180,\"height\":180},\"founder\":{\"@type\":\"Person\",\"name\":\"Eric Muñiz Genebriera\",\"url\":\"https://roofpayback.com/about/\"},\"description\":\"Solar panel payback calculator with real data for your state\",\"email\":\"ericmunizgeneb@gmail.com\",\"knowsAbout\":[\"Residential electricity prices\",\"Rooftop solar payback\",\"Net metering\"]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"publisher\":{\"@id\":\"https://roofpayback.com/#org\"},\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://roofpayback.com/guides/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+d:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L1f",[["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true,"nonce":"$undefined"}]],["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}]
+13:["$","$1","h",{"children":[null,["$","$L24",null,{"children":"$L25"}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":"$L28"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+29:"CookieSettingsButton"
+2a:I[52425,["$2"],"$29"]
+e:C
+19:["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Read"}]
+1a:["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/guides/",{"children":["$","$L4",null,{"href":"/guides/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All articles"}]}],["$","li","/feed.xml",{"children":["$","a",null,{"href":"/feed.xml","className":"text-band-ink/85 no-underline hover:text-brand","children":"RSS feed"}]}],["$","li","/statistics/",{"children":["$","$L4",null,{"href":"/statistics/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Statistics (free data)"}]}],["$","li","/methodology/",{"children":["$","$L4",null,{"href":"/methodology/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Methodology & sources"}]}],["$","li","/editorial-policy/",{"children":["$","$L4",null,{"href":"/editorial-policy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Editorial policy"}]}],["$","li","/changelog/",{"children":["$","$L4",null,{"href":"/changelog/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Changelog"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","className":"text-band-ink/85 no-underline hover:text-brand","children":"About RoofPayback"}]}]],false]}]
+1b:["$","nav","Legal",{"aria-label":"Legal","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Terms of use"}]}],["$","li","/legal-notice/",{"children":["$","$L4",null,{"href":"/legal-notice/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Legal notice"}]}],["$","li","/advertising-disclosure/",{"children":["$","$L4",null,{"href":"/advertising-disclosure/","className":"text-band-ink/85 no-underline hover:text-brand","children":"How we make money"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Contact"}]}]],["$","li",null,{"className":"text-band-ink/85","children":["$","$L2a",null,{}]}]]}]]}]
+1c:["$","div",null,{"className":"flex flex-col gap-2 pt-6 font-mono text-[0.7rem] uppercase tracking-wider text-band-ink/60 md:flex-row md:justify-between","children":[["$","span",null,{"children":["© ",2026," ","RoofPayback"," · Ads are labeled and never change the math"]}],["$","span",null,{"children":["Data: ","NLR PVWatts v8"," · U.S. EIA ","September 2026"," · Estimates, not advice"]}]]}]
+1f:["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$L4",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/average-electric-bill-by-state/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Average Electric Bill by State: Real Bills vs. 900 kWh"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Average Electric Bill by State: Real Bills vs. 900 kWh\",\"item\":\"https://roofpayback.com/guides/average-electric-bill-by-state/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$L4",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","p",null,{"className":"lede mt-5","children":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-26","children":"November 26, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$L4",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$L2b","$L2c"]}],"$L2d"]}]]}],"$L2e","$L2f","$L30","$L31"]}]
+32:I[26029,["$2","$3"],"TocNav"]
+:HL["/photos/home-thermostat.webp","image",{"imageSrcSet":"/photos/home-thermostat-card.webp 640w, /photos/home-thermostat-sm.webp 768w, /photos/home-thermostat-md.webp 1024w, /photos/home-thermostat.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+2b:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+2c:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+2d:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$L4",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+2e:["$","figure",null,{"className":"mt-8","children":[["$","$17",null,{"name":"photo-average-electric-bill-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/home-thermostat.webp","srcSet":"/photos/home-thermostat-card.webp 640w, /photos/home-thermostat-sm.webp 768w, /photos/home-thermostat-md.webp 1024w, /photos/home-thermostat.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Digital thermostat controlling a home's central heating and cooling","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Digital thermostat controlling a home's central heating and cooling",". ","Photo: Ente75"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/publicdomain/zero/1.0/deed.en","rel":"noopener license","target":"_blank","children":"CC0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Robertshaw_Non-Programmable_Digital_Thermostat.JPG","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+33:Td52,<div class="short-answer"><p class="short-answer-label">What we found</p>
+<p>An electric bill is two numbers multiplied together: the kilowatt-hours (kWh) a home uses and the price of each one, plus any fixed fees. Most rankings look only at price. Usage can matter just as much, and the EIA&#39;s own data shows it pulling in the opposite direction.</p>
+<p>Louisiana has one of the cheapest residential rates in the country, 13.33¢ per kWh in September 2026. Yet U.S. Energy Information Administration (EIA) data show that Louisiana households buy the most electricity of any state: 1,231 kWh a month per residential customer over the twelve months to September 2026. California homes, at 30.86¢ one of the highest rates, bought the least, 507 kWh a month, with Hawaii (48.31¢) close behind at 515. A low price and a heavy load can add up to a bigger bill than the price alone suggests.</p>
+<p>Counting what homes really used, the average U.S. residential bill was $160 a month over the year to September 2026, from $102 in New Mexico to $232 in Hawaii.</p>
+<p>To compare states on price, this report holds usage steady at 900 kWh a month. The table below shows what that amount costs in every state, and the sections explain what pushes a real bill above or below it.</p>
+</div><h2 id="1-900-kwh-is-the-national-middle-but-few-homes-sit-there">1. 900 kWh is the national middle, but few homes sit there</h2>
+<p>The benchmark comes straight from EIA data: &quot;In 2022, the average annual amount of electricity sold to (purchased by) a U.S. residential electric-utility customer was 10,791 kilowatthours (kWh), an average of about 899 kWh per month.&quot;</p>
+<p>The same 2022 data show how far states drift from that middle: &quot;Louisiana had the highest annual electricity purchases per residential customer at 14,774 kWh and Hawaii had the lowest at 6,178 kWh per residential customer.&quot; In the more recent EIA-861M figures for October 2025 to September 2026, Louisiana is still the heaviest user, but California (6,084 kWh a year) has edged below Hawaii (6,181 kWh).</p>
+<p>That gap is the twist a price table hides. A Louisiana family running air conditioning through a long, hot summer can use well past 900 kWh, so its bill can run above the example. A small apartment in Hawaii may use far less, and pay less than the 900 kWh figure for that state.</p>
+<h2 id="2-at-the-same-900-kwh-the-example-bill-runs-from-119-to-435">2. At the same 900 kWh, the example bill runs from $119 to $435</h2>
+<p>Hold usage constant and price takes over. At September 2026 rates, 900 kWh costs about $119 in Nevada and about $435 in Hawaii. Maine ($282), Massachusetts ($279) and California ($278) form the next tier, with Rhode Island ($269), New Hampshire ($263), New York ($256) and Alaska ($252) close behind.</p>
+<p>The bottom is crowded. Tennessee and Louisiana ($120) sit just above Nevada, then Utah ($121), Kentucky ($122) and Nebraska ($125). Between those two groups, most states land closer to the low end.</p>
+<p>The EIA&#39;s one-line explanation for the spread: &quot;Electricity prices vary by locality based on the availability of power plants and fuels, local fuel costs, and pricing regulations.&quot; The full price ranking, with year-over-year changes, is in <a href="/guides/cheapest-and-most-expensive-states-for-electricity/">cheapest and most expensive states for electricity</a>.</p>
+2f:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L32",null,{"items":[{"id":"1-900-kwh-is-the-national-middle-but-few-homes-sit-there","text":"1. 900 kWh is the national middle, but few homes sit there"},{"id":"2-at-the-same-900-kwh-the-example-bill-runs-from-119-to-435","text":"2. At the same 900 kWh, the example bill runs from $119 to $435"},{"id":"3-the-biggest-swings-in-usage-come-from-a-few-loads","text":"3. The biggest swings in usage come from a few loads"},{"id":"4-prices-climbed-in-most-states-over-the-past-year","text":"4. Prices climbed in most states over the past year"},{"id":"5-what-homes-actually-paid-over-the-past-year","text":"5. What homes actually paid over the past year"},{"id":"every-state-real-average-bill-and-the-900-kwh-example","text":"Every state: real average bill and the 900 kWh example"},{"id":"how-we-measured-it","text":"How we measured it"},{"id":"why-your-bill-may-not-match-the-table","text":"Why your bill may not match the table"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$33"}}],"$L34","$L35","$L36","$L37",false,false,"$L38","$L39","$L3a"]}],"$L3b"]}]
+30:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$L4",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-2026-09",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/electricity-prices-2026-09/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-electricity-prices-2026-09","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-utility-pole-california-card.webp","srcSet":"/photos/reserve-utility-pole-california-card.webp 640w, /photos/reserve-utility-pole-california-sm.webp 768w, /photos/reserve-utility-pole-california-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-25","children":"Nov 25, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices in September 2026: Winners and Losers"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","how-to-lower-your-electric-bill",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/how-to-lower-your-electric-bill/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-how-to-lower-your-electric-bill","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/how-to-lower-your-electric-bill-card.webp","srcSet":"/photos/how-to-lower-your-electric-bill-card.webp 640w, /photos/how-to-lower-your-electric-bill-sm.webp 768w, /photos/how-to-lower-your-electric-bill-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L3c","$L3d","$L3e","$L3f"]}]]}]}]}],"$L40"]}]]}]
+31:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Average Electric Bill by State: Real Bills vs. 900 kWh\",\"description\":\"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":2132,\"image\":[\"https://roofpayback.com/photos/home-thermostat-og.jpg\",\"https://roofpayback.com/photos/home-thermostat.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-11-26\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/average-electric-bill-by-state/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+41:I[9441,["$2","$3"],"AdSlot"]
+34:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L41",null,{"slot":"article"}]}]
+42:T358b,<h2 id="3-the-biggest-swings-in-usage-come-from-a-few-loads">3. The biggest swings in usage come from a few loads</h2>
+<p>Heating, cooling, water heating and an electric car decide whether a home sits near 900 kWh or far from it. Climate sets much of that. The EIA notes that &quot;Extreme temperatures can increase demand for heating and cooling, and the resulting increases in electricity demand can increase fuel and electricity prices,&quot; so a hot August can raise both sides of the multiplication at once.</p>
+<p>An EV is the clearest single addition. Our example of 3,500 kWh of home charging a year costs about $467 in Louisiana and about $1,691 in Hawaii at average state prices; <a href="/guides/home-ev-charging-cost-by-state/">home EV charging cost by state</a> lists every state. Homes that already use far more than average can also read <a href="/guides/how-many-solar-panels-do-i-need/">solar for high electricity use</a>, which works through bigger loads.</p>
+<h2 id="4-prices-climbed-in-most-states-over-the-past-year">4. Prices climbed in most states over the past year</h2>
+<p>Between September 2025 and September 2026, the EIA average residential price rose in 42 of the 50 states and D.C. Hawaii&#39;s went up 22.2%, Idaho&#39;s 15.1% and Maine&#39;s 12.2%. Connecticut fell 10.9% and Florida 6.5%. Rising prices lift a bill even when usage stays flat, so a ranking from one summer can shift by the next. Our <a href="/guides/electricity-prices-2026-09/">September 2026 price report</a> tracks each state&#39;s move.</p>
+<h2 id="5-what-homes-actually-paid-over-the-past-year">5. What homes actually paid over the past year</h2>
+<p>Price times 900 kWh is a benchmark, not a bill. The EIA&#39;s monthly utility survey (form EIA-861M) also reports each state&#39;s residential revenue, kWh sold and number of customers, and dividing them gives the average bill and use per customer. From October 2025 to September 2026, the U.S. average was $160 a month for 885 kWh.</p>
+<p>Counting usage reshuffles the ranking. Hawaii still tops it at $232 a month, but on only 515 kWh. Maryland ($204), Connecticut ($192) and Alabama ($191) come next. Alabama&#39;s rate is below the national average, yet its customers used 1,157 kWh a month, so their average bill beat Massachusetts ($185), where the rate is far higher but use averaged 609 kWh.</p>
+<p>California shows the reverse. Its rate, 30.86¢, is among the highest, but its customers used the least power of any state, 507 kWh a month, and paid $163. Louisiana customers used the most, 1,231 kWh a month, and paid $161. The lowest average bills were in New Mexico ($102) and Utah ($105), followed by Colorado, Wyoming and Montana at about $115.</p>
+<p>A customer here is one utility account, so apartments and small homes count alongside large houses, and figures from January 2026 on are preliminary.</p>
+<h2 id="every-state-real-average-bill-and-the-900-kwh-example">Every state: real average bill and the 900 kWh example</h2>
+<p>Click a state to open its price page, which charts its bill month by month.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Avg. residential price (September 2026)</th>
+<th>Avg. bill, last 12 months</th>
+<th>Avg. use, last 12 months</th>
+<th>900 kWh per month (example)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="/electricity-prices/alabama/">Alabama</a></td>
+<td>16.64¢</td>
+<td>$191</td>
+<td>1,157 kWh</td>
+<td>$150</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/alaska/">Alaska</a></td>
+<td>28¢</td>
+<td>$159</td>
+<td>589 kWh</td>
+<td>$252</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/arizona/">Arizona</a></td>
+<td>14.92¢</td>
+<td>$163</td>
+<td>1,060 kWh</td>
+<td>$134</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/arkansas/">Arkansas</a></td>
+<td>14.54¢</td>
+<td>$148</td>
+<td>1,086 kWh</td>
+<td>$131</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/california/">California</a></td>
+<td>30.86¢</td>
+<td>$163</td>
+<td>507 kWh</td>
+<td>$278</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/colorado/">Colorado</a></td>
+<td>17.88¢</td>
+<td>$115</td>
+<td>686 kWh</td>
+<td>$161</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/connecticut/">Connecticut</a></td>
+<td>27.09¢</td>
+<td>$192</td>
+<td>705 kWh</td>
+<td>$244</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/delaware/">Delaware</a></td>
+<td>18.89¢</td>
+<td>$170</td>
+<td>942 kWh</td>
+<td>$170</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/district-of-columbia/">District of Columbia</a></td>
+<td>25.82¢</td>
+<td>$158</td>
+<td>643 kWh</td>
+<td>$232</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/florida/">Florida</a></td>
+<td>14.74¢</td>
+<td>$169</td>
+<td>1,104 kWh</td>
+<td>$133</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/georgia/">Georgia</a></td>
+<td>16.27¢</td>
+<td>$167</td>
+<td>1,097 kWh</td>
+<td>$146</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/hawaii/">Hawaii</a></td>
+<td>48.31¢</td>
+<td>$232</td>
+<td>515 kWh</td>
+<td>$435</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/idaho/">Idaho</a></td>
+<td>14.39¢</td>
+<td>$116</td>
+<td>901 kWh</td>
+<td>$130</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/illinois/">Illinois</a></td>
+<td>19.14¢</td>
+<td>$136</td>
+<td>716 kWh</td>
+<td>$172</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/indiana/">Indiana</a></td>
+<td>17.05¢</td>
+<td>$160</td>
+<td>945 kWh</td>
+<td>$153</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/iowa/">Iowa</a></td>
+<td>14.99¢</td>
+<td>$122</td>
+<td>855 kWh</td>
+<td>$135</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/kansas/">Kansas</a></td>
+<td>15.83¢</td>
+<td>$138</td>
+<td>909 kWh</td>
+<td>$142</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/kentucky/">Kentucky</a></td>
+<td>13.54¢</td>
+<td>$157</td>
+<td>1,126 kWh</td>
+<td>$122</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/louisiana/">Louisiana</a></td>
+<td>13.33¢</td>
+<td>$161</td>
+<td>1,231 kWh</td>
+<td>$120</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/maine/">Maine</a></td>
+<td>31.29¢</td>
+<td>$157</td>
+<td>527 kWh</td>
+<td>$282</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/maryland/">Maryland</a></td>
+<td>21.54¢</td>
+<td>$204</td>
+<td>960 kWh</td>
+<td>$194</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/massachusetts/">Massachusetts</a></td>
+<td>30.97¢</td>
+<td>$185</td>
+<td>609 kWh</td>
+<td>$279</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/michigan/">Michigan</a></td>
+<td>23.17¢</td>
+<td>$136</td>
+<td>634 kWh</td>
+<td>$209</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/minnesota/">Minnesota</a></td>
+<td>17.37¢</td>
+<td>$122</td>
+<td>747 kWh</td>
+<td>$156</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/mississippi/">Mississippi</a></td>
+<td>14.47¢</td>
+<td>$178</td>
+<td>1,192 kWh</td>
+<td>$130</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/missouri/">Missouri</a></td>
+<td>16.01¢</td>
+<td>$149</td>
+<td>1,062 kWh</td>
+<td>$144</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/montana/">Montana</a></td>
+<td>15.69¢</td>
+<td>$115</td>
+<td>824 kWh</td>
+<td>$141</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nebraska/">Nebraska</a></td>
+<td>13.87¢</td>
+<td>$123</td>
+<td>963 kWh</td>
+<td>$125</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/nevada/">Nevada</a></td>
+<td>13.25¢</td>
+<td>$123</td>
+<td>913 kWh</td>
+<td>$119</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-hampshire/">New Hampshire</a></td>
+<td>29.17¢</td>
+<td>$175</td>
+<td>647 kWh</td>
+<td>$263</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-jersey/">New Jersey</a></td>
+<td>24.64¢</td>
+<td>$161</td>
+<td>677 kWh</td>
+<td>$222</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-mexico/">New Mexico</a></td>
+<td>16.96¢</td>
+<td>$102</td>
+<td>662 kWh</td>
+<td>$153</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/new-york/">New York</a></td>
+<td>28.42¢</td>
+<td>$169</td>
+<td>591 kWh</td>
+<td>$256</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/north-carolina/">North Carolina</a></td>
+<td>15.41¢</td>
+<td>$157</td>
+<td>1,062 kWh</td>
+<td>$139</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/north-dakota/">North Dakota</a></td>
+<td>14.29¢</td>
+<td>$133</td>
+<td>1,076 kWh</td>
+<td>$129</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/ohio/">Ohio</a></td>
+<td>19.09¢</td>
+<td>$162</td>
+<td>876 kWh</td>
+<td>$172</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/oklahoma/">Oklahoma</a></td>
+<td>15.22¢</td>
+<td>$154</td>
+<td>1,107 kWh</td>
+<td>$137</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/oregon/">Oregon</a></td>
+<td>15.73¢</td>
+<td>$130</td>
+<td>838 kWh</td>
+<td>$142</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/pennsylvania/">Pennsylvania</a></td>
+<td>22.2¢</td>
+<td>$177</td>
+<td>844 kWh</td>
+<td>$200</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/rhode-island/">Rhode Island</a></td>
+<td>29.93¢</td>
+<td>$164</td>
+<td>554 kWh</td>
+<td>$269</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/south-carolina/">South Carolina</a></td>
+<td>16.5¢</td>
+<td>$172</td>
+<td>1,088 kWh</td>
+<td>$149</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/south-dakota/">South Dakota</a></td>
+<td>16.31¢</td>
+<td>$142</td>
+<td>988 kWh</td>
+<td>$147</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/tennessee/">Tennessee</a></td>
+<td>13.29¢</td>
+<td>$165</td>
+<td>1,216 kWh</td>
+<td>$120</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/texas/">Texas</a></td>
+<td>15.91¢</td>
+<td>$181</td>
+<td>1,133 kWh</td>
+<td>$143</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/utah/">Utah</a></td>
+<td>13.41¢</td>
+<td>$105</td>
+<td>793 kWh</td>
+<td>$121</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/vermont/">Vermont</a></td>
+<td>24.83¢</td>
+<td>$142</td>
+<td>592 kWh</td>
+<td>$223</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/virginia/">Virginia</a></td>
+<td>17.74¢</td>
+<td>$181</td>
+<td>1,079 kWh</td>
+<td>$160</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/washington/">Washington</a></td>
+<td>15¢</td>
+<td>$132</td>
+<td>925 kWh</td>
+<td>$135</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/west-virginia/">West Virginia</a></td>
+<td>16.23¢</td>
+<td>$166</td>
+<td>1,070 kWh</td>
+<td>$146</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/wisconsin/">Wisconsin</a></td>
+<td>19.42¢</td>
+<td>$126</td>
+<td>667 kWh</td>
+<td>$175</td>
+</tr>
+<tr>
+<td><a href="/electricity-prices/wyoming/">Wyoming</a></td>
+<td>14.96¢</td>
+<td>$115</td>
+<td>822 kWh</td>
+<td>$135</td>
+</tr>
+</tbody></table>
+<h2 id="how-we-measured-it">How we measured it</h2>
+<ul>
+<li><strong>Source.</strong> Prices are the September 2026 average residential prices in the EIA Electric Power Monthly, Table 5.6.A. Usage benchmarks come from the EIA FAQ on household electricity use. Average bills and use per customer are EIA-861M revenue and sales divided by residential customers, averaged over October 2025 to September 2026.</li>
+<li><strong>Math.</strong> Each example cost is 900 kWh times that state price, shown in whole dollars.</li>
+<li><strong>What the price includes.</strong> EIA divides utility revenue, including taxes and fees, by the kWh sold. Fees are therefore spread across every kWh instead of shown as a separate line.</li>
+<li><strong>Limits.</strong> Recent months are preliminary, so the EIA may revise them. One month is a snapshot. A state figure is also an average across many utilities.</li>
+</ul>
+<h2 id="why-your-bill-may-not-match-the-table">Why your bill may not match the table</h2>
+<p>The table is a fair way to compare states. It is not a forecast of what you will owe. Four things push a real bill away from the example.</p>
+<h3>How much power you use</h3>
+<p>This is the side of the bill you control most. Heating, cooling, a pool pump or charging an electric car can push a home well past 900 kWh. A smaller home or mild weather can keep it under. <a href="/guides/how-to-lower-your-electric-bill/">How to lower your electric bill</a> starts with the biggest loads.</p>
+<h3>Fixed fees</h3>
+<p>Your statement lists fixed monthly fees apart from per-kWh charges. Because of that, your all-in cost per kWh shifts with how much you use: a light user spreads the same fee over fewer kWh.</p>
+<h3>Your utility and your plan</h3>
+<p>The state figure blends many utilities, and yours may charge more or less. Some also offer time-of-day plans. As the EIA explains, &quot;Some utilities offer their customers time-of-day pricing to encourage electricity conservation and to reduce peak demand for electricity.&quot; On those plans, when you use power matters as much as how much; see <a href="/guides/time-of-use-electricity-rates-explained/">time-of-use rates explained</a>.</p>
+<h3>The month</h3>
+<p>These examples use September prices, from the end of the cooling season. A winter bill in a home that heats with gas can look very different.</p>
+<h3>A better estimate in three steps</h3>
+<ol>
+<li>Find your monthly kWh on your bill or online account. A full year of bills is best, since use swings with the seasons.</li>
+<li>Find your price per kWh. Bills often split it into supply and delivery charges; add them up, or use your state&#39;s figure above as a rough guide.</li>
+<li>Multiply kWh by price, then add your fixed monthly fees. The <a href="/electricity-cost-calculator/">electricity cost calculator</a> does the arithmetic.</li>
+</ol>
+<p>If you are weighing rooftop solar, that same bill is the starting point. The <a href="/solar-calculator/">solar calculator</a> uses your state&#39;s price to estimate savings, and the <a href="/methodology/">methodology</a> explains the math. Price sets the size of the opportunity; your utility&#39;s rules for crediting exported power decide how much of it you keep.</p>
+<p>Compare your own kWh with the 900 kWh benchmark before comparing your rate with other states. In a cheap-rate state with heavy air conditioning, usage is usually the bigger lever.</p>
+35:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$42"}}]
+36:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L41",null,{"slot":"articleEnd"}]}]
+37:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Average%20Electric%20Bill%20by%20State%3A%20Real%20Bills%20vs.%20900%20kWh&url=https%3A%2F%2Froofpayback.com%2Fguides%2Faverage-electric-bill-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Faverage-electric-bill-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Faverage-electric-bill-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Faverage-electric-bill-by-state%2F&title=Average%20Electric%20Bill%20by%20State%3A%20Real%20Bills%20vs.%20900%20kWh","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Average%20Electric%20Bill%20by%20State%3A%20Real%20Bills%20vs.%20900%20kWh&body=https%3A%2F%2Froofpayback.com%2Fguides%2Faverage-electric-bill-by-state%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+38:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$L4",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+39:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/tools/faqs/faq.php?id=507&t=3",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/tools/faqs/faq.php?id=507&t=3","rel":"noopener","target":"_blank","children":"EIA FAQ: electricity sales and price data"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M monthly sales, revenue and customers by state"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/tools/faqs/faq.php?id=97&t=3",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/tools/faqs/faq.php?id=97&t=3","rel":"noopener","target":"_blank","children":"EIA FAQ: How much electricity does an American home use?"}]]}],["$","li","https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/energyexplained/electricity/prices-and-factors-affecting-prices.php","rel":"noopener","target":"_blank","children":"EIA Energy Explained: Electricity prices and factors affecting prices"}]]}]]}]]}]
+3a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+3b:["$","$L32",null,{"items":"$2f:props:children:0:props:children:0:props:items","variant":"desktop"}]
+3c:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-21","children":"Oct 21, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min"]}]]}]
+3d:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How to Lower Your Electric Bill: Find the Cause, Then Cut"}]
+3e:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Diagnose a high electric bill with EIA monthly data, then see what a saved kWh and a heat pump water heater are worth in every state at September 2026 prices."}]
+3f:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+40:["$","li","home-ev-charging-cost-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/home-ev-charging-cost-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-home-ev-charging-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-charging-card.webp","srcSet":"/photos/ev-home-charging-card.webp 640w, /photos/ev-home-charging-sm.webp 768w, /photos/ev-home-charging-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Home EV Charging Cost by State: What It Costs in 2026"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"What home EV charging costs in every state per year and per mile at September 2026 EIA prices, and how it compares with gasoline at $4.36 a gallon."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+25:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]
+43:I[27201,["$2"],"IconMark"]
+22:null
+28:[["$","title","0",{"children":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","meta","1",{"name":"description","content":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/average-electric-bill-by-state/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","meta","7",{"property":"og:description","content":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/average-electric-bill-by-state/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/home-thermostat-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Digital thermostat controlling a home's central heating and cooling"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-26"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","meta","20",{"name":"twitter:description","content":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/home-thermostat-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L43","25",{}]]

@@ -1,0 +1,211 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/is-solar-worth-it-where-electricity-is-cheap/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Is Solar Worth It Where Electricity Is Cheap?"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Is Solar Worth It Where Electricity Is Cheap?\",\"item\":\"https://roofpayback.com/guides/is-solar-worth-it-where-electricity-is-cheap/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Is Solar Worth It Where Electricity Is Cheap?"}],["$","p",null,{"className":"lede mt-5","children":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-14","children":"November 14, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"is-solar-worth-it-where-electricity-is-cheap","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Is Solar Worth It Where Electricity Is Cheap? | RoofPayback"}],["$","meta","1",{"name":"description","content":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/is-solar-worth-it-where-electricity-is-cheap/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Is Solar Worth It Where Electricity Is Cheap?"}],["$","meta","7",{"property":"og:description","content":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/is-solar-worth-it-where-electricity-is-cheap/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/is-solar-worth-it-where-electricity-is-cheap-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"The spillway of Grand Coulee Dam, a large hydroelectric plant in Washington State"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-14"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Is Solar Worth It Where Electricity Is Cheap?"}],["$","meta","20",{"name":"twitter:description","content":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/is-solar-worth-it-where-electricity-is-cheap-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+32:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/is-solar-worth-it-where-electricity-is-cheap.webp","image",{"imageSrcSet":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp 640w, /photos/is-solar-worth-it-where-electricity-is-cheap-sm.webp 768w, /photos/is-solar-worth-it-where-electricity-is-cheap-md.webp 1024w, /photos/is-solar-worth-it-where-electricity-is-cheap.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-is-solar-worth-it-where-electricity-is-cheap","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-where-electricity-is-cheap.webp","srcSet":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp 640w, /photos/is-solar-worth-it-where-electricity-is-cheap-sm.webp 768w, /photos/is-solar-worth-it-where-electricity-is-cheap-md.webp 1024w, /photos/is-solar-worth-it-where-electricity-is-cheap.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"The spillway of Grand Coulee Dam, a large hydroelectric plant in Washington State","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["The spillway of Grand Coulee Dam, a large hydroelectric plant in Washington State",". ","Photo: David Brodbeck from Seattle, WA, USA"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by/2.0","rel":"noopener license","target":"_blank","children":"CC BY 2.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Grand_Coulee_Dam_spillway.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T1394,<div class="short-answer"><p class="short-answer-label">The verdict</p>
+<p>It can be, but only with a good price per watt. Six states had an average residential price under 14¢ per kWh in September 2026: Nevada, Tennessee, Louisiana, Utah, Kentucky and Nebraska. At $3.50 per watt and full export credit, our example system pays back in 15.5 to 17.8 years there. At half credit it takes 19.8 to 23.2 years.</p>
+<p>Cheap power is the one thing a homeowner cannot change. The two levers that can move the answer are the installed price and how much of the output you use yourself. In these six states, getting to a 12-year payback takes a price of roughly $2.20 to $2.60 per watt with full credit, and about $1.55 to $1.95 with half credit.</p>
+</div><h2 id="the-six-states-at-today-39-s-prices">The six states at today&#39;s prices</h2>
+<p>Paybacks use our example home: 7 kW, 10,500 kWh a year, no incentives, prices rising 2.5% a year, with PVWatts output for one reference city per state (<a href="/methodology/">methodology</a>).</p>
+<table>
+<thead>
+<tr>
+<th>State (city)</th>
+<th>Price, Sept. 2026</th>
+<th>Output per kW</th>
+<th>Full credit</th>
+<th>Half credit</th>
+<th>Quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nevada (Las Vegas)</td>
+<td>13.25¢</td>
+<td>1,753 kWh</td>
+<td>15.5 years</td>
+<td>19.8 years</td>
+<td>24.8 years</td>
+</tr>
+<tr>
+<td>Tennessee (Nashville)</td>
+<td>13.29¢</td>
+<td>1,339 kWh</td>
+<td>17.8 years</td>
+<td>23.2 years</td>
+<td>not within 25 years</td>
+</tr>
+<tr>
+<td>Louisiana (New Orleans)</td>
+<td>13.33¢</td>
+<td>1,479 kWh</td>
+<td>16.2 years</td>
+<td>21.9 years</td>
+<td>not within 25 years</td>
+</tr>
+<tr>
+<td>Utah (Salt Lake City)</td>
+<td>13.41¢</td>
+<td>1,484 kWh</td>
+<td>16.1 years</td>
+<td>21.7 years</td>
+<td>not within 25 years</td>
+</tr>
+<tr>
+<td>Kentucky (Louisville)</td>
+<td>13.54¢</td>
+<td>1,355 kWh</td>
+<td>17.3 years</td>
+<td>22.7 years</td>
+<td>not within 25 years</td>
+</tr>
+<tr>
+<td>Nebraska (Omaha)</td>
+<td>13.87¢</td>
+<td>1,423 kWh</td>
+<td>16.2 years</td>
+<td>21.6 years</td>
+<td>not within 25 years</td>
+</tr>
+</tbody></table>
+<p>With prices this close, output sorts the list: Las Vegas makes about 30% more per kW than Nashville and pays back 2.3 years sooner.</p>
+<p>Which column applies is a state and utility question. Two of the six have official rules that put new systems below full credit:</p>
+<ul>
+<li><strong>Louisiana:</strong> for systems installed after December 31, 2019, the Public Service Commission credits exported energy &quot;at Avoided Cost,&quot; while all power bought from the utility is paid at the full retail rate. If those rules cover your utility, read the quarter-credit column, or longer.</li>
+<li><strong>Kentucky:</strong> under the net metering law in effect since January 1, 2020, customers &quot;will receive dollar credits at a compensation rate set by the PSC in rate proceedings for each utility,&quot; according to the Public Service Commission. The rate depends on your utility&#39;s latest case.</li>
+</ul>
+<p>In the other four, ask your utility or check its tariff with the state utility commission. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing</a> explains the arrangements.</p>
+<h2 id="lever-1-the-price-per-watt">Lever 1: the price per watt</h2>
+<p>The example uses $3.50 per watt. Berkeley Lab&#39;s 2026 Data Update put the median for host-owned home systems installed in 2025 at $3.6 per watt, and the median for cash purchases at $3.0, with about a quarter of the 100 largest installers below $3 (2025 dollars, before incentives).</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>$3.00/W, full</th>
+<th>$3.00/W, half</th>
+<th>$2.50/W, full</th>
+<th>$2.50/W, half</th>
+<th>Price for a 12-year payback, full</th>
+<th>Price for a 12-year payback, half</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nevada</td>
+<td>13.7 years</td>
+<td>17.4 years</td>
+<td>11.7 years</td>
+<td>15 years</td>
+<td>$2.57/W</td>
+<td>$1.93/W</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>14.1 years</td>
+<td>19.2 years</td>
+<td>12 years</td>
+<td>16.5 years</td>
+<td>$2.50/W</td>
+<td>$1.72/W</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>14.2 years</td>
+<td>19.1 years</td>
+<td>12.1 years</td>
+<td>16.5 years</td>
+<td>$2.47/W</td>
+<td>$1.73/W</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>14.2 years</td>
+<td>19.3 years</td>
+<td>12.1 years</td>
+<td>16.7 years</td>
+<td>$2.47/W</td>
+<td>$1.70/W</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>15.2 years</td>
+<td>20.1 years</td>
+<td>13 years</td>
+<td>17.3 years</td>
+<td>$2.29/W</td>
+<td>$1.62/W</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>15.6 years</td>
+<td>20.6 years</td>
+<td>13.4 years</td>
+<td>17.8 years</td>
+<td>$2.21/W</td>
+<td>$1.57/W</td>
+</tr>
+</tbody></table>
+<p>Each 50 cents per watt is worth about two years of payback at full credit here, more than in a high-price state, because savings arrive slowly. A price at the Berkeley Lab cash median brings these states to 13.7 to 15.6 years with full credit. With half credit, even $2.50 leaves them at 15 to 18 years.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"the-six-states-at-today-39-s-prices","text":"The six states at today's prices"},{"id":"lever-1-the-price-per-watt","text":"Lever 1: the price per watt"},{"id":"lever-2-use-more-of-the-power-yourself","text":"Lever 2: use more of the power yourself"},{"id":"what-the-state-average-hides","text":"What the state average hides"},{"id":"four-numbers-that-settle-a-slow-payback","text":"Four numbers that settle a slow payback"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24",false,"$L25",false,"$L26","$L27","$L28","$L29"]}],"$L2a"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","solar-daytime-electricity-use",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-daytime-electricity-use/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-daytime-electricity-use","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-daytime-electricity-use-card.webp","srcSet":"/photos/solar-daytime-electricity-use-card.webp 640w, /photos/solar-daytime-electricity-use-sm.webp 768w, /photos/solar-daytime-electricity-use-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-25","children":"Oct 25, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Daytime Power Use and Solar Payback: 30%, 40%, 60%"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How using more power while the sun is up changes solar payback under full, half and quarter export credit, with results for Texas, Arizona, Maine and Louisiana."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-panel-cost-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panel-cost-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panel-cost-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/installer-harness-georgia-card.webp","srcSet":"/photos/installer-harness-georgia-card.webp 640w, /photos/installer-harness-georgia-sm.webp 768w, /photos/installer-harness-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,"$L2b","$L2c","$L2d"]}],"$L2e","$L2f","$L30"]}]]}]}]}],"$L31"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Is Solar Worth It Where Electricity Is Cheap?\",\"description\":\"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1041,\"image\":[\"https://roofpayback.com/photos/is-solar-worth-it-where-electricity-is-cheap-og.jpg\",\"https://roofpayback.com/photos/is-solar-worth-it-where-electricity-is-cheap.webp\"],\"datePublished\":\"2026-11-14\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/is-solar-worth-it-where-electricity-is-cheap/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L32",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+1f:true
+34:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L34",null,{"slot":"article"}]}]
+35:T8e0,<h2 id="lever-2-use-more-of-the-power-yourself">Lever 2: use more of the power yourself</h2>
+<p>A kWh used as the panels make it saves the full retail price; an exported kWh earns the credit. Where exports earn half of retail, raising the daytime share from our 40% assumption to 60% shortens payback by about two to three years: Nevada from 19.8 to 17.7 years, Louisiana from 21.9 to 19.4, Kentucky from 22.7 to 20.1. Under full credit, timing makes no difference. <a href="/guides/solar-daytime-electricity-use/">Solar and daytime electricity use</a> works through how to shift loads.</p>
+<p>The same logic argues for a smaller system. With weak export credit, a system sized to your daytime use exports less of its output; <a href="/guides/how-many-solar-panels-do-i-need/">how many solar panels do I need</a> shows that at half credit the smallest systems pay back first.</p>
+<h2 id="what-the-state-average-hides">What the state average hides</h2>
+<p>EIA prices are utility revenue divided by kWh sold, so they include fixed charges, taxes and fees spread across every kWh. Your volumetric rate, the part solar can offset, may be lower than the state figure, and a fixed monthly customer charge cannot be reduced by panels at all. Read the per-kWh charges on a recent bill and use that number. <a href="/guides/fixed-charges-on-your-electric-bill/">Fixed charges on your electric bill</a> explains the difference.</p>
+<h2 id="four-numbers-that-settle-a-slow-payback">Four numbers that settle a slow payback</h2>
+<ol>
+<li><strong>Your per-kWh rate</strong> from a recent bill, not the state average.</li>
+<li><strong>Your export credit</strong>, from the utility tariff.</li>
+<li><strong>Your quote in dollars per watt</strong>, compared with the targets in the table above.</li>
+<li><strong>Your daytime share</strong>, from smart-meter data.</li>
+</ol>
+<p>Put them in the <a href="/solar-calculator/">solar calculator</a>. If the result clears 15 years only at full credit and a price well below $3 per watt, cheaper ways to cut the bill may pay back faster; <a href="/guides/how-to-lower-your-electric-bill/">how to lower your electric bill</a> lists them. If it clears 15 years at half credit with a quote you actually have, cheap power is no reason to say no.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$35"}}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Is%20Solar%20Worth%20It%20Where%20Electricity%20Is%20Cheap%3F&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-where-electricity-is-cheap%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-where-electricity-is-cheap%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-where-electricity-is-cheap%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-where-electricity-is-cheap%2F&title=Is%20Solar%20Worth%20It%20Where%20Electricity%20Is%20Cheap%3F","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Is%20Solar%20Worth%20It%20Where%20Electricity%20Is%20Cheap%3F&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fis-solar-worth-it-where-electricity-is-cheap%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+26:null
+27:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+28:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://eta-publications.lbl.gov/sites/default/files/2026-08/distributed_solar_storage-2026_data_update_final.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://eta-publications.lbl.gov/sites/default/files/2026-08/distributed_solar_storage-2026_data_update_final.pdf","rel":"noopener","target":"_blank","children":"Berkeley Lab: U.S. Distributed Solar and Storage 2026 Data Update"}]]}],["$","li","https://lpsc.louisiana.gov/Utilities_NetMetering",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://lpsc.louisiana.gov/Utilities_NetMetering","rel":"noopener","target":"_blank","children":"Louisiana Public Service Commission: Net metering rules (General Order dated September 19, 2019)"}]]}],["$","li","https://psc.ky.gov/agencies/psc/press/122019/1218_r01.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://psc.ky.gov/agencies/psc/press/122019/1218_r01.pdf","rel":"noopener","target":"_blank","children":"Kentucky Public Service Commission: PSC Completes Review of Input on Net Metering Changes (December 18, 2019)"}]]}]]}]]}]
+29:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2a:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2b:["$","time",null,{"dateTime":"2026-10-22","children":"Oct 22, 2026"}]
+2c:["$","span",null,{"aria-hidden":"true","children":"·"}]
+2d:["$","span",null,{"children":[8," min"]}]
+2e:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Price per Watt by State: What Pays Back in 10 or 15 Years"}]
+2f:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"The most you can pay per watt for a 10- or 15-year solar payback in every state, Berkeley Lab's 2025 price benchmarks, and when waiting for cheaper panels pays."}]
+30:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+31:["$","li","cheapest-and-most-expensive-states-for-electricity",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/cheapest-and-most-expensive-states-for-electricity/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-cheapest-and-most-expensive-states-for-electricity","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp","srcSet":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp 640w, /photos/cheapest-and-most-expensive-states-for-electricity-sm.webp 768w, /photos/cheapest-and-most-expensive-states-for-electricity-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-13","children":"Oct 13, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Cheapest and Most Expensive States for Electricity"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+33:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

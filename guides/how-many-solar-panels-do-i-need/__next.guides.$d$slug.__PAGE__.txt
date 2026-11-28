@@ -1,0 +1,249 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/planning/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/planning/","className":"py-1 no-underline hover:text-ink","children":"Planning a system"}]]}],["$","li","/guides/how-many-solar-panels-do-i-need/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Planning a system\",\"item\":\"https://roofpayback.com/guides/topic/planning/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"How Many Solar Panels Do I Need? Sizing from Your Electric Bill\",\"item\":\"https://roofpayback.com/guides/how-many-solar-panels-do-i-need/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/planning/","children":"Planning a system"}]}],["$","h1",null,{"className":"h-page mt-4","children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","p",null,{"className":"lede mt-5","children":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-11","children":"October 11, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"how-many-solar-panels-do-i-need","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","meta","1",{"name":"description","content":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/how-many-solar-panels-do-i-need/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","meta","7",{"property":"og:description","content":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/how-many-solar-panels-do-i-need/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/roof-array-georgia-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Rooftop solar PV installation in Hiram, Georgia"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-11"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"How Many Solar Panels Do I Need? Sizing from Your Electric Bill"}],["$","meta","20",{"name":"twitter:description","content":"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/roof-array-georgia-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+23:I[9441,["$3","$c"],"AdSlot"]
+31:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/roof-array-georgia.webp","image",{"imageSrcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w, /photos/roof-array-georgia.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-how-many-solar-panels-do-i-need","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-array-georgia.webp","srcSet":"/photos/roof-array-georgia-card.webp 640w, /photos/roof-array-georgia-sm.webp 768w, /photos/roof-array-georgia-md.webp 1024w, /photos/roof-array-georgia.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Rooftop solar PV installation in Hiram, Georgia","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Rooftop solar PV installation in Hiram, Georgia",". ","Photo by Deidra Hodges. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Hodges_000368_171507_516319_4578_(36567567150).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Hodges_000368_171507_516319_4578_(36567567150).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T8b4,<div class="short-answer"><p class="short-answer-label">In one minute</p>
+<p>Divide your yearly electricity use by what one kW of panels makes where you live. That is the system size that covers 100% of your use on paper. Divide that size by the rating of one panel and round up to get the count.</p>
+<p>How much a home uses varies more than most people expect. The average residential account used 1,231 kWh a month in Louisiana over the 12 months to September 2026, and 591 in New York, according to EIA utility sales data. The same sizing rule gives a 10 kW system in Louisiana and a 5 kW system in New York.</p>
+<p>Two results from our model are worth knowing before you get a quote. When the system is sized to the home, a bigger home barely changes the payback period; it changes the dollars. And when exports earn less than the retail rate, a smaller system usually pays back faster than one that covers all your use.</p>
+</div><h2 id="step-1-add-up-a-full-year-of-kwh">Step 1: Add up a full year of kWh</h2>
+<p>Total the <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hours</a> on your last 12 bills, or download the usage history from your utility account. One month misleads: air conditioning or electric heat can push a single bill far from your average.</p>
+<p>Add loads you are sure about before sizing. An electric car is the usual one; <a href="/guides/solar-and-electric-car-charging/">solar and electric car charging</a> works through how much it adds and why charging time matters. Leave out loads you are only thinking about. Adding panels later is usually possible.</p>
+<h2 id="step-2-find-what-one-kw-makes-at-your-address">Step 2: Find what one kW makes at your address</h2>
+<p>Your <a href="/solar-panels/">state page</a> lists yearly output per kW for its reference city. Our figures come from PVWatts for south-facing panels at a 20° pitch with 14% system losses. Across the 51 reference cities, output runs from 1,779 kWh per kW in Albuquerque to 922 in Anchorage, so a system size borrowed from a friend in another state tells you little. <a href="/guides/how-much-electricity-does-a-solar-panel-produce/">How much electricity a solar panel produces</a> gives all 12 months for every state.</p>
+24:T1ed2,<h2 id="step-3-divide-use-by-output-then-by-the-panel-rating">Step 3: Divide use by output, then by the panel rating</h2>
+<p>Annual use ÷ output per kW = the size that covers 100% of use. Size ÷ panel rating in kW = the panel count, rounded up. Ratings are printed in watts on the spec sheet; 400 W is 0.4 kW.</p>
+<p>Here is that arithmetic for the average residential account in nine states. &quot;Use&quot; is the 12-month total from EIA-861M (October 2025 to September 2026; months from January 2026 are preliminary). An account can be a house, an apartment or a second home, so treat these as typical, not as your number. The installed size is the exact figure rounded to a whole kW, priced at $3,500 per kW with no incentives.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Average use per year</th>
+<th>Exact size</th>
+<th>Installed size</th>
+<th>Panels at 0.4 kW</th>
+<th>Payback, full credit</th>
+<th>Payback, half credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Louisiana</td>
+<td>14,768 kWh</td>
+<td>10 kW</td>
+<td>10 kW</td>
+<td>25</td>
+<td>16 years</td>
+<td>21.5 years</td>
+</tr>
+<tr>
+<td>Alabama</td>
+<td>13,889 kWh</td>
+<td>10.2 kW</td>
+<td>10 kW</td>
+<td>25</td>
+<td>14 years</td>
+<td>19 years</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>13,592 kWh</td>
+<td>9.6 kW</td>
+<td>10 kW</td>
+<td>25</td>
+<td>14.3 years</td>
+<td>19.3 years</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>13,242 kWh</td>
+<td>8.6 kW</td>
+<td>9 kW</td>
+<td>23</td>
+<td>14.3 years</td>
+<td>19.3 years</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>13,159 kWh</td>
+<td>9.4 kW</td>
+<td>9 kW</td>
+<td>23</td>
+<td>14.1 years</td>
+<td>18.9 years</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>12,718 kWh</td>
+<td>7.2 kW</td>
+<td>7 kW</td>
+<td>18</td>
+<td>12.5 years</td>
+<td>17 years</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>8,593 kWh</td>
+<td>6.6 kW</td>
+<td>7 kW</td>
+<td>18</td>
+<td>13.4 years</td>
+<td>18.1 years</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>7,304 kWh</td>
+<td>5.6 kW</td>
+<td>6 kW</td>
+<td>15</td>
+<td>8.8 years</td>
+<td>11.9 years</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>7,088 kWh</td>
+<td>5.5 kW</td>
+<td>5 kW</td>
+<td>13</td>
+<td>9.2 years</td>
+<td>12.5 years</td>
+</tr>
+</tbody></table>
+<p>Paybacks use the state&#39;s EIA residential price for September 2026 and the other inputs on our <a href="/methodology/">methodology</a> page. &quot;Full credit&quot; assumes every exported kWh earns the retail rate; that only applies where your utility still offers it. In Louisiana, for example, the Public Service Commission credits exports from systems installed after 2019 at avoided cost, which is far below retail, so even the half-credit column is optimistic there.</p>
+<p>The same system can carry different panel counts. A 7 kW system is 18 panels at 0.4 kW or 16 at 0.45 kW. Compare quotes on kW, estimated yearly kWh and price per watt, not on how many panels they show.</p>
+<h2 id="step-4-expect-home-size-to-move-dollars-not-years">Step 4: Expect home size to move dollars, not years</h2>
+<p>A Southern home using 13,000 kWh or more needs a system nearly twice the size of a typical New York or Massachusetts home, and costs about twice as much. It also saves about twice as much, so the payback period hardly changes. In Texas, a right-sized system pays back in 14.8 years for a home using 6,000 kWh a year and 14.1 years at 16,000 kWh. The small gap comes mostly from the $100 a year of upkeep in our model, which weighs more on a small system.</p>
+<p>What moves the payback is the price of power. Massachusetts and New York pay back in about 9 years with smaller systems; the five Southern states in the table take 14 to 16 years with bigger ones. A small home in a high-price state is a better solar candidate than a large home in a cheap one.</p>
+<h2 id="step-5-test-sizes-below-and-above-your-number">Step 5: Test sizes below and above your number</h2>
+<p>Run the payback for a few sizes around your Step 3 figure. The table uses a home using 10,500 kWh a year, so the 100% size is about 7.4 kW in Texas, 6.8 kW in Florida and 6 kW in Arizona.</p>
+<table>
+<thead>
+<tr>
+<th>Size</th>
+<th>Texas, full credit</th>
+<th>Texas, half credit</th>
+<th>Florida, full credit</th>
+<th>Florida, half credit</th>
+<th>Arizona, full credit</th>
+<th>Arizona, half credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>3 kW</td>
+<td>15.3 years</td>
+<td>15.7 years</td>
+<td>15.2 years</td>
+<td>15.9 years</td>
+<td>13.3 years</td>
+<td>14.6 years</td>
+</tr>
+<tr>
+<td>5 kW</td>
+<td>14.6 years</td>
+<td>17.8 years</td>
+<td>14.5 years</td>
+<td>18.2 years</td>
+<td>12.7 years</td>
+<td>16.7 years</td>
+</tr>
+<tr>
+<td>7 kW</td>
+<td>14.3 years</td>
+<td>19.2 years</td>
+<td>14.3 years</td>
+<td>19.5 years</td>
+<td>14 years</td>
+<td>17.8 years</td>
+</tr>
+<tr>
+<td>9 kW</td>
+<td>16.3 years</td>
+<td>20.1 years</td>
+<td>17.4 years</td>
+<td>20.4 years</td>
+<td>17.2 years</td>
+<td>18.5 years</td>
+</tr>
+<tr>
+<td>12 kW</td>
+<td>20.5 years</td>
+<td>21 years</td>
+<td>21.8 years</td>
+<td>21.8 years</td>
+<td>21.6 years</td>
+<td>21.6 years</td>
+</tr>
+</tbody></table>
+<p>Two patterns stand out:</p>
+<ol>
+<li><strong>With full credit, the best size sits near 100% coverage, then falls off.</strong> Credits in our model can offset up to one year of grid purchases and no more. In Texas, the 9 kW and 12 kW systems both save $1,671 in the first year, because everything past that cap is forfeited at the yearly settlement.</li>
+<li><strong>With half credit, the smallest system pays back first.</strong> A 3 kW array sends little to the grid, so most of its output replaces power bought at the full price. Larger systems still add some long-run value, but not much: the Texas 25-year gain at half credit only rises from $8,305 at 3 kW to $10,262 at 12 kW.</li>
+</ol>
+<p>Find out how your utility credits exports before you pick a size. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing</a> explains the main arrangements, and the <a href="/guides/oversized-solar-system-annual-true-up/">annual true-up guide</a> covers what happens to a surplus.</p>
+<h2 id="step-6-fit-it-to-the-roof">Step 6: Fit it to the roof</h2>
+<p>Count how many panels of the quoted rating fit on the usable roof planes, then check shade. East- and west-facing planes make less per kW, so covering the same use takes more panels; <a href="/guides/east-west-facing-solar-panels/">east- or west-facing roofs</a> shows how many more. If the roof runs out first, higher-efficiency panels fit more kW into the same area, at a higher price per watt.</p>
+<h2 id="mistakes-that-cost-money">Mistakes that cost money</h2>
+<ul>
+<li><strong>Multiplying one month by twelve.</strong> Seasonal swings distort it either way.</li>
+<li><strong>Sizing for your darkest month.</strong> A system big enough for January makes a summer surplus that a yearly cap partly forfeits. <a href="/guides/solar-panels-in-winter-by-state/">Solar panels in winter by state</a> shows how deep the dip runs.</li>
+<li><strong>Assuming a big bill means a fast payback.</strong> The table in Step 3 shows the opposite pattern across states.</li>
+<li><strong>Comparing quotes by panel count.</strong> Compare kW, expected kWh and price per watt; <a href="/guides/solar-panel-cost-by-state/">solar panel cost by state</a> shows how price changes the result.</li>
+</ul>
+<h2 id="sizing-checklist">Sizing checklist</h2>
+<ul>
+<li>12 months of kWh, plus planned loads you are sure of</li>
+<li>Output per kW from your <a href="/solar-panels/">state page</a></li>
+<li>Starting size: use ÷ output; panel count: size ÷ rating, rounded up</li>
+<li>Payback for two smaller sizes and one larger</li>
+<li>How your utility credits exports, checked before choosing</li>
+<li>Roof space, shade and orientation confirmed for that count</li>
+</ul>
+<p>The <a href="/solar-calculator/">solar calculator</a> runs these steps with your own bill, roof and quote, and its size table shows where extra panels stop adding value.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"step-1-add-up-a-full-year-of-kwh","text":"Step 1: Add up a full year of kWh"},{"id":"step-2-find-what-one-kw-makes-at-your-address","text":"Step 2: Find what one kW makes at your address"},{"id":"step-3-divide-use-by-output-then-by-the-panel-rating","text":"Step 3: Divide use by output, then by the panel rating"},{"id":"step-4-expect-home-size-to-move-dollars-not-years","text":"Step 4: Expect home size to move dollars, not years"},{"id":"step-5-test-sizes-below-and-above-your-number","text":"Step 5: Test sizes below and above your number"},{"id":"step-6-fit-it-to-the-roof","text":"Step 6: Fit it to the roof"},{"id":"mistakes-that-cost-money","text":"Mistakes that cost money"},{"id":"sizing-checklist","text":"Sizing checklist"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L23",null,{"slot":"article"}]}],["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$24"}}],"$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","how-much-electricity-does-a-solar-panel-produce",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/how-much-electricity-does-a-solar-panel-produce/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-how-much-electricity-does-a-solar-panel-produce","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/how-much-electricity-does-a-solar-panel-produce-card.webp","srcSet":"/photos/how-much-electricity-does-a-solar-panel-produce-card.webp 640w, /photos/how-much-electricity-does-a-solar-panel-produce-sm.webp 768w, /photos/how-much-electricity-does-a-solar-panel-produce-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-16","children":"Nov 16, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[11," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"How Much Electricity Does a Solar Panel Make Monthly?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Month-by-month output per kW of solar panels for all 50 states and D.C., from PVWatts, plus how to scale it to one panel or a whole system."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","solar-and-electric-car-charging",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-and-electric-car-charging/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-and-electric-car-charging","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/ev-home-wallbox-card.webp","srcSet":"/photos/ev-home-wallbox-card.webp 640w, /photos/ev-home-wallbox-sm.webp 768w, /photos/ev-home-wallbox-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2c","$L2d","$L2e","$L2f"]}]]}]}]}],"$L30"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How Many Solar Panels Do I Need? Sizing from Your Electric Bill\",\"description\":\"Size solar from your yearly kWh and local sun, see what a typical home needs in nine states, and how home size and export credit change payback.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Planning a system\",\"wordCount\":1532,\"image\":[\"https://roofpayback.com/photos/roof-array-georgia-og.jpg\",\"https://roofpayback.com/photos/roof-array-georgia.webp\"],\"datePublished\":\"2026-10-11\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/how-many-solar-panels-do-i-need/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L31",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+1f:true
+8:300
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L23",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=How%20Many%20Solar%20Panels%20Do%20I%20Need%3F%20Sizing%20from%20Your%20Electric%20Bill&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-many-solar-panels-do-i-need%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-many-solar-panels-do-i-need%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-many-solar-panels-do-i-need%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-many-solar-panels-do-i-need%2F&title=How%20Many%20Solar%20Panels%20Do%20I%20Need%3F%20Sizing%20from%20Your%20Electric%20Bill","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=How%20Many%20Solar%20Panels%20Do%20I%20Need%3F%20Sizing%20from%20Your%20Electric%20Bill&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-many-solar-panels-do-i-need%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator (NLR)"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA Form EIA-861M: Monthly electric power industry report (sales, revenue and customers)"}]]}],["$","li","https://lpsc.louisiana.gov/Utilities_NetMetering",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://lpsc.louisiana.gov/Utilities_NetMetering","rel":"noopener","target":"_blank","children":"Louisiana Public Service Commission: Net metering rules (General Order dated September 19, 2019)"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-30","children":"Oct 30, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}]
+2d:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels for an Electric Car: How Much Bigger?"}]
+2e:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How many kWh an EV adds, how much bigger the solar system gets, and why charging at night or at midday changes payback when exports earn less than retail."}]
+2f:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+30:["$","li","net-metering-vs-net-billing-payback",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/net-metering-vs-net-billing-payback/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-net-metering-vs-net-billing-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/net-metering-vs-net-billing-payback-card.webp","srcSet":"/photos/net-metering-vs-net-billing-payback-card.webp 640w, /photos/net-metering-vs-net-billing-payback-sm.webp 768w, /photos/net-metering-vs-net-billing-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-11","children":"Oct 11, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Net Metering vs. Net Billing: How Export Credits Change Payback"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Payback at full, half, quarter and zero export credit in 13 states, the export rate each needs for a 15-year payback, and the rules new customers get."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+32:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

@@ -1,0 +1,438 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/cheapest-and-most-expensive-states-for-electricity/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Cheapest and Most Expensive States for Electricity"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Cheapest and Most Expensive States for Electricity\",\"item\":\"https://roofpayback.com/guides/cheapest-and-most-expensive-states-for-electricity/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Cheapest and Most Expensive States for Electricity"}],["$","p",null,{"className":"lede mt-5","children":"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-13","children":"October 13, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],"$Le"]}],"$Lf","$L10","$L11","$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"cheapest-and-most-expensive-states-for-electricity","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cheapest and Most Expensive States for Electricity | RoofPayback"}],["$","meta","1",{"name":"description","content":"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/cheapest-and-most-expensive-states-for-electricity/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Cheapest and Most Expensive States for Electricity"}],["$","meta","7",{"property":"og:description","content":"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/cheapest-and-most-expensive-states-for-electricity/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/cheapest-and-most-expensive-states-for-electricity-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"A row of residential electricity meters on an outside wall"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-13"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Cheapest and Most Expensive States for Electricity"}],["$","meta","20",{"name":"twitter:description","content":"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/cheapest-and-most-expensive-states-for-electricity-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1b","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"9ejB_AtLjd4bll68LEc-a"}
+1f:"$Sreact.view_transition"
+20:I[26029,["$3","$c"],"TocNav"]
+2c:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/cheapest-and-most-expensive-states-for-electricity.webp","image",{"imageSrcSet":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp 640w, /photos/cheapest-and-most-expensive-states-for-electricity-sm.webp 768w, /photos/cheapest-and-most-expensive-states-for-electricity-md.webp 1024w, /photos/cheapest-and-most-expensive-states-for-electricity.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]]}]
+f:["$","figure",null,{"className":"mt-8","children":[["$","$1f",null,{"name":"photo-cheapest-and-most-expensive-states-for-electricity","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/cheapest-and-most-expensive-states-for-electricity.webp","srcSet":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp 640w, /photos/cheapest-and-most-expensive-states-for-electricity-sm.webp 768w, /photos/cheapest-and-most-expensive-states-for-electricity-md.webp 1024w, /photos/cheapest-and-most-expensive-states-for-electricity.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"A row of residential electricity meters on an outside wall","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["A row of residential electricity meters on an outside wall",". ","Photo: Downtowngal"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by-sa/4.0","rel":"noopener license","target":"_blank","children":"CC BY-SA 4.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Electrical_meters_LA.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+21:T1d8b,<div class="short-answer"><p class="short-answer-label">What we found</p>
+<p>Over the twelve months from October 2025 to September 2026, the cheapest state for home electricity was <strong>North Dakota, at 12.38¢ per <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hour</a></strong>, followed by Nebraska (12.78¢), Idaho (12.89¢), Louisiana (13.12¢) and Utah (13.21¢). The most expensive was <strong>Hawaii, at 45.05¢</strong>, then California (32.22¢), Massachusetts (30.44¢), Maine (29.83¢) and Rhode Island (29.6¢).</p>
+<p>A Hawaii household paid 3.6 times as much per kWh as a North Dakota household over the year. On the mainland the gap was smaller but still large: California paid 2.6 times North Dakota&#39;s price.</p>
+<p>We rank on twelve months rather than one because a single month can reorder the list. In September 2026 alone, Nevada was the cheapest state at 13.25¢; over the full year it ranks sixth. North Dakota, cheapest over the year, ranked seventh in September, because September was its most expensive month.</p>
+</div><h2 id="the-full-ranking">The full ranking</h2>
+<p>Prices are the average residential price over October 2025 to September 2026, computed from EIA-861M as total revenue divided by total kWh sold to homes, so heavy-use months count more. The September 2026 column is the latest single month. The last column shows the lowest and highest monthly price in the twelve months, which tells you how much a state&#39;s price moves within a year.</p>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>State</th>
+<th>12-month average</th>
+<th>September 2026</th>
+<th>Lowest–highest month</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>North Dakota</td>
+<td>12.38¢</td>
+<td>14.29¢</td>
+<td>10.92–14.29¢</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nebraska</td>
+<td>12.78¢</td>
+<td>13.87¢</td>
+<td>11.24–13.87¢</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Idaho</td>
+<td>12.89¢</td>
+<td>14.39¢</td>
+<td>11.88–14.39¢</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Louisiana</td>
+<td>13.12¢</td>
+<td>13.33¢</td>
+<td>12.37–14.44¢</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Utah</td>
+<td>13.21¢</td>
+<td>13.41¢</td>
+<td>12.88–13.61¢</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Nevada</td>
+<td>13.44¢</td>
+<td>13.25¢</td>
+<td>12.72–14.38¢</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tennessee</td>
+<td>13.6¢</td>
+<td>13.29¢</td>
+<td>12.82–15.08¢</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Arkansas</td>
+<td>13.65¢</td>
+<td>14.54¢</td>
+<td>12.35–14.54¢</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Oklahoma</td>
+<td>13.87¢</td>
+<td>15.22¢</td>
+<td>12.32–15.22¢</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Kentucky</td>
+<td>13.95¢</td>
+<td>13.54¢</td>
+<td>13.1–15.02¢</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Montana</td>
+<td>14.01¢</td>
+<td>15.69¢</td>
+<td>12.78–15.69¢</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Wyoming</td>
+<td>14.02¢</td>
+<td>14.96¢</td>
+<td>12.81–15.24¢</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Missouri</td>
+<td>14.04¢</td>
+<td>16.01¢</td>
+<td>11.76–16.22¢</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Iowa</td>
+<td>14.23¢</td>
+<td>14.99¢</td>
+<td>12.48–17.06¢</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Washington</td>
+<td>14.27¢</td>
+<td>15¢</td>
+<td>13.35–15¢</td>
+</tr>
+<tr>
+<td>16</td>
+<td>South Dakota</td>
+<td>14.4¢</td>
+<td>16.31¢</td>
+<td>12.43–16.31¢</td>
+</tr>
+<tr>
+<td>17</td>
+<td>North Carolina</td>
+<td>14.83¢</td>
+<td>15.41¢</td>
+<td>13.45–16.25¢</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Mississippi</td>
+<td>14.89¢</td>
+<td>14.47¢</td>
+<td>14.14–16.76¢</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Kansas</td>
+<td>15.21¢</td>
+<td>15.83¢</td>
+<td>14.29–15.83¢</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Georgia</td>
+<td>15.27¢</td>
+<td>16.27¢</td>
+<td>13.65–16.36¢</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Florida</td>
+<td>15.31¢</td>
+<td>14.74¢</td>
+<td>14.74–15.92¢</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Arizona</td>
+<td>15.35¢</td>
+<td>14.92¢</td>
+<td>14.92–16.03¢</td>
+</tr>
+<tr>
+<td>23</td>
+<td>New Mexico</td>
+<td>15.39¢</td>
+<td>16.96¢</td>
+<td>14.12–16.96¢</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Oregon</td>
+<td>15.51¢</td>
+<td>15.73¢</td>
+<td>14.63–16.32¢</td>
+</tr>
+<tr>
+<td>25</td>
+<td>West Virginia</td>
+<td>15.55¢</td>
+<td>16.23¢</td>
+<td>14.41–16.8¢</td>
+</tr>
+<tr>
+<td>26</td>
+<td>South Carolina</td>
+<td>15.85¢</td>
+<td>16.5¢</td>
+<td>14.94–17.06¢</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Texas</td>
+<td>15.99¢</td>
+<td>15.91¢</td>
+<td>15.42–17¢</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Minnesota</td>
+<td>16.31¢</td>
+<td>17.37¢</td>
+<td>14.94–17.52¢</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Alabama</td>
+<td>16.47¢</td>
+<td>16.64¢</td>
+<td>15.99–17.41¢</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Virginia</td>
+<td>16.73¢</td>
+<td>17.74¢</td>
+<td>15.27–17.74¢</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Colorado</td>
+<td>16.74¢</td>
+<td>17.88¢</td>
+<td>15.97–17.88¢</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Indiana</td>
+<td>16.91¢</td>
+<td>17.05¢</td>
+<td>15.65–18.15¢</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Delaware</td>
+<td>18.05¢</td>
+<td>18.89¢</td>
+<td>16.27–19.38¢</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Ohio</td>
+<td>18.54¢</td>
+<td>19.09¢</td>
+<td>17.25–19.52¢</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Wisconsin</td>
+<td>18.85¢</td>
+<td>19.42¢</td>
+<td>17.74–19.74¢</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Illinois</td>
+<td>18.93¢</td>
+<td>19.14¢</td>
+<td>16.36–23.85¢</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Pennsylvania</td>
+<td>21¢</td>
+<td>22.2¢</td>
+<td>20.07–22.2¢</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Maryland</td>
+<td>21.21¢</td>
+<td>21.54¢</td>
+<td>19.59–22.36¢</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Michigan</td>
+<td>21.42¢</td>
+<td>23.17¢</td>
+<td>19.52–23.17¢</td>
+</tr>
+<tr>
+<td>40</td>
+<td>New Jersey</td>
+<td>23.85¢</td>
+<td>24.64¢</td>
+<td>22.49–25.19¢</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Vermont</td>
+<td>23.97¢</td>
+<td>24.83¢</td>
+<td>23.12–24.89¢</td>
+</tr>
+<tr>
+<td>42</td>
+<td>District of Columbia</td>
+<td>24.65¢</td>
+<td>25.82¢</td>
+<td>22.71–25.98¢</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Alaska</td>
+<td>26.99¢</td>
+<td>28¢</td>
+<td>25.44–29.41¢</td>
+</tr>
+<tr>
+<td>44</td>
+<td>New Hampshire</td>
+<td>27.06¢</td>
+<td>29.17¢</td>
+<td>26.24–29.17¢</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Connecticut</td>
+<td>27.2¢</td>
+<td>27.09¢</td>
+<td>24.16–32.24¢</td>
+</tr>
+<tr>
+<td>46</td>
+<td>New York</td>
+<td>28.68¢</td>
+<td>28.42¢</td>
+<td>26.46–29.93¢</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Rhode Island</td>
+<td>29.6¢</td>
+<td>29.93¢</td>
+<td>28.18–31.18¢</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Maine</td>
+<td>29.83¢</td>
+<td>31.29¢</td>
+<td>26.56–32.41¢</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Massachusetts</td>
+<td>30.44¢</td>
+<td>30.97¢</td>
+<td>28.82–31.29¢</td>
+</tr>
+<tr>
+<td>50</td>
+<td>California</td>
+<td>32.22¢</td>
+<td>30.86¢</td>
+<td>29.75–35.29¢</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Hawaii</td>
+<td>45.05¢</td>
+<td>48.31¢</td>
+<td>39.74–52.72¢</td>
+</tr>
+</tbody></table>
+<p>The U.S. average over the same twelve months was 18.05¢. Thirty-two states sit below it, Delaware matches it, and the other 17 states and the District of Columbia sit above it.</p>
+<h2 id="finding-1-the-cheap-end-is-the-plains-the-south-and-the-interior-west">Finding 1: the cheap end is the Plains, the South and the interior West</h2>
+<p>The ten cheapest states are spread across the Plains, the South and the interior West, and all are inland except Louisiana. The spread inside this group is narrow: 1.57¢ separates North Dakota (12.38¢) from Kentucky (13.95¢), so a single rate change can reshuffle it. Why these states pay less, from fuel mix to regulation, is covered in <a href="/guides/why-electricity-prices-differ-by-state/">why electricity prices differ by state</a>.</p>
+10:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L20",null,{"items":[{"id":"the-full-ranking","text":"The full ranking"},{"id":"finding-1-the-cheap-end-is-the-plains-the-south-and-the-interior-west","text":"Finding 1: the cheap end is the Plains, the South and the interior West"},{"id":"finding-2-the-expensive-end-is-hawaii-california-and-the-northeast","text":"Finding 2: the expensive end is Hawaii, California and the Northeast"},{"id":"finding-3-some-states-change-price-with-the-season-far-more-than-others","text":"Finding 3: some states change price with the season far more than others"},{"id":"finding-4-a-cheap-rate-does-not-mean-a-cheap-bill","text":"Finding 4: a cheap rate does not mean a cheap bill"},{"id":"how-we-measured-it","text":"How we measured it"},{"id":"what-the-ranking-means-for-rooftop-solar","text":"What the ranking means for rooftop solar"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23","$L24","$L25",false,false,"$L26","$L27","$L28"]}],"$L29"]}]
+11:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","electricity-prices-2026-09",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/electricity-prices-2026-09/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-electricity-prices-2026-09","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/reserve-utility-pole-california-card.webp","srcSet":"/photos/reserve-utility-pole-california-card.webp 640w, /photos/reserve-utility-pole-california-sm.webp 768w, /photos/reserve-utility-pole-california-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-25","children":"Nov 25, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Electricity Prices in September 2026: Winners and Losers"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. home electricity averaged 18.17¢/kWh in September 2026, up just 0.7%, the smallest gain in a year. The 12-month view and every big state mover."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","is-solar-worth-it-where-electricity-is-cheap",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/is-solar-worth-it-where-electricity-is-cheap/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-is-solar-worth-it-where-electricity-is-cheap","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp","srcSet":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp 640w, /photos/is-solar-worth-it-where-electricity-is-cheap-sm.webp 768w, /photos/is-solar-worth-it-where-electricity-is-cheap-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],"$L2a"]}]}]}],"$L2b"]}]]}]
+12:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Cheapest and Most Expensive States for Electricity\",\"description\":\"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1351,\"image\":[\"https://roofpayback.com/photos/cheapest-and-most-expensive-states-for-electricity-og.jpg\",\"https://roofpayback.com/photos/cheapest-and-most-expensive-states-for-electricity.webp\"],\"datePublished\":\"2026-10-13\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/cheapest-and-most-expensive-states-for-electricity/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+14:["$","$L2c",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+1e:true
+2e:I[9441,["$3","$c"],"AdSlot"]
+8:300
+22:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L2e",null,{"slot":"article"}]}]
+2f:Tc83,<h2 id="finding-2-the-expensive-end-is-hawaii-california-and-the-northeast">Finding 2: the expensive end is Hawaii, California and the Northeast</h2>
+<p>Nine of the ten most expensive places are Hawaii, Alaska, California and Northeastern states; the tenth is the District of Columbia. Hawaii stands apart: its 45.05¢ is 12.83¢ above California, the next state, which is more than North Dakota&#39;s entire price.</p>
+<h2 id="finding-3-some-states-change-price-with-the-season-far-more-than-others">Finding 3: some states change price with the season far more than others</h2>
+<p>Utah&#39;s monthly price stayed within 0.73¢ all year. Hawaii&#39;s swung by almost 13¢, from 39.74¢ to 52.72¢. Connecticut moved 8.08¢ and Illinois 7.49¢. In six low-price states (North Dakota, South Dakota, Nebraska, Idaho, Montana and Oklahoma) the highest price of the twelve months was September itself, and the lowest came in December or January. That is why they look more expensive in a September snapshot than over a full year.</p>
+<p>For your own budget, a large swing means a single month&#39;s price is a poor guide. Use a full year of bills, or the twelve-month average above.</p>
+<h2 id="finding-4-a-cheap-rate-does-not-mean-a-cheap-bill">Finding 4: a cheap rate does not mean a cheap bill</h2>
+<p>Louisiana is the fourth cheapest state per kWh, but its average household bill over the same twelve months was $161, because Louisiana homes use the most power of any state. New Mexico, 23rd on price, had the lowest bill in the country at $102. California, second most expensive per kWh, had a $163 average bill because its homes use the least. The full bill and usage list is in <a href="/guides/average-electric-bill-by-state/">average electric bill by state</a>.</p>
+<h2 id="how-we-measured-it">How we measured it</h2>
+<p>The twelve-month averages and monthly ranges come from EIA-861M, the monthly survey of sales and revenue that utilities file with the U.S. Energy Information Administration (EIA). Price equals revenue divided by kWh sold, so taxes and fees are already included. Months from January 2026 are preliminary and can be revised. The September 2026 column matches the EIA Electric Power Monthly, Table 5.6.A. Your own rate depends on your utility and plan; compare your bill with your state on the <a href="/electricity-prices/">electricity prices</a> page.</p>
+<h2 id="what-the-ranking-means-for-rooftop-solar">What the ranking means for rooftop solar</h2>
+<p>Solar saves money by replacing kWh you would otherwise buy, so a state near the bottom of this table needs a cheaper system or more self-use to pay back, and a state near the top starts with an advantage. How your utility credits exported power is the other half of the answer, and in California and Hawaii new customers no longer get full retail credit; <a href="/guides/net-metering-vs-net-billing-payback/">net metering vs. net billing</a> explains the difference. For payback by state, see <a href="/guides/best-states-for-solar-payback/">best states for solar payback</a>, and for the low-price case, <a href="/guides/is-solar-worth-it-where-electricity-is-cheap/">is solar worth it where electricity is cheap</a>.</p>
+23:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$2f"}}]
+24:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L2e",null,{"slot":"articleEnd"}]}]
+25:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Cheapest%20and%20Most%20Expensive%20States%20for%20Electricity&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fcheapest-and-most-expensive-states-for-electricity%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fcheapest-and-most-expensive-states-for-electricity%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fcheapest-and-most-expensive-states-for-electricity%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fcheapest-and-most-expensive-states-for-electricity%2F&title=Cheapest%20and%20Most%20Expensive%20States%20for%20Electricity","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Cheapest%20and%20Most%20Expensive%20States%20for%20Electricity&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fcheapest-and-most-expensive-states-for-electricity%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+26:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+27:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M monthly sales, revenue and customers by state"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}]]}]]}]
+28:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+29:["$","$L20",null,{"items":"$10:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2a:["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-14","children":"Nov 14, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is Solar Worth It Where Electricity Is Cheap?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]
+2b:["$","li","average-electric-bill-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/average-electric-bill-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-average-electric-bill-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/home-thermostat-card.webp","srcSet":"/photos/home-thermostat-card.webp 640w, /photos/home-thermostat-sm.webp 768w, /photos/home-thermostat-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+2d:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"

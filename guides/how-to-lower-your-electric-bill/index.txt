@@ -1,0 +1,423 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0y5jznj6htagl.js"
+3:"/_next/static/chunks/19hkmvmniklmp.js"
+4:I[22016,["$2","$3"],""]
+5:I[2971,["$2"],"Header"]
+14:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1-_q_dj7xq96g.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+e:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L12","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"how-to-lower-your-electric-bill","s":["topic"]},"h":66048,"d":{"r":"$L10","p":false,"v":"$e"},"c":"$Q11"}]]
+c:[["children",{"s":"guides","h":131584,"d":{"r":"$Ld","p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","guides","how-to-lower-your-electric-bill",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0y5jznj6htagl.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Duw88a_variable HDK9OW_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"base-uri 'self'; object-src 'none'; upgrade-insecure-requests"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;var gpc=navigator.globalPrivacyControl===true?'denied':'granted';gtag('consent','default',{ad_storage:'granted',ad_user_data:gpc,ad_personalization:gpc,analytics_storage:'granted'});gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',region:[\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"IS\",\"LI\",\"NO\",\"GB\",\"CH\"],wait_for_update:500});"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__afterPaint=function(f,d){var done=0;function go(){if(done++)return;setTimeout(function(){'requestIdleCallback'in window?requestIdleCallback(f,{timeout:2500}):f()},d)}function painted(){try{if(performance.getEntriesByName('first-contentful-paint').length)return go();new PerformanceObserver(function(l,o){o.disconnect();go()}).observe({type:'paint',buffered:true})}catch(e){go()}}function start(){painted();setTimeout(go,4000)}document.readyState==='complete'?start():addEventListener('load',start)};"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"gtag('js',new Date());gtag('config','G-00QRGTQ5SQ');__afterPaint(function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-00QRGTQ5SQ';document.head.appendChild(s)},300);"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"__afterPaint(function(){if(document.querySelector('[data-no-ads]'))return;var s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1368227516860314';document.head.appendChild(s)},300);"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-50 focus:rounded-full focus:bg-surface focus:px-4 focus:py-2","children":"Skip to content"}],["$","div",null,{"className":"bg-ink text-paper","children":["$","div",null,{"className":"container-x flex min-h-9 items-center gap-3 py-1.5 text-sm","children":[["$","span",null,{"className":"shrink-0 bg-brand px-1.5 py-0.5 font-mono text-[0.72rem] font-semibold uppercase tracking-wider text-on-brand","children":"Latest guide"}],["$","$L4",null,{"href":"/guides/fixed-charges-on-your-electric-bill/","className":"group flex min-w-0 items-baseline gap-2 py-1 font-semibold text-paper no-underline hover:text-brand","children":[["$","span",null,{"className":"truncate","children":"Fixed Charges on Your Electric Bill: Why Using Less Saves Less"}],["$","span",null,{"aria-hidden":"true","className":"shrink-0 transition-transform group-hover:translate-x-0.5","children":"→"}]]}]]}]}],["$","$L5",null,{}],["$","main",null,{"id":"content","className":"container-x w-full flex-1 pt-6 pb-16 sm:pt-10","children":"$L6"}],"$L7","$L8","$L9","$La","$Lb"]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":"$L13","p":false,"v":null}},"m":"$undefined","G":["$14",["$L15"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9ejB_AtLjd4bll68LEc-a"}
+16:I[39756,["$2"],"default"]
+17:"$Sreact.view_transition"
+18:I[37457,["$2"],"default"]
+1d:I[52425,["$2"],"ConsentBanner"]
+1e:I[19861,["$2"],"VersionCheck"]
+20:I[97367,["$2"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:"ViewportBoundary"
+24:I[97367,["$2"],"$23"]
+26:"MetadataBoundary"
+27:I[97367,["$2"],"$26"]
+6:["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$17",null,{"enter":"page-in","exit":"page-out","default":"none","children":["$","$L18",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"max-w-2xl","data-no-ads":"","children":[["$","h1",null,{"className":"h-page","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-3 text-muted","children":"The link may be old or mistyped. Here is what people use most:"}],["$","ul",null,{"className":"mt-6 space-y-2","children":[["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-calculator/","children":"Solar payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-panels/","children":"Solar production and payback by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-prices/","children":"Electricity prices by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-cost-calculator/","children":"Electricity cost calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/battery-payback-calculator/","children":"Home battery payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/guides/","children":"All guides"}]}]]}],["$","p",null,{"className":"mt-6 text-sm text-muted","children":["Sunniest states: ",[["$","span","new-mexico",{"children":[false,["$","$L4",null,{"className":"link","href":"/solar-panels/new-mexico/","children":"New Mexico"}]]}],["$","span","arizona",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/arizona/","children":"Arizona"}]]}],["$","span","nevada",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/nevada/","children":"Nevada"}]]}],["$","span","california",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/california/","children":"California"}]]}],["$","span","hawaii",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/hawaii/","children":"Hawaii"}]]}],["$","span","colorado",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/colorado/","children":"Colorado"}]]}]],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+7:["$","footer",null,{"className":"mt-auto bg-band text-band-ink","children":["$","div",null,{"className":"container-x pb-8 pt-14","children":[["$","div",null,{"className":"grid gap-10 border-b border-band-ink/20 pb-10 md:grid-cols-[1.5fr_repeat(3,1fr)]","children":[["$","div",null,{"className":"max-w-sm","children":[["$","$L4",null,{"href":"/","className":"flex items-center gap-3 no-underline","children":[["$","span",null,{"className":"outline outline-1 outline-band-ink/40","children":["$","svg",null,{"width":34,"height":34,"viewBox":"0 0 32 32","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"32","height":"32","fill":"var(--ink)"}],["$","circle",null,{"cx":"25.2","cy":"6.8","r":"2","fill":"var(--brand)"}],["$","path",null,{"d":"M4.5 15.5L16 6l11.5 9.5","fill":"none","stroke":"var(--paper)","strokeWidth":"2.6","strokeLinecap":"square"}],["$","path",null,{"d":"M8.5 25.5a7.5 7.5 0 0 1 15 0","fill":"none","stroke":"var(--paper)","strokeWidth":"2"}],["$","path",null,{"d":"M10.7 20.2l1.2.9M16 18v1.5M21.3 20.2l-1.2.9","stroke":"var(--paper)","strokeWidth":"1.4"}],["$","path",null,{"d":"M16 25.5l4.6-4.9","stroke":"var(--brand)","strokeWidth":"2.4","strokeLinecap":"square"}],["$","circle",null,{"cx":"16","cy":"25.5","r":"2.1","fill":"var(--brand)"}],["$","path",null,{"d":"M6 28.2h20","stroke":"var(--paper)","strokeWidth":"1.4"}]]}]}],["$","span",null,{"className":"on-band","children":["$","span",null,{"className":"font-display text-[2rem] font-extrabold leading-none !text-band-ink [font-stretch:68%]","children":["Roof",["$","span",null,{"className":"text-brand","children":"Payback"}]]}]}]]}],["$","p",null,{"className":"mt-4 font-serif text-band-ink/80","children":"Independent numbers on what U.S. homes pay for power and when rooftop solar pays back. No sign-up, no lead capture, no installer calling you."}],["$","div",null,{"className":"mt-6 [&_.text-muted]:text-band-ink/60 [&_.eyebrow]:text-band-ink/60 [&_.input-wrap]:border-band-ink/40 [&_.input-wrap]:bg-transparent [&_input]:text-band-ink [&_.link]:text-band-ink","children":["$","section",null,{"aria-label":"Newsletter","className":" ","children":[["$","p",null,{"className":"eyebrow mb-3","children":"Newsletter"}],false,["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 flex-col","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email-f","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email-f","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 btn-signal","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]}]]}],[["$","nav","Tools",{"aria-label":"Tools","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Tools"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/calculators/",{"children":["$","$L4",null,{"href":"/calculators/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All calculators"}]}],["$","li","/solar-calculator/",{"children":["$","$L4",null,{"href":"/solar-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Payback calculator"}]}],["$","li","/electricity-cost-calculator/",{"children":["$","$L4",null,{"href":"/electricity-cost-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity cost calculator"}]}],["$","li","/battery-payback-calculator/",{"children":["$","$L4",null,{"href":"/battery-payback-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Battery payback calculator"}]}],["$","li","/solar-panels/",{"children":["$","$L4",null,{"href":"/solar-panels/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Solar by state"}]}],["$","li","/electricity-prices/",{"children":["$","$L4",null,{"href":"/electricity-prices/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity prices"}]}]],false]}]]}],["$","nav","Read",{"aria-label":"Read","children":["$L19","$L1a"]}],"$L1b"]]}],"$L1c"]}]}]
+8:["$","$L1d",null,{}]
+9:["$","$L1e",null,{}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://roofpayback.com/#org\",\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/apple-icon.png\",\"width\":180,\"height\":180},\"founder\":{\"@type\":\"Person\",\"name\":\"Eric Muñiz Genebriera\",\"url\":\"https://roofpayback.com/about/\"},\"description\":\"Solar panel payback calculator with real data for your state\",\"email\":\"ericmunizgeneb@gmail.com\",\"knowsAbout\":[\"Residential electricity prices\",\"Rooftop solar payback\",\"Net metering\"]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"publisher\":{\"@id\":\"https://roofpayback.com/#org\"},\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://roofpayback.com/guides/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+d:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L1f",[["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true,"nonce":"$undefined"}]],["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}]
+13:["$","$1","h",{"children":[null,["$","$L24",null,{"children":"$L25"}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":"$L28"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+29:"CookieSettingsButton"
+2a:I[52425,["$2"],"$29"]
+e:C
+19:["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Read"}]
+1a:["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/guides/",{"children":["$","$L4",null,{"href":"/guides/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All articles"}]}],["$","li","/feed.xml",{"children":["$","a",null,{"href":"/feed.xml","className":"text-band-ink/85 no-underline hover:text-brand","children":"RSS feed"}]}],["$","li","/statistics/",{"children":["$","$L4",null,{"href":"/statistics/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Statistics (free data)"}]}],["$","li","/methodology/",{"children":["$","$L4",null,{"href":"/methodology/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Methodology & sources"}]}],["$","li","/editorial-policy/",{"children":["$","$L4",null,{"href":"/editorial-policy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Editorial policy"}]}],["$","li","/changelog/",{"children":["$","$L4",null,{"href":"/changelog/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Changelog"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","className":"text-band-ink/85 no-underline hover:text-brand","children":"About RoofPayback"}]}]],false]}]
+1b:["$","nav","Legal",{"aria-label":"Legal","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Terms of use"}]}],["$","li","/legal-notice/",{"children":["$","$L4",null,{"href":"/legal-notice/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Legal notice"}]}],["$","li","/advertising-disclosure/",{"children":["$","$L4",null,{"href":"/advertising-disclosure/","className":"text-band-ink/85 no-underline hover:text-brand","children":"How we make money"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Contact"}]}]],["$","li",null,{"className":"text-band-ink/85","children":["$","$L2a",null,{}]}]]}]]}]
+1c:["$","div",null,{"className":"flex flex-col gap-2 pt-6 font-mono text-[0.7rem] uppercase tracking-wider text-band-ink/60 md:flex-row md:justify-between","children":[["$","span",null,{"children":["© ",2026," ","RoofPayback"," · Ads are labeled and never change the math"]}],["$","span",null,{"children":["Data: ","NLR PVWatts v8"," · U.S. EIA ","September 2026"," · Estimates, not advice"]}]]}]
+1f:["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$L4",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/how-to-lower-your-electric-bill/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"How to Lower Your Electric Bill: Find the Cause, Then Cut"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"How to Lower Your Electric Bill: Find the Cause, Then Cut\",\"item\":\"https://roofpayback.com/guides/how-to-lower-your-electric-bill/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$L4",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"How to Lower Your Electric Bill: Find the Cause, Then Cut"}],["$","p",null,{"className":"lede mt-5","children":"Diagnose a high electric bill with EIA monthly data, then see what a saved kWh and a heat pump water heater are worth in every state at September 2026 prices."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-21","children":"October 21, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[7," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$L4",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$L2b","$L2c"]}],"$L2d"]}]]}],"$L2e","$L2f","$L30","$L31"]}]
+32:I[26029,["$2","$3"],"TocNav"]
+:HL["/photos/how-to-lower-your-electric-bill.webp","image",{"imageSrcSet":"/photos/how-to-lower-your-electric-bill-card.webp 640w, /photos/how-to-lower-your-electric-bill-sm.webp 768w, /photos/how-to-lower-your-electric-bill-md.webp 1024w, /photos/how-to-lower-your-electric-bill.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+2b:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+2c:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+2d:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$L4",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+2e:["$","figure",null,{"className":"mt-8","children":[["$","$17",null,{"name":"photo-how-to-lower-your-electric-bill","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/how-to-lower-your-electric-bill.webp","srcSet":"/photos/how-to-lower-your-electric-bill-card.webp 640w, /photos/how-to-lower-your-electric-bill-sm.webp 768w, /photos/how-to-lower-your-electric-bill-md.webp 1024w, /photos/how-to-lower-your-electric-bill.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"An LED light bulb","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["An LED light bulb",". ","Photo: Oxxio Nederland BV"," · ",["$","a",null,{"className":"link","href":"http://creativecommons.org/licenses/by-sa/3.0/","rel":"noopener license","target":"_blank","children":"CC BY-SA 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Pharox_LEDlamp.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+33:T1e42,<div class="short-answer"><p class="short-answer-label">In one minute</p>
+<p>An electric bill is the <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hours</a> (kWh) you use, times the price of each one, plus any fixed monthly charge. Over the twelve months to September 2026, the average U.S. household used <strong>885 kWh a month and paid $160</strong>, according to the U.S. Energy Information Administration (EIA).</p>
+<p>So a high bill has one of three causes: you use a lot of kWh, you pay a high price per kWh, or one season pushes your use up. Find out which before spending money, because each has a different fix. Then put a dollar value on a saved kWh where you live: in September 2026 it ranged from 13.25¢ in Nevada to 48.31¢ in Hawaii.</p>
+</div><h2 id="step-1-find-out-why-your-bill-is-high">Step 1: Find out why your bill is high</h2>
+<p>You need three numbers from a year of bills: your monthly kWh, your total paid, and the month with the highest bill. Compare them with your state&#39;s figures on the <a href="/electricity-prices/">electricity prices</a> page or in <a href="/guides/average-electric-bill-by-state/">average electric bill by state</a>.</p>
+<p><strong>High kWh, normal price: a usage problem.</strong> Texas homes averaged 1,133 kWh a month, but the year was lopsided. Use ran from 807 kWh in November 2025 to 1,670 kWh in August 2026, and the average bill from $129 to $266. A summer peak like that points to air conditioning.</p>
+<p><strong>A winter peak points to electric heat.</strong> In Maryland, the average home used 658 kWh in October 2025 and 1,317 kWh in January 2026, when the average bill hit $271, more than the $147 of October.</p>
+<p><strong>Normal kWh, high price: a rate problem.</strong> Hawaii homes used almost exactly the same power in September 2026 as in October 2025 (553 against 554 kWh), yet the average bill rose from $220 to $267, because the price rose from 39.74¢ to 48.31¢. No amount of conservation explains that change; the rate does.</p>
+<p><strong>Same bill, different causes.</strong> Alabama&#39;s average bill, $191, is 18% below Hawaii&#39;s $232. Alabama homes use more than twice the kWh at about a third of the price. Comparing bills in dollars alone hides which problem you have.</p>
+<p>All figures are EIA-861M averages per residential account; months from January 2026 are preliminary.</p>
+<h2 id="step-2-put-a-price-on-a-saved-kwh">Step 2: Put a price on a saved kWh</h2>
+<p>Each kWh you avoid is worth roughly your price per kWh. The table uses each state&#39;s EIA average residential price for September 2026. Two columns turn it into dollars:</p>
+<ul>
+<li><strong>100 kWh a month saved</strong>, about 11% of the average U.S. household&#39;s use, for a year.</li>
+<li><strong>A heat pump water heater.</strong> ENERGY STAR says a certified heat pump water heater &quot;can save a household of 4 approximately $550 per year,&quot; based on 3,760 kWh a year of savings at 14.6¢ per kWh. The column applies those 3,760 kWh to each state&#39;s price.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Price, Sept. 2026</th>
+<th>100 kWh/month saved, per year</th>
+<th>Heat pump water heater, per year</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hawaii</td>
+<td>48.31¢</td>
+<td>$580</td>
+<td>$1,816</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>31.29¢</td>
+<td>$375</td>
+<td>$1,177</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>30.97¢</td>
+<td>$372</td>
+<td>$1,164</td>
+</tr>
+<tr>
+<td>California</td>
+<td>30.86¢</td>
+<td>$370</td>
+<td>$1,160</td>
+</tr>
+<tr>
+<td>Rhode Island</td>
+<td>29.93¢</td>
+<td>$359</td>
+<td>$1,125</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>29.17¢</td>
+<td>$350</td>
+<td>$1,097</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>28.42¢</td>
+<td>$341</td>
+<td>$1,069</td>
+</tr>
+<tr>
+<td>Alaska</td>
+<td>28¢</td>
+<td>$336</td>
+<td>$1,053</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>27.09¢</td>
+<td>$325</td>
+<td>$1,019</td>
+</tr>
+<tr>
+<td>District of Columbia</td>
+<td>25.82¢</td>
+<td>$310</td>
+<td>$971</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>24.83¢</td>
+<td>$298</td>
+<td>$934</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>24.64¢</td>
+<td>$296</td>
+<td>$926</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>23.17¢</td>
+<td>$278</td>
+<td>$871</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>22.2¢</td>
+<td>$266</td>
+<td>$835</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>21.54¢</td>
+<td>$258</td>
+<td>$810</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>19.42¢</td>
+<td>$233</td>
+<td>$730</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>19.14¢</td>
+<td>$230</td>
+<td>$720</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>19.09¢</td>
+<td>$229</td>
+<td>$718</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>18.89¢</td>
+<td>$227</td>
+<td>$710</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>17.88¢</td>
+<td>$215</td>
+<td>$672</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>17.74¢</td>
+<td>$213</td>
+<td>$667</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>17.37¢</td>
+<td>$208</td>
+<td>$653</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>17.05¢</td>
+<td>$205</td>
+<td>$641</td>
+</tr>
+<tr>
+<td>New Mexico</td>
+<td>16.96¢</td>
+<td>$204</td>
+<td>$638</td>
+</tr>
+<tr>
+<td>Alabama</td>
+<td>16.64¢</td>
+<td>$200</td>
+<td>$626</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>16.5¢</td>
+<td>$198</td>
+<td>$620</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>16.31¢</td>
+<td>$196</td>
+<td>$613</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>16.27¢</td>
+<td>$195</td>
+<td>$612</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>16.23¢</td>
+<td>$195</td>
+<td>$610</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>16.01¢</td>
+<td>$192</td>
+<td>$602</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>15.91¢</td>
+<td>$191</td>
+<td>$598</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>15.83¢</td>
+<td>$190</td>
+<td>$595</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>15.73¢</td>
+<td>$189</td>
+<td>$591</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>15.69¢</td>
+<td>$188</td>
+<td>$590</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>15.41¢</td>
+<td>$185</td>
+<td>$579</td>
+</tr>
+<tr>
+<td>Oklahoma</td>
+<td>15.22¢</td>
+<td>$183</td>
+<td>$572</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>15¢</td>
+<td>$180</td>
+<td>$564</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>14.99¢</td>
+<td>$180</td>
+<td>$564</td>
+</tr>
+<tr>
+<td>Wyoming</td>
+<td>14.96¢</td>
+<td>$180</td>
+<td>$562</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>14.92¢</td>
+<td>$179</td>
+<td>$561</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>14.74¢</td>
+<td>$177</td>
+<td>$554</td>
+</tr>
+<tr>
+<td>Arkansas</td>
+<td>14.54¢</td>
+<td>$174</td>
+<td>$547</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>14.47¢</td>
+<td>$174</td>
+<td>$544</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>14.39¢</td>
+<td>$173</td>
+<td>$541</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>14.29¢</td>
+<td>$171</td>
+<td>$537</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>13.87¢</td>
+<td>$166</td>
+<td>$522</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>13.54¢</td>
+<td>$162</td>
+<td>$509</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>13.41¢</td>
+<td>$161</td>
+<td>$504</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>13.33¢</td>
+<td>$160</td>
+<td>$501</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>13.29¢</td>
+<td>$159</td>
+<td>$500</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>13.25¢</td>
+<td>$159</td>
+<td>$498</td>
+</tr>
+</tbody></table>
+<p>The same water heater is worth about $500 a year in Nevada and more than $1,800 in Hawaii. At the September 2026 U.S. average of 18.17¢, ENERGY STAR&#39;s 3,760 kWh would be worth about $683, more than its own $550 estimate, because prices have risen above the 14.6¢ it assumed.</p>
+<p>Two cautions. The state average includes fixed charges spread over every kWh, so the price you can actually avoid is a little lower; <a href="/guides/fixed-charges-on-your-electric-bill/">fixed charges on your electric bill</a> shows how much lower with real tariffs. And the water heater figure applies only if you now heat water with electric resistance, which is ENERGY STAR&#39;s comparison.</p>
+2f:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L32",null,{"items":[{"id":"step-1-find-out-why-your-bill-is-high","text":"Step 1: Find out why your bill is high"},{"id":"step-2-put-a-price-on-a-saved-kwh","text":"Step 2: Put a price on a saved kWh"},{"id":"step-3-go-after-the-biggest-loads-first","text":"Step 3: Go after the biggest loads first"},{"id":"step-4-check-whether-a-different-rate-plan-fits-your-habits","text":"Step 4: Check whether a different rate plan fits your habits"},{"id":"step-5-judge-progress-in-kwh-not-dollars","text":"Step 5: Judge progress in kWh, not dollars"},{"id":"step-6-weigh-solar-after-the-cheaper-steps","text":"Step 6: Weigh solar after the cheaper steps"},{"id":"where-to-start-this-month","text":"Where to start this month"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$33"}}],"$L34","$L35","$L36","$L37","$L38",false,"$L39","$L3a","$L3b"]}],"$L3c"]}]
+30:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$L4",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","fixed-charges-on-your-electric-bill",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/fixed-charges-on-your-electric-bill/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-fixed-charges-on-your-electric-bill","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/time-of-use-electricity-rates-explained-card.webp","srcSet":"/photos/time-of-use-electricity-rates-explained-card.webp 640w, /photos/time-of-use-electricity-rates-explained-sm.webp 768w, /photos/time-of-use-electricity-rates-explained-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-28","children":"Nov 28, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Fixed Charges on Your Electric Bill: Why Using Less Saves Less"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Real 2026 fixed charges from California, Georgia Power and FPL, what each adds to the price of a kWh, and how a fixed charge stretches solar payback."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","time-of-use-electricity-rates-explained",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/time-of-use-electricity-rates-explained/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-time-of-use-electricity-rates-explained","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/time-of-use-electricity-rates-explained-card.webp","srcSet":"/photos/time-of-use-electricity-rates-explained-card.webp 640w, /photos/time-of-use-electricity-rates-explained-sm.webp 768w, /photos/time-of-use-electricity-rates-explained-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],"$L3d"]}]}]}],"$L3e"]}]]}]
+31:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Lower Your Electric Bill: Find the Cause, Then Cut\",\"description\":\"Diagnose a high electric bill with EIA monthly data, then see what a saved kWh and a heat pump water heater are worth in every state at September 2026 prices.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1601,\"image\":[\"https://roofpayback.com/photos/how-to-lower-your-electric-bill-og.jpg\",\"https://roofpayback.com/photos/how-to-lower-your-electric-bill.webp\"],\"datePublished\":\"2026-10-21\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/how-to-lower-your-electric-bill/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+3f:I[9441,["$2","$3"],"AdSlot"]
+34:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L3f",null,{"slot":"article"}]}]
+40:Te38,<h2 id="step-3-go-after-the-biggest-loads-first">Step 3: Go after the biggest loads first</h2>
+<p><strong>Heating and cooling.</strong> ENERGY STAR says &quot;almost half the annual energy bill goes to heating and cooling – more than $900 a year.&quot; If your bills peak in summer or winter, start here: a thermostat schedule, clean filters, and a check of the system&#39;s age.</p>
+<p><strong>Air leaks and insulation.</strong> ENERGY STAR says sealing and insulating can &quot;provide up to a 10% savings on your annual energy bills.&quot; For a home that heats and cools with electricity and pays the U.S. average of $160 a month, 10% would be up to about $192 a year. Treat that as a ceiling, not a promise; a home that is already tight will save less.</p>
+<p><strong>Water heating.</strong> When an electric resistance water heater nears the end of its life, the heat pump column above shows what replacing it with a certified heat pump model could be worth where you live. It costs more up front and needs space around it.</p>
+<p><strong>EV charging.</strong> A car that charges at home can add thousands of kWh a year. <a href="/guides/home-ev-charging-cost-by-state/">Home EV charging cost by state</a> prices it state by state.</p>
+<p><strong>Small loads.</strong> Lighting and standby devices are cheap to fix but rarely decide the bill. Do them, but do not stop there.</p>
+<h2 id="step-4-check-whether-a-different-rate-plan-fits-your-habits">Step 4: Check whether a different rate plan fits your habits</h2>
+<p>If your utility offers a time-of-use plan and you can move laundry, dishwashing or EV charging to off-peak hours, you can pay less per kWh without using fewer. If most of your use falls in the peak window, the same plan can cost more. <a href="/guides/time-of-use-electricity-rates-explained/">Time-of-use rates explained</a> works through real 2026 tariffs from PG&amp;E and Georgia Power. In some states you can also shop for your supply; see <a href="/guides/electricity-choice-states-explained/">electricity choice states explained</a>.</p>
+<h2 id="step-5-judge-progress-in-kwh-not-dollars">Step 5: Judge progress in kWh, not dollars</h2>
+<p>Prices move on their own. Over the twelve months to September 2026, the average U.S. bill rose from $149 to $160 a month. Average use rose less than 2%; most of the increase came from a price per kWh about 6% higher. Compare each month&#39;s kWh with the same month a year earlier; if the kWh fell, your changes worked, whatever the dollar total did.</p>
+<h2 id="step-6-weigh-solar-after-the-cheaper-steps">Step 6: Weigh solar after the cheaper steps</h2>
+<p>Rooftop solar replaces kWh you would buy, so the price column above sets what each solar kWh is worth, and a home that has already cut its use needs a smaller system. How your utility credits exported power matters as much; in California and Hawaii, new customers no longer get full retail credit. Test your own bill in the <a href="/solar-calculator/">solar calculator</a>; the assumptions are on the <a href="/methodology/">methodology</a> page.</p>
+<h2 id="where-to-start-this-month">Where to start this month</h2>
+<ul>
+<li>Write down twelve months of kWh and dollars from your bills, and mark the highest month.</li>
+<li>Compare your kWh and your all-in price (bill divided by kWh) with your state&#39;s averages.</li>
+<li>If the price is the outlier, ask your utility about rate plans; if usage is, list your two biggest loads.</li>
+<li>Look up your state&#39;s row in the table to see what 100 saved kWh a month is worth to you.</li>
+<li>Next month, compare kWh with the same month last year.</li>
+</ul>
+35:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$40"}}]
+36:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L3f",null,{"slot":"articleEnd"}]}]
+37:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=How%20to%20Lower%20Your%20Electric%20Bill%3A%20Find%20the%20Cause%2C%20Then%20Cut&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-to-lower-your-electric-bill%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-to-lower-your-electric-bill%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-to-lower-your-electric-bill%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-to-lower-your-electric-bill%2F&title=How%20to%20Lower%20Your%20Electric%20Bill%3A%20Find%20the%20Cause%2C%20Then%20Cut","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=How%20to%20Lower%20Your%20Electric%20Bill%3A%20Find%20the%20Cause%2C%20Then%20Cut&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fhow-to-lower-your-electric-bill%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+38:["$","aside",null,{"aria-label":"Affiliate links","className":"card reveal mt-10 max-w-[var(--measure)]","children":[["$","p",null,{"className":"eyebrow","children":"Affiliate links"}],["$","h2",null,{"className":"h-card mt-1","children":"Measure before you spend"}],["$","p",null,{"className":"mt-1 text-xs text-muted","children":["As an Amazon Associate, ","RoofPayback"," earns from qualifying purchases made through these links. ",["$","$L4",null,{"className":"link","href":"/advertising-disclosure/","children":"How we make money"}],"."]}],["$","ul",null,{"className":"mt-4 grid gap-3 sm:grid-cols-2","children":[["$","li","Plug-in electricity usage monitor",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=plug%20in%20electricity%20usage%20monitor%20kwh&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Plug-in electricity usage monitor"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Plug an appliance into it to see how many kWh it really uses."}]]}]}],["$","li","Smart thermostat",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20thermostat&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart thermostat"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Schedules heating and cooling around when you are actually home."}]]}]}],["$","li","Smart plugs with energy monitoring",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=smart%20plug%20energy%20monitoring&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["Smart plugs with energy monitoring"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Turn devices off on a schedule and track their use from your phone."}]]}]}],["$","li","LED light bulbs",{"children":["$","a",null,{"className":"group block rounded-[var(--radius)] border border-line p-3 no-underline transition-colors hover:border-brand","href":"https://www.amazon.com/s?k=led%20light%20bulbs&tag=roofpayback-20","target":"_blank","rel":"sponsored nofollow noopener","children":[["$","span",null,{"className":"font-semibold group-hover:text-brand","children":["LED light bulbs"," ↗"]}],["$","span",null,{"className":"mt-1 block text-sm text-muted","children":"Give the same light as incandescent bulbs for much less electricity."}]]}]}]]}]]}]
+39:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$L4",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+3a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M monthly sales, revenue and customers by state"}]]}],["$","li","https://www.energystar.gov/products/heat_pump_water_heaters/benefits-savings",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.energystar.gov/products/heat_pump_water_heaters/benefits-savings","rel":"noopener","target":"_blank","children":"ENERGY STAR: Save More with ENERGY STAR Certified Heat Pump Water Heaters"}]]}],["$","li","https://www.energystar.gov/saveathome/seal_insulate",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.energystar.gov/saveathome/seal_insulate","rel":"noopener","target":"_blank","children":"ENERGY STAR: Seal and Insulate with ENERGY STAR"}]]}],["$","li","https://www.energystar.gov/products/smart_thermostats",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://www.energystar.gov/products/smart_thermostats","rel":"noopener","target":"_blank","children":"ENERGY STAR: Smart Thermostats"}]]}]]}]]}]
+3b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+3c:["$","$L32",null,{"items":"$2f:props:children:0:props:children:0:props:items","variant":"desktop"}]
+3d:["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-19","children":"Oct 19, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Time-of-Use Electricity Rates Explained for Homeowners"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"How time-of-use rates work, with real 2026 peak hours and prices from PG&E and Georgia Power, and what moving EV charging out of the peak can save."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]
+3e:["$","li","average-electric-bill-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/average-electric-bill-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-average-electric-bill-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/home-thermostat-card.webp","srcSet":"/photos/home-thermostat-card.webp 640w, /photos/home-thermostat-sm.webp 768w, /photos/home-thermostat-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+25:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]
+41:I[27201,["$2"],"IconMark"]
+22:null
+28:[["$","title","0",{"children":"How to Lower Your Electric Bill: Find the Cause, Then Cut"}],["$","meta","1",{"name":"description","content":"Diagnose a high electric bill with EIA monthly data, then see what a saved kWh and a heat pump water heater are worth in every state at September 2026 prices."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/how-to-lower-your-electric-bill/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"How to Lower Your Electric Bill: Find the Cause, Then Cut"}],["$","meta","7",{"property":"og:description","content":"Diagnose a high electric bill with EIA monthly data, then see what a saved kWh and a heat pump water heater are worth in every state at September 2026 prices."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/how-to-lower-your-electric-bill/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/how-to-lower-your-electric-bill-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"An LED light bulb"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-21"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"How to Lower Your Electric Bill: Find the Cause, Then Cut"}],["$","meta","20",{"name":"twitter:description","content":"Diagnose a high electric bill with EIA monthly data, then see what a saved kWh and a heat pump water heater are worth in every state at September 2026 prices."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/how-to-lower-your-electric-bill-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L41","25",{}]]

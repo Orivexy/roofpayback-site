@@ -1,0 +1,571 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0y5jznj6htagl.js"
+3:"/_next/static/chunks/19hkmvmniklmp.js"
+4:I[22016,["$2","$3"],""]
+5:I[2971,["$2"],"Header"]
+14:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1-_q_dj7xq96g.css","style"]
+:HL["/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+e:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L12","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"best-states-for-solar-payback","s":["topic"]},"h":66048,"d":{"r":"$L10","p":false,"v":"$e"},"c":"$Q11"}]]
+c:[["children",{"s":"guides","h":131584,"d":{"r":"$Ld","p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","guides","best-states-for-solar-payback",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0y5jznj6htagl.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"Duw88a_variable HDK9OW_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"base-uri 'self'; object-src 'none'; upgrade-insecure-requests"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}window.gtag=gtag;var gpc=navigator.globalPrivacyControl===true?'denied':'granted';gtag('consent','default',{ad_storage:'granted',ad_user_data:gpc,ad_personalization:gpc,analytics_storage:'granted'});gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',region:[\"AT\",\"BE\",\"BG\",\"HR\",\"CY\",\"CZ\",\"DK\",\"EE\",\"FI\",\"FR\",\"DE\",\"GR\",\"HU\",\"IE\",\"IT\",\"LV\",\"LT\",\"LU\",\"MT\",\"NL\",\"PL\",\"PT\",\"RO\",\"SK\",\"SI\",\"ES\",\"SE\",\"IS\",\"LI\",\"NO\",\"GB\",\"CH\"],wait_for_update:500});"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.__afterPaint=function(f,d){var done=0;function go(){if(done++)return;setTimeout(function(){'requestIdleCallback'in window?requestIdleCallback(f,{timeout:2500}):f()},d)}function painted(){try{if(performance.getEntriesByName('first-contentful-paint').length)return go();new PerformanceObserver(function(l,o){o.disconnect();go()}).observe({type:'paint',buffered:true})}catch(e){go()}}function start(){painted();setTimeout(go,4000)}document.readyState==='complete'?start():addEventListener('load',start)};"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"gtag('js',new Date());gtag('config','G-00QRGTQ5SQ');__afterPaint(function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-00QRGTQ5SQ';document.head.appendChild(s)},300);"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"__afterPaint(function(){if(document.querySelector('[data-no-ads]'))return;var s=document.createElement('script');s.async=true;s.crossOrigin='anonymous';s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1368227516860314';document.head.appendChild(s)},300);"}}]]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#content","className":"sr-only focus:not-sr-only focus:fixed focus:left-3 focus:top-3 focus:z-50 focus:rounded-full focus:bg-surface focus:px-4 focus:py-2","children":"Skip to content"}],["$","div",null,{"className":"bg-ink text-paper","children":["$","div",null,{"className":"container-x flex min-h-9 items-center gap-3 py-1.5 text-sm","children":[["$","span",null,{"className":"shrink-0 bg-brand px-1.5 py-0.5 font-mono text-[0.72rem] font-semibold uppercase tracking-wider text-on-brand","children":"Latest guide"}],["$","$L4",null,{"href":"/guides/fixed-charges-on-your-electric-bill/","className":"group flex min-w-0 items-baseline gap-2 py-1 font-semibold text-paper no-underline hover:text-brand","children":[["$","span",null,{"className":"truncate","children":"Fixed Charges on Your Electric Bill: Why Using Less Saves Less"}],["$","span",null,{"aria-hidden":"true","className":"shrink-0 transition-transform group-hover:translate-x-0.5","children":"→"}]]}]]}]}],["$","$L5",null,{}],["$","main",null,{"id":"content","className":"container-x w-full flex-1 pt-6 pb-16 sm:pt-10","children":"$L6"}],"$L7","$L8","$L9","$La","$Lb"]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":"$L13","p":false,"v":null}},"m":"$undefined","G":["$14",["$L15"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9ejB_AtLjd4bll68LEc-a"}
+16:I[39756,["$2"],"default"]
+17:"$Sreact.view_transition"
+18:I[37457,["$2"],"default"]
+1d:I[52425,["$2"],"ConsentBanner"]
+1e:I[19861,["$2"],"VersionCheck"]
+20:I[97367,["$2"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:"ViewportBoundary"
+24:I[97367,["$2"],"$23"]
+26:"MetadataBoundary"
+27:I[97367,["$2"],"$26"]
+6:["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$17",null,{"enter":"page-in","exit":"page-out","default":"none","children":["$","$L18",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"max-w-2xl","data-no-ads":"","children":[["$","h1",null,{"className":"h-page","children":"We couldn't find that page"}],["$","p",null,{"className":"mt-3 text-muted","children":"The link may be old or mistyped. Here is what people use most:"}],["$","ul",null,{"className":"mt-6 space-y-2","children":[["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-calculator/","children":"Solar payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/solar-panels/","children":"Solar production and payback by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-prices/","children":"Electricity prices by state"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/electricity-cost-calculator/","children":"Electricity cost calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/battery-payback-calculator/","children":"Home battery payback calculator"}]}],["$","li",null,{"children":["$","$L4",null,{"className":"link","href":"/guides/","children":"All guides"}]}]]}],["$","p",null,{"className":"mt-6 text-sm text-muted","children":["Sunniest states: ",[["$","span","new-mexico",{"children":[false,["$","$L4",null,{"className":"link","href":"/solar-panels/new-mexico/","children":"New Mexico"}]]}],["$","span","arizona",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/arizona/","children":"Arizona"}]]}],["$","span","nevada",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/nevada/","children":"Nevada"}]]}],["$","span","california",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/california/","children":"California"}]]}],["$","span","hawaii",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/hawaii/","children":"Hawaii"}]]}],["$","span","colorado",{"children":[", ",["$","$L4",null,{"className":"link","href":"/solar-panels/colorado/","children":"Colorado"}]]}]],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+7:["$","footer",null,{"className":"mt-auto bg-band text-band-ink","children":["$","div",null,{"className":"container-x pb-8 pt-14","children":[["$","div",null,{"className":"grid gap-10 border-b border-band-ink/20 pb-10 md:grid-cols-[1.5fr_repeat(3,1fr)]","children":[["$","div",null,{"className":"max-w-sm","children":[["$","$L4",null,{"href":"/","className":"flex items-center gap-3 no-underline","children":[["$","span",null,{"className":"outline outline-1 outline-band-ink/40","children":["$","svg",null,{"width":34,"height":34,"viewBox":"0 0 32 32","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"32","height":"32","fill":"var(--ink)"}],["$","circle",null,{"cx":"25.2","cy":"6.8","r":"2","fill":"var(--brand)"}],["$","path",null,{"d":"M4.5 15.5L16 6l11.5 9.5","fill":"none","stroke":"var(--paper)","strokeWidth":"2.6","strokeLinecap":"square"}],["$","path",null,{"d":"M8.5 25.5a7.5 7.5 0 0 1 15 0","fill":"none","stroke":"var(--paper)","strokeWidth":"2"}],["$","path",null,{"d":"M10.7 20.2l1.2.9M16 18v1.5M21.3 20.2l-1.2.9","stroke":"var(--paper)","strokeWidth":"1.4"}],["$","path",null,{"d":"M16 25.5l4.6-4.9","stroke":"var(--brand)","strokeWidth":"2.4","strokeLinecap":"square"}],["$","circle",null,{"cx":"16","cy":"25.5","r":"2.1","fill":"var(--brand)"}],["$","path",null,{"d":"M6 28.2h20","stroke":"var(--paper)","strokeWidth":"1.4"}]]}]}],["$","span",null,{"className":"on-band","children":["$","span",null,{"className":"font-display text-[2rem] font-extrabold leading-none !text-band-ink [font-stretch:68%]","children":["Roof",["$","span",null,{"className":"text-brand","children":"Payback"}]]}]}]]}],["$","p",null,{"className":"mt-4 font-serif text-band-ink/80","children":"Independent numbers on what U.S. homes pay for power and when rooftop solar pays back. No sign-up, no lead capture, no installer calling you."}],["$","div",null,{"className":"mt-6 [&_.text-muted]:text-band-ink/60 [&_.eyebrow]:text-band-ink/60 [&_.input-wrap]:border-band-ink/40 [&_.input-wrap]:bg-transparent [&_input]:text-band-ink [&_.link]:text-band-ink","children":["$","section",null,{"aria-label":"Newsletter","className":" ","children":[["$","p",null,{"className":"eyebrow mb-3","children":"Newsletter"}],false,["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 flex-col","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email-f","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email-f","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 btn-signal","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]}]]}],[["$","nav","Tools",{"aria-label":"Tools","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Tools"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/calculators/",{"children":["$","$L4",null,{"href":"/calculators/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All calculators"}]}],["$","li","/solar-calculator/",{"children":["$","$L4",null,{"href":"/solar-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Payback calculator"}]}],["$","li","/electricity-cost-calculator/",{"children":["$","$L4",null,{"href":"/electricity-cost-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity cost calculator"}]}],["$","li","/battery-payback-calculator/",{"children":["$","$L4",null,{"href":"/battery-payback-calculator/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Battery payback calculator"}]}],["$","li","/solar-panels/",{"children":["$","$L4",null,{"href":"/solar-panels/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Solar by state"}]}],["$","li","/electricity-prices/",{"children":["$","$L4",null,{"href":"/electricity-prices/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Electricity prices"}]}]],false]}]]}],["$","nav","Read",{"aria-label":"Read","children":["$L19","$L1a"]}],"$L1b"]]}],"$L1c"]}]}]
+8:["$","$L1d",null,{}]
+9:["$","$L1e",null,{}]
+a:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://roofpayback.com/#org\",\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/apple-icon.png\",\"width\":180,\"height\":180},\"founder\":{\"@type\":\"Person\",\"name\":\"Eric Muñiz Genebriera\",\"url\":\"https://roofpayback.com/about/\"},\"description\":\"Solar panel payback calculator with real data for your state\",\"email\":\"ericmunizgeneb@gmail.com\",\"knowsAbout\":[\"Residential electricity prices\",\"Rooftop solar payback\",\"Net metering\"]}"}}]
+b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"publisher\":{\"@id\":\"https://roofpayback.com/#org\"},\"name\":\"RoofPayback\",\"url\":\"https://roofpayback.com/\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://roofpayback.com/guides/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"}}]
+d:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L1f",[["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true,"nonce":"$undefined"}]],["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}]
+13:["$","$1","h",{"children":[null,["$","$L24",null,{"children":"$L25"}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":"$L28"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-_q_dj7xq96g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+29:"CookieSettingsButton"
+2a:I[52425,["$2"],"$29"]
+e:C
+19:["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Read"}]
+1a:["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/guides/",{"children":["$","$L4",null,{"href":"/guides/","className":"text-band-ink/85 no-underline hover:text-brand","children":"All articles"}]}],["$","li","/feed.xml",{"children":["$","a",null,{"href":"/feed.xml","className":"text-band-ink/85 no-underline hover:text-brand","children":"RSS feed"}]}],["$","li","/statistics/",{"children":["$","$L4",null,{"href":"/statistics/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Statistics (free data)"}]}],["$","li","/methodology/",{"children":["$","$L4",null,{"href":"/methodology/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Methodology & sources"}]}],["$","li","/editorial-policy/",{"children":["$","$L4",null,{"href":"/editorial-policy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Editorial policy"}]}],["$","li","/changelog/",{"children":["$","$L4",null,{"href":"/changelog/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Changelog"}]}],["$","li","/about/",{"children":["$","$L4",null,{"href":"/about/","className":"text-band-ink/85 no-underline hover:text-brand","children":"About RoofPayback"}]}]],false]}]
+1b:["$","nav","Legal",{"aria-label":"Legal","children":[["$","p",null,{"className":"mb-3 font-mono text-[0.7rem] uppercase tracking-wider text-brand on-band","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm","children":[[["$","li","/privacy/",{"children":["$","$L4",null,{"href":"/privacy/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Privacy policy"}]}],["$","li","/cookies/",{"children":["$","$L4",null,{"href":"/cookies/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Cookie policy"}]}],["$","li","/terms/",{"children":["$","$L4",null,{"href":"/terms/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Terms of use"}]}],["$","li","/legal-notice/",{"children":["$","$L4",null,{"href":"/legal-notice/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Legal notice"}]}],["$","li","/advertising-disclosure/",{"children":["$","$L4",null,{"href":"/advertising-disclosure/","className":"text-band-ink/85 no-underline hover:text-brand","children":"How we make money"}]}],["$","li","/contact/",{"children":["$","$L4",null,{"href":"/contact/","className":"text-band-ink/85 no-underline hover:text-brand","children":"Contact"}]}]],["$","li",null,{"className":"text-band-ink/85","children":["$","$L2a",null,{}]}]]}]]}]
+1c:["$","div",null,{"className":"flex flex-col gap-2 pt-6 font-mono text-[0.7rem] uppercase tracking-wider text-band-ink/60 md:flex-row md:justify-between","children":[["$","span",null,{"children":["© ",2026," ","RoofPayback"," · Ads are labeled and never change the math"]}],["$","span",null,{"children":["Data: ","NLR PVWatts v8"," · U.S. EIA ","September 2026"," · Estimates, not advice"]}]]}]
+1f:["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$L4",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$L4",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/best-states-for-solar-payback/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Best States for Solar Payback: All 50 States and D.C. Ranked"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Best States for Solar Payback: All 50 States and D.C. Ranked\",\"item\":\"https://roofpayback.com/guides/best-states-for-solar-payback/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$L4",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Best States for Solar Payback: All 50 States and D.C. Ranked"}],["$","p",null,{"className":"lede mt-5","children":"Solar payback for one example home in every state and D.C., September 2026 prices: price explains the ranking, sunshine barely does. Full table inside."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-12","children":"October 12, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$L4",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],"$L2b","$L2c"]}],"$L2d"]}]]}],"$L2e","$L2f","$L30","$L31"]}]
+32:I[26029,["$2","$3"],"TocNav"]
+:HL["/photos/best-states-for-solar-payback.webp","image",{"imageSrcSet":"/photos/best-states-for-solar-payback-card.webp 640w, /photos/best-states-for-solar-payback-sm.webp 768w, /photos/best-states-for-solar-payback-md.webp 1024w, /photos/best-states-for-solar-payback.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+2b:["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}]
+2c:["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]
+2d:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$L4",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+2e:["$","figure",null,{"className":"mt-8","children":[["$","$17",null,{"name":"photo-best-states-for-solar-payback","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/best-states-for-solar-payback.webp","srcSet":"/photos/best-states-for-solar-payback-card.webp 640w, /photos/best-states-for-solar-payback-sm.webp 768w, /photos/best-states-for-solar-payback-md.webp 1024w, /photos/best-states-for-solar-payback.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"A 20 kW rooftop solar installation on a tile-roofed house in California","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["A 20 kW rooftop solar installation on a tile-roofed house in California",". ","Photo by Senthil Balasubramanian. – U.S. Department of Energy from United States"," · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Balasubramanian_000277_173009_518477_4578_(36824326171).jpg","rel":"noopener license","target":"_blank","children":"Public domain"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Balasubramanian_000277_173009_518477_4578_(36824326171).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+33:T2e1c,<div class="short-answer"><p class="short-answer-label">What we found</p>
+<p>We ran the same house through every state and the District of Columbia. Payback, the years until bill savings repay the system, runs from 4.7 years in Hawaii to 19.2 years in Washington when every exported kWh earns the retail price.</p>
+<p>The strongest pattern in the ranking is price. Across the 51 results, the rank of a state&#39;s electricity price and the rank of its payback line up almost perfectly (a rank correlation of −0.91). The rank of its sunshine barely relates to payback at all (+0.09). Fargo and Providence make the point: their reference cities get exactly the same 1,294 kWh a year from each kW of panels, yet Providence pays back in 8.7 years and Fargo in 17.2, because power costs 29.93¢ in Rhode Island and 14.29¢ in North Dakota.</p>
+<p>Five states need an asterisk. In California, Hawaii and Louisiana we confirmed in official sources that new customers&#39; exports are credited below the retail price. In Kentucky the credit is a rate the regulator sets for each utility, and in Texas the buyback rate depends on the retail plan. Their working cases are in the last column. In the other 46 places we have not verified the export rule, so the full-credit figure is an upper bound to confirm with your utility.</p>
+</div><h2 id="the-full-ranking">The full ranking</h2>
+<p>Every row uses our <a href="/methodology/">example home</a>: a 7 kW system at $3,500 per kW ($24,500) with no incentives, 10,500 kWh a year of use, PVWatts output for a south-facing roof in one reference city per state, and the EIA average residential price for September 2026. &quot;Full credit&quot; means exported power earns the retail rate, up to a year of grid purchases.</p>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>State (reference city)</th>
+<th>Output per kW</th>
+<th>Price</th>
+<th>Year-1 savings</th>
+<th>Payback, full credit</th>
+<th>New-customer case</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Hawaii (Honolulu)</td>
+<td>1,622 kWh</td>
+<td>48.31¢</td>
+<td>$5,073</td>
+<td>4.7 years</td>
+<td>7.8 years</td>
+</tr>
+<tr>
+<td>2</td>
+<td>California (Los Angeles)</td>
+<td>1,677 kWh</td>
+<td>30.86¢</td>
+<td>$3,240</td>
+<td>7.2 years</td>
+<td>12.1 years</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Maine (Portland)</td>
+<td>1,319 kWh</td>
+<td>31.29¢</td>
+<td>$2,888</td>
+<td>8.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Massachusetts (Boston)</td>
+<td>1,302 kWh</td>
+<td>30.97¢</td>
+<td>$2,823</td>
+<td>8.3 years</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Rhode Island (Providence)</td>
+<td>1,294 kWh</td>
+<td>29.93¢</td>
+<td>$2,710</td>
+<td>8.7 years</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>New Hampshire (Manchester)</td>
+<td>1,259 kWh</td>
+<td>29.17¢</td>
+<td>$2,570</td>
+<td>9.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>New York (New York City)</td>
+<td>1,291 kWh</td>
+<td>28.42¢</td>
+<td>$2,569</td>
+<td>9.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>District of Columbia (Washington)</td>
+<td>1,411 kWh</td>
+<td>25.82¢</td>
+<td>$2,550</td>
+<td>9.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Connecticut (Hartford)</td>
+<td>1,252 kWh</td>
+<td>27.09¢</td>
+<td>$2,375</td>
+<td>9.8 years</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>New Jersey (Newark)</td>
+<td>1,306 kWh</td>
+<td>24.64¢</td>
+<td>$2,252</td>
+<td>10.3 years</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Vermont (Burlington)</td>
+<td>1,222 kWh</td>
+<td>24.83¢</td>
+<td>$2,123</td>
+<td>10.9 years</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Maryland (Baltimore)</td>
+<td>1,392 kWh</td>
+<td>21.54¢</td>
+<td>$2,099</td>
+<td>11 years</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Pennsylvania (Philadelphia)</td>
+<td>1,359 kWh</td>
+<td>22.2¢</td>
+<td>$2,113</td>
+<td>11 years</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Michigan (Detroit)</td>
+<td>1,291 kWh</td>
+<td>23.17¢</td>
+<td>$2,093</td>
+<td>11.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Colorado (Denver)</td>
+<td>1,595 kWh</td>
+<td>17.88¢</td>
+<td>$1,877</td>
+<td>11.9 years</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>New Mexico (Albuquerque)</td>
+<td>1,779 kWh</td>
+<td>16.96¢</td>
+<td>$1,781</td>
+<td>12.5 years</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Wisconsin (Milwaukee)</td>
+<td>1,334 kWh</td>
+<td>19.42¢</td>
+<td>$1,814</td>
+<td>12.6 years</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Alaska (Anchorage)</td>
+<td>922 kWh</td>
+<td>28¢</td>
+<td>$1,807</td>
+<td>12.7 years</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Delaware (Wilmington)</td>
+<td>1,363 kWh</td>
+<td>18.89¢</td>
+<td>$1,803</td>
+<td>12.7 years</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Virginia (Virginia Beach)</td>
+<td>1,427 kWh</td>
+<td>17.74¢</td>
+<td>$1,772</td>
+<td>12.9 years</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>Illinois (Chicago)</td>
+<td>1,308 kWh</td>
+<td>19.14¢</td>
+<td>$1,753</td>
+<td>13 years</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Ohio (Columbus)</td>
+<td>1,310 kWh</td>
+<td>19.09¢</td>
+<td>$1,750</td>
+<td>13.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Kansas (Wichita)</td>
+<td>1,526 kWh</td>
+<td>15.83¢</td>
+<td>$1,662</td>
+<td>13.5 years</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>South Carolina (Columbia)</td>
+<td>1,446 kWh</td>
+<td>16.5¢</td>
+<td>$1,670</td>
+<td>13.6 years</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>Arizona (Phoenix)</td>
+<td>1,755 kWh</td>
+<td>14.92¢</td>
+<td>$1,567</td>
+<td>14 years</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>Minnesota (Minneapolis)</td>
+<td>1,333 kWh</td>
+<td>17.37¢</td>
+<td>$1,621</td>
+<td>14 years</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>Oklahoma (Oklahoma City)</td>
+<td>1,527 kWh</td>
+<td>15.22¢</td>
+<td>$1,598</td>
+<td>14 years</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Missouri (Kansas City)</td>
+<td>1,433 kWh</td>
+<td>16.01¢</td>
+<td>$1,606</td>
+<td>14.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>South Dakota (Sioux Falls)</td>
+<td>1,409 kWh</td>
+<td>16.31¢</td>
+<td>$1,609</td>
+<td>14.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>Alabama (Birmingham)</td>
+<td>1,367 kWh</td>
+<td>16.64¢</td>
+<td>$1,592</td>
+<td>14.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Georgia (Atlanta)</td>
+<td>1,402 kWh</td>
+<td>16.27¢</td>
+<td>$1,596</td>
+<td>14.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>Indiana (Indianapolis)</td>
+<td>1,335 kWh</td>
+<td>17.05¢</td>
+<td>$1,594</td>
+<td>14.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Wyoming (Cheyenne)</td>
+<td>1,533 kWh</td>
+<td>14.96¢</td>
+<td>$1,571</td>
+<td>14.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>Florida (Orlando)</td>
+<td>1,544 kWh</td>
+<td>14.74¢</td>
+<td>$1,548</td>
+<td>14.3 years</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>Texas (Houston)</td>
+<td>1,421 kWh</td>
+<td>15.91¢</td>
+<td>$1,583</td>
+<td>14.3 years</td>
+<td>23.1 years</td>
+</tr>
+<tr>
+<td>36</td>
+<td>North Carolina (Charlotte)</td>
+<td>1,446 kWh</td>
+<td>15.41¢</td>
+<td>$1,560</td>
+<td>14.5 years</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Montana (Billings)</td>
+<td>1,344 kWh</td>
+<td>15.69¢</td>
+<td>$1,476</td>
+<td>15.3 years</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td>Idaho (Boise)</td>
+<td>1,456 kWh</td>
+<td>14.39¢</td>
+<td>$1,467</td>
+<td>15.4 years</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>Nevada (Las Vegas)</td>
+<td>1,753 kWh</td>
+<td>13.25¢</td>
+<td>$1,391</td>
+<td>15.5 years</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Arkansas (Little Rock)</td>
+<td>1,413 kWh</td>
+<td>14.54¢</td>
+<td>$1,438</td>
+<td>15.6 years</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td>Iowa (Des Moines)</td>
+<td>1,370 kWh</td>
+<td>14.99¢</td>
+<td>$1,437</td>
+<td>15.6 years</td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td>Mississippi (Jackson)</td>
+<td>1,414 kWh</td>
+<td>14.47¢</td>
+<td>$1,432</td>
+<td>15.7 years</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td>West Virginia (Charleston)</td>
+<td>1,232 kWh</td>
+<td>16.23¢</td>
+<td>$1,399</td>
+<td>16 years</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td>Utah (Salt Lake City)</td>
+<td>1,484 kWh</td>
+<td>13.41¢</td>
+<td>$1,393</td>
+<td>16.1 years</td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td>Louisiana (New Orleans)</td>
+<td>1,479 kWh</td>
+<td>13.33¢</td>
+<td>$1,380</td>
+<td>16.2 years</td>
+<td>over 25 years</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Nebraska (Omaha)</td>
+<td>1,423 kWh</td>
+<td>13.87¢</td>
+<td>$1,382</td>
+<td>16.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td>North Dakota (Fargo)</td>
+<td>1,294 kWh</td>
+<td>14.29¢</td>
+<td>$1,294</td>
+<td>17.2 years</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Kentucky (Louisville)</td>
+<td>1,355 kWh</td>
+<td>13.54¢</td>
+<td>$1,285</td>
+<td>17.3 years</td>
+<td>over 25 years</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Oregon (Portland)</td>
+<td>1,128 kWh</td>
+<td>15.73¢</td>
+<td>$1,242</td>
+<td>17.8 years</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td>Tennessee (Nashville)</td>
+<td>1,339 kWh</td>
+<td>13.29¢</td>
+<td>$1,245</td>
+<td>17.8 years</td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Washington (Seattle)</td>
+<td>1,088 kWh</td>
+<td>15¢</td>
+<td>$1,142</td>
+<td>19.2 years</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>The full-credit column is an upper limit everywhere: it assumes the most generous crediting a utility can offer. We filled the last column for the five states where an official source shows that new customers&#39; exports are not simply credited at retail, using the same working assumptions as the rest of the site:</p>
+<ul>
+<li><strong>California:</strong> the CPUC&#39;s Net Billing Tariff has applied to new interconnection applications since April 15, 2023. The 12.1 years uses exports worth a quarter of retail, our working assumption; at half of retail, a sensitivity case, it is 9.4 years. See the <a href="/guides/is-solar-worth-it-in-california/">California guide</a>.</li>
+<li><strong>Hawaii:</strong> Hawaiian Electric&#39;s daytime export rate on Oahu is 13.5¢, about 28% of the state&#39;s average price.</li>
+<li><strong>Louisiana:</strong> the Public Service Commission credits exports from systems installed after 2019 &quot;at Avoided Cost.&quot; Its 2026 table lists rates of 3.58¢ to 3.99¢ per kWh by utility; our working assumption, a quarter of retail (3.33¢), is close to and slightly below those rates. Ask your utility whether the commission&#39;s rules cover your address.</li>
+<li><strong>Kentucky:</strong> under the net metering law in effect since 2020, customers receive &quot;dollar credits at a compensation rate set by the PSC in rate proceedings for each utility.&quot; We did not find one statewide figure, so we use a quarter of retail as a labeled assumption; your utility&#39;s current rate is on file with the PSC.</li>
+<li><strong>Texas:</strong> there is no statewide net metering, and the buyback rate depends on your retail plan. The working case uses a low buyback, a quarter of retail; the <a href="/guides/is-solar-worth-it-in-texas/">Texas guide</a> shows payback at every rate from zero to retail.</li>
+</ul>
+<p>With those cases, Hawaii stays first and California drops to 15th, just behind Colorado, while Texas falls to 49th and Kentucky and Louisiana miss 25 years.</p>
+<h2 id="1-the-sunniest-states-land-in-the-middle">1. The sunniest states land in the middle</h2>
+<p>New Mexico (1,779 kWh per kW), Arizona (1,755) and Nevada (1,753) make the most power per panel. They rank 16th, 25th and 39th. Arizona and Nevada are the cleanest comparison: practically the same output, but power costs 14.92¢ in Arizona and 13.25¢ in Nevada, and that gap alone puts Nevada a year and a half behind.</p>
+<p>Alaska shows the reverse. Anchorage&#39;s 922 kWh per kW is the weakest output of any state, yet at 28¢ per kWh the example pays back in 12.7 years, ahead of Arizona. The U.S. Department of Energy makes the same point in its homeowner guide: &quot;Your savings also depend on the electricity rates set by your utility and how much the utility will compensate you for the excess solar energy you send back to the grid.&quot;</p>
+2f:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L32",null,{"items":[{"id":"the-full-ranking","text":"The full ranking"},{"id":"1-the-sunniest-states-land-in-the-middle","text":"1. The sunniest states land in the middle"},{"id":"2-the-top-of-the-table-is-the-northeast","text":"2. The top of the table is the Northeast"},{"id":"3-the-bottom-of-the-table-mixes-two-problems","text":"3. The bottom of the table mixes two problems"},{"id":"4-a-year-of-price-changes-moves-states-not-the-order","text":"4. A year of price changes moves states, not the order"},{"id":"5-the-export-credit-can-reorder-the-list","text":"5. The export credit can reorder the list"},{"id":"how-we-measured-it","text":"How we measured it"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$33"}}],"$L34","$L35","$L36","$L37",false,"$L38","$L39","$L3a","$L3b"]}],"$L3c"]}]
+30:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$L4",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","are-solar-panels-worth-it-2026",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/are-solar-panels-worth-it-2026/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-are-solar-panels-worth-it-2026","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-and-solar-payback-card.webp","srcSet":"/photos/electricity-prices-and-solar-payback-card.webp 640w, /photos/electricity-prices-and-solar-payback-sm.webp 768w, /photos/electricity-prices-and-solar-payback-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-26","children":"Nov 26, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Are Solar Panels Worth It in 2026? A State-by-State Answer"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"No federal credit, lower export credits in some states: where solar still pays back in under 10 years, where it takes 16 or more, and what help is left."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","is-solar-worth-it-where-electricity-is-cheap",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/is-solar-worth-it-where-electricity-is-cheap/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-is-solar-worth-it-where-electricity-is-cheap","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp","srcSet":"/photos/is-solar-worth-it-where-electricity-is-cheap-card.webp 640w, /photos/is-solar-worth-it-where-electricity-is-cheap-sm.webp 768w, /photos/is-solar-worth-it-where-electricity-is-cheap-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Solar payback"}]]}],"$L3d"]}]}]}],"$L3e"]}]]}]
+31:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Best States for Solar Payback: All 50 States and D.C. Ranked\",\"description\":\"Solar payback for one example home in every state and D.C., September 2026 prices: price explains the ranking, sunshine barely does. Full table inside.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":2104,\"image\":[\"https://roofpayback.com/photos/best-states-for-solar-payback-og.jpg\",\"https://roofpayback.com/photos/best-states-for-solar-payback.webp\"],\"datePublished\":\"2026-10-12\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/best-states-for-solar-payback/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+3f:I[9441,["$2","$3"],"AdSlot"]
+34:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L3f",null,{"slot":"article"}]}]
+40:Tcbf,<h2 id="2-the-top-of-the-table-is-the-northeast">2. The top of the table is the Northeast</h2>
+<p>Seven of the ten fastest paybacks are in New England or the Middle Atlantic: Maine, Massachusetts, Rhode Island, New Hampshire, New York, Connecticut and New Jersey. Their reference cities make only 1,252 to 1,319 kWh per kW, but all seven charge between 24.64¢ and 31.29¢. The other three in the top ten are Hawaii and California, which pair high prices with strong sun, and D.C.</p>
+<h2 id="3-the-bottom-of-the-table-mixes-two-problems">3. The bottom of the table mixes two problems</h2>
+<p>The ten slowest states split into two groups. Utah, Louisiana, Nebraska, Kentucky and Tennessee get ordinary sunshine but charge under 14¢ per kWh. Oregon and Washington combine below-average prices with the two weakest outputs in the lower 48. Mississippi, West Virginia and North Dakota sit in between. All ten charge less than the U.S. average of 18.17¢. <a href="/guides/is-solar-worth-it-where-electricity-is-cheap/">Solar where electricity is cheap</a> and <a href="/guides/cloudy-states-solar-worth-it/">cloudy states</a> look at those groups.</p>
+<h2 id="4-a-year-of-price-changes-moves-states-not-the-order">4. A year of price changes moves states, not the order</h2>
+<p>Some prices moved sharply between September 2025 and September 2026: Hawaii rose 22.2%, Idaho 15.1%, Maine 12.2% and South Dakota 11.1%, while Connecticut fell 10.9% and Florida 6.5%. Connecticut is still ninth after its drop. Idaho&#39;s rise left it at 14.39¢ and 38th. Single-year moves shift a state a few places; they rarely move it between the top and bottom halves. <a href="/guides/solar-payback-if-electricity-prices-rise/">Solar payback if electricity prices rise</a> tests what steady growth does over 25 years.</p>
+<h2 id="5-the-export-credit-can-reorder-the-list">5. The export credit can reorder the list</h2>
+<p>The ranking above holds the export credit at retail, outside the five states in the last column. That is the one assumption most likely to be wrong for your house, and it does not hit every state equally: a weak credit costs the most where power is cheap and where a large share of output is exported. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing</a> shows each state&#39;s payback at half, quarter and zero credit, and the export rate needed for a 15-year payback.</p>
+<h2 id="how-we-measured-it">How we measured it</h2>
+<p>Output is PVWatts v8 for one reference city per state, south-facing at a 20° pitch with 14% system losses; DOE notes that panels &quot;perform best on south-facing roofs with a slope between 15 and 40 degrees.&quot; Prices are EIA averages for September 2026, which include taxes and fees. The model assumes electricity prices rise 2.5% a year, output falls 0.5% a year and upkeep costs $100 a year, over 25 years. No federal credit is included: the IRS says the Residential Clean Energy Credit &quot;is not available for any property placed in service after December 31, 2025.&quot;</p>
+<p>Your own rate, export credit and quote decide where you land. The <a href="/solar-calculator/">solar calculator</a> takes all three, and each <a href="/solar-panels/">state page</a> has local inputs.</p>
+35:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$40"}}]
+36:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L3f",null,{"slot":"articleEnd"}]}]
+37:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Best%20States%20for%20Solar%20Payback%3A%20All%2050%20States%20and%20D.C.%20Ranked&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fbest-states-for-solar-payback%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fbest-states-for-solar-payback%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fbest-states-for-solar-payback%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fbest-states-for-solar-payback%2F&title=Best%20States%20for%20Solar%20Payback%3A%20All%2050%20States%20and%20D.C.%20Ranked","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Best%20States%20for%20Solar%20Payback%3A%20All%2050%20States%20and%20D.C.%20Ranked&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fbest-states-for-solar-payback%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+38:null
+39:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$L4",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+3a:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.energy.gov/cmei/systems/homeowners-guide-solar",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www.energy.gov/cmei/systems/homeowners-guide-solar","rel":"noopener","target":"_blank","children":"DOE: Homeowner's guide to going solar"}]]}],["$","li","https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/nem-revisit/net-billing-tariff",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/nem-revisit/net-billing-tariff","rel":"noopener","target":"_blank","children":"CPUC: Net Billing Tariff"}]]}],["$","li","https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export","rel":"noopener","target":"_blank","children":"Hawaiian Electric: Smart Renewable Energy Export"}]]}],["$","li","https://lpsc.louisiana.gov/Utilities_NetMetering",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[6,"."]}],["$","a",null,{"className":"link","href":"https://lpsc.louisiana.gov/Utilities_NetMetering","rel":"noopener","target":"_blank","children":"Louisiana Public Service Commission: Net metering rules (General Order dated September 19, 2019)"}]]}],["$","li","https://lpsc.louisiana.gov/docs/utilities/Avoided-Cost-Rates-2026.docx",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[7,"."]}],["$","a",null,{"className":"link","href":"https://lpsc.louisiana.gov/docs/utilities/Avoided-Cost-Rates-2026.docx","rel":"noopener","target":"_blank","children":"Louisiana Public Service Commission: 2026 Avoided Cost Rates by Electric Utility"}]]}],["$","li","https://psc.ky.gov/agencies/psc/press/122019/1218_r01.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[8,"."]}],["$","a",null,{"className":"link","href":"https://psc.ky.gov/agencies/psc/press/122019/1218_r01.pdf","rel":"noopener","target":"_blank","children":"Kentucky Public Service Commission: PSC Completes Review of Input on Net Metering Changes (December 18, 2019)"}]]}],["$","li","https://www.puc.texas.gov/consumer-help/electricity/solar/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[9,"."]}],["$","a",null,{"className":"link","href":"https://www.puc.texas.gov/consumer-help/electricity/solar/","rel":"noopener","target":"_blank","children":"Public Utility Commission of Texas: Thinking about solar panels for your home?"}]]}],"$L41"]}]]}]
+3b:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$L4",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+3c:["$","$L32",null,{"items":"$2f:props:children:0:props:children:0:props:items","variant":"desktop"}]
+3d:["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-14","children":"Nov 14, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is Solar Worth It Where Electricity Is Cheap?"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"In the six states under 14¢ per kWh, solar takes 15 to 18 years at $3.50 a watt. See the price per watt that gets it to 12 years, and what daytime use adds."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]
+3e:["$","li","cloudy-states-solar-worth-it",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$L4",null,{"href":"/guides/cloudy-states-solar-worth-it/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$17",null,{"name":"photo-cloudy-states-solar-worth-it","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/cloudy-rooftop-pennsylvania-card.webp","srcSet":"/photos/cloudy-rooftop-pennsylvania-card.webp 640w, /photos/cloudy-rooftop-pennsylvania-sm.webp 768w, /photos/cloudy-rooftop-pennsylvania-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","fetchPriority":"$undefined","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-31","children":"Oct 31, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is Solar Worth It in Cloudy States? What the Numbers Show"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"What a solar kWh costs over 25 years in the eight lowest-sunshine states, compared with the grid price there, and how export credit changes the payback."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+41:["$","li","https://www.irs.gov/credits-deductions/residential-clean-energy-credit",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[10,"."]}],["$","a",null,{"className":"link","href":"https://www.irs.gov/credits-deductions/residential-clean-energy-credit","rel":"noopener","target":"_blank","children":"IRS: Residential Clean Energy Credit"}]]}]
+25:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]
+42:I[27201,["$2"],"IconMark"]
+22:null
+28:[["$","title","0",{"children":"Best States for Solar Payback: All 50 States and D.C. Ranked"}],["$","meta","1",{"name":"description","content":"Solar payback for one example home in every state and D.C., September 2026 prices: price explains the ranking, sunshine barely does. Full table inside."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/best-states-for-solar-payback/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Best States for Solar Payback: All 50 States and D.C. Ranked"}],["$","meta","7",{"property":"og:description","content":"Solar payback for one example home in every state and D.C., September 2026 prices: price explains the ranking, sunshine barely does. Full table inside."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/best-states-for-solar-payback/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/best-states-for-solar-payback-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"A 20 kW rooftop solar installation on a tile-roofed house in California"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-12"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Best States for Solar Payback: All 50 States and D.C. Ranked"}],["$","meta","20",{"name":"twitter:description","content":"Solar payback for one example home in every state and D.C., September 2026 prices: price explains the ranking, sunshine barely does. Full table inside."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/best-states-for-solar-payback-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L42","25",{}]]

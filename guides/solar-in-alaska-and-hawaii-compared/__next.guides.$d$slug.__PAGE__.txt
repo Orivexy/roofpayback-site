@@ -1,0 +1,230 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/solar-payback/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/solar-payback/","className":"py-1 no-underline hover:text-ink","children":"Solar payback"}]]}],["$","li","/guides/solar-in-alaska-and-hawaii-compared/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Solar in Alaska vs. Hawaii: Which Pays Back Faster?"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Solar payback\",\"item\":\"https://roofpayback.com/guides/topic/solar-payback/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Solar in Alaska vs. Hawaii: Which Pays Back Faster?\",\"item\":\"https://roofpayback.com/guides/solar-in-alaska-and-hawaii-compared/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/solar-payback/","children":"Solar payback"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Solar in Alaska vs. Hawaii: Which Pays Back Faster?"}],["$","p",null,{"className":"lede mt-5","children":"Hawaii still wins, but new systems no longer get retail credit. Payback with Hawaiian Electric's export rates, real household use and Alaska's range."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-11-13","children":"November 13, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":["$Le","$Lf"]}]]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"solar-in-alaska-and-hawaii-compared","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Solar in Alaska vs. Hawaii: Which Pays Back Faster? | RoofPayback"}],["$","meta","1",{"name":"description","content":"Hawaii still wins, but new systems no longer get retail credit. Payback with Hawaiian Electric's export rates, real household use and Alaska's range."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/solar-in-alaska-and-hawaii-compared/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Solar in Alaska vs. Hawaii: Which Pays Back Faster?"}],["$","meta","7",{"property":"og:description","content":"Hawaii still wins, but new systems no longer get retail credit. Payback with Hawaiian Electric's export rates, real household use and Alaska's range."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/solar-in-alaska-and-hawaii-compared/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/solar-in-alaska-and-hawaii-compared-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Rooftop solar panels at Ala Moana in Honolulu, Hawaii"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-11-13"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Solar in Alaska vs. Hawaii: Which Pays Back Faster?"}],["$","meta","20",{"name":"twitter:description","content":"Hawaii still wins, but new systems no longer get retail credit. Payback with Hawaiian Electric's export rates, real household use and Alaska's range."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/solar-in-alaska-and-hawaii-compared-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1c","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"9ejB_AtLjd4bll68LEc-a"}
+20:"$Sreact.view_transition"
+21:I[26029,["$3","$c"],"TocNav"]
+31:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/solar-in-alaska-and-hawaii-compared.webp","image",{"imageSrcSet":"/photos/solar-in-alaska-and-hawaii-compared-card.webp 640w, /photos/solar-in-alaska-and-hawaii-compared-sm.webp 768w, /photos/solar-in-alaska-and-hawaii-compared-md.webp 1024w, /photos/solar-in-alaska-and-hawaii-compared.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}]
+f:["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]
+10:["$","figure",null,{"className":"mt-8","children":[["$","$20",null,{"name":"photo-solar-in-alaska-and-hawaii-compared","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/solar-in-alaska-and-hawaii-compared.webp","srcSet":"/photos/solar-in-alaska-and-hawaii-compared-card.webp 640w, /photos/solar-in-alaska-and-hawaii-compared-sm.webp 768w, /photos/solar-in-alaska-and-hawaii-compared-md.webp 1024w, /photos/solar-in-alaska-and-hawaii-compared.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Rooftop solar panels at Ala Moana in Honolulu, Hawaii","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Rooftop solar panels at Ala Moana in Honolulu, Hawaii",". ","Photo: Daniel Ramirez from Honolulu, USA"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by/2.0","rel":"noopener license","target":"_blank","children":"CC BY 2.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Solar_Panels_@_Ala_Moana_(23715386935).jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+22:T9a0,<div class="short-answer"><p class="short-answer-label">The answer</p>
+<p>Hawaii, clearly, but by less than the usual headline suggests. A Honolulu system only pays back in 4.7 years if every exported kWh earns the full retail price, and new Hawaiian Electric customers cannot get that: the Hawaii Public Utilities Commission capped net energy metering with an order issued on October 12, 2015, and Hawaiian Electric lists the program as closed to new applicants.</p>
+<p>With the export rate Hawaiian Electric pays new customers on Oahu for daytime power, our 7 kW example home pays back in <strong>7.8 years</strong>. A system sized for an average Hawaii household does better, at <strong>5.5 to 6.9 years</strong>. Anchorage needs <strong>12.7 years</strong> even with full retail credit, and longer if its utility pays less for exports.</p>
+</div><h2 id="how-expensive-is-power-in-each-state">How expensive is power in each state?</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Alaska</th>
+<th>Hawaii</th>
+<th>U.S.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Residential price, September 2026 (EIA)</td>
+<td>28¢/kWh</td>
+<td>48.31¢/kWh</td>
+<td>18.17¢/kWh</td>
+</tr>
+<tr>
+<td>A year earlier</td>
+<td>27.22¢/kWh</td>
+<td>39.53¢/kWh</td>
+<td>18.05¢/kWh</td>
+</tr>
+<tr>
+<td>One-year change</td>
+<td>+2.9%</td>
+<td>+22.2%</td>
+<td>+0.7%</td>
+</tr>
+<tr>
+<td>Average household use, Oct 2025 to Sep 2026 (EIA-861M)</td>
+<td>589 kWh a month</td>
+<td>515 kWh a month</td>
+<td>885 kWh a month</td>
+</tr>
+<tr>
+<td>Average monthly bill, same period</td>
+<td>$159</td>
+<td>$232</td>
+<td>$160</td>
+</tr>
+</tbody></table>
+<p>Both states pay far above the national price, but neither household uses as much as the 10,500 kWh a year in our standard <a href="/methodology/">example home</a>. That matters below. Why Hawaii&#39;s price is so high is covered in <a href="/guides/why-is-electricity-expensive-in-hawaii/">why electricity is expensive in Hawaii</a>.</p>
+<h2 id="how-much-power-will-panels-make">How much power will panels make?</h2>
+<p>PVWatts puts a south-facing system at a 20° pitch at 1,622 kWh per kW a year in Honolulu and 922 kWh in Anchorage, the lowest of any state&#39;s reference city. The seasons differ even more. Anchorage panels make about 6.6 times as much in June to August as in December to February; Honolulu&#39;s ratio is 1.3. <a href="/guides/solar-panels-in-winter-by-state/">Solar panels in winter by state</a> has every state&#39;s seasonal gap.</p>
+11:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L21",null,{"items":[{"id":"how-expensive-is-power-in-each-state","text":"How expensive is power in each state?"},{"id":"how-much-power-will-panels-make","text":"How much power will panels make?"},{"id":"what-does-a-new-hawaii-system-earn-for-exports","text":"What does a new Hawaii system earn for exports?"},{"id":"what-does-payback-look-like","text":"What does payback look like?"},{"id":"what-does-alaska-pay-for-exports","text":"What does Alaska pay for exports?"},{"id":"how-do-i-check-my-own-numbers","text":"How do I check my own numbers?"},{"id":"why-hawaii-still-comes-out-ahead","text":"Why Hawaii still comes out ahead"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$22"}}],["$","div",null,{"className":"max-w-[var(--measure)]","children":"$L23"}],"$L24","$L25","$L26",false,"$L27","$L28","$L29","$L2a"]}],"$L2b"]}]
+12:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","why-is-electricity-expensive-in-hawaii",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/why-is-electricity-expensive-in-hawaii/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-why-is-electricity-expensive-in-hawaii","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/why-is-electricity-expensive-in-hawaii-card.webp","srcSet":"/photos/why-is-electricity-expensive-in-hawaii-card.webp 640w, /photos/why-is-electricity-expensive-in-hawaii-sm.webp 768w, /photos/why-is-electricity-expensive-in-hawaii-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-11-07","children":"Nov 7, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[4," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Why Is Electricity So Expensive in Hawaii? EIA Data"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Hawaii homes paid 48.31¢ per kWh in September 2026, 2.7 times the U.S. average. Ten years of EIA data show when the gap widened and what it costs."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","cloudy-states-solar-worth-it",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/cloudy-states-solar-worth-it/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-cloudy-states-solar-worth-it","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/cloudy-rooftop-pennsylvania-card.webp","srcSet":"/photos/cloudy-rooftop-pennsylvania-card.webp 640w, /photos/cloudy-rooftop-pennsylvania-sm.webp 768w, /photos/cloudy-rooftop-pennsylvania-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":["$L2c","$L2d","$L2e","$L2f"]}]]}]}]}],"$L30"]}]]}]
+13:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Solar in Alaska vs. Hawaii: Which Pays Back Faster?\",\"description\":\"Hawaii still wins, but new systems no longer get retail credit. Payback with Hawaiian Electric's export rates, real household use and Alaska's range.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Solar payback\",\"wordCount\":1078,\"image\":[\"https://roofpayback.com/photos/solar-in-alaska-and-hawaii-compared-og.jpg\",\"https://roofpayback.com/photos/solar-in-alaska-and-hawaii-compared.webp\"],\"datePublished\":\"2026-11-13\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/solar-in-alaska-and-hawaii-compared/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+15:["$","$L31",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+1f:true
+33:I[9441,["$3","$c"],"AdSlot"]
+8:300
+23:["$","$L33",null,{"slot":"article"}]
+34:T1418,<h2 id="what-does-a-new-hawaii-system-earn-for-exports">What does a new Hawaii system earn for exports?</h2>
+<p>Hawaiian Electric&#39;s Smart Renewable Energy Export program credits exported power at time-of-day rates. Its program page, read on November 28, 2026, lists these rates for 2024 to 2026:</p>
+<table>
+<thead>
+<tr>
+<th>Island</th>
+<th>Daytime, 9am to 5pm</th>
+<th>Evening peak, 5pm to 9pm</th>
+<th>Overnight, 9pm to 9am</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Oahu</td>
+<td>13.5¢/kWh</td>
+<td>32.9¢/kWh</td>
+<td>18.9¢/kWh</td>
+</tr>
+<tr>
+<td>Hawaii Island</td>
+<td>10.6¢/kWh</td>
+<td>23.1¢/kWh</td>
+<td>14.8¢/kWh</td>
+</tr>
+<tr>
+<td>Maui</td>
+<td>6.6¢/kWh</td>
+<td>18.2¢/kWh</td>
+<td>13.1¢/kWh</td>
+</tr>
+</tbody></table>
+<p>The page says rates are locked for the first seven years of a new interconnection agreement and updated every three years, credits are reconciled annually, and credits left at the end of the year expire.</p>
+<p>Panels without a battery export almost entirely during the day, so we priced exports at the Oahu daytime rate. Against the state&#39;s average price of 48.31¢, 13.5¢ is about 28% of retail. Two simplifications push the result slightly in solar&#39;s favor: our model raises the export credit 2.5% a year along with retail prices, while the real rate is fixed for seven years, and the state average price is not the Oahu rate.</p>
+<h2 id="what-does-payback-look-like">What does payback look like?</h2>
+<p>The standard example (7 kW, $24,500, 10,500 kWh a year):</p>
+<table>
+<thead>
+<tr>
+<th>Export credit</th>
+<th>Alaska (Anchorage)</th>
+<th>Hawaii (Honolulu)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Full retail (upper limit)</td>
+<td>12.7 years</td>
+<td>4.7 years</td>
+</tr>
+<tr>
+<td>Oahu daytime rate, about 28% of retail</td>
+<td>not applicable</td>
+<td>7.8 years</td>
+</tr>
+<tr>
+<td>Half retail</td>
+<td>16.3 years</td>
+<td>6.3 years</td>
+</tr>
+<tr>
+<td>Quarter retail</td>
+<td>18.9 years</td>
+<td>8.1 years</td>
+</tr>
+<tr>
+<td>No credit</td>
+<td>22.4 years</td>
+<td>11.1 years</td>
+</tr>
+</tbody></table>
+<p>Now the same model with each state&#39;s average household use, at $3,500 per kW:</p>
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Hawaii, 6,181 kWh a year, Oahu daytime rate</th>
+<th>Hawaii, no export credit</th>
+<th>Alaska, 7,068 kWh a year, full credit</th>
+<th>Alaska, quarter credit</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>2 kW</td>
+<td>5.5 years</td>
+<td>6 years</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>3 kW</td>
+<td>6.9 years</td>
+<td>8.6 years</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>4 kW</td>
+<td>7.9 years</td>
+<td>11.1 years</td>
+<td>13.1 years</td>
+<td>18.4 years</td>
+</tr>
+<tr>
+<td>6 kW</td>
+<td>—</td>
+<td>—</td>
+<td>12.8 years</td>
+<td>20.9 years</td>
+</tr>
+<tr>
+<td>8 kW</td>
+<td>—</td>
+<td>—</td>
+<td>12.8 years</td>
+<td>23 years</td>
+</tr>
+</tbody></table>
+<p>In Hawaii, a small system that the home uses as it produces pays back fastest. A 2 kW system makes about 3,240 kWh a year and the house uses roughly three quarters of it directly, so the export rate barely matters. Each added kW pushes more power onto the grid at 13.5¢ instead of saving 48.31¢. A battery can shift some of that surplus into the evening; the <a href="/battery-payback-calculator/">battery payback calculator</a> tests it with your own rates.</p>
+<p>In Alaska, full credit makes size almost irrelevant: 4, 6 and 8 kW all land near 13 years. A weak credit separates them by more than four years, which is why the crediting terms are the first thing to settle there.</p>
+<h2 id="what-does-alaska-pay-for-exports">What does Alaska pay for exports?</h2>
+<p>We could not confirm Alaska&#39;s current rules in an official source for this update, so the Alaska rows show a range rather than one answer. Ask your utility two questions: what it pays per kWh for power you export, and whether unused credits carry from summer into winter. With Anchorage&#39;s 6.6-to-1 summer-to-winter ratio, a credit that expires monthly would cost far more than in Hawaii. DSIRE lists programs by state and utility.</p>
+<h2 id="how-do-i-check-my-own-numbers">How do I check my own numbers?</h2>
+<ol>
+<li>Find your price per kWh and your yearly use on your bills.</li>
+<li>Hawaii: look up your island&#39;s current export rates on Hawaiian Electric&#39;s program page. Alaska: get your utility&#39;s export rate.</li>
+<li>Enter the use, the export credit as a share of your rate, and a system size near your daytime use in the <a href="/solar-calculator/">solar calculator</a>.</li>
+<li>Compare with the <a href="/solar-panels/alaska/">Alaska</a> and <a href="/solar-panels/hawaii/">Hawaii</a> state pages.</li>
+</ol>
+<h2 id="why-hawaii-still-comes-out-ahead">Why Hawaii still comes out ahead</h2>
+<p>Hawaii&#39;s price is so high that even a kWh used at home without any export credit saves 48.31¢. That keeps payback under nine years for a 2 or 3 kW Hawaii system in every case we ran, including no credit at all. Alaska&#39;s expensive power makes solar viable despite the weakest sun in the country, but payback there sits in the low teens at best and depends heavily on what exports earn.</p>
+24:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$34"}}]
+25:["$","div",null,{"className":"max-w-[var(--measure)] pb-8","children":["$","$L33",null,{"slot":"articleEnd"}]}]
+26:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Solar%20in%20Alaska%20vs.%20Hawaii%3A%20Which%20Pays%20Back%20Faster%3F&url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-in-alaska-and-hawaii-compared%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-in-alaska-and-hawaii-compared%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-in-alaska-and-hawaii-compared%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-in-alaska-and-hawaii-compared%2F&title=Solar%20in%20Alaska%20vs.%20Hawaii%3A%20Which%20Pays%20Back%20Faster%3F","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Solar%20in%20Alaska%20vs.%20Hawaii%3A%20Which%20Pays%20Back%20Faster%3F&body=https%3A%2F%2Froofpayback.com%2Fguides%2Fsolar-in-alaska-and-hawaii-compared%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+27:null
+28:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+29:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/smart-renewable-energy-export","rel":"noopener","target":"_blank","children":"Hawaiian Electric: Smart Renewable Energy Export"}]]}],["$","li","https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/previous-renewable-programs/net-energy-metering-(nem)",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.hawaiianelectric.com/products-and-services/smart-renewable-energy-programs/previous-renewable-programs/net-energy-metering-(nem)","rel":"noopener","target":"_blank","children":"Hawaiian Electric: Net Energy Metering (closed program)"}]]}],["$","li","https://puc.hawaii.gov/wp-content/uploads/2015/10/DER-Phase-1-DO-Summary.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://puc.hawaii.gov/wp-content/uploads/2015/10/DER-Phase-1-DO-Summary.pdf","rel":"noopener","target":"_blank","children":"Hawaii PUC: Distributed Energy Resources Phase 1 Decision and Order summary (October 2015)"}]]}],["$","li","https://pvwatts.nlr.gov/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[4,"."]}],["$","a",null,{"className":"link","href":"https://pvwatts.nlr.gov/","rel":"noopener","target":"_blank","children":"PVWatts Calculator"}]]}],["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[5,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[6,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M: Monthly electric power industry report (sales, revenue and customers)"}]]}],["$","li","https://programs.dsireusa.org/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[7,"."]}],["$","a",null,{"className":"link","href":"https://programs.dsireusa.org/","rel":"noopener","target":"_blank","children":"DSIRE: Database of State Incentives for Renewables & Efficiency"}]]}]]}]]}]
+2a:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+2b:["$","$L21",null,{"items":"$11:props:children:0:props:children:0:props:items","variant":"desktop"}]
+2c:["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-31","children":"Oct 31, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min"]}]]}]
+2d:["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Is Solar Worth It in Cloudy States? What the Numbers Show"}]
+2e:["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"What a solar kWh costs over 25 years in the eight lowest-sunshine states, compared with the grid price there, and how export credit changes the payback."}]
+2f:["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]
+30:["$","li","solar-panels-in-winter-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/solar-panels-in-winter-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$20",null,{"name":"photo-solar-panels-in-winter-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/roof-snow-georgia-card.webp","srcSet":"/photos/roof-snow-georgia-card.webp 640w, /photos/roof-snow-georgia-sm.webp 768w, /photos/roof-snow-georgia-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Planning a system"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[8," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Solar Panels in Winter: Output by State vs. Summer"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Winter vs. summer solar output per kW for all 50 states and D.C., and what monthly instead of yearly credit settlement costs in 11 states."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+32:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

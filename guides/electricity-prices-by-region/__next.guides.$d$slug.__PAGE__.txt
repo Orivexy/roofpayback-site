@@ -1,0 +1,232 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0y5jznj6htagl.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/19hkmvmniklmp.js"
+d:I[22016,["$3","$c"],""]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"id":"top","children":[["$","div",null,{"className":"read-progress","aria-hidden":"true"}],[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-5 text-sm text-muted","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-1.5 gap-y-1","children":[["$","li","/",{"className":"flex items-center gap-1.5 ","children":[false,["$","$Ld",null,{"href":"/","className":"py-1 no-underline hover:text-ink","children":"Home"}]]}],["$","li","/guides/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/","className":"py-1 no-underline hover:text-ink","children":"Guides"}]]}],["$","li","/guides/topic/electricity-prices/",{"className":"flex items-center gap-1.5 ","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","$Ld",null,{"href":"/guides/topic/electricity-prices/","className":"py-1 no-underline hover:text-ink","children":"Electricity prices"}]]}],["$","li","/guides/electricity-prices-by-region/",{"className":"flex items-center gap-1.5 max-sm:hidden","children":[["$","svg",null,{"width":"6","height":"10","viewBox":"0 0 6 10","aria-hidden":"true","className":"opacity-50","children":["$","path",null,{"d":"M1 1l4 4-4 4","fill":"none","stroke":"currentColor","strokeWidth":"1.4"}]}],["$","span",null,{"aria-current":"page","className":"text-ink-2","children":"Electricity Prices by U.S. Region: September 2026 Compared"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://roofpayback.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guides\",\"item\":\"https://roofpayback.com/guides/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Electricity prices\",\"item\":\"https://roofpayback.com/guides/topic/electricity-prices/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Electricity Prices by U.S. Region: September 2026 Compared\",\"item\":\"https://roofpayback.com/guides/electricity-prices-by-region/\"}]}"}}]],false,["$","header",null,{"className":"max-w-4xl","children":[["$","p",null,{"className":"kicker","children":["$","$Ld",null,{"className":"no-underline hover:text-brand","href":"/guides/topic/electricity-prices/","children":"Electricity prices"}]}],["$","h1",null,{"className":"h-page mt-4","children":"Electricity Prices by U.S. Region: September 2026 Compared"}],["$","p",null,{"className":"lede mt-5","children":"Home, business and industrial electricity prices for the ten EIA regions in September 2026, which states each region holds, and how they moved in 10 years."}],["$","p",null,{"className":"mt-6 flex flex-wrap items-center gap-x-3 gap-y-1 border-y-2 border-ink py-2.5 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2","children":[["$","span",null,{"children":["Published ",["$","time",null,{"dateTime":"2026-10-14","children":"October 14, 2026"}]]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":["Updated ",["$","time",null,{"dateTime":"2026-11-28","children":"November 28, 2026"}]]}]],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[5," min read"]}],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":"RoofPayback editorial"}]],[["$","span",null,{"aria-hidden":"true","children":"·"}],["$","$Ld",null,{"href":"/editorial-policy/","className":"no-underline hover:text-brand","children":"Figures checked against EIA and PVWatts data"}]]]}],"$Le"]}],"$Lf","$L10","$L11","$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"electricity-prices-by-region","s":["topic"]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"guides","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1113","media":"(prefers-color-scheme: dark)"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Electricity Prices by U.S. Region: September 2026 Compared"}],["$","meta","1",{"name":"description","content":"Home, business and industrial electricity prices for the ten EIA regions in September 2026, which states each region holds, and how they moved in 10 years."}],["$","meta","2",{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","3",{"name":"google-adsense-account","content":"ca-pub-1368227516860314"}],["$","link","4",{"rel":"canonical","href":"https://roofpayback.com/guides/electricity-prices-by-region/"}],["$","link","5",{"rel":"alternate","type":"application/rss+xml","href":"https://roofpayback.com/feed.xml","title":"RoofPayback blog"}],["$","meta","6",{"property":"og:title","content":"Electricity Prices by U.S. Region: September 2026 Compared"}],["$","meta","7",{"property":"og:description","content":"Home, business and industrial electricity prices for the ten EIA regions in September 2026, which states each region holds, and how they moved in 10 years."}],["$","meta","8",{"property":"og:url","content":"https://roofpayback.com/guides/electricity-prices-by-region/"}],["$","meta","9",{"property":"og:site_name","content":"RoofPayback"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://roofpayback.com/photos/electricity-prices-by-region-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Power lines leading to an electrical substation across a field"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-14"}],["$","meta","17",{"property":"article:modified_time","content":"2026-11-28"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"Electricity Prices by U.S. Region: September 2026 Compared"}],["$","meta","20",{"name":"twitter:description","content":"Home, business and industrial electricity prices for the ten EIA regions in September 2026, which states each region holds, and how they moved in 10 years."}],["$","meta","21",{"name":"twitter:image","content":"https://roofpayback.com/photos/electricity-prices-by-region-og.jpg"}],["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.22-z5unlp2wxt.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","23",{"rel":"icon","href":"/icon.svg?icon.17yaby5adj_yx.svg","sizes":"any","type":"image/svg+xml"}],["$","link","24",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1735pht5mccz5.png","sizes":"180x180","type":"image/png"}],["$","$L1b","25",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"9ejB_AtLjd4bll68LEc-a"}
+1f:"$Sreact.view_transition"
+20:I[26029,["$3","$c"],"TocNav"]
+2b:I[97367,["$3"],"OutletBoundary"]
+:HL["/photos/electricity-prices-by-region.webp","image",{"imageSrcSet":"/photos/electricity-prices-by-region-card.webp 640w, /photos/electricity-prices-by-region-sm.webp 768w, /photos/electricity-prices-by-region-md.webp 1024w, /photos/electricity-prices-by-region.webp 1600w","imageSizes":"(min-width: 1152px) 1152px, 100vw","fetchPriority":"high"}]
+e:["$","p",null,{"className":"flex flex-wrap items-center gap-2 font-mono text-[0.7rem] uppercase tracking-wider text-ink-2 mt-3","children":[["$","svg",null,{"width":18,"height":18,"viewBox":"0 0 40 40","aria-hidden":"true","className":"shrink-0","children":[["$","circle",null,{"cx":"20","cy":"20","r":"18","fill":"none","stroke":"currentColor","strokeWidth":"2.5","strokeDasharray":"3 2.2"}],["$","circle",null,{"cx":"20","cy":"20","r":"12.5","fill":"var(--brand)"}],["$","path",null,{"d":"M14.5 20.5l3.8 3.8 7.4-8","fill":"none","stroke":"var(--on-brand)","strokeWidth":"3","strokeLinecap":"round","strokeLinejoin":"round"}]]}],["$","span",null,{"children":["Official data: ","EIA · DOE · IRS"," · ",["$","$Ld",null,{"href":"/methodology/","className":"link normal-case","children":"how we check"}]]}]]}]
+f:["$","figure",null,{"className":"mt-8","children":[["$","$1f",null,{"name":"photo-electricity-prices-by-region","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/electricity-prices-by-region.webp","srcSet":"/photos/electricity-prices-by-region-card.webp 640w, /photos/electricity-prices-by-region-sm.webp 768w, /photos/electricity-prices-by-region-md.webp 1024w, /photos/electricity-prices-by-region.webp 1600w","sizes":"(min-width: 1152px) 1152px, 100vw","width":1600,"height":900,"alt":"Power lines leading to an electrical substation across a field","fetchPriority":"high","decoding":"async","className":"aspect-[16/9] w-full bg-surface-2 object-cover"}]}],["$","figcaption",null,{"className":"mt-2 border-l-2 border-brand pl-3 font-mono text-[0.68rem] leading-relaxed text-muted","children":["Power lines leading to an electrical substation across a field",". ","Photo: Corey Coyle"," · ",["$","a",null,{"className":"link","href":"https://creativecommons.org/licenses/by/3.0","rel":"noopener license","target":"_blank","children":"CC BY 3.0"}]," · cropped · ",["$","a",null,{"className":"link","href":"https://commons.wikimedia.org/wiki/File:Mckee_Electrical_Substation_-_panoramio.jpg","rel":"noopener","target":"_blank","children":"Wikimedia Commons"}]]}]]}]
+21:T13f6,<div class="short-answer"><p class="short-answer-label">At a glance</p>
+<p>The average U.S. home paid 18.17¢ per <a href="/guides/what-is-a-kilowatt-hour/">kilowatt-hour</a> (kWh) in September 2026, according to the U.S. Energy Information Administration (EIA). By region, homes paid from 14.42¢ in East South Central to 40.85¢ in Pacific Noncontiguous (Alaska and Hawaii).</p>
+<p>The regions are the nine census divisions defined by the U.S. Census Bureau. EIA splits the Pacific division into its mainland states and Alaska plus Hawaii, so there are ten rows. A regional average is useful for one thing, placing you on the map, and misleading for another: several regions hold states whose prices are far apart. This guide shows both.</p>
+</div><h2 id="the-ten-regions-side-by-side">The ten regions side by side</h2>
+<table>
+<thead>
+<tr>
+<th>Division</th>
+<th>Residential</th>
+<th>A year earlier</th>
+<th>Change</th>
+<th>Commercial</th>
+<th>Industrial</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>New England</td>
+<td>29.56¢</td>
+<td>29.45¢</td>
+<td>0.4%</td>
+<td>22.3¢</td>
+<td>16.78¢</td>
+</tr>
+<tr>
+<td>Middle Atlantic</td>
+<td>25.23¢</td>
+<td>23.83¢</td>
+<td>5.9%</td>
+<td>19.31¢</td>
+<td>10.62¢</td>
+</tr>
+<tr>
+<td>East North Central</td>
+<td>19.41¢</td>
+<td>18.58¢</td>
+<td>4.5%</td>
+<td>14.1¢</td>
+<td>10.32¢</td>
+</tr>
+<tr>
+<td>West North Central</td>
+<td>15.86¢</td>
+<td>15.39¢</td>
+<td>3.1%</td>
+<td>11.46¢</td>
+<td>9.1¢</td>
+</tr>
+<tr>
+<td>South Atlantic</td>
+<td>16.12¢</td>
+<td>16.07¢</td>
+<td>0.3%</td>
+<td>12.1¢</td>
+<td>8.83¢</td>
+</tr>
+<tr>
+<td>East South Central</td>
+<td>14.42¢</td>
+<td>14.29¢</td>
+<td>0.9%</td>
+<td>13.35¢</td>
+<td>7.42¢</td>
+</tr>
+<tr>
+<td>West South Central</td>
+<td>15.4¢</td>
+<td>15.1¢</td>
+<td>2%</td>
+<td>9.56¢</td>
+<td>7.11¢</td>
+</tr>
+<tr>
+<td>Mountain</td>
+<td>15.17¢</td>
+<td>14.92¢</td>
+<td>1.7%</td>
+<td>11.86¢</td>
+<td>8.38¢</td>
+</tr>
+<tr>
+<td>Pacific Contiguous</td>
+<td>26.34¢</td>
+<td>26.73¢</td>
+<td>-1.5%</td>
+<td>23.24¢</td>
+<td>17.9¢</td>
+</tr>
+<tr>
+<td>Pacific Noncontiguous</td>
+<td>40.85¢</td>
+<td>35.04¢</td>
+<td>16.6%</td>
+<td>34.94¢</td>
+<td>34.76¢</td>
+</tr>
+<tr>
+<td>U.S. total</td>
+<td>18.17¢</td>
+<td>18.05¢</td>
+<td>0.7%</td>
+<td>14.27¢</td>
+<td>9.52¢</td>
+</tr>
+</tbody></table>
+<p>All figures are EIA averages for September 2026, compared with September 2025. Recent months are preliminary.</p>
+<p>Three tiers stand out. Alaska and Hawaii sit alone above 40¢. New England, the Middle Atlantic and the Pacific mainland form a second tier between 25¢ and 30¢. The other six divisions fall between 14.42¢ and 19.41¢. Only the Pacific mainland got cheaper over the year, and only Alaska and Hawaii rose faster than the Middle Atlantic.</p>
+<h2 id="who-is-in-each-region-and-how-far-apart-they-are">Who is in each region, and how far apart they are</h2>
+<p>The next table lists each division&#39;s states with their September 2026 residential price and their change over ten years, from September 2016 to September 2026 (EIA-861M). The U.S. average rose 41.2% over the same ten years.</p>
+<table>
+<thead>
+<tr>
+<th>Division</th>
+<th>States (September 2026 price, ten-year change)</th>
+<th>Range of state prices</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>New England</td>
+<td>ME 31.29¢ (92.4%), MA 30.97¢ (57.3%), RI 29.93¢ (46.2%), NH 29.17¢ (59.6%), CT 27.09¢ (42.7%), VT 24.83¢ (41.2%)</td>
+<td>24.83–31.29¢</td>
+</tr>
+<tr>
+<td>Middle Atlantic</td>
+<td>NY 28.42¢ (54.8%), NJ 24.64¢ (52.7%), PA 22.2¢ (59%)</td>
+<td>22.2–28.42¢</td>
+</tr>
+<tr>
+<td>East North Central</td>
+<td>MI 23.17¢ (47.5%), WI 19.42¢ (34.2%), IL 19.14¢ (52.8%), OH 19.09¢ (57.4%), IN 17.05¢ (39.1%)</td>
+<td>17.05–23.17¢</td>
+</tr>
+<tr>
+<td>West North Central</td>
+<td>MN 17.37¢ (26.9%), SD 16.31¢ (30.1%), MO 16.01¢ (37.8%), KS 15.83¢ (21.3%), IA 14.99¢ (20.6%), ND 14.29¢ (21.3%), NE 13.87¢ (12.5%)</td>
+<td>13.87–17.37¢</td>
+</tr>
+<tr>
+<td>South Atlantic</td>
+<td>DC 25.82¢ (120.3%), MD 21.54¢ (53.6%), DE 18.89¢ (44.8%), VA 17.74¢ (52.4%), SC 16.5¢ (27.1%), GA 16.27¢ (35.7%), WV 16.23¢ (39.9%), NC 15.41¢ (36.3%), FL 14.74¢ (32.3%)</td>
+<td>14.74–25.82¢</td>
+</tr>
+<tr>
+<td>East South Central</td>
+<td>AL 16.64¢ (36.2%), MS 14.47¢ (43.3%), KY 13.54¢ (26.7%), TN 13.29¢ (24.9%)</td>
+<td>13.29–16.64¢</td>
+</tr>
+<tr>
+<td>West South Central</td>
+<td>TX 15.91¢ (43.2%), OK 15.22¢ (35%), AR 14.54¢ (39%), LA 13.33¢ (36.9%)</td>
+<td>13.33–15.91¢</td>
+</tr>
+<tr>
+<td>Mountain</td>
+<td>CO 17.88¢ (39.3%), NM 16.96¢ (32%), MT 15.69¢ (36.3%), WY 14.96¢ (27.3%), AZ 14.92¢ (17.4%), ID 14.39¢ (40.5%), UT 13.41¢ (19.7%), NV 13.25¢ (18.6%)</td>
+<td>13.25–17.88¢</td>
+</tr>
+<tr>
+<td>Pacific Contiguous</td>
+<td>CA 30.86¢ (69.4%), OR 15.73¢ (43.5%), WA 15¢ (53.1%)</td>
+<td>15–30.86¢</td>
+</tr>
+<tr>
+<td>Pacific Noncontiguous</td>
+<td>HI 48.31¢ (73.5%), AK 28¢ (36.5%)</td>
+<td>28–48.31¢</td>
+</tr>
+</tbody></table>
+<p>Ten-year changes compare two single months, so read them as a direction, not a precise rate. Prices are nominal, not adjusted for inflation.</p>
+10:["$","div",null,{"className":"mt-10 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L20",null,{"items":[{"id":"the-ten-regions-side-by-side","text":"The ten regions side by side"},{"id":"who-is-in-each-region-and-how-far-apart-they-are","text":"Who is in each region, and how far apart they are"},{"id":"what-the-regional-averages-hide","text":"What the regional averages hide"},{"id":"why-the-region-matters-for-solar","text":"Why the region matters for solar"},{"id":"checking-your-own-price","text":"Checking your own price"}],"variant":"mobile"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23",false,"$L24",false,false,"$L25","$L26","$L27"]}],"$L28"]}]
+11:["$","nav",null,{"aria-label":"More articles","className":"mt-20","children":[["$","div",null,{"className":"flex items-baseline justify-between gap-4 border-b-2 border-ink pb-2","children":[["$","h2",null,{"className":"kicker","children":"Keep reading"}],["$","$Ld",null,{"href":"/guides/","className":"font-mono text-[0.72rem] uppercase tracking-wider no-underline hover:text-brand","children":"All articles →"}]]}],["$","ul",null,{"className":"mt-6 grid gap-6 md:grid-cols-3","children":[["$","li","cheapest-and-most-expensive-states-for-electricity",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/cheapest-and-most-expensive-states-for-electricity/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-cheapest-and-most-expensive-states-for-electricity","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp","srcSet":"/photos/cheapest-and-most-expensive-states-for-electricity-card.webp 640w, /photos/cheapest-and-most-expensive-states-for-electricity-sm.webp 768w, /photos/cheapest-and-most-expensive-states-for-electricity-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-13","children":"Oct 13, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Cheapest and Most Expensive States for Electricity"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"All 51 states ranked by 12 months of EIA home electricity prices, not one month: North Dakota is cheapest at 12.38¢/kWh and Hawaii priciest at 45.05¢."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}],["$","li","average-electric-bill-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/average-electric-bill-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-average-electric-bill-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/home-thermostat-card.webp","srcSet":"/photos/home-thermostat-card.webp 640w, /photos/home-thermostat-sm.webp 768w, /photos/home-thermostat-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],"$L29"]}]}]}],"$L2a"]}]]}]
+12:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Electricity Prices by U.S. Region: September 2026 Compared\",\"description\":\"Home, business and industrial electricity prices for the ten EIA regions in September 2026, which states each region holds, and how they moved in 10 years.\",\"inLanguage\":\"en-US\",\"articleSection\":\"Electricity prices\",\"wordCount\":1084,\"image\":[\"https://roofpayback.com/photos/electricity-prices-by-region-og.jpg\",\"https://roofpayback.com/photos/electricity-prices-by-region.webp\"],\"datePublished\":\"2026-10-14\",\"dateModified\":\"2026-11-28\",\"mainEntityOfPage\":\"https://roofpayback.com/guides/electricity-prices-by-region/\",\"author\":{\"@type\":\"Organization\",\"name\":\"RoofPayback editorial\",\"url\":\"https://roofpayback.com/about/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RoofPayback\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://roofpayback.com/logo-wordmark.png\"}}}"}}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/19hkmvmniklmp.js","async":true}]
+14:["$","$L2b",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+1e:true
+2d:I[9441,["$3","$c"],"AdSlot"]
+8:300
+22:["$","div",null,{"className":"max-w-[var(--measure)]","children":["$","$L2d",null,{"slot":"article"}]}]
+2e:Tca8,<h2 id="what-the-regional-averages-hide">What the regional averages hide</h2>
+<p><strong>The Pacific mainland is two markets.</strong> California&#39;s 30.86¢ is about twice Washington&#39;s 15¢. The division&#39;s 1.5% decline came from California (−3.2%) while Washington rose 8.7% and Oregon fell 1.9%. A Seattle household should ignore the division figure entirely.</p>
+<p><strong>The South Atlantic holds both the fastest and some of the slowest risers.</strong> The District of Columbia more than doubled in ten years (120.3%), while South Carolina rose 27.1% and Florida 32.3%. Its prices run from 14.74¢ in Florida to 25.82¢ in D.C., the widest range of any mainland division after the Pacific.</p>
+<p><strong>The Plains and the Mountain West climbed slowest.</strong> Every West North Central and Mountain state rose less than the national 41.2% over ten years; Nebraska (12.5%) and Arizona (17.4%) moved least. <strong>The Middle Atlantic climbed fastest as a group:</strong> all three of its states rose more than 50%.</p>
+<p><strong>New England&#39;s calm year is an average of opposites.</strong> The division rose only 0.4% because Connecticut fell 10.9% while Maine rose 12.2% and New Hampshire 5.2%. Over ten years, every New England state rose at least as fast as the nation, and Maine nearly doubled.</p>
+<p><strong>Business prices tell their own story.</strong> In East South Central, commercial customers paid 13.35¢, close to the 14.42¢ homes paid, the narrowest home-versus-business gap of any division. In West South Central they paid 9.56¢, while homes paid 15.4¢. The state-by-state version of that comparison is in <a href="/guides/residential-vs-business-electricity-prices/">residential vs. business electricity prices</a>.</p>
+<h2 id="why-the-region-matters-for-solar">Why the region matters for solar</h2>
+<p>Rooftop solar saves money by replacing power you would otherwise buy, so a region&#39;s price level sets the starting point for payback, and the gaps inside a division mean the state matters more than the region. The second factor is how your utility credits exported power; in California and Hawaii, new customers no longer get full retail credit. <a href="/guides/net-metering-vs-net-billing-payback/">Net metering vs. net billing payback</a> explains the difference, and the state pages under <a href="/solar-panels/">solar panels by state</a> apply both to each state. Regional guides such as <a href="/guides/solar-panels-in-the-midwest/">solar in the Midwest</a> and <a href="/guides/solar-panels-in-the-south-central-states/">solar in the South Central states</a> go further.</p>
+<h2 id="checking-your-own-price">Checking your own price</h2>
+<ol>
+<li>Find your real rate: total bill divided by total kWh, so fees are included.</li>
+<li>Compare it with your state, not just your region, on <a href="/electricity-prices/">electricity prices by state</a>.</li>
+<li>Use twelve months of bills; <a href="/guides/cheapest-and-most-expensive-states-for-electricity/">cheapest and most expensive states for electricity</a> shows how much prices swing within a year.</li>
+<li>Enter your usage and rate in the <a href="/electricity-cost-calculator/">electricity cost calculator</a>.</li>
+</ol>
+23:["$","div",null,{"className":"prose prose-cont","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+24:["$","div",null,{"className":"flex flex-wrap items-center gap-2 text-sm mt-10 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","span",null,{"className":"text-muted","children":"Share:"}],[["$","a","X",{"className":"chip","href":"https://twitter.com/intent/tweet?text=Electricity%20Prices%20by%20U.S.%20Region%3A%20September%202026%20Compared&url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-by-region%2F","target":"_blank","rel":"noopener nofollow","children":"X"}],["$","a","Facebook",{"className":"chip","href":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-by-region%2F","target":"_blank","rel":"noopener nofollow","children":"Facebook"}],["$","a","LinkedIn",{"className":"chip","href":"https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-by-region%2F","target":"_blank","rel":"noopener nofollow","children":"LinkedIn"}],["$","a","Reddit",{"className":"chip","href":"https://www.reddit.com/submit?url=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-by-region%2F&title=Electricity%20Prices%20by%20U.S.%20Region%3A%20September%202026%20Compared","target":"_blank","rel":"noopener nofollow","children":"Reddit"}],["$","a","Email",{"className":"chip","href":"mailto:?subject=Electricity%20Prices%20by%20U.S.%20Region%3A%20September%202026%20Compared&body=https%3A%2F%2Froofpayback.com%2Fguides%2Felectricity-prices-by-region%2F","target":"_blank","rel":"noopener nofollow","children":"Email"}]]]}]
+25:["$","aside",null,{"className":"mt-10 flex max-w-[var(--measure)] flex-col gap-4 bg-band p-6 text-band-ink sm:flex-row sm:items-center sm:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-2xl font-extrabold text-band-ink [font-stretch:72%]","children":"Run your own numbers"}],["$","p",null,{"className":"mt-1 text-sm text-band-ink/75","children":"Your state, your roof, your bill — results in seconds."}]]}],["$","$Ld",null,{"href":"/solar-calculator/","className":"btn btn-signal shrink-0","children":"Open the calculator →"}]]}]
+26:["$","section",null,{"className":"mt-12 max-w-[var(--measure)] border-t border-line pt-6","children":[["$","h2",null,{"className":"kicker","children":"Sources"}],["$","ol",null,{"className":"mt-3 space-y-2 text-sm","children":[["$","li","https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[1,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a","rel":"noopener","target":"_blank","children":"EIA Electric Power Monthly, Table 5.6.A"}]]}],["$","li","https://www.eia.gov/electricity/data/eia861m/",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[2,"."]}],["$","a",null,{"className":"link","href":"https://www.eia.gov/electricity/data/eia861m/","rel":"noopener","target":"_blank","children":"EIA-861M monthly sales, revenue and customers by state"}]]}],["$","li","https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf",{"className":"flex gap-3","children":[["$","span",null,{"className":"tabular-nums text-muted","children":[3,"."]}],["$","a",null,{"className":"link","href":"https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf","rel":"noopener","target":"_blank","children":"U.S. Census Bureau: Census Regions and Divisions of the United States"}]]}]]}]]}]
+27:["$","section",null,{"aria-label":"Newsletter","className":"card reveal mt-12 max-w-[var(--measure)]","children":[["$","p",null,{"className":"font-display text-xl font-semibold","children":"Get new articles by email"}],["$","p",null,{"className":"mt-1 text-sm text-ink-2","children":"New articles and the monthly electricity price update. Unsubscribe anytime."}],["$","form",null,{"action":"https://buttondown.com/api/emails/embed-subscribe/muniz","method":"post","target":"_blank","className":"flex gap-2 mt-4 flex-col sm:flex-row","children":[["$","label",null,{"className":"sr-only","htmlFor":"nl-email","children":"Email address"}],["$","div",null,{"className":"input-wrap flex-1","children":["$","input",null,{"id":"nl-email","name":"email","type":"email","required":true,"autoComplete":"email","placeholder":"you@example.com"}]}],["$","button",null,{"type":"submit","className":"btn shrink-0 ","children":"Subscribe"}]]}],["$","p",null,{"className":"mt-2 text-xs text-muted","children":["See our ",["$","$Ld",null,{"className":"link","href":"/privacy/","children":"privacy policy"}],"."]}]]}]
+28:["$","$L20",null,{"items":"$10:props:children:0:props:children:0:props:items","variant":"desktop"}]
+29:["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Average Electric Bill by State: Real Bills vs. 900 kWh"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"U.S. homes paid $160 a month on average in the year to September 2026. See each state's real average bill and use (EIA), and what 900 kWh costs at local rates."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]
+2a:["$","li","why-electricity-prices-differ-by-state",{"children":["$","div",null,{"className":"reveal h-full","children":["$","$Ld",null,{"href":"/guides/why-electricity-prices-differ-by-state/","className":"group flex h-full flex-col no-underline ","children":[["$","div",null,{"className":"relative aspect-[16/9] overflow-hidden bg-surface-2","children":[["$","$1f",null,{"name":"photo-why-electricity-prices-differ-by-state","share":"morph","default":"none","children":["$","img",null,{"src":"/photos/why-electricity-prices-differ-by-state-card.webp","srcSet":"/photos/why-electricity-prices-differ-by-state-card.webp 640w, /photos/why-electricity-prices-differ-by-state-sm.webp 768w, /photos/why-electricity-prices-differ-by-state-md.webp 1024w","sizes":"(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw","alt":"","width":640,"height":360,"loading":"lazy","decoding":"async","className":"absolute inset-0 h-full w-full object-cover grayscale-[15%] transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0 motion-reduce:transition-none"}]}],["$","span",null,{"className":"absolute bottom-0 left-0 bg-ink px-2 py-1 font-mono text-[0.66rem] uppercase tracking-wider text-paper","children":"Electricity prices"}]]}],["$","div",null,{"className":"flex flex-1 flex-col border-t-2 border-ink mt-3 pt-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-x-2 font-mono text-[0.68rem] uppercase tracking-wider text-muted","children":[false,["$","time",null,{"dateTime":"2026-10-12","children":"Oct 12, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[6," min"]}]]}],["$","h3",null,{"className":"mt-2 font-display font-extrabold leading-[1.02] group-hover:text-brand text-[1.35rem] [font-stretch:78%]","children":"Why Electricity Prices Differ So Much by State"}],["$","p",null,{"className":"mt-2 font-serif text-ink-2 line-clamp-3 text-[0.98rem]","children":"Home electricity ran from 13.25¢ to 48.31¢ per kWh across states in September 2026. What drives the gap, and why the state ranking barely moved in ten years."}],["$","span",null,{"className":"mt-auto pt-3 font-mono text-[0.7rem] uppercase tracking-wider text-ink group-hover:text-brand","children":"Read →"}]]}]]}]}]}]
+2c:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"
